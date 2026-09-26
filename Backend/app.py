@@ -21,7 +21,8 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env", override=True)
-DB_PATH = ROOT / "Database" / "workforce_management.db"
+DEFAULT_DB_PATH = Path("/tmp/peopleos-workforce.db") if os.getenv("VERCEL") else ROOT / "Backend" / "workforce_management.db"
+DB_PATH = Path(os.getenv("PEOPLEOS_DB_PATH", str(DEFAULT_DB_PATH)))
 FRONTEND_PATH = ROOT / "Frontend"
 
 app = FastAPI(title="PeopleOS Workforce Intelligence", version="0.1.0")
@@ -272,8 +273,47 @@ class GeminiService:
             "development_areas": ["Review recurring development feedback"] if negative else [],
         }
 
+    @staticmethod
+    def parse_resume_contact_fields(text: str) -> dict[str, str | None]:
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+        email_match = re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", text, flags=re.IGNORECASE)
+        phone_match = re.search(r"(?:\+?\d[\d\s().-]{7,}\d)", text)
+        location_match = re.search(r"(?:\b(?:City|State|Country|Location)\b[:\-]?\s*)?([A-Z][A-Za-z.-]+(?:,\s*[A-Z][A-Za-z.-]+){0,2}|[A-Z][A-Za-z.-]+\s+[A-Z][A-Za-z.-]+)", text)
+        name = None
+        for line in lines:
+            lowered = line.lower()
+            if "@" in line or any(token in lowered for token in ("resume", "cv", "curriculum", "summary", "skills", "experience", "education", "certifications", "projects")):
+                continue
+            if len(line.split()) <= 5 and not re.fullmatch(r"[0-9\s()+.-]+", line):
+                name = line
+                break
+        if location_match:
+            location = location_match.group(1).strip()
+            if location.lower() in {"resume", "cv", "profile", "summary"}:
+                location = None
+        else:
+            location = None
+        return {
+            "name": name,
+            "email": email_match.group(0).strip() if email_match else None,
+            "phone": phone_match.group(0).strip() if phone_match else None,
+            "location": location,
+        }
+
     def extract_resume_profile(self, text: str, pdf_content: bytes | None = None, filename: str = "resume.pdf") -> dict[str, Any]:
-        empty = {"skills": [], "experience": [], "projects": [], "education": [], "certifications": [], "evidence_status": "not_found"}
+        contact = self.parse_resume_contact_fields(text)
+        empty = {
+            "name": contact.get("name"),
+            "email": contact.get("email"),
+            "phone": contact.get("phone"),
+            "location": contact.get("location"),
+            "skills": [],
+            "experience": [],
+            "projects": [],
+            "education": [],
+            "certifications": [],
+            "evidence_status": "not_found",
+        }
         if not text.strip() and not pdf_content:
             return empty
         if self.api_key:
@@ -284,7 +324,7 @@ class GeminiService:
                 client = genai.Client(api_key=self.api_key)
                 prompt = (
                     "Extract only information explicitly present in this resume. Never infer or invent. "
-                    "Return JSON only with exactly these keys: skills, experience, projects, education, certifications. "
+                    "Return JSON only with exactly these keys: name, email, phone, location, skills, experience, projects, education, certifications. "
                     "Skills must contain name, proficiency, confidence, evidence. "
                     "Experience must contain title, company, duration, description, technologies. "
                     "Projects must contain name, description, technologies. "
@@ -299,7 +339,11 @@ class GeminiService:
                 raw = response.text or "{}"
                 start, end = raw.find("{"), raw.rfind("}")
                 result = json.loads(raw[start:end + 1])
-                return {**empty, **result, "evidence_status": "extracted"}
+                merged = {**empty, **result}
+                for key, value in contact.items():
+                    if value and not merged.get(key):
+                        merged[key] = value
+                return {**merged, "evidence_status": "extracted"}
             except Exception:
                 pass
         return {**empty, "evidence_status": "stored_only", "source_text": text}
@@ -600,10 +644,17 @@ def seed_database() -> None:
                 if not exists:
                     db.execute("INSERT INTO applicants (name, role, experience, skills, stage, match_score) VALUES (?, ?, ?, ?, ?, ?)", candidate)
         now = datetime.now(timezone.utc).isoformat()
-        default_users = [
-            ("Priya Shah", os.getenv("HR_ADMIN_EMAIL", "hr@peopleos.local"), os.getenv("HR_ADMIN_PASSWORD", "PeopleOS2026!"), "HR Business Partner"),
-            ("PeopleOS Admin", "admin@peopleos.local", "PeopleOSAdmin2026!", "HR Admin"),
-        ]
+        if os.getenv("VERCEL"):
+            admin_email = os.getenv("HR_ADMIN_EMAIL")
+            admin_password = os.getenv("HR_ADMIN_PASSWORD")
+            if not admin_email or not admin_password:
+                raise RuntimeError("Set HR_ADMIN_EMAIL and HR_ADMIN_PASSWORD in Vercel project settings")
+            default_users = [("PeopleOS Admin", admin_email, admin_password, "HR Admin")]
+        else:
+            default_users = [
+                ("Priya Shah", os.getenv("HR_ADMIN_EMAIL", "hr@peopleos.local"), os.getenv("HR_ADMIN_PASSWORD", "PeopleOS2026!"), "HR Business Partner"),
+                ("PeopleOS Admin", "admin@peopleos.local", "PeopleOSAdmin2026!", "HR Admin"),
+            ]
         for name, email, password, role in default_users:
             exists = db.execute("SELECT 1 FROM users WHERE lower(email) = lower(?)", (email,)).fetchone()
             if not exists:
@@ -838,6 +889,72 @@ def performance_detail(employee_id: int) -> dict[str, Any]:
     }
 
 
+def normalize_resume_name(name: str | None) -> tuple[str, str]:
+    candidate_name = re.sub(r"\s+", " ", (name or "")).strip()
+    if not candidate_name:
+        return "Unknown", "Candidate"
+    parts = candidate_name.split()
+    if len(parts) == 1:
+        return parts[0], "Candidate"
+    return parts[0], " ".join(parts[1:])
+
+
+def derive_candidate_from_resume(extraction: dict[str, Any], candidate_id: str | None = None) -> dict[str, Any]:
+    first_name, last_name = normalize_resume_name(extraction.get("name"))
+    experience_items = extraction.get("experience") or []
+    role = None
+    total_years = None
+    for item in experience_items:
+        if isinstance(item, dict):
+            title = item.get("title") or item.get("role")
+            if title and not role:
+                role = title
+            duration = str(item.get("duration") or item.get("years") or "")
+            match = re.search(r"(\d+(?:\.\d+)?)", duration)
+            if match and total_years is None:
+                total_years = float(match.group(1))
+    education_items = extraction.get("education") or []
+    education = None
+    if education_items and isinstance(education_items[0], dict):
+        education = education_items[0].get("degree") or education_items[0].get("field")
+    email = (extraction.get("email") or "").strip() or (f"resume.{candidate_id.lower()}@peopleos.local" if candidate_id else "resume@peopleos.local")
+    return {
+        "first_name": first_name,
+        "last_name": last_name,
+        "email": email,
+        "location": (extraction.get("location") or "").strip() or None,
+        "current_role": role or None,
+        "total_experience_years": total_years,
+        "highest_education": education or None,
+        "education_field": None,
+    }
+
+
+def sync_applicant_record(db: sqlite3.Connection, candidate_id: str) -> None:
+    candidate = db.execute(
+        "SELECT first_name, last_name, current_role, total_experience_years, email, location FROM candidates WHERE candidate_id = ?",
+        (candidate_id,),
+    ).fetchone()
+    if not candidate:
+        return
+    applicant_id = int(candidate_id[3:]) if candidate_id.startswith("CAN") and candidate_id[3:].isdigit() else None
+    name = f"{candidate['first_name'] or ''} {candidate['last_name'] or ''}".strip() or "Candidate"
+    role = candidate["current_role"] or "Candidate"
+    experience = f"{candidate['total_experience_years'] or 0:g} years" if candidate["total_experience_years"] is not None else "Not stated"
+    if applicant_id is not None:
+        existing = db.execute("SELECT id FROM applicants WHERE id = ?", (applicant_id,)).fetchone()
+        if existing:
+            db.execute(
+                "UPDATE applicants SET name = ?, role = ?, experience = ?, skills = COALESCE(skills, 'Resume pending analysis'), match_score = COALESCE(match_score, 0) WHERE id = ?",
+                (name, role, experience, applicant_id),
+            )
+            return
+    db.execute(
+        "INSERT INTO applicants (id, name, role, experience, skills, stage, match_score) VALUES (?, ?, ?, ?, ?, ?, ?)",
+        (applicant_id if applicant_id is not None else db.execute("SELECT COALESCE(MAX(id), 0) + 1 FROM applicants").fetchone()[0], name, role, experience, "Resume pending analysis", "New", 0),
+    )
+
+
 def candidate_name(db: sqlite3.Connection, candidate_id: str) -> str:
     row = db.execute("SELECT first_name || ' ' || last_name AS name FROM candidates WHERE candidate_id = ?", (candidate_id,)).fetchone()
     return row["name"] if row else candidate_id
@@ -968,6 +1085,24 @@ def persist_resume_profile(db: sqlite3.Connection, candidate_id: str, filename: 
         "INSERT INTO candidate_resume_extractions (extraction_id, candidate_id, source_document, extraction_json, extraction_status, created_at) VALUES (?, ?, ?, ?, ?, ?)",
         (extraction_id, candidate_id, filename, json.dumps(extraction), extraction.get("evidence_status", "not_found"), datetime.now(timezone.utc).isoformat()),
     )
+    name = (extraction.get("name") or "").strip()
+    if name:
+        parts = name.split()
+        first_name = parts[0]
+        last_name = " ".join(parts[1:]) if len(parts) > 1 else ""
+        db.execute(
+            "UPDATE candidates SET first_name = COALESCE(NULLIF(first_name, ''), ?), last_name = COALESCE(NULLIF(last_name, ''), ?) WHERE candidate_id = ?",
+            (first_name, last_name, candidate_id),
+        )
+    email = (extraction.get("email") or "").strip()
+    if email:
+        db.execute("UPDATE candidates SET email = COALESCE(NULLIF(email, ''), ?) WHERE candidate_id = ?", (email, candidate_id))
+    location = (extraction.get("location") or "").strip()
+    if location:
+        db.execute("UPDATE candidates SET location = COALESCE(NULLIF(location, ''), ?) WHERE candidate_id = ?", (location, candidate_id))
+    role = (extraction.get("current_role") or extraction.get("role") or "").strip() or None
+    if role:
+        db.execute("UPDATE candidates SET current_role = COALESCE(NULLIF(current_role, ''), ?) WHERE candidate_id = ?", (role, candidate_id))
     catalog = db.execute("SELECT skill_id, training_name FROM skill_training_catalog").fetchall()
     for index, item in enumerate(extraction.get("skills") or []):
         if not isinstance(item, dict) or not item.get("name"):
@@ -1042,10 +1177,26 @@ def persist_resume_profile(db: sqlite3.Connection, candidate_id: str, filename: 
         role = db.execute("SELECT current_role FROM candidates WHERE candidate_id = ?", (candidate_id,)).fetchone()["current_role"]
         experience = db.execute("SELECT total_experience_years FROM candidates WHERE candidate_id = ?", (candidate_id,)).fetchone()["total_experience_years"]
         db.execute("UPDATE applicants SET skills = ?, role = COALESCE(?, role), experience = ? WHERE id = ?", (", ".join(skills) or "Resume analyzed", role, f"{experience:g} years" if experience is not None else "Not stated", applicant_id))
+    else:
+        sync_applicant_record(db, candidate_id)
 
 
 @app.on_event("startup")
 def startup() -> None:
+    if os.getenv("VERCEL"):
+        with closing(connect()) as db:
+            initialized = db.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'candidates'").fetchone()
+        if not initialized:
+            if DB_PATH.exists():
+                DB_PATH.unlink()
+            from Database.seed_database import DatabaseAdapter, seed_database as seed_dataset
+
+            dataset_db = DatabaseAdapter("sqlite", sqlite_path=str(DB_PATH))
+            try:
+                dataset_db.connect()
+                seed_dataset(dataset_db)
+            finally:
+                dataset_db.close()
     seed_database()
     with closing(connect()) as db:
         prune_notifications(db)
@@ -1345,11 +1496,64 @@ def create_candidate(candidate: CandidateCreate, token: str | None = None) -> di
         candidate_id = f"CAN{int(next_number):03d}"
         try:
             db.execute("INSERT INTO candidates (candidate_id, candidate_code, first_name, last_name, email, location, total_experience_years, highest_education, education_field, current_role, application_date, source, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (candidate_id, f"C{int(next_number):03d}", candidate.first_name, candidate.last_name, candidate.email, candidate.location, candidate.total_experience_years, candidate.highest_education, candidate.education_field, candidate.current_role, datetime.now(timezone.utc).date().isoformat(), "direct", "applied"))
-            db.execute("INSERT INTO applicants (id, name, role, experience, skills, stage, match_score) VALUES (?, ?, ?, ?, ?, ?, ?)", (int(next_number), f"{candidate.first_name} {candidate.last_name}", candidate.current_role or "Candidate", f"{candidate.total_experience_years:g} years" if candidate.total_experience_years is not None else "Not stated", "Resume pending analysis", "New", 0))
+            sync_applicant_record(db, candidate_id)
             db.commit()
         except sqlite3.IntegrityError as error:
             raise HTTPException(status_code=409, detail="A candidate with this email already exists") from error
         return candidate_detail(db, candidate_id)
+
+
+@app.post("/api/candidates/scan")
+async def scan_candidate_resume(request: Request, token: str | None = None) -> dict[str, Any]:
+    require_session(token)
+    form = await request.form()
+    upload = form.get("file") or form.get("resume")
+    if not upload or not hasattr(upload, "read"):
+        raise HTTPException(status_code=400, detail="Upload a resume file to scan")
+    content = await upload.read()
+    filename = getattr(upload, "filename", "resume.pdf") or "resume.pdf"
+    if not content:
+        raise HTTPException(status_code=400, detail="Resume content is required")
+    text = extract_resume_text(content, filename)
+    if not text.strip():
+        raise HTTPException(status_code=400, detail="No readable text found in resume")
+    extraction = ai_service.extract_resume_profile(text, pdf_content=content if Path(filename).suffix.lower() == ".pdf" else None, filename=filename)
+    with closing(connect()) as db:
+        next_number = db.execute("SELECT COALESCE(MAX(CAST(SUBSTR(candidate_id, 4) AS INTEGER)), 0) + 1 FROM candidates").fetchone()[0]
+        candidate_id = f"CAN{int(next_number):03d}"
+        derived = derive_candidate_from_resume(extraction, candidate_id)
+        candidate_email = derived["email"]
+        try:
+            db.execute(
+                "INSERT INTO candidates (candidate_id, candidate_code, first_name, last_name, email, location, total_experience_years, highest_education, education_field, current_role, application_date, source, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                (
+                    candidate_id,
+                    f"C{int(next_number):03d}",
+                    derived["first_name"],
+                    derived["last_name"],
+                    candidate_email,
+                    derived["location"],
+                    derived["total_experience_years"],
+                    derived["highest_education"],
+                    derived["education_field"],
+                    derived["current_role"],
+                    datetime.now(timezone.utc).date().isoformat(),
+                    "resume_scan",
+                    "applied",
+                ),
+            )
+            db.execute(
+                "INSERT INTO candidate_evidence (evidence_id, candidate_id, evidence_type, source_document, source_text, evidence_strength, confidence_score, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+                (f"RESUME_{candidate_id}_{int(datetime.now().timestamp())}", candidate_id, "resume", filename, text, "documented", 1.0, datetime.now(timezone.utc).isoformat()),
+            )
+            persist_resume_profile(db, candidate_id, filename, extraction)
+            sync_applicant_record(db, candidate_id)
+            db.commit()
+        except sqlite3.IntegrityError as error:
+            raise HTTPException(status_code=409, detail="A candidate with this email already exists") from error
+        result = candidate_detail(db, candidate_id)
+        result["resume_extraction"] = extraction
+        return result
 
 
 @app.get("/api/candidates/{candidate_id}")

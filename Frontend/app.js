@@ -369,7 +369,7 @@ async function openModal(action) {
         const options = await loadOptions();
         modal("Add an applicant", "applicant-form", `<label>Candidate name<input name="name" minlength="2" required></label><label>Role<select name="role" required>${options.job_titles.map((title) => `<option>${escapeHtml(title)}</option>`).join("")}</select></label><label>Experience<input name="experience" placeholder="e.g. 5 years" required></label><label>Skills<input name="skills" placeholder="Python, SQL, AWS" minlength="2" required></label><label>Stage<select name="stage"><option>New</option><option>Screening</option><option>Interviewing</option><option>Offer</option></select></label>`, "Add applicant");
     } else if (action === "new-resume-applicant") {
-        modal("Add applicant by resume", "resume-applicant-form", `<label>First name<input name="first_name" minlength="1" required></label><label>Last name<input name="last_name" minlength="1" required></label><label>Email<input name="email" type="email" required></label><label>Current role<input name="current_role" placeholder="e.g. Backend Developer"></label><label>Experience (years)<input name="total_experience_years" type="number" min="0" step="0.1"></label><label>Resume PDF<input name="resume" type="file" accept="application/pdf,.pdf" required></label><p class="detail-copy">The PDF is stored as source evidence. Candidate details are not invented when the resume does not contain them.</p>`, "Upload resume");
+        modal("Add applicant by resume", "resume-applicant-form", `<label>Resume file<input name="resume" type="file" accept=".pdf,.docx,.txt" required></label><p class="detail-copy">Upload a resume and the app will scan the document, extract the candidate details, and add them to the applicant pipeline automatically.</p>`, "Scan resume");
     } else if (action === "new-learning-plan") {
         const employees = await api("/api/employees");
         const active = employees.filter((employee) => employee.status === "Active");
@@ -402,20 +402,11 @@ async function submitForm(form) {
             await loadSection(state.section);
         } else if (form.id === "resume-applicant-form") {
             const resume = form.querySelector("input[name='resume']")?.files?.[0];
-            if (!resume) throw new Error("Choose a PDF resume to upload.");
-            const candidate = await api("/api/candidates", {
-                method: "POST",
-                body: {
-                    first_name: values.first_name,
-                    last_name: values.last_name,
-                    email: values.email,
-                    current_role: values.current_role || null,
-                    total_experience_years: values.total_experience_years ? Number(values.total_experience_years) : null,
-                },
-            });
+            if (!resume) throw new Error("Choose a resume file to scan.");
             const upload = new FormData();
             upload.append("file", resume);
-            await api(`/api/candidates/${candidate.candidate.candidate_id}/resume`, { method: "POST", body: upload });
+            await api("/api/candidates/scan", { method: "POST", body: upload });
+            feedback("Resume scanned and applicant added.", false);
             await loadSection("applicants");
         } else if (form.id === "employee-edit-form") {
             values.performance_score = Number(values.performance_score);
