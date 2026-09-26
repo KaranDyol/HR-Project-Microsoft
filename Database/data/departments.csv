@@ -1,0 +1,11 @@
+department_id,department_name,department_description,department_head_id
+DEP001,Engineering,Software engineering and development,EMP032
+DEP002,Human Resources,HR management and employee services,EMP047
+DEP003,Sales,Revenue generation and client management,EMP059
+DEP004,Marketing,Brand management and marketing campaigns,
+DEP005,Finance,Financial planning and accounting,
+DEP006,Operations,Business operations and process management,EMP072
+DEP007,Customer Support,Customer service and support,
+DEP008,Product,Product strategy and management,
+DEP009,Data Science,Data analytics and machine learning,
+DEP010,IT,IT infrastructure and security,

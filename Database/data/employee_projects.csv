@@ -1,0 +1,182 @@
+employee_project_id,employee_id,project_id,role_in_project,responsibility,allocation_percentage,start_date,end_date,contribution_score
+EP0001,EMP001,PRJ001,coordinator,Contributing to Atlas Platform,50,2025-11-07,2026-04-18,81.5
+EP0002,EMP001,PRJ014,contributor,Contributing to Forge DevTools,80,2025-11-07,2026-01-17,87.2
+EP0003,EMP001,PRJ012,developer,Contributing to Catalyst Mobile,30,2026-01-18,2026-07-27,80.1
+EP0004,EMP002,PRJ001,reviewer,Contributing to Atlas Platform,50,2025-11-07,2026-04-18,67.5
+EP0005,EMP003,PRJ029,analyst,Contributing to Nebula API Gateway,40,2026-01-27,2026-04-25,91.4
+EP0006,EMP003,PRJ025,analyst,Contributing to Phoenix Legacy Migration,100,2026-01-09,2026-07-13,83.8
+EP0007,EMP004,PRJ025,tester,Contributing to Phoenix Legacy Migration,70,2026-01-09,2026-07-13,82.4
+EP0008,EMP004,PRJ004,analyst,Contributing to Velocity CI/CD,60,2025-11-11,2026-04-18,91.0
+EP0009,EMP004,PRJ002,contributor,Contributing to Nova Dashboard,60,2025-11-08,2026-02-25,79.2
+EP0010,EMP005,PRJ014,analyst,Contributing to Forge DevTools,100,2025-11-07,2026-01-17,62.6
+EP0011,EMP005,PRJ002,coordinator,Contributing to Nova Dashboard,60,2025-11-08,2026-02-25,45.5
+EP0012,EMP005,PRJ004,tester,Contributing to Velocity CI/CD,80,2025-11-11,2026-04-18,48.4
+EP0013,EMP006,PRJ020,lead,Contributing to Pinnacle QA,30,2026-01-19,2026-06-09,72.7
+EP0014,EMP006,PRJ025,lead,Contributing to Phoenix Legacy Migration,100,2026-01-09,2026-07-13,66.0
+EP0015,EMP007,PRJ012,tester,Contributing to Catalyst Mobile,60,2026-01-18,2026-07-27,83.8
+EP0016,EMP008,PRJ002,contributor,Contributing to Nova Dashboard,20,2025-11-08,2026-02-25,85.6
+EP0017,EMP009,PRJ012,analyst,Contributing to Catalyst Mobile,100,2026-01-18,2026-07-27,74.4
+EP0018,EMP009,PRJ020,developer,Contributing to Pinnacle QA,40,2026-01-19,2026-06-09,80.8
+EP0019,EMP009,PRJ002,reviewer,Contributing to Nova Dashboard,100,2025-11-08,2026-02-25,88.1
+EP0020,EMP010,PRJ012,coordinator,Contributing to Catalyst Mobile,30,2026-01-18,2026-07-27,82.2
+EP0021,EMP010,PRJ025,analyst,Contributing to Phoenix Legacy Migration,20,2026-01-09,2026-07-13,80.5
+EP0022,EMP010,PRJ004,coordinator,Contributing to Velocity CI/CD,40,2025-11-11,2026-04-18,83.5
+EP0023,EMP011,PRJ025,analyst,Contributing to Phoenix Legacy Migration,60,2026-01-09,2026-07-13,70.7
+EP0024,EMP012,PRJ001,lead,Contributing to Atlas Platform,60,2025-11-07,2026-04-18,81.1
+EP0025,EMP013,PRJ029,contributor,Contributing to Nebula API Gateway,30,2026-01-27,2026-04-25,87.3
+EP0026,EMP013,PRJ002,analyst,Contributing to Nova Dashboard,60,2025-11-08,2026-02-25,83.7
+EP0027,EMP014,PRJ004,analyst,Contributing to Velocity CI/CD,50,2025-11-11,2026-04-18,30.1
+EP0028,EMP014,PRJ001,reviewer,Contributing to Atlas Platform,80,2025-11-07,2026-04-18,35.1
+EP0029,EMP014,PRJ020,analyst,Contributing to Pinnacle QA,30,2026-01-19,2026-06-09,31.3
+EP0030,EMP015,PRJ004,developer,Contributing to Velocity CI/CD,60,2025-11-11,2026-04-18,98.2
+EP0031,EMP016,PRJ012,lead,Contributing to Catalyst Mobile,20,2026-01-18,2026-07-27,93.6
+EP0032,EMP016,PRJ029,contributor,Contributing to Nebula API Gateway,20,2026-01-27,2026-04-25,76.7
+EP0033,EMP017,PRJ002,analyst,Contributing to Nova Dashboard,60,2025-11-08,2026-02-25,80.4
+EP0034,EMP017,PRJ012,lead,Contributing to Catalyst Mobile,70,2026-01-18,2026-07-27,87.6
+EP0035,EMP017,PRJ004,contributor,Contributing to Velocity CI/CD,100,2025-11-11,2026-04-18,79.7
+EP0036,EMP018,PRJ029,reviewer,Contributing to Nebula API Gateway,100,2026-01-27,2026-04-25,76.6
+EP0037,EMP019,PRJ012,coordinator,Contributing to Catalyst Mobile,30,2026-01-18,2026-07-27,86.7
+EP0038,EMP019,PRJ025,lead,Contributing to Phoenix Legacy Migration,30,2026-01-09,2026-07-13,83.3
+EP0039,EMP019,PRJ002,coordinator,Contributing to Nova Dashboard,50,2025-11-08,2026-02-25,82.6
+EP0040,EMP020,PRJ004,analyst,Contributing to Velocity CI/CD,50,2025-11-11,2026-04-18,86.9
+EP0041,EMP020,PRJ002,tester,Contributing to Nova Dashboard,100,2025-11-08,2026-02-25,85.6
+EP0042,EMP020,PRJ029,tester,Contributing to Nebula API Gateway,80,2026-01-27,2026-04-25,86.4
+EP0043,EMP021,PRJ001,analyst,Contributing to Atlas Platform,20,2025-11-07,2026-04-18,56.5
+EP0044,EMP021,PRJ014,analyst,Contributing to Forge DevTools,50,2025-11-07,2026-01-17,55.0
+EP0045,EMP022,PRJ002,developer,Contributing to Nova Dashboard,30,2025-11-08,2026-02-25,73.2
+EP0046,EMP022,PRJ001,lead,Contributing to Atlas Platform,80,2025-11-07,2026-04-18,89.3
+EP0047,EMP022,PRJ012,analyst,Contributing to Catalyst Mobile,80,2026-01-18,2026-07-27,71.9
+EP0048,EMP023,PRJ025,reviewer,Contributing to Phoenix Legacy Migration,30,2026-01-09,2026-07-13,94.6
+EP0049,EMP023,PRJ012,tester,Contributing to Catalyst Mobile,40,2026-01-18,2026-07-27,87.8
+EP0050,EMP024,PRJ020,contributor,Contributing to Pinnacle QA,50,2026-01-19,2026-06-09,78.1
+EP0051,EMP024,PRJ001,lead,Contributing to Atlas Platform,100,2025-11-07,2026-04-18,80.8
+EP0052,EMP024,PRJ002,tester,Contributing to Nova Dashboard,80,2025-11-08,2026-02-25,74.2
+EP0053,EMP025,PRJ012,contributor,Contributing to Catalyst Mobile,30,2026-01-18,2026-07-27,46.0
+EP0054,EMP026,PRJ025,developer,Contributing to Phoenix Legacy Migration,50,2026-01-09,2026-07-13,91.2
+EP0055,EMP027,PRJ002,tester,Contributing to Nova Dashboard,20,2025-11-08,2026-02-25,54.6
+EP0056,EMP028,PRJ001,contributor,Contributing to Atlas Platform,20,2025-11-07,2026-04-18,45.8
+EP0057,EMP029,PRJ014,tester,Contributing to Forge DevTools,70,2025-11-07,2026-01-17,85.2
+EP0058,EMP030,PRJ020,tester,Contributing to Pinnacle QA,50,2026-01-19,2026-06-09,54.7
+EP0059,EMP030,PRJ002,tester,Contributing to Nova Dashboard,40,2025-11-08,2026-02-25,31.7
+EP0060,EMP030,PRJ004,reviewer,Contributing to Velocity CI/CD,20,2025-11-11,2026-04-18,39.5
+EP0061,EMP031,PRJ025,reviewer,Contributing to Phoenix Legacy Migration,40,2026-01-09,2026-07-13,73.6
+EP0062,EMP031,PRJ029,tester,Contributing to Nebula API Gateway,100,2026-01-27,2026-04-25,60.9
+EP0063,EMP032,PRJ012,coordinator,Contributing to Catalyst Mobile,100,2026-01-18,2026-07-27,82.8
+EP0064,EMP033,PRJ025,contributor,Contributing to Phoenix Legacy Migration,80,2026-01-09,2026-07-13,65.1
+EP0065,EMP034,PRJ014,reviewer,Contributing to Forge DevTools,70,2025-11-07,2026-01-17,32.4
+EP0066,EMP035,PRJ012,tester,Contributing to Catalyst Mobile,20,2026-01-18,2026-07-27,59.1
+EP0067,EMP036,PRJ012,analyst,Contributing to Catalyst Mobile,50,2026-01-18,2026-07-27,88.5
+EP0068,EMP037,PRJ012,developer,Contributing to Catalyst Mobile,50,2026-01-18,2026-07-27,59.5
+EP0069,EMP037,PRJ025,developer,Contributing to Phoenix Legacy Migration,100,2026-01-09,2026-07-13,70.8
+EP0070,EMP038,PRJ012,lead,Contributing to Catalyst Mobile,60,2026-01-18,2026-07-27,76.8
+EP0071,EMP039,PRJ029,lead,Contributing to Nebula API Gateway,100,2026-01-27,2026-04-25,38.2
+EP0072,EMP039,PRJ014,analyst,Contributing to Forge DevTools,100,2025-11-07,2026-01-17,41.5
+EP0073,EMP040,PRJ012,coordinator,Contributing to Catalyst Mobile,50,2026-01-18,2026-07-27,59.0
+EP0074,EMP040,PRJ004,tester,Contributing to Velocity CI/CD,80,2025-11-11,2026-04-18,67.1
+EP0075,EMP041,PRJ004,coordinator,Contributing to Velocity CI/CD,50,2025-11-11,2026-04-18,46.3
+EP0076,EMP041,PRJ002,analyst,Contributing to Nova Dashboard,70,2025-11-08,2026-02-25,55.0
+EP0077,EMP042,PRJ018,lead,Contributing to Genesis Onboarding,40,2025-11-21,2026-05-31,85.6
+EP0078,EMP042,PRJ021,contributor,Contributing to Ember Training,20,2025-11-22,2026-05-01,77.8
+EP0079,EMP043,PRJ008,coordinator,Contributing to Nexus HR,50,2025-11-18,2026-02-10,73.9
+EP0080,EMP043,PRJ021,contributor,Contributing to Ember Training,100,2025-11-22,2026-05-01,55.8
+EP0081,EMP043,PRJ018,analyst,Contributing to Genesis Onboarding,100,2025-11-21,2026-05-31,69.3
+EP0082,EMP044,PRJ018,developer,Contributing to Genesis Onboarding,60,2025-11-21,2026-05-31,36.9
+EP0083,EMP044,PRJ008,tester,Contributing to Nexus HR,80,2025-11-18,2026-02-10,35.0
+EP0084,EMP044,PRJ021,developer,Contributing to Ember Training,30,2025-11-22,2026-05-01,51.7
+EP0085,EMP045,PRJ008,lead,Contributing to Nexus HR,60,2025-11-18,2026-02-10,68.4
+EP0086,EMP045,PRJ021,reviewer,Contributing to Ember Training,100,2025-11-22,2026-05-01,69.2
+EP0087,EMP045,PRJ018,contributor,Contributing to Genesis Onboarding,60,2025-11-21,2026-05-31,79.1
+EP0088,EMP046,PRJ008,reviewer,Contributing to Nexus HR,20,2025-11-18,2026-02-10,66.1
+EP0089,EMP046,PRJ021,developer,Contributing to Ember Training,100,2025-11-22,2026-05-01,76.0
+EP0090,EMP046,PRJ018,lead,Contributing to Genesis Onboarding,30,2025-11-21,2026-05-31,79.2
+EP0091,EMP047,PRJ008,tester,Contributing to Nexus HR,100,2025-11-18,2026-02-10,50.6
+EP0092,EMP047,PRJ021,analyst,Contributing to Ember Training,60,2025-11-22,2026-05-01,38.6
+EP0093,EMP047,PRJ018,developer,Contributing to Genesis Onboarding,40,2025-11-21,2026-05-31,48.5
+EP0094,EMP048,PRJ008,analyst,Contributing to Nexus HR,80,2025-11-18,2026-02-10,58.7
+EP0095,EMP048,PRJ021,tester,Contributing to Ember Training,50,2025-11-22,2026-05-01,60.0
+EP0096,EMP049,PRJ019,analyst,Contributing to Vanguard Sales AI,30,2025-11-19,2026-04-11,38.1
+EP0097,EMP049,PRJ030,developer,Contributing to Stellar Customer Insights,30,2025-12-25,2026-05-12,45.1
+EP0098,EMP049,PRJ006,lead,Contributing to Horizon CRM,80,2026-01-11,2026-05-22,41.3
+EP0099,EMP050,PRJ006,contributor,Contributing to Horizon CRM,70,2026-01-11,2026-05-22,86.0
+EP0100,EMP050,PRJ019,contributor,Contributing to Vanguard Sales AI,80,2025-11-19,2026-04-11,81.3
+EP0101,EMP051,PRJ030,developer,Contributing to Stellar Customer Insights,30,2025-12-25,2026-05-12,75.4
+EP0102,EMP052,PRJ006,analyst,Contributing to Horizon CRM,80,2026-01-11,2026-05-22,44.9
+EP0103,EMP052,PRJ019,developer,Contributing to Vanguard Sales AI,60,2025-11-19,2026-04-11,26.6
+EP0104,EMP053,PRJ019,reviewer,Contributing to Vanguard Sales AI,100,2025-11-19,2026-04-11,55.4
+EP0105,EMP053,PRJ030,developer,Contributing to Stellar Customer Insights,20,2025-12-25,2026-05-12,71.3
+EP0106,EMP054,PRJ019,coordinator,Contributing to Vanguard Sales AI,70,2025-11-19,2026-04-11,84.9
+EP0107,EMP055,PRJ006,analyst,Contributing to Horizon CRM,50,2026-01-11,2026-05-22,72.7
+EP0108,EMP055,PRJ019,reviewer,Contributing to Vanguard Sales AI,40,2025-11-19,2026-04-11,66.2
+EP0109,EMP056,PRJ019,developer,Contributing to Vanguard Sales AI,40,2025-11-19,2026-04-11,79.4
+EP0110,EMP057,PRJ019,lead,Contributing to Vanguard Sales AI,60,2025-11-19,2026-04-11,70.5
+EP0111,EMP057,PRJ030,reviewer,Contributing to Stellar Customer Insights,50,2025-12-25,2026-05-12,82.4
+EP0112,EMP058,PRJ006,lead,Contributing to Horizon CRM,80,2026-01-11,2026-05-22,73.3
+EP0113,EMP058,PRJ030,lead,Contributing to Stellar Customer Insights,80,2025-12-25,2026-05-12,73.4
+EP0114,EMP059,PRJ030,contributor,Contributing to Stellar Customer Insights,100,2025-12-25,2026-05-12,73.6
+EP0115,EMP059,PRJ006,lead,Contributing to Horizon CRM,60,2026-01-11,2026-05-22,73.7
+EP0116,EMP059,PRJ019,tester,Contributing to Vanguard Sales AI,50,2025-11-19,2026-04-11,76.8
+EP0117,EMP060,PRJ019,developer,Contributing to Vanguard Sales AI,50,2025-11-19,2026-04-11,43.7
+EP0118,EMP060,PRJ030,analyst,Contributing to Stellar Customer Insights,20,2025-12-25,2026-05-12,40.5
+EP0119,EMP061,PRJ019,developer,Contributing to Vanguard Sales AI,80,2025-11-19,2026-04-11,81.3
+EP0120,EMP061,PRJ006,lead,Contributing to Horizon CRM,50,2026-01-11,2026-05-22,67.7
+EP0121,EMP061,PRJ030,reviewer,Contributing to Stellar Customer Insights,80,2025-12-25,2026-05-12,59.5
+EP0122,EMP062,PRJ028,reviewer,Contributing to Aurora Content Platform,80,2025-12-19,2026-05-12,49.4
+EP0123,EMP063,PRJ007,analyst,Contributing to Pulse Marketing,70,2026-01-20,2026-04-20,38.7
+EP0124,EMP063,PRJ017,tester,Contributing to Orbit Marketing Analytics,80,2026-01-07,2026-07-02,46.0
+EP0125,EMP063,PRJ028,coordinator,Contributing to Aurora Content Platform,80,2025-12-19,2026-05-12,61.5
+EP0126,EMP064,PRJ007,analyst,Contributing to Pulse Marketing,50,2026-01-20,2026-04-20,81.8
+EP0127,EMP065,PRJ022,analyst,Contributing to Radiant Branding,40,2026-01-19,2026-06-04,39.4
+EP0128,EMP065,PRJ017,developer,Contributing to Orbit Marketing Analytics,60,2026-01-07,2026-07-02,26.0
+EP0129,EMP066,PRJ007,lead,Contributing to Pulse Marketing,60,2026-01-20,2026-04-20,80.3
+EP0130,EMP066,PRJ028,tester,Contributing to Aurora Content Platform,100,2025-12-19,2026-05-12,71.4
+EP0131,EMP067,PRJ023,lead,Contributing to Citadel Compliance,30,2026-01-16,2026-06-11,84.7
+EP0132,EMP067,PRJ009,developer,Contributing to Quantum Finance,20,2025-12-22,2026-05-26,84.5
+EP0133,EMP068,PRJ009,tester,Contributing to Quantum Finance,40,2025-12-22,2026-05-26,82.4
+EP0134,EMP068,PRJ023,reviewer,Contributing to Citadel Compliance,100,2026-01-16,2026-06-11,68.3
+EP0135,EMP069,PRJ023,analyst,Contributing to Citadel Compliance,80,2026-01-16,2026-06-11,79.4
+EP0136,EMP070,PRJ009,developer,Contributing to Quantum Finance,50,2025-12-22,2026-05-26,67.9
+EP0137,EMP070,PRJ023,coordinator,Contributing to Citadel Compliance,30,2026-01-16,2026-06-11,68.2
+EP0138,EMP071,PRJ009,developer,Contributing to Quantum Finance,60,2025-12-22,2026-05-26,62.5
+EP0139,EMP072,PRJ010,tester,Contributing to Meridian Ops,30,2025-12-15,2026-05-17,94.5
+EP0140,EMP073,PRJ010,coordinator,Contributing to Meridian Ops,60,2025-12-15,2026-05-17,89.6
+EP0141,EMP074,PRJ010,developer,Contributing to Meridian Ops,40,2025-12-15,2026-05-17,62.1
+EP0142,EMP075,PRJ011,contributor,Contributing to Echo Support,80,2025-11-20,2026-03-10,68.9
+EP0143,EMP076,PRJ011,analyst,Contributing to Echo Support,40,2025-11-20,2026-03-10,70.3
+EP0144,EMP077,PRJ011,coordinator,Contributing to Echo Support,100,2025-11-20,2026-03-10,83.7
+EP0145,EMP078,PRJ011,contributor,Contributing to Echo Support,80,2025-11-20,2026-03-10,78.8
+EP0146,EMP079,PRJ011,coordinator,Contributing to Echo Support,100,2025-11-20,2026-03-10,83.9
+EP0147,EMP080,PRJ011,coordinator,Contributing to Echo Support,50,2025-11-20,2026-03-10,19.6
+EP0148,EMP081,PRJ011,contributor,Contributing to Echo Support,100,2025-11-20,2026-03-10,32.5
+EP0149,EMP082,PRJ011,tester,Contributing to Echo Support,70,2025-11-20,2026-03-10,50.6
+EP0150,EMP083,PRJ026,developer,Contributing to Summit Executive Dashboard,50,2026-01-31,2026-06-16,46.5
+EP0151,EMP084,PRJ015,developer,Contributing to Zenith Product,100,2025-11-06,2026-02-09,52.4
+EP0152,EMP084,PRJ026,coordinator,Contributing to Summit Executive Dashboard,50,2026-01-31,2026-06-16,55.5
+EP0153,EMP085,PRJ026,reviewer,Contributing to Summit Executive Dashboard,40,2026-01-31,2026-06-16,89.7
+EP0154,EMP086,PRJ015,tester,Contributing to Zenith Product,70,2025-11-06,2026-02-09,65.2
+EP0155,EMP087,PRJ013,tester,Contributing to Apex Data Lake,60,2025-12-23,2026-06-29,76.3
+EP0156,EMP087,PRJ005,analyst,Contributing to Prism Analytics,30,2026-01-05,2026-06-29,79.3
+EP0157,EMP087,PRJ024,reviewer,Contributing to Helix Data Pipeline,20,2026-01-05,2026-07-14,66.7
+EP0158,EMP088,PRJ024,contributor,Contributing to Helix Data Pipeline,70,2026-01-05,2026-07-14,79.6
+EP0159,EMP088,PRJ005,analyst,Contributing to Prism Analytics,80,2026-01-05,2026-06-29,91.6
+EP0160,EMP089,PRJ005,developer,Contributing to Prism Analytics,30,2026-01-05,2026-06-29,70.6
+EP0161,EMP089,PRJ013,analyst,Contributing to Apex Data Lake,70,2025-12-23,2026-06-29,72.1
+EP0162,EMP090,PRJ013,coordinator,Contributing to Apex Data Lake,30,2025-12-23,2026-06-29,60.5
+EP0163,EMP090,PRJ024,analyst,Contributing to Helix Data Pipeline,70,2026-01-05,2026-07-14,57.6
+EP0164,EMP091,PRJ024,coordinator,Contributing to Helix Data Pipeline,50,2026-01-05,2026-07-14,88.5
+EP0165,EMP092,PRJ013,tester,Contributing to Apex Data Lake,40,2025-12-23,2026-06-29,84.8
+EP0166,EMP092,PRJ024,lead,Contributing to Helix Data Pipeline,20,2026-01-05,2026-07-14,83.3
+EP0167,EMP093,PRJ003,developer,Contributing to Shield Security,30,2025-12-18,2026-04-30,98.5
+EP0168,EMP094,PRJ016,reviewer,Contributing to Titan Infrastructure,50,2025-12-14,2026-06-13,98.8
+EP0169,EMP095,PRJ003,developer,Contributing to Shield Security,70,2025-12-18,2026-04-30,94.1
+EP0170,EMP095,PRJ016,analyst,Contributing to Titan Infrastructure,40,2025-12-14,2026-06-13,76.7
+EP0171,EMP095,PRJ027,analyst,Contributing to Sentinel Monitoring,50,2026-01-01,2026-03-06,77.8
+EP0172,EMP096,PRJ027,reviewer,Contributing to Sentinel Monitoring,30,2026-01-01,2026-03-06,49.6
+EP0173,EMP096,PRJ003,analyst,Contributing to Shield Security,100,2025-12-18,2026-04-30,38.9
+EP0174,EMP097,PRJ003,coordinator,Contributing to Shield Security,80,2025-12-18,2026-04-30,99.1
+EP0175,EMP098,PRJ003,coordinator,Contributing to Shield Security,30,2025-12-18,2026-04-30,24.2
+EP0176,EMP098,PRJ016,lead,Contributing to Titan Infrastructure,40,2025-12-14,2026-06-13,25.5
+EP0177,EMP098,PRJ027,coordinator,Contributing to Sentinel Monitoring,40,2026-01-01,2026-03-06,39.6
+EP0178,EMP099,PRJ027,analyst,Contributing to Sentinel Monitoring,40,2026-01-01,2026-03-06,75.1
+EP0179,EMP099,PRJ003,analyst,Contributing to Shield Security,40,2025-12-18,2026-04-30,85.2
+EP0180,EMP099,PRJ016,reviewer,Contributing to Titan Infrastructure,50,2025-12-14,2026-06-13,90.7
+EP0181,EMP100,PRJ003,analyst,Contributing to Shield Security,80,2025-12-18,2026-04-30,37.5

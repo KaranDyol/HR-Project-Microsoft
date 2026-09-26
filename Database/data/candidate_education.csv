@@ -1,0 +1,478 @@
+education_id,candidate_id,degree,field,institution,start_year,end_year,grade,education_level
+ED0002,CAN001,Master's,Data Science,ISI Kolkata,2013,2015,7.8 CGPA,Master's
+ED0003,CAN001,Bachelor's,Data Science,Anna University,2013,2017,First Class,Bachelor's
+ED0005,CAN002,Master's,Psychology,Symbiosis Pune,2019,2021,92%,Master's
+ED0006,CAN002,Bachelor's,Psychology,Symbiosis Pune,2015,2019,8.5 CGPA,Bachelor's
+ED0008,CAN003,Diploma,Commerce,IIIT Bangalore,2017,2019,92%,Diploma
+ED0010,CAN004,Master's,Mathematics,Mumbai University,2012,2014,7.8 CGPA,Master's
+ED0011,CAN004,Bachelor's,Mathematics,IIIT Bangalore,2009,2013,8.2 CGPA,Bachelor's
+ED0013,CAN005,Master's,Human Resource Management,IIT Madras,2011,2013,7.5 CGPA,Master's
+ED0014,CAN005,Bachelor's,Human Resource Management,IIT Kharagpur,2010,2014,7.5 CGPA,Bachelor's
+ED0016,CAN006,Master's,Statistics,IIM Bangalore,2015,2017,7.8 CGPA,Master's
+ED0017,CAN006,Bachelor's,Statistics,IIT Madras,2012,2016,85%,Bachelor's
+ED0019,CAN007,PhD,Electronics,VIT Vellore,2018,2021,92%,PhD
+ED0020,CAN007,Master's,Electronics,VIT Vellore,2019,2021,Second Class,Master's
+ED0021,CAN007,Bachelor's,Electronics,NIT Trichy,2016,2020,8.5 CGPA,Bachelor's
+ED0023,CAN008,Bachelor's,Mathematics,NIT Trichy,2006,2010,7.8 CGPA,Bachelor's
+ED0025,CAN009,Master's,Business Administration,Jadavpur University,2018,2020,9.0 CGPA,Master's
+ED0026,CAN009,Bachelor's,Business Administration,XLRI Jamshedpur,2018,2022,85%,Bachelor's
+ED0028,CAN010,Bachelor's,Electronics,Symbiosis Pune,2013,2017,Second Class,Bachelor's
+ED0030,CAN011,Bachelor's,Electronics,BITS Pilani,2013,2017,85%,Bachelor's
+ED0032,CAN012,Bachelor's,Finance,IIM Bangalore,2006,2010,78%,Bachelor's
+ED0034,CAN013,Bachelor's,Commerce,IIT Kanpur,2005,2009,Second Class,Bachelor's
+ED0036,CAN014,Master's,Business Administration,IIT Kanpur,2023,2025,78%,Master's
+ED0037,CAN014,Bachelor's,Business Administration,Loyola College Chennai,2021,2025,9.0 CGPA,Bachelor's
+ED0039,CAN015,PhD,Finance,St. Xavier's College,2023,2026,8.5 CGPA,PhD
+ED0040,CAN015,Master's,Finance,IIIT Hyderabad,2023,2025,8.2 CGPA,Master's
+ED0041,CAN015,Bachelor's,Finance,IIT Delhi,2021,2025,Second Class,Bachelor's
+ED0043,CAN016,Master's,Human Resource Management,Anna University,2011,2013,7.5 CGPA,Master's
+ED0044,CAN016,Bachelor's,Human Resource Management,BITS Pilani,2008,2012,Second Class,Bachelor's
+ED0046,CAN017,Master's,Computer Science,PEC Chandigarh,2008,2010,8.2 CGPA,Master's
+ED0047,CAN017,Bachelor's,Computer Science,NIT Warangal,2006,2010,9.0 CGPA,Bachelor's
+ED0049,CAN018,Master's,Computer Science,XLRI Jamshedpur,2018,2020,78%,Master's
+ED0050,CAN018,Bachelor's,Computer Science,Presidency University,2016,2020,78%,Bachelor's
+ED0052,CAN019,Bachelor's,Human Resource Management,SP Jain Mumbai,2018,2022,8.2 CGPA,Bachelor's
+ED0054,CAN020,PhD,Marketing,Anna University,2007,2010,85%,PhD
+ED0055,CAN020,Master's,Marketing,COEP Pune,2009,2011,9.0 CGPA,Master's
+ED0056,CAN020,Bachelor's,Marketing,Fergusson College Pune,2006,2010,8.2 CGPA,Bachelor's
+ED0058,CAN021,Master's,Mathematics,IIT Madras,2023,2025,8.5 CGPA,Master's
+ED0059,CAN021,Bachelor's,Mathematics,Anna University,2021,2025,92%,Bachelor's
+ED0061,CAN022,Diploma,Business Administration,NIT Trichy,2021,2023,7.5 CGPA,Diploma
+ED0063,CAN023,Bachelor's,Human Resource Management,FMS Delhi,2010,2014,8.5 CGPA,Bachelor's
+ED0065,CAN024,Master's,Psychology,Manipal University,2021,2023,8.2 CGPA,Master's
+ED0066,CAN024,Bachelor's,Psychology,IIM Bangalore,2019,2023,7.8 CGPA,Bachelor's
+ED0068,CAN025,Diploma,Electronics,Amity University,2023,2025,Distinction,Diploma
+ED0070,CAN026,Master's,Electronics,Presidency University,2006,2009,9.0 CGPA,Master's
+ED0071,CAN026,Bachelor's,Electronics,IIT Bombay,2005,2009,9.0 CGPA,Bachelor's
+ED0073,CAN027,Bachelor's,Information Technology,NIT Surathkal,2017,2021,7.8 CGPA,Bachelor's
+ED0075,CAN028,Bachelor's,Commerce,Jadavpur University,2006,2010,First Class,Bachelor's
+ED0077,CAN029,Bachelor's,Commerce,Symbiosis Pune,2019,2023,9.0 CGPA,Bachelor's
+ED0079,CAN030,Diploma,Statistics,COEP Pune,2020,2022,7.5 CGPA,Diploma
+ED0081,CAN031,Bachelor's,Information Technology,Symbiosis Pune,2022,2026,8.5 CGPA,Bachelor's
+ED0083,CAN032,Master's,Finance,VIT Vellore,2014,2016,Second Class,Master's
+ED0084,CAN032,Bachelor's,Finance,XLRI Jamshedpur,2010,2014,9.0 CGPA,Bachelor's
+ED0086,CAN033,Bachelor's,Psychology,PEC Chandigarh,2006,2010,Distinction,Bachelor's
+ED0088,CAN034,Master's,Commerce,NIT Surathkal,2013,2015,85%,Master's
+ED0089,CAN034,Bachelor's,Commerce,PEC Chandigarh,2011,2015,9.0 CGPA,Bachelor's
+ED0091,CAN035,Bachelor's,Human Resource Management,IIM Ahmedabad,2006,2010,92%,Bachelor's
+ED0093,CAN036,Master's,Mathematics,IIIT Bangalore,2018,2020,7.5 CGPA,Master's
+ED0094,CAN036,Bachelor's,Mathematics,NSIT Delhi,2017,2021,First Class,Bachelor's
+ED0096,CAN037,Master's,Computer Science,PEC Chandigarh,2024,2026,7.8 CGPA,Master's
+ED0097,CAN037,Bachelor's,Computer Science,Christ University,2021,2025,8.5 CGPA,Bachelor's
+ED0099,CAN038,Master's,Human Resource Management,IIT Madras,2016,2018,First Class,Master's
+ED0100,CAN038,Bachelor's,Human Resource Management,Jadavpur University,2015,2019,First Class,Bachelor's
+ED0102,CAN039,PhD,Finance,IIIT Bangalore,2018,2021,7.8 CGPA,PhD
+ED0103,CAN039,Master's,Finance,Loyola College Chennai,2018,2020,85%,Master's
+ED0104,CAN039,Bachelor's,Finance,NIT Warangal,2017,2021,7.5 CGPA,Bachelor's
+ED0106,CAN040,Bachelor's,Business Administration,XLRI Jamshedpur,2006,2010,8.5 CGPA,Bachelor's
+ED0108,CAN041,Master's,Finance,St. Xavier's College,2015,2017,First Class,Master's
+ED0109,CAN041,Bachelor's,Finance,Fergusson College Pune,2015,2019,8.5 CGPA,Bachelor's
+ED0111,CAN042,Bachelor's,Human Resource Management,Fergusson College Pune,2011,2015,8.2 CGPA,Bachelor's
+ED0113,CAN043,Master's,Information Technology,NIT Surathkal,2017,2019,78%,Master's
+ED0114,CAN043,Bachelor's,Information Technology,IIT Bombay,2014,2018,First Class,Bachelor's
+ED0116,CAN044,Bachelor's,Human Resource Management,St. Xavier's College,2021,2025,8.2 CGPA,Bachelor's
+ED0118,CAN045,Master's,Statistics,NIT Trichy,2008,2010,First Class,Master's
+ED0119,CAN045,Bachelor's,Statistics,Anna University,2008,2012,85%,Bachelor's
+ED0121,CAN046,Master's,Electronics,NIT Trichy,2022,2024,Second Class,Master's
+ED0122,CAN046,Bachelor's,Electronics,Fergusson College Pune,2018,2022,7.8 CGPA,Bachelor's
+ED0124,CAN047,Master's,Electronics,Mumbai University,2023,2025,7.5 CGPA,Master's
+ED0125,CAN047,Bachelor's,Electronics,NIT Surathkal,2020,2024,Distinction,Bachelor's
+ED0127,CAN048,Diploma,Computer Science,Christ University,2018,2020,85%,Diploma
+ED0129,CAN049,Bachelor's,Electronics,NIT Warangal,2020,2024,7.5 CGPA,Bachelor's
+ED0131,CAN050,Master's,Psychology,Loyola College Chennai,2006,2009,92%,Master's
+ED0132,CAN050,Bachelor's,Psychology,Amity University,2005,2009,85%,Bachelor's
+ED0134,CAN051,Master's,Business Administration,Christ University,2020,2022,8.5 CGPA,Master's
+ED0135,CAN051,Bachelor's,Business Administration,Loyola College Chennai,2019,2023,8.5 CGPA,Bachelor's
+ED0137,CAN052,Master's,Electronics,IIIT Bangalore,2013,2015,8.5 CGPA,Master's
+ED0138,CAN052,Bachelor's,Electronics,IIM Ahmedabad,2010,2014,7.5 CGPA,Bachelor's
+ED0140,CAN053,Bachelor's,Electronics,IIT Kanpur,2019,2023,8.5 CGPA,Bachelor's
+ED0142,CAN054,Master's,Marketing,NIT Surathkal,2011,2013,First Class,Master's
+ED0143,CAN054,Bachelor's,Marketing,FMS Delhi,2009,2013,7.5 CGPA,Bachelor's
+ED0145,CAN055,Master's,Information Technology,COEP Pune,2010,2012,92%,Master's
+ED0146,CAN055,Bachelor's,Information Technology,IIM Calcutta,2006,2010,9.0 CGPA,Bachelor's
+ED0148,CAN056,Bachelor's,Statistics,NSIT Delhi,2005,2009,85%,Bachelor's
+ED0150,CAN057,Diploma,Marketing,VIT Vellore,2023,2025,78%,Diploma
+ED0152,CAN058,Master's,Finance,IIT Kanpur,2011,2013,Distinction,Master's
+ED0153,CAN058,Bachelor's,Finance,SRM University,2008,2012,First Class,Bachelor's
+ED0155,CAN059,Bachelor's,Human Resource Management,IIM Bangalore,2014,2018,7.5 CGPA,Bachelor's
+ED0157,CAN060,PhD,Marketing,NSIT Delhi,2019,2022,First Class,PhD
+ED0158,CAN060,Master's,Marketing,FMS Delhi,2021,2023,92%,Master's
+ED0159,CAN060,Bachelor's,Marketing,Fergusson College Pune,2019,2023,8.2 CGPA,Bachelor's
+ED0161,CAN061,PhD,Mathematics,Delhi University,2017,2020,85%,PhD
+ED0162,CAN061,Master's,Mathematics,SP Jain Mumbai,2016,2018,8.5 CGPA,Master's
+ED0163,CAN061,Bachelor's,Mathematics,Anna University,2014,2018,7.5 CGPA,Bachelor's
+ED0165,CAN062,Bachelor's,Mathematics,SP Jain Mumbai,2016,2020,78%,Bachelor's
+ED0167,CAN063,Master's,Human Resource Management,IIT Delhi,2005,2009,78%,Master's
+ED0168,CAN063,Bachelor's,Human Resource Management,IIIT Bangalore,2005,2009,First Class,Bachelor's
+ED0170,CAN064,Master's,Computer Science,St. Xavier's College,2021,2023,8.2 CGPA,Master's
+ED0171,CAN064,Bachelor's,Computer Science,IIT Bombay,2021,2025,8.2 CGPA,Bachelor's
+ED0173,CAN065,Bachelor's,Mathematics,IIIT Hyderabad,2019,2023,9.0 CGPA,Bachelor's
+ED0175,CAN066,Bachelor's,Computer Science,IIM Calcutta,2016,2020,Second Class,Bachelor's
+ED0177,CAN067,Diploma,Psychology,FMS Delhi,2005,2009,8.2 CGPA,Diploma
+ED0179,CAN068,Bachelor's,Finance,SRM University,2012,2016,7.8 CGPA,Bachelor's
+ED0181,CAN069,Bachelor's,Human Resource Management,Anna University,2017,2021,Distinction,Bachelor's
+ED0183,CAN070,Master's,Mathematics,Fergusson College Pune,2011,2013,First Class,Master's
+ED0184,CAN070,Bachelor's,Mathematics,NSIT Delhi,2009,2013,Distinction,Bachelor's
+ED0186,CAN071,Bachelor's,Electronics,IIM Bangalore,2017,2021,7.8 CGPA,Bachelor's
+ED0188,CAN072,Bachelor's,Finance,SRM University,2017,2021,8.5 CGPA,Bachelor's
+ED0190,CAN073,Bachelor's,Electronics,FMS Delhi,2006,2010,Distinction,Bachelor's
+ED0192,CAN074,Bachelor's,Statistics,IIT Madras,2008,2012,Second Class,Bachelor's
+ED0194,CAN075,Master's,Marketing,Amity University,2015,2017,9.0 CGPA,Master's
+ED0195,CAN075,Bachelor's,Marketing,IIIT Bangalore,2013,2017,First Class,Bachelor's
+ED0197,CAN076,Master's,Mathematics,SRM University,2010,2012,85%,Master's
+ED0198,CAN076,Bachelor's,Mathematics,IIT Delhi,2008,2012,7.5 CGPA,Bachelor's
+ED0200,CAN077,Bachelor's,Computer Science,Presidency University,2019,2023,9.0 CGPA,Bachelor's
+ED0202,CAN078,Diploma,Data Science,IIM Calcutta,2022,2024,7.5 CGPA,Diploma
+ED0204,CAN079,Bachelor's,Finance,COEP Pune,2013,2017,Second Class,Bachelor's
+ED0206,CAN080,Bachelor's,Electronics,SP Jain Mumbai,2020,2024,8.2 CGPA,Bachelor's
+ED0208,CAN081,Bachelor's,Data Science,IIIT Hyderabad,2009,2013,7.8 CGPA,Bachelor's
+ED0210,CAN082,PhD,Commerce,Manipal University,2009,2012,9.0 CGPA,PhD
+ED0211,CAN082,Master's,Commerce,NSIT Delhi,2011,2013,Distinction,Master's
+ED0212,CAN082,Bachelor's,Commerce,NIT Warangal,2009,2013,85%,Bachelor's
+ED0214,CAN083,Master's,Marketing,IIM Calcutta,2020,2022,Distinction,Master's
+ED0215,CAN083,Bachelor's,Marketing,IIT Madras,2017,2021,8.5 CGPA,Bachelor's
+ED0217,CAN084,Master's,Statistics,IIT Kharagpur,2019,2021,Second Class,Master's
+ED0218,CAN084,Bachelor's,Statistics,FMS Delhi,2015,2019,8.5 CGPA,Bachelor's
+ED0220,CAN085,Master's,Finance,FMS Delhi,2017,2019,92%,Master's
+ED0221,CAN085,Bachelor's,Finance,IIIT Bangalore,2014,2018,8.5 CGPA,Bachelor's
+ED0223,CAN086,Bachelor's,Electronics,XLRI Jamshedpur,2007,2011,85%,Bachelor's
+ED0225,CAN087,Master's,Mathematics,St. Xavier's College,2021,2023,Second Class,Master's
+ED0226,CAN087,Bachelor's,Mathematics,NIT Warangal,2021,2025,9.0 CGPA,Bachelor's
+ED0228,CAN088,Bachelor's,Data Science,St. Xavier's College,2015,2019,92%,Bachelor's
+ED0230,CAN089,Master's,Psychology,SRM University,2021,2023,85%,Master's
+ED0231,CAN089,Bachelor's,Psychology,Jadavpur University,2017,2021,85%,Bachelor's
+ED0233,CAN090,Master's,Data Science,IIT Kanpur,2012,2014,7.8 CGPA,Master's
+ED0234,CAN090,Bachelor's,Data Science,Delhi University,2011,2015,9.0 CGPA,Bachelor's
+ED0236,CAN091,PhD,Psychology,COEP Pune,2023,2026,Distinction,PhD
+ED0237,CAN091,Master's,Psychology,Presidency University,2023,2025,Second Class,Master's
+ED0238,CAN091,Bachelor's,Psychology,IIT Kanpur,2020,2024,78%,Bachelor's
+ED0240,CAN092,Bachelor's,Data Science,Manipal University,2011,2015,First Class,Bachelor's
+ED0242,CAN093,Diploma,Information Technology,NIT Surathkal,2024,2026,8.2 CGPA,Diploma
+ED0244,CAN094,Bachelor's,Marketing,SP Jain Mumbai,2008,2012,Distinction,Bachelor's
+ED0246,CAN095,Diploma,Mathematics,NIT Warangal,2021,2023,92%,Diploma
+ED0248,CAN096,Diploma,Finance,Delhi University,2023,2025,78%,Diploma
+ED0250,CAN097,PhD,Information Technology,COEP Pune,2023,2026,First Class,PhD
+ED0251,CAN097,Master's,Information Technology,IIT Madras,2024,2026,Second Class,Master's
+ED0252,CAN097,Bachelor's,Information Technology,IIT Delhi,2022,2026,78%,Bachelor's
+ED0254,CAN098,Bachelor's,Computer Science,BITS Pilani,2019,2023,92%,Bachelor's
+ED0256,CAN099,Bachelor's,Commerce,PEC Chandigarh,2016,2020,8.2 CGPA,Bachelor's
+ED0258,CAN100,Diploma,Electronics,Mumbai University,2022,2024,Second Class,Diploma
+ED0260,CAN101,Bachelor's,Mathematics,Fergusson College Pune,2007,2011,85%,Bachelor's
+ED0262,CAN102,Bachelor's,Commerce,IIT Kharagpur,2019,2023,7.8 CGPA,Bachelor's
+ED0264,CAN103,Bachelor's,Data Science,BITS Pilani,2019,2023,92%,Bachelor's
+ED0266,CAN104,Bachelor's,Statistics,SP Jain Mumbai,2020,2024,85%,Bachelor's
+ED0268,CAN105,Master's,Computer Science,Symbiosis Pune,2016,2018,7.5 CGPA,Master's
+ED0269,CAN105,Bachelor's,Computer Science,IIM Ahmedabad,2014,2018,7.5 CGPA,Bachelor's
+ED0271,CAN106,PhD,Mathematics,ISI Kolkata,2015,2018,92%,PhD
+ED0272,CAN106,Master's,Mathematics,Symbiosis Pune,2016,2018,92%,Master's
+ED0273,CAN106,Bachelor's,Mathematics,IIT Kanpur,2015,2019,Second Class,Bachelor's
+ED0275,CAN107,Master's,Electronics,VIT Vellore,2011,2013,85%,Master's
+ED0276,CAN107,Bachelor's,Electronics,Jadavpur University,2009,2013,85%,Bachelor's
+ED0278,CAN108,Master's,Information Technology,SRM University,2014,2016,9.0 CGPA,Master's
+ED0279,CAN108,Bachelor's,Information Technology,Delhi University,2013,2017,First Class,Bachelor's
+ED0281,CAN109,Master's,Human Resource Management,IIT Madras,2021,2023,92%,Master's
+ED0282,CAN109,Bachelor's,Human Resource Management,SRM University,2020,2024,9.0 CGPA,Bachelor's
+ED0284,CAN110,Diploma,Statistics,IIT Bombay,2022,2024,First Class,Diploma
+ED0286,CAN111,Bachelor's,Psychology,IIT Delhi,2020,2024,78%,Bachelor's
+ED0288,CAN112,Bachelor's,Data Science,IIM Ahmedabad,2012,2016,9.0 CGPA,Bachelor's
+ED0290,CAN113,Master's,Statistics,Presidency University,2021,2023,Distinction,Master's
+ED0291,CAN113,Bachelor's,Statistics,IIT Delhi,2021,2025,7.5 CGPA,Bachelor's
+ED0293,CAN114,Bachelor's,Commerce,ISI Kolkata,2009,2013,7.8 CGPA,Bachelor's
+ED0295,CAN115,Bachelor's,Mathematics,Mumbai University,2015,2019,7.5 CGPA,Bachelor's
+ED0297,CAN116,Master's,Human Resource Management,VIT Vellore,2017,2019,7.5 CGPA,Master's
+ED0298,CAN116,Bachelor's,Human Resource Management,IIIT Bangalore,2013,2017,7.5 CGPA,Bachelor's
+ED0300,CAN117,Diploma,Finance,IIT Kharagpur,2018,2020,7.8 CGPA,Diploma
+ED0302,CAN118,Bachelor's,Information Technology,Symbiosis Pune,2015,2019,7.5 CGPA,Bachelor's
+ED0304,CAN119,Diploma,Electronics,IIM Calcutta,2012,2014,8.2 CGPA,Diploma
+ED0306,CAN120,Bachelor's,Data Science,Presidency University,2014,2018,92%,Bachelor's
+ED0308,CAN121,Master's,Statistics,St. Xavier's College,2015,2017,First Class,Master's
+ED0309,CAN121,Bachelor's,Statistics,IIM Ahmedabad,2011,2015,8.2 CGPA,Bachelor's
+ED0311,CAN122,Master's,Commerce,IIIT Hyderabad,2023,2025,Distinction,Master's
+ED0312,CAN122,Bachelor's,Commerce,Loyola College Chennai,2022,2026,7.8 CGPA,Bachelor's
+ED0314,CAN123,PhD,Information Technology,NIT Trichy,2013,2016,78%,PhD
+ED0315,CAN123,Master's,Information Technology,IIM Bangalore,2013,2015,92%,Master's
+ED0316,CAN123,Bachelor's,Information Technology,Presidency University,2013,2017,Second Class,Bachelor's
+ED0318,CAN124,Bachelor's,Electronics,XLRI Jamshedpur,2005,2009,9.0 CGPA,Bachelor's
+ED0320,CAN125,Master's,Mathematics,IIIT Bangalore,2011,2013,7.8 CGPA,Master's
+ED0321,CAN125,Bachelor's,Mathematics,SP Jain Mumbai,2008,2012,8.2 CGPA,Bachelor's
+ED0323,CAN126,Bachelor's,Mathematics,NIT Warangal,2020,2024,85%,Bachelor's
+ED0325,CAN127,Master's,Electronics,IIM Calcutta,2012,2014,7.5 CGPA,Master's
+ED0326,CAN127,Bachelor's,Electronics,SP Jain Mumbai,2011,2015,9.0 CGPA,Bachelor's
+ED0328,CAN128,Master's,Business Administration,Delhi University,2010,2012,First Class,Master's
+ED0329,CAN128,Bachelor's,Business Administration,IIM Ahmedabad,2008,2012,Distinction,Bachelor's
+ED0331,CAN129,Diploma,Statistics,SP Jain Mumbai,2007,2009,7.8 CGPA,Diploma
+ED0333,CAN130,Bachelor's,Finance,Anna University,2008,2012,85%,Bachelor's
+ED0335,CAN131,Master's,Electronics,Amity University,2013,2015,9.0 CGPA,Master's
+ED0336,CAN131,Bachelor's,Electronics,IIT Kanpur,2013,2017,92%,Bachelor's
+ED0338,CAN132,Bachelor's,Mathematics,IIT Kanpur,2014,2018,8.2 CGPA,Bachelor's
+ED0340,CAN133,Bachelor's,Data Science,NIT Surathkal,2012,2016,9.0 CGPA,Bachelor's
+ED0342,CAN134,Bachelor's,Data Science,IIT Kharagpur,2019,2023,Distinction,Bachelor's
+ED0344,CAN135,Master's,Statistics,COEP Pune,2019,2021,78%,Master's
+ED0345,CAN135,Bachelor's,Statistics,IIT Kanpur,2016,2020,First Class,Bachelor's
+ED0347,CAN136,Bachelor's,Mathematics,Christ University,2009,2013,8.5 CGPA,Bachelor's
+ED0349,CAN137,Bachelor's,Electronics,SRM University,2019,2023,92%,Bachelor's
+ED0351,CAN138,Bachelor's,Electronics,XLRI Jamshedpur,2013,2017,8.2 CGPA,Bachelor's
+ED0353,CAN139,Bachelor's,Information Technology,IIT Madras,2012,2016,8.2 CGPA,Bachelor's
+ED0355,CAN140,Master's,Business Administration,IIIT Hyderabad,2021,2023,Second Class,Master's
+ED0356,CAN140,Bachelor's,Business Administration,IIIT Hyderabad,2019,2023,7.5 CGPA,Bachelor's
+ED0358,CAN141,PhD,Finance,IIT Bombay,2019,2022,First Class,PhD
+ED0359,CAN141,Master's,Finance,NIT Warangal,2020,2022,7.8 CGPA,Master's
+ED0360,CAN141,Bachelor's,Finance,IIT Bombay,2019,2023,7.8 CGPA,Bachelor's
+ED0362,CAN142,Bachelor's,Information Technology,NIT Surathkal,2019,2023,7.5 CGPA,Bachelor's
+ED0364,CAN143,Bachelor's,Human Resource Management,SP Jain Mumbai,2021,2025,78%,Bachelor's
+ED0366,CAN144,Master's,Business Administration,IIT Bombay,2022,2024,Distinction,Master's
+ED0367,CAN144,Bachelor's,Business Administration,SP Jain Mumbai,2021,2025,Second Class,Bachelor's
+ED0369,CAN145,PhD,Information Technology,Fergusson College Pune,2017,2020,78%,PhD
+ED0370,CAN145,Master's,Information Technology,IIIT Bangalore,2017,2019,First Class,Master's
+ED0371,CAN145,Bachelor's,Information Technology,IIT Kanpur,2014,2018,85%,Bachelor's
+ED0373,CAN146,Bachelor's,Computer Science,SP Jain Mumbai,2020,2024,9.0 CGPA,Bachelor's
+ED0375,CAN147,Bachelor's,Computer Science,IIT Bombay,2011,2015,7.8 CGPA,Bachelor's
+ED0377,CAN148,Bachelor's,Psychology,Manipal University,2019,2023,7.8 CGPA,Bachelor's
+ED0379,CAN149,Master's,Electronics,NSIT Delhi,2021,2023,Distinction,Master's
+ED0380,CAN149,Bachelor's,Electronics,PEC Chandigarh,2020,2024,9.0 CGPA,Bachelor's
+ED0382,CAN150,Bachelor's,Data Science,NIT Surathkal,2012,2016,9.0 CGPA,Bachelor's
+ED0384,CAN151,Bachelor's,Commerce,BITS Pilani,2008,2012,85%,Bachelor's
+ED0386,CAN152,Bachelor's,Statistics,Mumbai University,2009,2013,8.2 CGPA,Bachelor's
+ED0388,CAN153,Bachelor's,Human Resource Management,Fergusson College Pune,2020,2024,85%,Bachelor's
+ED0390,CAN154,Master's,Electronics,COEP Pune,2012,2014,7.8 CGPA,Master's
+ED0391,CAN154,Bachelor's,Electronics,NIT Surathkal,2009,2013,9.0 CGPA,Bachelor's
+ED0393,CAN155,Bachelor's,Electronics,Amity University,2013,2017,9.0 CGPA,Bachelor's
+ED0395,CAN156,Master's,Information Technology,BITS Pilani,2019,2021,7.8 CGPA,Master's
+ED0396,CAN156,Bachelor's,Information Technology,IIIT Bangalore,2017,2021,8.2 CGPA,Bachelor's
+ED0398,CAN157,Master's,Commerce,SRM University,2020,2022,Distinction,Master's
+ED0399,CAN157,Bachelor's,Commerce,ISI Kolkata,2018,2022,78%,Bachelor's
+ED0401,CAN158,Master's,Computer Science,St. Xavier's College,2020,2022,7.5 CGPA,Master's
+ED0402,CAN158,Bachelor's,Computer Science,Jadavpur University,2018,2022,92%,Bachelor's
+ED0404,CAN159,Bachelor's,Data Science,NIT Surathkal,2021,2025,9.0 CGPA,Bachelor's
+ED0406,CAN160,Bachelor's,Computer Science,Anna University,2012,2016,78%,Bachelor's
+ED0408,CAN161,PhD,Finance,IIT Bombay,2010,2013,85%,PhD
+ED0409,CAN161,Master's,Finance,IIM Calcutta,2011,2013,8.5 CGPA,Master's
+ED0410,CAN161,Bachelor's,Finance,IIT Bombay,2007,2011,92%,Bachelor's
+ED0412,CAN162,Bachelor's,Data Science,IIT Kanpur,2019,2023,First Class,Bachelor's
+ED0414,CAN163,Bachelor's,Business Administration,IIT Bombay,2018,2022,First Class,Bachelor's
+ED0416,CAN164,PhD,Computer Science,IIT Delhi,2022,2025,7.8 CGPA,PhD
+ED0417,CAN164,Master's,Computer Science,IIT Delhi,2021,2023,85%,Master's
+ED0418,CAN164,Bachelor's,Computer Science,PEC Chandigarh,2020,2024,8.5 CGPA,Bachelor's
+ED0420,CAN165,Diploma,Finance,NIT Warangal,2022,2024,7.8 CGPA,Diploma
+ED0422,CAN166,Master's,Statistics,SP Jain Mumbai,2021,2023,85%,Master's
+ED0423,CAN166,Bachelor's,Statistics,IIIT Hyderabad,2017,2021,8.5 CGPA,Bachelor's
+ED0425,CAN167,Bachelor's,Data Science,IIT Kharagpur,2021,2025,78%,Bachelor's
+ED0427,CAN168,Master's,Commerce,IIT Madras,2024,2026,Distinction,Master's
+ED0428,CAN168,Bachelor's,Commerce,NIT Trichy,2020,2024,8.2 CGPA,Bachelor's
+ED0430,CAN169,Bachelor's,Business Administration,Jadavpur University,2011,2015,9.0 CGPA,Bachelor's
+ED0432,CAN170,Diploma,Data Science,Fergusson College Pune,2022,2024,9.0 CGPA,Diploma
+ED0434,CAN171,Bachelor's,Finance,NIT Trichy,2016,2020,Distinction,Bachelor's
+ED0436,CAN172,Master's,Information Technology,Mumbai University,2021,2023,85%,Master's
+ED0437,CAN172,Bachelor's,Information Technology,VIT Vellore,2019,2023,9.0 CGPA,Bachelor's
+ED0439,CAN173,Bachelor's,Psychology,Fergusson College Pune,2012,2016,Distinction,Bachelor's
+ED0441,CAN174,Diploma,Commerce,FMS Delhi,2015,2017,92%,Diploma
+ED0443,CAN175,Bachelor's,Computer Science,VIT Vellore,2019,2023,Second Class,Bachelor's
+ED0445,CAN176,PhD,Human Resource Management,NIT Warangal,2022,2025,Distinction,PhD
+ED0446,CAN176,Master's,Human Resource Management,Manipal University,2023,2025,First Class,Master's
+ED0447,CAN176,Bachelor's,Human Resource Management,IIM Bangalore,2020,2024,8.2 CGPA,Bachelor's
+ED0449,CAN177,Bachelor's,Commerce,Symbiosis Pune,2020,2024,92%,Bachelor's
+ED0451,CAN178,Diploma,Finance,SP Jain Mumbai,2022,2024,Distinction,Diploma
+ED0453,CAN179,Master's,Commerce,Anna University,2010,2012,First Class,Master's
+ED0454,CAN179,Bachelor's,Commerce,Jadavpur University,2007,2011,Distinction,Bachelor's
+ED0456,CAN180,Master's,Electronics,PEC Chandigarh,2022,2024,Second Class,Master's
+ED0457,CAN180,Bachelor's,Electronics,ISI Kolkata,2021,2025,85%,Bachelor's
+ED0459,CAN181,Bachelor's,Psychology,Manipal University,2009,2013,85%,Bachelor's
+ED0461,CAN182,Bachelor's,Electronics,NSIT Delhi,2008,2012,Second Class,Bachelor's
+ED0463,CAN183,Bachelor's,Commerce,Symbiosis Pune,2014,2018,92%,Bachelor's
+ED0465,CAN184,Master's,Information Technology,Christ University,2012,2014,78%,Master's
+ED0466,CAN184,Bachelor's,Information Technology,Mumbai University,2009,2013,92%,Bachelor's
+ED0468,CAN185,Master's,Data Science,Amity University,2016,2018,8.5 CGPA,Master's
+ED0469,CAN185,Bachelor's,Data Science,IIM Bangalore,2013,2017,78%,Bachelor's
+ED0471,CAN186,Master's,Finance,ISI Kolkata,2022,2024,92%,Master's
+ED0472,CAN186,Bachelor's,Finance,IIT Delhi,2021,2025,85%,Bachelor's
+ED0474,CAN187,Bachelor's,Psychology,SRM University,2006,2010,85%,Bachelor's
+ED0476,CAN188,PhD,Mathematics,Jadavpur University,2014,2017,9.0 CGPA,PhD
+ED0477,CAN188,Master's,Mathematics,St. Xavier's College,2017,2019,7.5 CGPA,Master's
+ED0478,CAN188,Bachelor's,Mathematics,ISI Kolkata,2014,2018,8.5 CGPA,Bachelor's
+ED0480,CAN189,Bachelor's,Statistics,VIT Vellore,2016,2020,7.5 CGPA,Bachelor's
+ED0482,CAN190,PhD,Commerce,Jadavpur University,2021,2024,85%,PhD
+ED0483,CAN190,Master's,Commerce,BITS Pilani,2023,2025,8.2 CGPA,Master's
+ED0484,CAN190,Bachelor's,Commerce,VIT Vellore,2022,2026,92%,Bachelor's
+ED0486,CAN191,Diploma,Data Science,NSIT Delhi,2015,2017,9.0 CGPA,Diploma
+ED0488,CAN192,Bachelor's,Electronics,Christ University,2013,2017,Second Class,Bachelor's
+ED0490,CAN193,Bachelor's,Business Administration,IIT Delhi,2011,2015,85%,Bachelor's
+ED0492,CAN194,Bachelor's,Statistics,BITS Pilani,2018,2022,9.0 CGPA,Bachelor's
+ED0494,CAN195,Bachelor's,Commerce,IIT Bombay,2019,2023,8.2 CGPA,Bachelor's
+ED0496,CAN196,Diploma,Finance,Anna University,2016,2018,7.5 CGPA,Diploma
+ED0498,CAN197,Bachelor's,Finance,IIM Calcutta,2006,2010,78%,Bachelor's
+ED0500,CAN198,PhD,Mathematics,St. Xavier's College,2018,2021,78%,PhD
+ED0501,CAN198,Master's,Mathematics,NSIT Delhi,2018,2020,78%,Master's
+ED0502,CAN198,Bachelor's,Mathematics,SRM University,2018,2022,Second Class,Bachelor's
+ED0504,CAN199,Master's,Computer Science,BITS Pilani,2013,2015,9.0 CGPA,Master's
+ED0505,CAN199,Bachelor's,Computer Science,IIIT Bangalore,2012,2016,7.8 CGPA,Bachelor's
+ED0507,CAN200,Master's,Business Administration,IIT Kanpur,2008,2010,85%,Master's
+ED0508,CAN200,Bachelor's,Business Administration,NIT Warangal,2005,2009,8.5 CGPA,Bachelor's
+ED0510,CAN201,Master's,Finance,IIM Bangalore,2021,2023,8.2 CGPA,Master's
+ED0511,CAN201,Bachelor's,Finance,Manipal University,2020,2024,Second Class,Bachelor's
+ED0513,CAN202,Master's,Finance,Mumbai University,2013,2015,8.5 CGPA,Master's
+ED0514,CAN202,Bachelor's,Finance,XLRI Jamshedpur,2011,2015,7.8 CGPA,Bachelor's
+ED0516,CAN203,Bachelor's,Statistics,St. Xavier's College,2019,2023,9.0 CGPA,Bachelor's
+ED0518,CAN204,Master's,Data Science,NIT Warangal,2023,2025,85%,Master's
+ED0519,CAN204,Bachelor's,Data Science,Christ University,2021,2025,85%,Bachelor's
+ED0521,CAN205,Master's,Finance,IIT Delhi,2012,2014,Distinction,Master's
+ED0522,CAN205,Bachelor's,Finance,NIT Trichy,2010,2014,Second Class,Bachelor's
+ED0524,CAN206,Master's,Computer Science,IIT Bombay,2013,2015,8.5 CGPA,Master's
+ED0525,CAN206,Bachelor's,Computer Science,IIM Bangalore,2012,2016,8.5 CGPA,Bachelor's
+ED0527,CAN207,Master's,Psychology,PEC Chandigarh,2018,2020,8.5 CGPA,Master's
+ED0528,CAN207,Bachelor's,Psychology,ISI Kolkata,2017,2021,8.2 CGPA,Bachelor's
+ED0530,CAN208,PhD,Computer Science,Symbiosis Pune,2014,2017,85%,PhD
+ED0531,CAN208,Master's,Computer Science,IIT Bombay,2015,2017,8.2 CGPA,Master's
+ED0532,CAN208,Bachelor's,Computer Science,IIM Calcutta,2011,2015,9.0 CGPA,Bachelor's
+ED0534,CAN209,Master's,Psychology,Christ University,2021,2023,7.5 CGPA,Master's
+ED0535,CAN209,Bachelor's,Psychology,PEC Chandigarh,2020,2024,92%,Bachelor's
+ED0537,CAN210,Bachelor's,Information Technology,IIT Bombay,2020,2024,92%,Bachelor's
+ED0539,CAN211,PhD,Statistics,Anna University,2009,2012,7.8 CGPA,PhD
+ED0540,CAN211,Master's,Statistics,IIM Ahmedabad,2010,2012,9.0 CGPA,Master's
+ED0541,CAN211,Bachelor's,Statistics,FMS Delhi,2008,2012,Second Class,Bachelor's
+ED0543,CAN212,Bachelor's,Statistics,Christ University,2011,2015,7.8 CGPA,Bachelor's
+ED0545,CAN213,Bachelor's,Commerce,NSIT Delhi,2008,2012,7.8 CGPA,Bachelor's
+ED0547,CAN214,Bachelor's,Statistics,St. Xavier's College,2018,2022,Second Class,Bachelor's
+ED0549,CAN215,Bachelor's,Psychology,Presidency University,2011,2015,9.0 CGPA,Bachelor's
+ED0551,CAN216,Master's,Psychology,ISI Kolkata,2020,2022,85%,Master's
+ED0552,CAN216,Bachelor's,Psychology,SP Jain Mumbai,2020,2024,Second Class,Bachelor's
+ED0554,CAN217,Bachelor's,Mathematics,IIT Delhi,2014,2018,Distinction,Bachelor's
+ED0556,CAN218,Bachelor's,Data Science,St. Xavier's College,2008,2012,7.5 CGPA,Bachelor's
+ED0558,CAN219,Bachelor's,Statistics,IIM Bangalore,2020,2024,78%,Bachelor's
+ED0560,CAN220,Bachelor's,Mathematics,XLRI Jamshedpur,2022,2026,78%,Bachelor's
+ED0562,CAN221,Diploma,Information Technology,Anna University,2022,2024,7.5 CGPA,Diploma
+ED0564,CAN222,Master's,Computer Science,NSIT Delhi,2008,2010,8.5 CGPA,Master's
+ED0565,CAN222,Bachelor's,Computer Science,COEP Pune,2006,2010,85%,Bachelor's
+ED0567,CAN223,Master's,Data Science,Loyola College Chennai,2018,2020,7.8 CGPA,Master's
+ED0568,CAN223,Bachelor's,Data Science,St. Xavier's College,2017,2021,7.5 CGPA,Bachelor's
+ED0570,CAN224,PhD,Data Science,Anna University,2022,2025,78%,PhD
+ED0571,CAN224,Master's,Data Science,XLRI Jamshedpur,2023,2025,First Class,Master's
+ED0572,CAN224,Bachelor's,Data Science,Manipal University,2020,2024,8.5 CGPA,Bachelor's
+ED0574,CAN225,Bachelor's,Information Technology,Mumbai University,2020,2024,First Class,Bachelor's
+ED0576,CAN226,Diploma,Computer Science,SRM University,2011,2013,92%,Diploma
+ED0578,CAN227,PhD,Mathematics,Manipal University,2010,2013,Second Class,PhD
+ED0579,CAN227,Master's,Mathematics,IIM Calcutta,2011,2013,Second Class,Master's
+ED0580,CAN227,Bachelor's,Mathematics,IIT Bombay,2008,2012,8.5 CGPA,Bachelor's
+ED0582,CAN228,Bachelor's,Commerce,IIIT Hyderabad,2019,2023,Second Class,Bachelor's
+ED0584,CAN229,Bachelor's,Statistics,Presidency University,2016,2020,92%,Bachelor's
+ED0586,CAN230,Master's,Mathematics,Mumbai University,2008,2010,9.0 CGPA,Master's
+ED0587,CAN230,Bachelor's,Mathematics,COEP Pune,2007,2011,7.5 CGPA,Bachelor's
+ED0589,CAN231,Bachelor's,Information Technology,COEP Pune,2008,2012,Distinction,Bachelor's
+ED0591,CAN232,Diploma,Psychology,BITS Pilani,2015,2017,Second Class,Diploma
+ED0593,CAN233,PhD,Information Technology,Manipal University,2006,2009,8.5 CGPA,PhD
+ED0594,CAN233,Master's,Information Technology,Fergusson College Pune,2008,2010,8.5 CGPA,Master's
+ED0595,CAN233,Bachelor's,Information Technology,IIM Bangalore,2006,2010,78%,Bachelor's
+ED0597,CAN234,Master's,Electronics,Presidency University,2023,2025,First Class,Master's
+ED0598,CAN234,Bachelor's,Electronics,IIIT Hyderabad,2022,2026,78%,Bachelor's
+ED0600,CAN235,Bachelor's,Electronics,IIT Madras,2013,2017,8.2 CGPA,Bachelor's
+ED0602,CAN236,Diploma,Data Science,IIM Ahmedabad,2019,2021,8.2 CGPA,Diploma
+ED0604,CAN237,Master's,Psychology,NIT Trichy,2010,2012,Distinction,Master's
+ED0605,CAN237,Bachelor's,Psychology,NIT Warangal,2010,2014,78%,Bachelor's
+ED0607,CAN238,Master's,Electronics,IIT Delhi,2013,2015,Second Class,Master's
+ED0608,CAN238,Bachelor's,Electronics,IIT Kharagpur,2011,2015,8.2 CGPA,Bachelor's
+ED0610,CAN239,Bachelor's,Electronics,Jadavpur University,2007,2011,Distinction,Bachelor's
+ED0612,CAN240,Master's,Mathematics,SP Jain Mumbai,2014,2016,Second Class,Master's
+ED0613,CAN240,Bachelor's,Mathematics,IIT Kharagpur,2012,2016,7.5 CGPA,Bachelor's
+ED0615,CAN241,Bachelor's,Information Technology,Anna University,2011,2015,Distinction,Bachelor's
+ED0617,CAN242,Master's,Finance,Christ University,2006,2009,92%,Master's
+ED0618,CAN242,Bachelor's,Finance,Manipal University,2005,2009,9.0 CGPA,Bachelor's
+ED0620,CAN243,Master's,Finance,PEC Chandigarh,2020,2022,Second Class,Master's
+ED0621,CAN243,Bachelor's,Finance,SP Jain Mumbai,2019,2023,7.5 CGPA,Bachelor's
+ED0623,CAN244,PhD,Commerce,NIT Trichy,2011,2014,9.0 CGPA,PhD
+ED0624,CAN244,Master's,Commerce,XLRI Jamshedpur,2012,2014,9.0 CGPA,Master's
+ED0625,CAN244,Bachelor's,Commerce,NIT Trichy,2008,2012,8.5 CGPA,Bachelor's
+ED0627,CAN245,PhD,Data Science,IIM Calcutta,2005,2009,85%,PhD
+ED0628,CAN245,Master's,Data Science,VIT Vellore,2005,2009,8.5 CGPA,Master's
+ED0629,CAN245,Bachelor's,Data Science,XLRI Jamshedpur,2005,2009,Distinction,Bachelor's
+ED0631,CAN246,Master's,Mathematics,Loyola College Chennai,2021,2023,First Class,Master's
+ED0632,CAN246,Bachelor's,Mathematics,Symbiosis Pune,2020,2024,92%,Bachelor's
+ED0634,CAN247,Master's,Computer Science,COEP Pune,2020,2022,First Class,Master's
+ED0635,CAN247,Bachelor's,Computer Science,Christ University,2020,2024,8.5 CGPA,Bachelor's
+ED0637,CAN248,Bachelor's,Data Science,Jadavpur University,2019,2023,78%,Bachelor's
+ED0639,CAN249,Bachelor's,Human Resource Management,Mumbai University,2005,2009,Distinction,Bachelor's
+ED0641,CAN250,PhD,Computer Science,BITS Pilani,2015,2018,8.2 CGPA,PhD
+ED0642,CAN250,Master's,Computer Science,IIIT Bangalore,2016,2018,7.8 CGPA,Master's
+ED0643,CAN250,Bachelor's,Computer Science,ISI Kolkata,2014,2018,8.5 CGPA,Bachelor's
+ED0645,CAN251,PhD,Electronics,IIIT Bangalore,2016,2019,8.5 CGPA,PhD
+ED0646,CAN251,Master's,Electronics,IIM Bangalore,2015,2017,78%,Master's
+ED0647,CAN251,Bachelor's,Electronics,PEC Chandigarh,2014,2018,7.5 CGPA,Bachelor's
+ED0649,CAN252,Bachelor's,Electronics,Fergusson College Pune,2021,2025,7.5 CGPA,Bachelor's
+ED0651,CAN253,Bachelor's,Finance,Jadavpur University,2021,2025,First Class,Bachelor's
+ED0653,CAN254,Bachelor's,Electronics,Manipal University,2007,2011,8.2 CGPA,Bachelor's
+ED0655,CAN255,PhD,Computer Science,NSIT Delhi,2009,2012,78%,PhD
+ED0656,CAN255,Master's,Computer Science,BITS Pilani,2009,2011,92%,Master's
+ED0657,CAN255,Bachelor's,Computer Science,IIM Ahmedabad,2006,2010,Second Class,Bachelor's
+ED0659,CAN256,Master's,Finance,VIT Vellore,2013,2015,Second Class,Master's
+ED0660,CAN256,Bachelor's,Finance,PEC Chandigarh,2011,2015,First Class,Bachelor's
+ED0662,CAN257,Bachelor's,Information Technology,NIT Trichy,2008,2012,78%,Bachelor's
+ED0664,CAN258,PhD,Data Science,Jadavpur University,2009,2012,7.5 CGPA,PhD
+ED0665,CAN258,Master's,Data Science,FMS Delhi,2010,2012,8.5 CGPA,Master's
+ED0666,CAN258,Bachelor's,Data Science,Jadavpur University,2007,2011,First Class,Bachelor's
+ED0668,CAN259,Bachelor's,Psychology,NIT Surathkal,2019,2023,85%,Bachelor's
+ED0670,CAN260,Master's,Computer Science,NIT Warangal,2018,2020,78%,Master's
+ED0671,CAN260,Bachelor's,Computer Science,SRM University,2017,2021,7.8 CGPA,Bachelor's
+ED0673,CAN261,Master's,Marketing,IIT Delhi,2021,2023,78%,Master's
+ED0674,CAN261,Bachelor's,Marketing,NIT Surathkal,2018,2022,7.5 CGPA,Bachelor's
+ED0676,CAN262,Master's,Finance,IIT Madras,2022,2024,8.2 CGPA,Master's
+ED0677,CAN262,Bachelor's,Finance,NIT Trichy,2019,2023,92%,Bachelor's
+ED0679,CAN263,Master's,Computer Science,Anna University,2010,2012,7.8 CGPA,Master's
+ED0680,CAN263,Bachelor's,Computer Science,COEP Pune,2009,2013,Distinction,Bachelor's
+ED0682,CAN264,Bachelor's,Marketing,Loyola College Chennai,2020,2024,Second Class,Bachelor's
+ED0684,CAN265,Master's,Computer Science,IIT Delhi,2014,2016,78%,Master's
+ED0685,CAN265,Bachelor's,Computer Science,SP Jain Mumbai,2013,2017,8.2 CGPA,Bachelor's
+ED0687,CAN266,Master's,Human Resource Management,Mumbai University,2021,2023,Distinction,Master's
+ED0688,CAN266,Bachelor's,Human Resource Management,IIM Bangalore,2020,2024,78%,Bachelor's
+ED0690,CAN267,Bachelor's,Finance,IIM Bangalore,2005,2009,7.5 CGPA,Bachelor's
+ED0692,CAN268,Master's,Business Administration,BITS Pilani,2020,2022,7.5 CGPA,Master's
+ED0693,CAN268,Bachelor's,Business Administration,XLRI Jamshedpur,2018,2022,First Class,Bachelor's
+ED0695,CAN269,Bachelor's,Electronics,NIT Surathkal,2011,2015,7.5 CGPA,Bachelor's
+ED0697,CAN270,Bachelor's,Marketing,IIT Bombay,2019,2023,85%,Bachelor's
+ED0699,CAN271,Master's,Commerce,Symbiosis Pune,2007,2009,First Class,Master's
+ED0700,CAN271,Bachelor's,Commerce,Fergusson College Pune,2005,2009,7.8 CGPA,Bachelor's
+ED0702,CAN272,Bachelor's,Finance,IIT Madras,2005,2009,7.8 CGPA,Bachelor's
+ED0704,CAN273,PhD,Mathematics,St. Xavier's College,2010,2013,Distinction,PhD
+ED0705,CAN273,Master's,Mathematics,Fergusson College Pune,2012,2014,Distinction,Master's
+ED0706,CAN273,Bachelor's,Mathematics,IIIT Hyderabad,2010,2014,8.5 CGPA,Bachelor's
+ED0708,CAN274,PhD,Psychology,VIT Vellore,2015,2018,7.8 CGPA,PhD
+ED0709,CAN274,Master's,Psychology,SRM University,2016,2018,Distinction,Master's
+ED0710,CAN274,Bachelor's,Psychology,Manipal University,2013,2017,7.5 CGPA,Bachelor's
+ED0712,CAN275,Master's,Data Science,NIT Warangal,2021,2023,Distinction,Master's
+ED0713,CAN275,Bachelor's,Data Science,IIT Madras,2019,2023,92%,Bachelor's
+ED0715,CAN276,PhD,Computer Science,Jadavpur University,2014,2017,9.0 CGPA,PhD
+ED0716,CAN276,Master's,Computer Science,IIIT Bangalore,2017,2019,8.2 CGPA,Master's
+ED0717,CAN276,Bachelor's,Computer Science,IIIT Hyderabad,2015,2019,9.0 CGPA,Bachelor's
+ED0719,CAN277,Master's,Business Administration,ISI Kolkata,2006,2009,7.8 CGPA,Master's
+ED0720,CAN277,Bachelor's,Business Administration,IIT Delhi,2005,2009,92%,Bachelor's
+ED0722,CAN278,Bachelor's,Human Resource Management,Anna University,2014,2018,7.5 CGPA,Bachelor's
+ED0724,CAN279,Master's,Statistics,Mumbai University,2020,2022,8.5 CGPA,Master's
+ED0725,CAN279,Bachelor's,Statistics,NSIT Delhi,2018,2022,9.0 CGPA,Bachelor's
+ED0727,CAN280,Bachelor's,Computer Science,IIT Kharagpur,2014,2018,8.2 CGPA,Bachelor's
+ED0729,CAN281,Bachelor's,Human Resource Management,Amity University,2021,2025,92%,Bachelor's
+ED0731,CAN282,PhD,Mathematics,ISI Kolkata,2013,2016,9.0 CGPA,PhD
+ED0732,CAN282,Master's,Mathematics,Amity University,2012,2014,7.8 CGPA,Master's
+ED0733,CAN282,Bachelor's,Mathematics,FMS Delhi,2010,2014,8.2 CGPA,Bachelor's
+ED0735,CAN283,Diploma,Electronics,IIM Ahmedabad,2006,2009,Distinction,Diploma
+ED0737,CAN284,Bachelor's,Finance,Christ University,2020,2024,9.0 CGPA,Bachelor's
+ED0739,CAN285,Master's,Business Administration,Fergusson College Pune,2021,2023,7.8 CGPA,Master's
+ED0740,CAN285,Bachelor's,Business Administration,NIT Warangal,2021,2025,7.5 CGPA,Bachelor's
+ED0742,CAN286,Bachelor's,Business Administration,IIM Calcutta,2013,2017,First Class,Bachelor's
+ED0744,CAN287,Bachelor's,Information Technology,VIT Vellore,2017,2021,Second Class,Bachelor's
+ED0746,CAN288,Master's,Mathematics,St. Xavier's College,2007,2009,92%,Master's
+ED0747,CAN288,Bachelor's,Mathematics,FMS Delhi,2005,2009,7.8 CGPA,Bachelor's
+ED0749,CAN289,Master's,Marketing,Amity University,2018,2020,7.5 CGPA,Master's
+ED0750,CAN289,Bachelor's,Marketing,Loyola College Chennai,2015,2019,7.8 CGPA,Bachelor's
+ED0752,CAN290,Diploma,Computer Science,Loyola College Chennai,2017,2019,9.0 CGPA,Diploma
+ED0754,CAN291,Master's,Human Resource Management,IIT Kharagpur,2009,2011,8.5 CGPA,Master's
+ED0755,CAN291,Bachelor's,Human Resource Management,Loyola College Chennai,2007,2011,7.8 CGPA,Bachelor's
+ED0757,CAN292,Master's,Computer Science,IIT Delhi,2010,2012,8.2 CGPA,Master's
+ED0758,CAN292,Bachelor's,Computer Science,Symbiosis Pune,2008,2012,9.0 CGPA,Bachelor's
+ED0760,CAN293,Bachelor's,Business Administration,Amity University,2020,2024,85%,Bachelor's
+ED0762,CAN294,Bachelor's,Electronics,Loyola College Chennai,2014,2018,Distinction,Bachelor's
+ED0764,CAN295,Bachelor's,Business Administration,ISI Kolkata,2020,2024,7.5 CGPA,Bachelor's
+ED0766,CAN296,Master's,Electronics,IIM Ahmedabad,2006,2009,Distinction,Master's
+ED0767,CAN296,Bachelor's,Electronics,COEP Pune,2005,2009,8.5 CGPA,Bachelor's
+ED0769,CAN297,Master's,Finance,Amity University,2016,2018,Distinction,Master's
+ED0770,CAN297,Bachelor's,Finance,IIT Madras,2015,2019,9.0 CGPA,Bachelor's
+ED0772,CAN298,Master's,Human Resource Management,Symbiosis Pune,2006,2009,7.8 CGPA,Master's
+ED0773,CAN298,Bachelor's,Human Resource Management,Fergusson College Pune,2005,2009,7.5 CGPA,Bachelor's
+ED0775,CAN299,Diploma,Commerce,Presidency University,2021,2023,92%,Diploma
+ED0777,CAN300,Bachelor's,Business Administration,SP Jain Mumbai,2013,2017,Second Class,Bachelor's

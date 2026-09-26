@@ -1,0 +1,18 @@
+occupation_code,task_id,task_description
+15-1252.00,ONET_TASK_001,Analyze user requirements to derive software design and performance requirements.
+15-1252.00,ONET_TASK_002,Design and develop software systems using scientific analysis and mathematical models.
+15-1252.00,ONET_TASK_003,"Modify existing software to correct errors, adapt to new hardware, or improve performance."
+15-1252.00,ONET_TASK_004,Develop and direct software system testing and validation procedures.
+15-1252.00,ONET_TASK_005,Consult with engineering staff to evaluate software-hardware interfaces.
+15-1254.00,ONET_TASK_006,"Design, build, or maintain websites using authoring or scripting languages."
+15-1254.00,ONET_TASK_007,"Write, design, or edit web page content, or direct others producing content."
+15-1254.00,ONET_TASK_008,"Identify problems uncovered by testing or customer feedback, and correct or refer for correction."
+15-1254.00,ONET_TASK_009,"Evaluate code to ensure it is valid, properly structured, and meets industry standards."
+15-2051.00,ONET_TASK_010,"Apply data mining, machine learning, and statistical analysis techniques."
+15-2051.00,ONET_TASK_011,Develop custom software solutions and data models.
+15-2051.00,ONET_TASK_012,Build and validate predictive models using large datasets.
+15-2051.00,ONET_TASK_013,Communicate complex analytical findings to stakeholders.
+11-3021.00,ONET_TASK_014,Direct daily operations of information technology department.
+11-3021.00,ONET_TASK_015,Develop and manage IT budgets and strategic plans.
+11-3021.00,ONET_TASK_016,"Plan, coordinate, and implement network security measures."
+11-3021.00,ONET_TASK_017,Manage and mentor IT staff and technical teams.

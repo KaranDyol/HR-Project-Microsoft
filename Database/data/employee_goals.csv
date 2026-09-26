@@ -1,0 +1,562 @@
+goal_id,employee_id,goal_title,goal_description,goal_category,start_date,due_date,target_value,actual_value,achievement_percentage,weight,status,manager_id
+GOAL0001,EMP001,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-30,2026-06-02,2,1.4,69.4,0.15,at_risk,EMP034
+GOAL0002,EMP001,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-25,2026-06-22,5,3.3,65.6,0.25,at_risk,EMP034
+GOAL0003,EMP001,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-20,2026-06-05,80,59.7,74.7,0.15,on_track,EMP034
+GOAL0004,EMP001,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-04,2026-06-07,3,2.1,70.9,0.1,on_track,EMP034
+GOAL0005,EMP001,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-15,2026-06-01,5,3.5,70.6,0.2,on_track,EMP034
+GOAL0006,EMP001,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-21,2026-06-17,4,3.6,91.2,0.1,on_track,EMP034
+GOAL0007,EMP001,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-05,2026-06-03,5,3.8,75.6,0.2,on_track,EMP034
+GOAL0008,EMP002,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-03,2026-06-10,50,36.7,73.4,0.15,on_track,EMP035
+GOAL0009,EMP002,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-15,2026-06-02,5,3.7,73.1,0.15,on_track,EMP035
+GOAL0010,EMP002,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-22,2026-06-26,50,33.8,67.5,0.25,at_risk,EMP035
+GOAL0011,EMP002,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-25,2026-06-07,5,3.5,69.7,0.15,at_risk,EMP035
+GOAL0012,EMP003,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-02,2026-06-05,200,187.5,93.8,0.25,on_track,EMP033
+GOAL0013,EMP003,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-14,2026-06-30,2,1.8,90.4,0.15,on_track,EMP033
+GOAL0014,EMP003,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-23,2026-06-29,4,2.7,67.7,0.2,at_risk,EMP033
+GOAL0015,EMP003,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-23,2026-06-05,50,42.0,84.0,0.25,on_track,EMP033
+GOAL0016,EMP004,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-23,2026-06-10,4,2.9,72.0,0.2,on_track,EMP034
+GOAL0017,EMP004,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-15,2026-06-04,30,21.9,73.1,0.1,on_track,EMP034
+GOAL0018,EMP004,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-26,2026-06-30,5,4.1,82.4,0.1,on_track,EMP034
+GOAL0019,EMP004,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-15,2026-06-16,95,80.1,84.3,0.15,on_track,EMP034
+GOAL0020,EMP004,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-27,2026-06-07,5,4.1,82.9,0.1,on_track,EMP034
+GOAL0021,EMP005,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-26,2026-06-25,50,29.3,58.5,0.1,at_risk,EMP032
+GOAL0022,EMP005,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-18,2026-06-07,4,1.9,48.3,0.15,at_risk,EMP032
+GOAL0023,EMP005,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-06,2026-06-17,95,43.7,46.0,0.25,at_risk,EMP032
+GOAL0024,EMP005,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-19,2026-06-14,4,1.9,48.3,0.25,at_risk,EMP032
+GOAL0025,EMP005,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-17,2026-06-22,5,2.2,44.0,0.2,at_risk,EMP032
+GOAL0026,EMP005,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-26,2026-06-18,5,1.9,38.2,0.1,behind,EMP032
+GOAL0027,EMP005,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-09,2026-06-11,3,1.2,41.2,0.25,at_risk,EMP032
+GOAL0028,EMP006,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-28,2026-06-25,4,2.6,64.4,0.1,at_risk,EMP034
+GOAL0029,EMP006,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-08,2026-06-22,5,3.1,61.8,0.15,at_risk,EMP034
+GOAL0030,EMP006,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-13,2026-06-11,50,36.3,72.6,0.2,on_track,EMP034
+GOAL0031,EMP006,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-22,2026-06-05,50,25.7,51.4,0.1,at_risk,EMP034
+GOAL0032,EMP006,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-27,2026-06-12,80,43.2,53.9,0.1,at_risk,EMP034
+GOAL0033,EMP007,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-12,2026-06-16,4,3.1,78.3,0.1,on_track,EMP033
+GOAL0034,EMP007,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-29,2026-06-07,5,3.8,76.7,0.1,on_track,EMP033
+GOAL0035,EMP007,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-10,2026-06-08,200,163.4,81.7,0.15,on_track,EMP033
+GOAL0036,EMP007,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-09,2026-06-19,2,1.7,82.8,0.25,on_track,EMP033
+GOAL0037,EMP007,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-09,2026-06-21,50,38.6,77.2,0.25,on_track,EMP033
+GOAL0038,EMP007,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-27,2026-06-09,3,2.1,70.6,0.2,on_track,EMP033
+GOAL0039,EMP008,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-09,2026-06-24,4,2.9,71.6,0.25,on_track,EMP035
+GOAL0040,EMP008,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-17,2026-06-13,3,2.2,73.6,0.1,on_track,EMP035
+GOAL0041,EMP008,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-30,2026-06-30,50,40.0,80.0,0.2,on_track,EMP035
+GOAL0042,EMP008,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-16,2026-06-30,200,147.2,73.6,0.25,on_track,EMP035
+GOAL0043,EMP008,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-16,2026-06-27,2,1.5,75.3,0.25,on_track,EMP035
+GOAL0044,EMP009,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-25,2026-06-19,80,59.7,74.7,0.25,on_track,EMP032
+GOAL0045,EMP009,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-10,2026-06-05,50,45.0,90.1,0.1,on_track,EMP032
+GOAL0046,EMP009,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-22,2026-06-24,20,18.4,91.9,0.2,on_track,EMP032
+GOAL0047,EMP009,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-11,2026-06-04,4,3.1,77.4,0.25,on_track,EMP032
+GOAL0048,EMP009,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-25,2026-06-20,200,139.4,69.7,0.25,at_risk,EMP032
+GOAL0049,EMP009,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-18,2026-06-18,4,3.3,83.3,0.2,on_track,EMP032
+GOAL0050,EMP010,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-15,2026-06-21,3,2.6,86.6,0.1,on_track,EMP034
+GOAL0051,EMP010,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-08,2026-06-23,5,3.8,75.3,0.2,on_track,EMP034
+GOAL0052,EMP010,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-12,2026-06-17,5,4.1,82.2,0.1,on_track,EMP034
+GOAL0053,EMP010,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-18,2026-06-15,10,9.5,94.9,0.1,on_track,EMP034
+GOAL0054,EMP010,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-12,2026-06-21,4,4.0,98.9,0.2,on_track,EMP034
+GOAL0055,EMP010,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-04,2026-06-04,50,40.2,80.4,0.25,on_track,EMP034
+GOAL0056,EMP011,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-20,2026-06-01,200,133.0,66.5,0.2,at_risk,EMP035
+GOAL0057,EMP011,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-25,2026-06-26,50,23.4,46.8,0.25,at_risk,EMP035
+GOAL0058,EMP011,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-20,2026-06-15,30,19.7,65.7,0.2,at_risk,EMP035
+GOAL0059,EMP011,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-16,2026-06-30,5,3.4,68.3,0.25,at_risk,EMP035
+GOAL0060,EMP011,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-08,2026-06-11,20,14.7,73.4,0.2,on_track,EMP035
+GOAL0061,EMP012,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-02,2026-06-26,50,38.6,77.1,0.2,on_track,EMP033
+GOAL0062,EMP012,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-02,2026-06-21,2,1.7,87.0,0.15,on_track,EMP033
+GOAL0063,EMP012,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-22,2026-06-04,50,38.9,77.7,0.2,on_track,EMP033
+GOAL0064,EMP012,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-21,2026-06-14,200,168.7,84.3,0.15,on_track,EMP033
+GOAL0065,EMP012,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-24,2026-06-03,5,4.2,83.2,0.15,on_track,EMP033
+GOAL0066,EMP012,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-23,2026-06-01,4,3.5,88.3,0.15,on_track,EMP033
+GOAL0067,EMP013,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-18,2026-06-19,5,3.8,75.4,0.1,on_track,EMP033
+GOAL0068,EMP013,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-16,2026-06-04,2,1.8,87.7,0.15,on_track,EMP033
+GOAL0069,EMP013,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-31,2026-06-05,5,3.6,71.2,0.1,on_track,EMP033
+GOAL0070,EMP013,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-15,2026-06-20,4,3.2,79.0,0.1,on_track,EMP033
+GOAL0071,EMP013,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-23,2026-06-23,30,20.4,68.0,0.1,at_risk,EMP033
+GOAL0072,EMP013,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-23,2026-06-27,50,34.5,69.0,0.25,at_risk,EMP033
+GOAL0073,EMP013,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-02,2026-06-04,80,63.4,79.3,0.2,on_track,EMP033
+GOAL0074,EMP014,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-09,2026-06-26,5,1.4,28.7,0.25,behind,EMP032
+GOAL0075,EMP014,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-08,2026-06-13,50,8.6,17.1,0.1,behind,EMP032
+GOAL0076,EMP014,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-07,2026-06-24,50,14.4,28.9,0.25,behind,EMP032
+GOAL0077,EMP014,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-25,2026-06-29,200,28.4,14.2,0.2,behind,EMP032
+GOAL0078,EMP014,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-29,2026-06-10,5,1.5,30.4,0.15,behind,EMP032
+GOAL0079,EMP015,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-23,2026-06-07,3,2.8,92.2,0.25,on_track,EMP032
+GOAL0080,EMP015,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-06,2026-06-21,5,4.8,95.8,0.1,on_track,EMP032
+GOAL0081,EMP015,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-01,2026-06-15,50,43.8,87.7,0.2,on_track,EMP032
+GOAL0082,EMP015,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-29,2026-06-09,80,80.0,100,0.25,completed,EMP032
+GOAL0083,EMP015,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-18,2026-06-17,5,4.2,83.9,0.1,on_track,EMP032
+GOAL0084,EMP016,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-09,2026-06-14,2,1.5,77.0,0.1,on_track,EMP034
+GOAL0085,EMP016,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-24,2026-06-12,50,38.3,76.7,0.1,on_track,EMP034
+GOAL0086,EMP016,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-03,2026-06-06,5,3.3,66.6,0.25,at_risk,EMP034
+GOAL0087,EMP016,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-04,2026-06-01,50,41.8,83.6,0.1,on_track,EMP034
+GOAL0088,EMP017,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-25,2026-05-31,5,3.7,73.1,0.25,on_track,EMP035
+GOAL0089,EMP017,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-17,2026-06-22,80,52.9,66.1,0.2,at_risk,EMP035
+GOAL0090,EMP017,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-20,2026-06-15,50,40.1,80.2,0.15,on_track,EMP035
+GOAL0091,EMP017,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-16,2026-06-15,200,167.4,83.7,0.1,on_track,EMP035
+GOAL0092,EMP017,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-29,2026-06-24,4,3.4,85.1,0.1,on_track,EMP035
+GOAL0093,EMP018,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-04,2026-06-19,4,3.0,74.2,0.2,on_track,EMP035
+GOAL0094,EMP018,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-26,2026-06-15,3,1.9,63.9,0.25,at_risk,EMP035
+GOAL0095,EMP018,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-28,2026-06-12,50,31.6,63.2,0.2,at_risk,EMP035
+GOAL0096,EMP018,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-11,2026-06-08,95,49.1,51.6,0.2,at_risk,EMP035
+GOAL0097,EMP018,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-28,2026-06-13,80,51.8,64.8,0.15,at_risk,EMP035
+GOAL0098,EMP019,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-28,2026-06-08,30,25.9,86.5,0.2,on_track,EMP033
+GOAL0099,EMP019,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-29,2026-06-26,4,3.5,86.9,0.2,on_track,EMP033
+GOAL0100,EMP019,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-23,2026-06-29,20,16.5,82.3,0.15,on_track,EMP033
+GOAL0101,EMP019,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-05,2026-06-06,4,2.9,73.5,0.2,on_track,EMP033
+GOAL0102,EMP019,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-15,2026-06-11,50,43.3,86.6,0.15,on_track,EMP033
+GOAL0103,EMP019,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-19,2026-06-04,3,2.4,80.2,0.25,on_track,EMP033
+GOAL0104,EMP019,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-29,2026-06-10,80,56.3,70.4,0.2,on_track,EMP033
+GOAL0105,EMP020,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-04,2026-06-27,4,3.1,77.1,0.25,on_track,EMP033
+GOAL0106,EMP020,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-21,2026-06-03,50,39.1,78.3,0.1,on_track,EMP033
+GOAL0107,EMP020,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-06,2026-06-01,2,1.5,76.3,0.25,on_track,EMP033
+GOAL0108,EMP020,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-30,2026-06-27,95,75.9,79.9,0.1,on_track,EMP033
+GOAL0109,EMP020,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-17,2026-05-31,30,22.3,74.3,0.25,on_track,EMP033
+GOAL0110,EMP021,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-13,2026-06-16,3,0.9,31.4,0.15,behind,EMP034
+GOAL0111,EMP021,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-29,2026-06-20,5,2.8,56.0,0.15,at_risk,EMP034
+GOAL0112,EMP021,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-07,2026-06-02,2,1.0,52.4,0.25,at_risk,EMP034
+GOAL0113,EMP021,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-02,2026-06-28,200,65.0,32.5,0.15,behind,EMP034
+GOAL0114,EMP021,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-10,2026-06-15,10,5.1,50.7,0.15,at_risk,EMP034
+GOAL0115,EMP022,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-20,2026-06-08,200,151.2,75.6,0.25,on_track,EMP034
+GOAL0116,EMP022,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-22,2026-06-25,20,18.7,93.4,0.1,on_track,EMP034
+GOAL0117,EMP022,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-07,2026-06-13,3,2.4,79.1,0.25,on_track,EMP034
+GOAL0118,EMP022,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-13,2026-06-21,5,3.9,77.5,0.2,on_track,EMP034
+GOAL0119,EMP022,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-28,2026-06-09,5,4.6,92.2,0.1,on_track,EMP034
+GOAL0120,EMP022,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-21,2026-06-12,5,4.1,82.8,0.25,on_track,EMP034
+GOAL0121,EMP023,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-14,2026-06-03,50,39.7,79.4,0.25,on_track,EMP033
+GOAL0122,EMP023,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-13,2026-06-22,10,8.1,80.8,0.1,on_track,EMP033
+GOAL0123,EMP023,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-20,2026-06-20,80,68.3,85.4,0.25,on_track,EMP033
+GOAL0124,EMP023,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-06,2026-06-22,30,21.3,71.0,0.25,on_track,EMP033
+GOAL0125,EMP023,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-08,2026-06-12,4,3.5,86.9,0.1,on_track,EMP033
+GOAL0126,EMP024,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-11,2026-06-10,30,22.9,76.4,0.1,on_track,EMP033
+GOAL0127,EMP024,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-28,2026-06-26,10,7.1,70.7,0.15,on_track,EMP033
+GOAL0128,EMP024,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-22,2026-06-25,95,68.7,72.3,0.1,on_track,EMP033
+GOAL0129,EMP024,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-17,2026-06-23,50,36.5,72.9,0.1,on_track,EMP033
+GOAL0130,EMP024,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-31,2026-06-15,2,1.2,60.1,0.15,at_risk,EMP033
+GOAL0131,EMP024,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-17,2026-06-20,5,2.4,48.5,0.2,at_risk,EMP033
+GOAL0132,EMP025,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-24,2026-06-30,10,5.0,49.6,0.15,at_risk,EMP035
+GOAL0133,EMP025,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-06,2026-06-09,50,27.0,53.9,0.2,at_risk,EMP035
+GOAL0134,EMP025,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-02,2026-06-06,95,58.5,61.6,0.2,at_risk,EMP035
+GOAL0135,EMP025,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-15,2026-06-23,20,8.8,44.0,0.2,at_risk,EMP035
+GOAL0136,EMP025,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-12,2026-06-17,4,1.5,36.7,0.25,behind,EMP035
+GOAL0137,EMP025,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-12,2026-06-20,4,2.0,50.8,0.15,at_risk,EMP035
+GOAL0138,EMP026,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-23,2026-06-03,2,1.8,91.8,0.15,on_track,EMP035
+GOAL0139,EMP026,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-12,2026-06-15,20,16.0,80.1,0.2,on_track,EMP035
+GOAL0140,EMP026,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-30,2026-06-07,4,3.2,79.4,0.2,on_track,EMP035
+GOAL0141,EMP026,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-18,2026-06-01,200,131.2,65.6,0.1,at_risk,EMP035
+GOAL0142,EMP026,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-27,2026-06-16,5,3.7,74.3,0.25,on_track,EMP035
+GOAL0143,EMP026,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-19,2026-06-28,5,3.5,69.5,0.2,at_risk,EMP035
+GOAL0144,EMP027,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-26,2026-06-20,3,2.1,69.8,0.25,at_risk,EMP035
+GOAL0145,EMP027,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-15,20,12.8,63.9,0.2,at_risk,EMP035
+GOAL0146,EMP027,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-13,2026-06-15,30,19.6,65.5,0.1,at_risk,EMP035
+GOAL0147,EMP027,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-12,2026-06-10,95,56.1,59.0,0.15,at_risk,EMP035
+GOAL0148,EMP028,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-28,2026-06-18,30,12.8,42.6,0.25,at_risk,EMP034
+GOAL0149,EMP028,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-13,2026-06-20,5,1.8,35.7,0.25,behind,EMP034
+GOAL0150,EMP028,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-29,2026-06-27,4,1.1,27.4,0.25,behind,EMP034
+GOAL0151,EMP028,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-09,2026-06-27,4,1.5,38.3,0.25,behind,EMP034
+GOAL0152,EMP028,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-01,2026-06-25,10,5.6,56.4,0.15,at_risk,EMP034
+GOAL0153,EMP028,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-20,2026-06-15,50,20.7,41.4,0.2,at_risk,EMP034
+GOAL0154,EMP029,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-31,2026-06-14,30,21.2,70.7,0.15,on_track,EMP035
+GOAL0155,EMP029,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-24,2026-06-27,4,2.7,67.0,0.1,at_risk,EMP035
+GOAL0156,EMP029,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-25,2026-06-27,200,169.0,84.5,0.1,on_track,EMP035
+GOAL0157,EMP029,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-09,2026-06-12,5,4.0,80.1,0.2,on_track,EMP035
+GOAL0158,EMP029,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-12,2026-06-06,95,91.4,96.2,0.1,on_track,EMP035
+GOAL0159,EMP029,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-14,2026-06-01,50,33.3,66.6,0.1,at_risk,EMP035
+GOAL0160,EMP029,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-26,2026-06-26,3,2.4,81.1,0.25,on_track,EMP035
+GOAL0161,EMP030,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-23,2026-05-31,20,8.4,41.9,0.2,at_risk,EMP032
+GOAL0162,EMP030,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-11,2026-06-23,4,1.2,29.7,0.2,behind,EMP032
+GOAL0163,EMP030,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-19,2026-06-14,5,1.5,31.0,0.1,behind,EMP032
+GOAL0164,EMP030,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-03,2026-06-06,10,4.9,49.1,0.25,at_risk,EMP032
+GOAL0165,EMP030,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-18,2026-06-15,95,47.7,50.2,0.1,at_risk,EMP032
+GOAL0166,EMP031,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-16,2026-06-30,20,13.8,68.9,0.15,at_risk,EMP032
+GOAL0167,EMP031,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-16,2026-06-14,200,110.2,55.1,0.25,at_risk,EMP032
+GOAL0168,EMP031,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-15,2026-06-02,10,7.0,70.4,0.1,on_track,EMP032
+GOAL0169,EMP031,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-14,2026-06-04,50,29.7,59.5,0.1,at_risk,EMP032
+GOAL0170,EMP032,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-24,2026-06-15,80,73.6,92.0,0.1,on_track,EMP033
+GOAL0171,EMP032,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-12,2026-06-02,50,36.7,73.3,0.15,on_track,EMP033
+GOAL0172,EMP032,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-13,2026-06-11,95,80.7,84.9,0.25,on_track,EMP033
+GOAL0173,EMP032,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-09,2026-06-04,3,1.9,63.1,0.1,at_risk,EMP033
+GOAL0174,EMP032,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-02,2026-06-29,10,7.5,75.5,0.2,on_track,EMP033
+GOAL0175,EMP033,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-20,20,9.6,47.8,0.15,at_risk,EMP032
+GOAL0176,EMP033,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-24,2026-06-14,4,1.4,35.9,0.2,behind,EMP032
+GOAL0177,EMP033,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-03,2026-06-18,2,1.1,56.0,0.1,at_risk,EMP032
+GOAL0178,EMP033,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-26,2026-06-24,200,78.7,39.4,0.25,behind,EMP032
+GOAL0179,EMP033,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-20,2026-06-26,5,2.0,40.7,0.15,at_risk,EMP032
+GOAL0180,EMP033,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-25,2026-06-01,80,45.7,57.1,0.25,at_risk,EMP032
+GOAL0181,EMP034,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-12,2026-06-10,4,1.4,33.9,0.25,behind,EMP032
+GOAL0182,EMP034,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-06,2026-06-19,50,11.6,23.1,0.2,behind,EMP032
+GOAL0183,EMP034,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-14,2026-06-02,5,1.5,29.9,0.2,behind,EMP032
+GOAL0184,EMP034,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-14,2026-06-28,80,13.8,17.3,0.15,behind,EMP032
+GOAL0185,EMP034,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-07,2026-06-14,5,2.5,49.3,0.25,at_risk,EMP032
+GOAL0186,EMP034,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-10,2026-06-02,2,0.4,19.8,0.25,behind,EMP032
+GOAL0187,EMP034,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-05,2026-05-31,3,1.5,50.2,0.15,at_risk,EMP032
+GOAL0188,EMP035,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-13,2026-06-10,4,2.6,64.1,0.25,at_risk,EMP032
+GOAL0189,EMP035,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-13,2026-06-20,5,2.9,57.0,0.25,at_risk,EMP032
+GOAL0190,EMP035,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-17,2026-06-13,95,66.7,70.2,0.15,on_track,EMP032
+GOAL0191,EMP035,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-07,2026-06-27,30,21.2,70.8,0.2,on_track,EMP032
+GOAL0192,EMP035,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-30,2026-05-31,80,44.0,55.0,0.25,at_risk,EMP032
+GOAL0193,EMP035,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-08,2026-06-01,2,1.2,58.4,0.2,at_risk,EMP032
+GOAL0194,EMP035,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-06,2026-06-30,50,36.5,72.9,0.15,on_track,EMP032
+GOAL0195,EMP036,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-30,2026-06-19,5,3.4,67.2,0.2,at_risk,EMP035
+GOAL0196,EMP036,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-04,2026-06-30,20,16.3,81.6,0.15,on_track,EMP035
+GOAL0197,EMP036,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-02,2026-05-31,2,1.9,96.7,0.15,on_track,EMP035
+GOAL0198,EMP036,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-24,2026-06-03,3,2.8,92.1,0.25,on_track,EMP035
+GOAL0199,EMP036,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-02,2026-06-26,80,60.9,76.1,0.1,on_track,EMP035
+GOAL0200,EMP036,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-15,2026-06-14,5,4.4,88.2,0.15,on_track,EMP035
+GOAL0201,EMP036,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-02,2026-06-12,95,69.6,73.3,0.2,on_track,EMP035
+GOAL0202,EMP037,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-03,2026-06-18,50,18.1,36.3,0.15,behind,EMP035
+GOAL0203,EMP037,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-05,20,13.1,65.7,0.2,at_risk,EMP035
+GOAL0204,EMP037,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-08,2026-06-24,5,1.8,35.2,0.2,behind,EMP035
+GOAL0205,EMP037,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-05,2026-06-05,200,73.8,36.9,0.2,behind,EMP035
+GOAL0206,EMP037,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-31,2026-06-27,4,2.4,59.0,0.1,at_risk,EMP035
+GOAL0207,EMP037,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-30,2026-06-02,5,2.5,50.9,0.25,at_risk,EMP035
+GOAL0208,EMP037,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-12,2026-06-15,95,41.8,44.0,0.25,at_risk,EMP035
+GOAL0209,EMP038,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-31,2026-06-06,4,2.9,73.7,0.1,on_track,EMP033
+GOAL0210,EMP038,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-05,2026-06-14,2,1.4,68.4,0.2,at_risk,EMP033
+GOAL0211,EMP038,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-05,2026-06-08,20,17.6,88.0,0.1,on_track,EMP033
+GOAL0212,EMP038,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-24,2026-06-22,95,60.7,63.8,0.15,at_risk,EMP033
+GOAL0213,EMP038,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-31,2026-06-18,5,4.5,89.1,0.25,on_track,EMP033
+GOAL0214,EMP039,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-12,2026-06-01,200,50.6,25.3,0.2,behind,EMP033
+GOAL0215,EMP039,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-25,2026-06-02,50,15.7,31.4,0.25,behind,EMP033
+GOAL0216,EMP039,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-04,2026-06-06,2,0.5,23.9,0.25,behind,EMP033
+GOAL0217,EMP039,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-21,2026-06-16,4,1.4,33.9,0.1,behind,EMP033
+GOAL0218,EMP040,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-14,2026-06-13,80,47.6,59.5,0.25,at_risk,EMP034
+GOAL0219,EMP040,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-30,2026-06-12,30,16.8,56.1,0.1,at_risk,EMP034
+GOAL0220,EMP040,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-29,2026-06-18,10,6.3,62.9,0.2,at_risk,EMP034
+GOAL0221,EMP040,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-21,2026-06-09,50,26.5,53.0,0.1,at_risk,EMP034
+GOAL0222,EMP040,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-11,2026-06-20,200,102.0,51.0,0.2,at_risk,EMP034
+GOAL0223,EMP040,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-13,2026-06-11,5,2.8,55.5,0.25,at_risk,EMP034
+GOAL0224,EMP040,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-05,2026-06-02,4,2.9,72.3,0.15,on_track,EMP034
+GOAL0225,EMP041,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-04,2026-06-05,50,21.6,43.3,0.25,at_risk,EMP032
+GOAL0226,EMP041,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-07,2026-06-25,3,1.0,34.1,0.2,behind,EMP032
+GOAL0227,EMP041,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-14,2026-06-03,95,52.7,55.4,0.25,at_risk,EMP032
+GOAL0228,EMP041,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-22,2026-06-12,5,2.1,42.5,0.15,at_risk,EMP032
+GOAL0229,EMP041,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-01,2026-06-26,200,79.0,39.5,0.25,behind,EMP032
+GOAL0230,EMP041,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-05,2026-06-24,50,25.3,50.5,0.2,at_risk,EMP032
+GOAL0231,EMP041,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-15,2026-06-08,5,2.0,40.7,0.15,at_risk,EMP032
+GOAL0232,EMP042,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-21,2026-06-10,4,2.6,64.2,0.25,at_risk,EMP047
+GOAL0233,EMP042,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-26,2026-06-30,4,2.5,62.7,0.15,at_risk,EMP047
+GOAL0234,EMP042,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-20,2026-06-14,5,3.4,67.2,0.15,at_risk,EMP047
+GOAL0235,EMP042,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-19,2026-06-30,50,42.7,85.3,0.2,on_track,EMP047
+GOAL0236,EMP042,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-05,2026-06-01,3,2.3,77.0,0.2,on_track,EMP047
+GOAL0237,EMP042,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-06,2026-06-17,200,153.4,76.7,0.25,on_track,EMP047
+GOAL0238,EMP042,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-20,2026-06-18,5,3.6,72.6,0.25,on_track,EMP047
+GOAL0239,EMP043,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-07,2026-06-10,95,61.8,65.1,0.15,at_risk,EMP048
+GOAL0240,EMP043,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-16,2026-06-22,30,18.6,61.9,0.1,at_risk,EMP048
+GOAL0241,EMP043,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-26,2026-06-15,10,5.8,57.6,0.2,at_risk,EMP048
+GOAL0242,EMP043,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-25,2026-06-01,50,28.9,57.8,0.2,at_risk,EMP048
+GOAL0243,EMP044,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-14,2026-06-01,20,5.6,28.0,0.1,behind,EMP048
+GOAL0244,EMP044,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-29,2026-06-23,4,1.2,29.5,0.15,behind,EMP048
+GOAL0245,EMP044,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-01,2026-06-06,50,13.8,27.7,0.25,behind,EMP048
+GOAL0246,EMP044,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-31,2026-06-27,200,75.7,37.8,0.1,behind,EMP048
+GOAL0247,EMP044,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-18,2026-06-28,80,18.9,23.7,0.1,behind,EMP048
+GOAL0248,EMP044,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-18,2026-06-17,5,1.4,27.9,0.2,behind,EMP048
+GOAL0249,EMP045,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-14,2026-06-23,10,6.7,66.5,0.2,at_risk,EMP048
+GOAL0250,EMP045,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-13,2026-06-07,20,13.2,66.1,0.2,at_risk,EMP048
+GOAL0251,EMP045,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-13,2026-06-02,30,21.4,71.3,0.15,on_track,EMP048
+GOAL0252,EMP045,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-14,2026-06-20,4,2.5,63.0,0.1,at_risk,EMP048
+GOAL0253,EMP046,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-20,2026-06-17,20,14.0,69.9,0.1,at_risk,EMP048
+GOAL0254,EMP046,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-07,2026-06-04,5,2.9,58.5,0.1,at_risk,EMP048
+GOAL0255,EMP046,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-14,2026-06-05,80,61.3,76.6,0.2,on_track,EMP048
+GOAL0256,EMP046,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-28,2026-05-31,5,2.6,51.3,0.2,at_risk,EMP048
+GOAL0257,EMP046,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-26,2026-06-19,200,127.5,63.8,0.2,at_risk,EMP048
+GOAL0258,EMP046,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-23,2026-06-19,10,6.7,66.8,0.2,at_risk,EMP048
+GOAL0259,EMP047,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-04,2026-06-03,80,36.6,45.8,0.1,at_risk,EMP048
+GOAL0260,EMP047,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-19,2026-06-21,2,0.7,35.7,0.25,behind,EMP048
+GOAL0261,EMP047,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-14,2026-06-22,3,1.1,35.7,0.25,behind,EMP048
+GOAL0262,EMP047,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-23,2026-06-26,20,9.5,47.3,0.1,at_risk,EMP048
+GOAL0263,EMP048,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-30,2026-06-08,3,1.7,58.0,0.15,at_risk,EMP047
+GOAL0264,EMP048,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-16,2026-06-23,200,77.5,38.7,0.1,behind,EMP047
+GOAL0265,EMP048,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-31,2026-06-29,50,20.8,41.7,0.25,at_risk,EMP047
+GOAL0266,EMP048,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-26,2026-06-19,5,2.5,50.5,0.1,at_risk,EMP047
+GOAL0267,EMP049,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-25,2026-06-14,5,2.0,39.8,0.25,behind,EMP061
+GOAL0268,EMP049,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-05,2026-06-30,200,59.5,29.8,0.25,behind,EMP061
+GOAL0269,EMP049,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-14,2026-06-18,3,1.5,49.4,0.1,at_risk,EMP061
+GOAL0270,EMP049,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-18,2026-06-30,5,2.6,51.4,0.2,at_risk,EMP061
+GOAL0271,EMP049,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-22,2026-06-15,50,21.3,42.5,0.2,at_risk,EMP061
+GOAL0272,EMP049,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-26,2026-06-07,5,1.1,22.8,0.1,behind,EMP061
+GOAL0273,EMP050,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-21,2026-05-31,200,155.3,77.6,0.1,on_track,EMP059
+GOAL0274,EMP050,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-20,2026-06-24,80,58.4,72.9,0.2,on_track,EMP059
+GOAL0275,EMP050,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-21,2026-06-11,5,4.2,84.3,0.25,on_track,EMP059
+GOAL0276,EMP050,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-06,20,15.5,77.3,0.1,on_track,EMP059
+GOAL0277,EMP050,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-05,2026-06-20,4,3.1,77.0,0.1,on_track,EMP059
+GOAL0278,EMP050,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-01,2026-06-14,3,2.2,74.7,0.25,on_track,EMP059
+GOAL0279,EMP051,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-07,2026-06-23,3,2.4,80.3,0.15,on_track,EMP059
+GOAL0280,EMP051,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-07,2026-06-30,50,39.7,79.3,0.2,on_track,EMP059
+GOAL0281,EMP051,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-11,2026-06-19,4,3.1,77.9,0.25,on_track,EMP059
+GOAL0282,EMP051,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-22,2026-06-20,10,8.2,82.4,0.15,on_track,EMP059
+GOAL0283,EMP051,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-03,2026-06-05,2,1.5,73.7,0.25,on_track,EMP059
+GOAL0284,EMP052,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-27,2026-06-24,200,94.2,47.1,0.15,at_risk,EMP060
+GOAL0285,EMP052,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-31,2026-06-07,3,1.2,38.8,0.1,behind,EMP060
+GOAL0286,EMP052,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-30,2026-06-05,2,0.9,43.2,0.1,at_risk,EMP060
+GOAL0287,EMP052,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-25,2026-06-16,10,3.1,30.6,0.2,behind,EMP060
+GOAL0288,EMP052,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-29,2026-06-22,50,13.0,26.0,0.1,behind,EMP060
+GOAL0289,EMP052,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-14,2026-06-28,50,19.5,39.0,0.25,behind,EMP060
+GOAL0290,EMP052,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-03,2026-06-27,4,1.5,36.4,0.2,behind,EMP060
+GOAL0291,EMP053,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-09,2026-06-29,50,28.1,56.1,0.1,at_risk,EMP059
+GOAL0292,EMP053,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-07,2026-06-20,4,2.9,71.5,0.1,on_track,EMP059
+GOAL0293,EMP053,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-20,2026-06-26,3,1.7,57.8,0.25,at_risk,EMP059
+GOAL0294,EMP053,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-26,2026-06-26,10,5.1,50.6,0.1,at_risk,EMP059
+GOAL0295,EMP053,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-16,2026-06-18,80,55.7,69.7,0.15,at_risk,EMP059
+GOAL0296,EMP054,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-09,2026-06-20,5,4.1,81.5,0.25,on_track,EMP060
+GOAL0297,EMP054,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-22,2026-06-19,4,2.8,70.5,0.1,on_track,EMP060
+GOAL0298,EMP054,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-31,2026-06-02,80,55.0,68.8,0.15,at_risk,EMP060
+GOAL0299,EMP054,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-27,2026-06-27,10,6.8,68.2,0.25,at_risk,EMP060
+GOAL0300,EMP055,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-25,2026-06-21,30,20.1,67.2,0.15,at_risk,EMP061
+GOAL0301,EMP055,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-06,2026-06-04,4,3.2,79.3,0.25,on_track,EMP061
+GOAL0302,EMP055,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-07,2026-06-06,10,6.8,67.7,0.1,at_risk,EMP061
+GOAL0303,EMP055,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-06,2026-05-31,20,12.0,59.8,0.15,at_risk,EMP061
+GOAL0304,EMP055,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-29,2026-06-17,2,1.4,68.8,0.2,at_risk,EMP061
+GOAL0305,EMP055,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-20,2026-06-30,95,63.1,66.4,0.25,at_risk,EMP061
+GOAL0306,EMP055,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-18,2026-06-19,200,131.4,65.7,0.2,at_risk,EMP061
+GOAL0307,EMP056,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-29,2026-05-31,5,4.2,84.1,0.1,on_track,EMP060
+GOAL0308,EMP056,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-25,2026-06-29,5,4.0,80.1,0.15,on_track,EMP060
+GOAL0309,EMP056,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-29,2026-06-25,2,1.7,84.8,0.2,on_track,EMP060
+GOAL0310,EMP056,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-11,2026-06-15,50,36.6,73.2,0.25,on_track,EMP060
+GOAL0311,EMP057,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-31,2026-06-03,4,3.2,79.9,0.1,on_track,EMP060
+GOAL0312,EMP057,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-29,2026-06-06,95,64.2,67.6,0.1,at_risk,EMP060
+GOAL0313,EMP057,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-24,2026-06-04,5,3.6,72.8,0.15,on_track,EMP060
+GOAL0314,EMP057,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-19,2026-06-30,50,40.5,80.9,0.25,on_track,EMP060
+GOAL0315,EMP057,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-03,2026-06-04,50,38.6,77.2,0.15,on_track,EMP060
+GOAL0316,EMP057,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-07,2026-06-19,10,5.9,59.4,0.15,at_risk,EMP060
+GOAL0317,EMP057,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-15,2026-06-12,5,3.9,78.1,0.25,on_track,EMP060
+GOAL0318,EMP058,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-28,2026-06-02,50,23.8,47.7,0.2,at_risk,EMP060
+GOAL0319,EMP058,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-21,2026-06-29,2,1.0,52.3,0.1,at_risk,EMP060
+GOAL0320,EMP058,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-10,2026-06-13,50,29.3,58.6,0.1,at_risk,EMP060
+GOAL0321,EMP058,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-23,2026-06-04,200,113.3,56.7,0.15,at_risk,EMP060
+GOAL0322,EMP058,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-21,2026-06-10,80,47.7,59.7,0.1,at_risk,EMP060
+GOAL0323,EMP058,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-03,2026-06-08,10,6.8,67.9,0.25,at_risk,EMP060
+GOAL0324,EMP059,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-16,2026-06-28,2,1.4,72.1,0.15,on_track,EMP060
+GOAL0325,EMP059,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-17,2026-06-20,5,3.2,64.9,0.25,at_risk,EMP060
+GOAL0326,EMP059,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-29,2026-06-01,95,54.8,57.7,0.1,at_risk,EMP060
+GOAL0327,EMP059,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-23,2026-06-14,50,31.6,63.2,0.2,at_risk,EMP060
+GOAL0328,EMP059,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-02,2026-06-12,3,1.9,64.3,0.15,at_risk,EMP060
+GOAL0329,EMP059,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-11,2026-06-04,4,2.3,58.5,0.25,at_risk,EMP060
+GOAL0330,EMP060,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-18,2026-06-26,5,1.5,30.7,0.2,behind,EMP059
+GOAL0331,EMP060,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-25,2026-06-24,80,38.1,47.7,0.15,at_risk,EMP059
+GOAL0332,EMP060,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-08,2026-06-07,50,20.8,41.7,0.25,at_risk,EMP059
+GOAL0333,EMP060,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-06,2026-06-15,5,1.6,32.7,0.1,behind,EMP059
+GOAL0334,EMP060,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-03,2026-06-27,30,11.2,37.4,0.25,behind,EMP059
+GOAL0335,EMP061,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-04,2026-06-15,5,3.7,73.7,0.25,on_track,EMP059
+GOAL0336,EMP061,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-09,2026-06-09,4,2.7,68.1,0.25,at_risk,EMP059
+GOAL0337,EMP061,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-06,2026-06-23,20,13.0,64.8,0.1,at_risk,EMP059
+GOAL0338,EMP061,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-13,2026-06-19,2,1.3,63.8,0.15,at_risk,EMP059
+GOAL0339,EMP061,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-04,2026-06-04,3,1.5,51.1,0.15,at_risk,EMP059
+GOAL0340,EMP061,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-12,2026-06-28,4,3.0,75.9,0.1,on_track,EMP059
+GOAL0341,EMP061,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-07,2026-06-03,95,68.0,71.6,0.15,on_track,EMP059
+GOAL0342,EMP062,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-02,2026-06-09,50,12.0,23.9,0.1,behind,
+GOAL0343,EMP062,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-28,2026-06-04,20,9.7,48.3,0.15,at_risk,
+GOAL0344,EMP062,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-12,2026-06-17,95,47.2,49.7,0.1,at_risk,
+GOAL0345,EMP062,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-30,2026-06-02,5,1.5,30.3,0.1,behind,
+GOAL0346,EMP063,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-01,2026-06-09,4,1.7,42.8,0.15,at_risk,
+GOAL0347,EMP063,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-03,2026-06-14,50,25.0,49.9,0.15,at_risk,
+GOAL0348,EMP063,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-13,2026-06-25,20,10.6,53.1,0.15,at_risk,
+GOAL0349,EMP063,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-25,2026-06-22,5,2.1,41.2,0.1,at_risk,
+GOAL0350,EMP063,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-25,2026-05-31,50,15.0,29.9,0.25,behind,
+GOAL0351,EMP064,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-12,2026-06-17,4,3.9,98.3,0.15,on_track,
+GOAL0352,EMP064,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-23,2026-06-28,80,69.6,87.0,0.1,on_track,
+GOAL0353,EMP064,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-05,2026-06-26,20,19.2,95.8,0.1,on_track,
+GOAL0354,EMP064,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-31,2026-06-12,50,44.0,88.0,0.15,on_track,
+GOAL0355,EMP064,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-16,2026-06-01,4,3.5,88.5,0.2,on_track,
+GOAL0356,EMP065,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-29,2026-06-10,5,1.2,24.2,0.1,behind,
+GOAL0357,EMP065,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-15,2026-06-08,5,1.3,25.6,0.2,behind,
+GOAL0358,EMP065,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-26,2026-06-18,3,1.3,42.2,0.1,at_risk,
+GOAL0359,EMP065,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-20,2026-06-13,50,10.1,20.3,0.1,behind,
+GOAL0360,EMP065,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-19,2026-06-26,30,3.8,12.8,0.2,behind,
+GOAL0361,EMP065,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-22,2026-06-29,4,1.1,28.2,0.1,behind,
+GOAL0362,EMP065,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-15,2026-06-06,50,18.3,36.5,0.1,behind,
+GOAL0363,EMP066,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-08,2026-06-12,5,3.6,72.6,0.25,on_track,
+GOAL0364,EMP066,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-30,2026-06-25,50,32.9,65.8,0.25,at_risk,
+GOAL0365,EMP066,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-30,2026-06-06,2,1.2,62.0,0.25,at_risk,
+GOAL0366,EMP066,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-05,2026-06-28,50,33.5,67.1,0.2,at_risk,
+GOAL0367,EMP066,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-01,2026-06-01,10,6.1,60.7,0.15,at_risk,
+GOAL0368,EMP066,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-20,2026-06-01,80,47.9,59.9,0.2,at_risk,
+GOAL0369,EMP067,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-11,2026-06-10,200,152.7,76.3,0.2,on_track,
+GOAL0370,EMP067,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-18,2026-06-18,4,3.0,75.4,0.25,on_track,
+GOAL0371,EMP067,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-29,2026-06-27,10,6.7,67.0,0.15,at_risk,
+GOAL0372,EMP067,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-28,2026-06-09,3,2.0,68.1,0.2,at_risk,
+GOAL0373,EMP067,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-25,2026-06-17,50,36.1,72.3,0.15,on_track,
+GOAL0374,EMP068,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-11,2026-06-19,10,6.7,66.7,0.25,at_risk,
+GOAL0375,EMP068,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-17,2026-06-24,4,2.6,64.6,0.15,at_risk,
+GOAL0376,EMP068,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-09,2026-06-17,95,48.4,50.9,0.2,at_risk,
+GOAL0377,EMP068,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-03,2026-06-05,5,3.9,77.3,0.25,on_track,
+GOAL0378,EMP068,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-26,2026-06-07,20,12.8,64.0,0.1,at_risk,
+GOAL0379,EMP068,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-09,2026-06-25,4,2.3,56.9,0.1,at_risk,
+GOAL0380,EMP068,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-28,2026-06-29,80,55.0,68.7,0.1,at_risk,
+GOAL0381,EMP069,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-03,2026-06-29,2,1.5,74.6,0.25,on_track,
+GOAL0382,EMP069,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-21,2026-06-15,20,16.8,84.2,0.25,on_track,
+GOAL0383,EMP069,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-30,2026-06-10,5,4.3,86.7,0.2,on_track,
+GOAL0384,EMP069,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-10,2026-06-24,200,187.1,93.5,0.2,on_track,
+GOAL0385,EMP070,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-09,2026-06-27,95,58.5,61.6,0.1,at_risk,
+GOAL0386,EMP070,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-05,2026-06-18,2,1.1,55.0,0.1,at_risk,
+GOAL0387,EMP070,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-03,2026-06-17,5,2.9,57.2,0.1,at_risk,
+GOAL0388,EMP070,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-05,2026-06-06,4,2.2,55.3,0.15,at_risk,
+GOAL0389,EMP070,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-03,2026-06-26,3,1.7,57.6,0.2,at_risk,
+GOAL0390,EMP070,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-29,2026-06-26,5,3.3,66.2,0.15,at_risk,
+GOAL0391,EMP071,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-20,2026-06-30,50,26.7,53.4,0.15,at_risk,
+GOAL0392,EMP071,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-13,2026-06-28,5,3.6,73.0,0.1,on_track,
+GOAL0393,EMP071,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-26,2026-06-20,30,23.4,78.1,0.2,on_track,
+GOAL0394,EMP071,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-06,2026-06-20,10,7.2,72.2,0.15,on_track,
+GOAL0395,EMP072,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-04,2026-06-22,50,39.3,78.5,0.1,on_track,EMP073
+GOAL0396,EMP072,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-31,2026-06-28,5,4.6,91.1,0.2,on_track,EMP073
+GOAL0397,EMP072,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-01,2026-06-03,4,3.3,81.7,0.2,on_track,EMP073
+GOAL0398,EMP072,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-18,2026-06-11,50,47.7,95.3,0.2,on_track,EMP073
+GOAL0399,EMP072,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-04,2026-06-22,20,18.5,92.5,0.1,on_track,EMP073
+GOAL0400,EMP072,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-12,2026-06-06,2,1.9,92.8,0.1,on_track,EMP073
+GOAL0401,EMP073,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-04,2026-06-29,95,83.6,88.0,0.15,on_track,EMP072
+GOAL0402,EMP073,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-08,2026-06-02,50,46.2,92.4,0.1,on_track,EMP072
+GOAL0403,EMP073,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-06,2026-06-30,30,26.9,89.7,0.2,on_track,EMP072
+GOAL0404,EMP073,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-13,2026-06-10,2,1.6,78.1,0.15,on_track,EMP072
+GOAL0405,EMP074,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-23,2026-06-25,4,2.8,69.4,0.2,at_risk,EMP072
+GOAL0406,EMP074,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-03,2026-06-17,4,3.2,80.1,0.25,on_track,EMP072
+GOAL0407,EMP074,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-28,2026-06-19,5,3.7,74.3,0.25,on_track,EMP072
+GOAL0408,EMP074,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-17,2026-06-04,5,3.3,65.7,0.1,at_risk,EMP072
+GOAL0409,EMP074,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-21,2026-06-28,10,7.0,69.6,0.25,at_risk,EMP072
+GOAL0410,EMP074,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-21,2026-06-19,200,121.5,60.7,0.15,at_risk,EMP072
+GOAL0411,EMP075,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-19,2026-06-24,2,1.2,60.7,0.15,at_risk,
+GOAL0412,EMP075,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-03,2026-06-24,4,2.8,69.4,0.2,at_risk,
+GOAL0413,EMP075,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-28,2026-06-02,200,128.9,64.4,0.15,at_risk,
+GOAL0414,EMP075,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-14,2026-06-03,30,19.3,64.5,0.15,at_risk,
+GOAL0415,EMP075,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-24,2026-06-02,4,2.5,61.9,0.2,at_risk,
+GOAL0416,EMP075,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-01,2026-06-06,5,2.7,53.3,0.1,at_risk,
+GOAL0417,EMP075,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-23,2026-06-07,50,27.3,54.6,0.15,at_risk,
+GOAL0418,EMP076,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-07,2026-06-11,95,69.5,73.2,0.2,on_track,
+GOAL0419,EMP076,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-10,2026-06-21,4,3.1,77.5,0.25,on_track,
+GOAL0420,EMP076,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-31,2026-06-12,3,2.0,65.5,0.1,at_risk,
+GOAL0421,EMP076,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-27,2026-06-30,5,3.6,71.5,0.25,on_track,
+GOAL0422,EMP076,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-20,2026-06-05,4,2.7,66.3,0.15,at_risk,
+GOAL0423,EMP077,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-04,2026-05-31,5,4.4,87.6,0.2,on_track,
+GOAL0424,EMP077,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-24,2026-06-26,4,3.5,88.0,0.2,on_track,
+GOAL0425,EMP077,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-30,2026-06-03,5,4.1,82.8,0.2,on_track,
+GOAL0426,EMP077,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-06,2026-06-17,95,84.6,89.1,0.25,on_track,
+GOAL0427,EMP077,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-26,2026-06-13,2,1.9,94.6,0.2,on_track,
+GOAL0428,EMP078,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-30,2026-06-09,50,31.3,62.6,0.15,at_risk,
+GOAL0429,EMP078,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-05,2026-06-14,200,128.6,64.3,0.25,at_risk,
+GOAL0430,EMP078,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-21,2026-06-27,10,6.8,68.3,0.1,at_risk,
+GOAL0431,EMP078,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-11,2026-06-15,4,2.6,65.2,0.2,at_risk,
+GOAL0432,EMP078,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-02,2026-06-21,5,3.8,76.7,0.25,on_track,
+GOAL0433,EMP078,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-25,2026-06-08,2,1.3,67.3,0.15,at_risk,
+GOAL0434,EMP079,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-29,2026-06-28,50,45.4,90.9,0.15,on_track,
+GOAL0435,EMP079,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-21,2026-06-06,50,37.5,75.1,0.15,on_track,
+GOAL0436,EMP079,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-14,2026-06-10,4,3.8,95.1,0.2,on_track,
+GOAL0437,EMP079,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-10,2026-06-15,10,8.8,87.6,0.2,on_track,
+GOAL0438,EMP079,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-22,2026-06-15,5,4.1,82.1,0.25,on_track,
+GOAL0439,EMP079,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-19,2026-06-04,5,3.6,71.9,0.15,on_track,
+GOAL0440,EMP080,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-06,2026-06-07,50,22.6,45.2,0.1,at_risk,
+GOAL0441,EMP080,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-08,2026-06-08,95,17.1,18.0,0.15,behind,
+GOAL0442,EMP080,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-15,2026-06-13,5,2.3,45.4,0.2,at_risk,
+GOAL0443,EMP080,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-28,2026-06-03,10,2.3,23.5,0.15,behind,
+GOAL0444,EMP080,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-29,2026-06-08,4,1.6,40.1,0.2,at_risk,
+GOAL0445,EMP080,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-20,2026-06-24,5,1.7,34.7,0.25,behind,
+GOAL0446,EMP080,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-03,2026-06-12,20,9.4,47.1,0.2,at_risk,
+GOAL0447,EMP081,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-18,2026-06-20,30,12.2,40.5,0.25,at_risk,
+GOAL0448,EMP081,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-11,2026-06-16,200,51.8,25.9,0.1,behind,
+GOAL0449,EMP081,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-28,2026-06-06,20,9.9,49.4,0.1,at_risk,
+GOAL0450,EMP081,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-13,2026-06-07,5,1.5,29.9,0.25,behind,
+GOAL0451,EMP081,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-05,2026-06-06,50,23.2,46.4,0.15,at_risk,
+GOAL0452,EMP082,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-15,2026-06-26,2,0.5,26.9,0.25,behind,
+GOAL0453,EMP082,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-03,2026-06-12,5,2.3,45.2,0.25,at_risk,
+GOAL0454,EMP082,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-22,2026-06-17,95,43.3,45.5,0.1,at_risk,
+GOAL0455,EMP082,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-20,2026-06-09,5,2.2,43.8,0.15,at_risk,
+GOAL0456,EMP082,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-24,2026-06-14,20,8.2,41.2,0.2,at_risk,
+GOAL0457,EMP082,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-05,2026-06-30,50,24.8,49.6,0.1,at_risk,
+GOAL0458,EMP082,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-03,2026-06-26,5,2.5,50.8,0.15,at_risk,
+GOAL0459,EMP083,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-20,2026-06-04,4,0.7,16.7,0.2,behind,
+GOAL0460,EMP083,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-29,2026-06-16,3,1.1,37.6,0.1,behind,
+GOAL0461,EMP083,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-14,2026-06-07,10,4.9,48.6,0.15,at_risk,
+GOAL0462,EMP083,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-29,2026-06-12,50,23.0,46.0,0.1,at_risk,
+GOAL0463,EMP083,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-21,2026-06-01,50,17.3,34.6,0.2,behind,
+GOAL0464,EMP084,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-01,2026-05-31,200,90.0,45.0,0.1,at_risk,
+GOAL0465,EMP084,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-09,2026-06-04,30,16.2,54.0,0.1,at_risk,
+GOAL0466,EMP084,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-01,20,11.1,55.7,0.15,at_risk,
+GOAL0467,EMP084,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-03,2026-05-31,50,30.5,61.0,0.15,at_risk,
+GOAL0468,EMP084,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-11,2026-06-07,10,4.6,45.9,0.2,at_risk,
+GOAL0469,EMP084,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-09,2026-06-02,50,21.8,43.7,0.2,at_risk,
+GOAL0470,EMP085,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-14,2026-06-22,50,38.0,75.9,0.25,on_track,
+GOAL0471,EMP085,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-31,2026-06-21,5,3.8,76.6,0.1,on_track,
+GOAL0472,EMP085,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-25,2026-06-12,80,51.3,64.1,0.25,at_risk,
+GOAL0473,EMP085,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-06,2026-06-16,4,3.2,81.0,0.15,on_track,
+GOAL0474,EMP085,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-07,2026-06-04,5,4.0,79.1,0.1,on_track,
+GOAL0475,EMP086,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-31,2026-06-07,20,8.2,41.2,0.15,at_risk,
+GOAL0476,EMP086,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-18,2026-06-19,50,27.3,54.5,0.1,at_risk,
+GOAL0477,EMP086,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-26,2026-06-14,80,43.5,54.4,0.25,at_risk,
+GOAL0478,EMP086,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-03,2026-06-25,4,2.2,54.6,0.1,at_risk,
+GOAL0479,EMP086,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-27,2026-06-22,5,3.1,62.3,0.25,at_risk,
+GOAL0480,EMP086,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-04,2026-06-18,3,1.3,43.0,0.15,at_risk,
+GOAL0481,EMP087,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-20,2026-06-11,80,61.0,76.2,0.1,on_track,
+GOAL0482,EMP087,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-31,2026-06-05,5,3.3,65.9,0.2,at_risk,
+GOAL0483,EMP087,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-21,2026-06-11,3,1.8,59.3,0.25,at_risk,
+GOAL0484,EMP087,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-23,2026-06-02,50,33.4,66.8,0.1,at_risk,
+GOAL0485,EMP088,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-30,2026-06-10,4,2.6,65.0,0.1,at_risk,
+GOAL0486,EMP088,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-04,2026-06-09,5,4.3,85.1,0.15,on_track,
+GOAL0487,EMP088,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-07,2026-06-03,95,81.3,85.5,0.1,on_track,
+GOAL0488,EMP088,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-12,2026-06-26,50,36.7,73.4,0.1,on_track,
+GOAL0489,EMP088,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-11,2026-06-26,80,63.6,79.5,0.25,on_track,
+GOAL0490,EMP088,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-21,2026-06-29,30,23.7,78.8,0.15,on_track,
+GOAL0491,EMP088,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-12,2026-06-14,20,17.8,88.9,0.2,on_track,
+GOAL0492,EMP089,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-21,2026-06-14,5,4.0,79.8,0.1,on_track,
+GOAL0493,EMP089,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-18,2026-06-08,3,2.3,78.3,0.1,on_track,
+GOAL0494,EMP089,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-26,2026-06-23,20,12.5,62.7,0.25,at_risk,
+GOAL0495,EMP089,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-09,2026-06-09,30,19.3,64.2,0.25,at_risk,
+GOAL0496,EMP089,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-28,2026-06-06,5,4.1,81.3,0.1,on_track,
+GOAL0497,EMP090,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-18,2026-06-27,5,1.3,26.8,0.15,behind,
+GOAL0498,EMP090,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-19,2026-06-03,20,10.7,53.3,0.2,at_risk,
+GOAL0499,EMP090,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-21,2026-06-27,80,44.1,55.1,0.25,at_risk,
+GOAL0500,EMP090,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-04,2026-06-27,200,83.2,41.6,0.25,at_risk,
+GOAL0501,EMP090,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-17,2026-06-07,95,60.1,63.3,0.1,at_risk,
+GOAL0502,EMP090,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-08,2026-06-17,2,1.0,52.1,0.25,at_risk,
+GOAL0503,EMP091,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-20,2026-06-03,5,4.1,82.7,0.25,on_track,
+GOAL0504,EMP091,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-24,2026-06-16,5,3.3,66.2,0.2,at_risk,
+GOAL0505,EMP091,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-12,2026-06-01,80,68.5,85.7,0.25,on_track,
+GOAL0506,EMP091,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-05,2026-06-15,50,34.9,69.8,0.1,at_risk,
+GOAL0507,EMP091,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-27,2026-06-12,30,24.9,83.0,0.15,on_track,
+GOAL0508,EMP091,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-11,2026-06-23,4,4.0,99.5,0.25,on_track,
+GOAL0509,EMP091,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-20,2026-06-05,95,73.1,77.0,0.25,on_track,
+GOAL0510,EMP092,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-15,2026-05-31,4,3.0,73.8,0.2,on_track,
+GOAL0511,EMP092,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-24,2026-06-22,2,1.6,78.5,0.2,on_track,
+GOAL0512,EMP092,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-02,2026-06-02,200,135.8,67.9,0.1,at_risk,
+GOAL0513,EMP092,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-08,2026-06-13,50,34.5,69.0,0.25,at_risk,
+GOAL0514,EMP092,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-17,2026-06-30,4,3.1,77.9,0.15,on_track,
+GOAL0515,EMP092,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-26,2026-06-12,5,4.4,88.3,0.25,on_track,
+GOAL0516,EMP092,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-25,2026-06-16,95,70.5,74.2,0.15,on_track,
+GOAL0517,EMP093,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-02,2026-06-18,5,5.0,99.2,0.15,on_track,
+GOAL0518,EMP093,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-03,2026-06-19,50,45.1,90.1,0.2,on_track,
+GOAL0519,EMP093,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-18,2026-06-03,3,3.0,100,0.15,completed,
+GOAL0520,EMP093,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-11,2026-06-25,20,20.0,100,0.2,completed,
+GOAL0521,EMP094,Improve customer satisfaction by 5 points,Objective: Improve customer satisfaction by 5 points,business,2026-01-12,2026-05-31,5,4.4,87.4,0.2,on_track,
+GOAL0522,EMP094,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-07,2026-06-28,4,3.7,91.6,0.1,on_track,
+GOAL0523,EMP094,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-15,2026-06-30,50,39.2,78.5,0.15,on_track,
+GOAL0524,EMP094,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-22,2026-06-13,5,4.4,88.9,0.2,on_track,
+GOAL0525,EMP094,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-07,2026-06-29,3,2.5,83.3,0.1,on_track,
+GOAL0526,EMP094,Achieve 95% SLA compliance,Objective: Achieve 95% SLA compliance,business,2026-01-09,2026-06-27,95,93.6,98.6,0.25,on_track,
+GOAL0527,EMP095,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-15,2026-06-05,50,44.2,88.5,0.25,on_track,
+GOAL0528,EMP095,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-05,2026-06-11,10,8.2,81.8,0.15,on_track,
+GOAL0529,EMP095,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-05,2026-06-03,30,26.8,89.4,0.1,on_track,
+GOAL0530,EMP095,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-10,2026-06-08,5,3.8,76.4,0.1,on_track,
+GOAL0531,EMP095,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-22,2026-06-16,50,39.7,79.5,0.25,on_track,
+GOAL0532,EMP095,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-10,2026-06-28,200,153.3,76.6,0.2,on_track,
+GOAL0533,EMP096,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-17,2026-06-25,3,1.7,55.7,0.15,at_risk,
+GOAL0534,EMP096,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-08,2026-06-25,10,6.0,59.8,0.25,at_risk,
+GOAL0535,EMP096,Publish 4 technical articles,Objective: Publish 4 technical articles,learning,2026-01-04,2026-06-26,4,2.3,57.8,0.1,at_risk,
+GOAL0536,EMP096,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-24,2026-06-08,5,2.3,46.6,0.2,at_risk,
+GOAL0537,EMP096,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-05,2026-06-19,4,2.1,51.6,0.2,at_risk,
+GOAL0538,EMP097,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-15,2026-06-30,10,8.3,82.8,0.15,on_track,
+GOAL0539,EMP097,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-07,2026-06-15,2,1.9,96.0,0.2,on_track,
+GOAL0540,EMP097,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-09,2026-06-08,50,45.3,90.5,0.25,on_track,
+GOAL0541,EMP097,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-10,2026-06-22,5,4.0,80.7,0.2,on_track,
+GOAL0542,EMP097,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-16,2026-05-31,4,3.5,86.7,0.2,on_track,
+GOAL0543,EMP098,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-30,2026-06-03,50,22.6,45.2,0.25,at_risk,
+GOAL0544,EMP098,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-27,2026-06-01,200,31.4,15.7,0.2,behind,
+GOAL0545,EMP098,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-01,2026-06-19,20,5.9,29.3,0.15,behind,
+GOAL0546,EMP098,Generate 50 qualified leads,Objective: Generate 50 qualified leads,business,2026-01-04,2026-06-13,50,10.6,21.2,0.15,behind,
+GOAL0547,EMP098,Automate 5 manual processes,Objective: Automate 5 manual processes,project,2026-01-26,2026-06-28,5,1.4,28.4,0.2,behind,
+GOAL0548,EMP099,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-12,2026-06-02,4,3.3,81.5,0.25,on_track,
+GOAL0549,EMP099,Achieve revenue target of 50 lakhs,Objective: Achieve revenue target of 50 lakhs,business,2026-01-15,2026-06-11,50,42.9,85.8,0.1,on_track,
+GOAL0550,EMP099,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-13,2026-06-22,20,14.4,72.2,0.2,on_track,
+GOAL0551,EMP099,Reduce bug count by 30%,Objective: Reduce bug count by 30%,individual,2026-01-04,2026-06-06,30,27.6,92.1,0.2,on_track,
+GOAL0552,EMP099,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-16,2026-06-02,5,3.6,72.4,0.25,on_track,
+GOAL0553,EMP099,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-29,2026-06-04,200,158.0,79.0,0.1,on_track,
+GOAL0554,EMP099,Achieve 80% code coverage,Objective: Achieve 80% code coverage,individual,2026-01-25,2026-06-05,80,67.7,84.6,0.25,on_track,
+GOAL0555,EMP100,Reduce response time by 20%,Objective: Reduce response time by 20%,individual,2026-01-10,2026-06-23,20,10.1,50.7,0.15,at_risk,
+GOAL0556,EMP100,Mentor 3 junior developers,Objective: Mentor 3 junior developers,team,2026-01-13,2026-06-25,3,1.6,55.0,0.25,at_risk,
+GOAL0557,EMP100,Complete 10 training modules,Objective: Complete 10 training modules,learning,2026-01-19,2026-06-24,10,3.7,36.7,0.2,behind,
+GOAL0558,EMP100,Complete 4 cross-team collaborations,Objective: Complete 4 cross-team collaborations,team,2026-01-08,2026-06-27,4,1.7,41.8,0.15,at_risk,
+GOAL0559,EMP100,Complete 2 certifications,Objective: Complete 2 certifications,learning,2026-01-02,2026-06-21,2,1.1,57.4,0.2,at_risk,
+GOAL0560,EMP100,Deliver 5 feature releases,Objective: Deliver 5 feature releases,project,2026-01-27,2026-06-12,5,2.4,48.2,0.1,at_risk,
+GOAL0561,EMP100,Process 200 support tickets,Objective: Process 200 support tickets,individual,2026-01-14,2026-06-05,200,115.3,57.6,0.15,at_risk,

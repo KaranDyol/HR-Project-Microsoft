@@ -1,0 +1,13 @@
+kpi_id,kpi_name,description,measurement_type,default_direction,calculation_method
+KPI_TASK_COMPLETION,Task Completion,Percentage of assigned tasks completed,percentage,higher_is_better,completed_tasks / assigned_tasks * 100
+KPI_GOAL_ACHIEVEMENT,Goal Achievement,Weighted goal completion rate,percentage,higher_is_better,sum(goal_achievement * weight) / sum(weight)
+KPI_QUALITY,Quality,Quality score based on defect rate and rework,score,higher_is_better,100 - (defect_rate * severity_factor)
+KPI_ONTIME_DELIVERY,On-Time Delivery,Percentage of tasks completed on or before due date,percentage,higher_is_better,on_time_tasks / completed_tasks * 100
+KPI_ATTENDANCE,Attendance,Attendance rate excluding approved leaves,percentage,higher_is_better,present_days / scheduled_days * 100
+KPI_CUSTOMER_SAT,Customer Satisfaction,Average customer satisfaction rating,rating,higher_is_better,avg(customer_rating)
+KPI_REVENUE,Revenue Achievement,Revenue achieved vs target,percentage,higher_is_better,actual_revenue / target_revenue * 100
+KPI_SALES_CONVERSION,Sales Conversion,Lead to customer conversion rate,percentage,higher_is_better,conversions / leads * 100
+KPI_TECHNICAL_SKILL,Technical Skill,Technical proficiency assessment score,score,higher_is_better,avg(skill_assessment_scores)
+KPI_COLLABORATION,Collaboration,Peer and manager collaboration rating,rating,higher_is_better,avg(collaboration_ratings)
+KPI_LEARNING,Learning,Training completion and skill development,score,higher_is_better,training_completion * 0.6 + assessment_score * 0.4
+KPI_PROJECT_CONTRIBUTION,Project Contribution,Contribution to project outcomes,score,higher_is_better,avg(project_contribution_scores)

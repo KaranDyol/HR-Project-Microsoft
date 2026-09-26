@@ -1,0 +1,788 @@
+candidate_project_id,candidate_id,project_name,description,role,technologies,domain,duration_months,complexity,outcome,evidence_source
+CP0001,CAN001,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,3,low,completed,portfolio
+CP0002,CAN001,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,medium,partially_completed,documentation
+CP0003,CAN001,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,high,completed,github
+CP0004,CAN002,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,successful,resume
+CP0005,CAN002,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,7,low,partially_completed,resume
+CP0006,CAN002,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,low,successful,resume
+CP0007,CAN002,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,10,high,completed,portfolio
+CP0008,CAN003,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,9,medium,successful,portfolio
+CP0009,CAN003,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,9,medium,completed,github
+CP0010,CAN003,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,medium,successful,portfolio
+CP0011,CAN003,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,low,successful,resume
+CP0012,CAN004,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,high,partially_completed,portfolio
+CP0013,CAN004,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,very_high,completed,github
+CP0014,CAN004,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,6,high,successful,resume
+CP0015,CAN005,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,low,partially_completed,demo
+CP0016,CAN005,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,medium,completed,demo
+CP0017,CAN006,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,low,successful,demo
+CP0018,CAN006,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,completed,portfolio
+CP0019,CAN006,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,high,successful,demo
+CP0020,CAN006,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,6,medium,successful,demo
+CP0021,CAN007,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,low,successful,resume
+CP0022,CAN007,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,high,successful,demo
+CP0023,CAN007,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,4,medium,successful,github
+CP0024,CAN007,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,11,medium,successful,documentation
+CP0025,CAN008,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,high,successful,resume
+CP0026,CAN008,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,medium,successful,resume
+CP0027,CAN009,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,medium,successful,documentation
+CP0028,CAN009,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,high,successful,github
+CP0029,CAN009,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,high,completed,resume
+CP0030,CAN010,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,high,partially_completed,demo
+CP0031,CAN010,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,12,high,successful,resume
+CP0032,CAN010,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,high,completed,resume
+CP0033,CAN010,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,11,very_high,completed,portfolio
+CP0034,CAN011,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,medium,completed,resume
+CP0035,CAN011,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,10,high,completed,resume
+CP0036,CAN011,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,10,very_high,successful,documentation
+CP0037,CAN012,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,2,medium,completed,github
+CP0038,CAN013,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,very_high,completed,documentation
+CP0039,CAN013,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,8,medium,successful,documentation
+CP0040,CAN014,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,12,high,completed,demo
+CP0041,CAN014,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,high,completed,demo
+CP0042,CAN014,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,high,completed,demo
+CP0043,CAN014,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,medium,successful,resume
+CP0044,CAN015,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,10,low,completed,resume
+CP0045,CAN015,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,4,low,successful,portfolio
+CP0046,CAN015,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,12,low,successful,demo
+CP0047,CAN015,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,6,low,successful,github
+CP0048,CAN016,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,11,high,completed,resume
+CP0049,CAN017,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,completed,portfolio
+CP0050,CAN017,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,medium,successful,demo
+CP0051,CAN017,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,6,medium,completed,demo
+CP0052,CAN017,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,7,medium,successful,github
+CP0053,CAN018,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,low,successful,resume
+CP0054,CAN018,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,4,low,completed,portfolio
+CP0055,CAN018,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,4,medium,ongoing,github
+CP0056,CAN019,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,high,completed,portfolio
+CP0057,CAN019,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,low,successful,resume
+CP0058,CAN019,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,10,high,completed,resume
+CP0059,CAN020,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,very_high,successful,documentation
+CP0060,CAN021,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,11,medium,completed,portfolio
+CP0061,CAN022,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,low,successful,github
+CP0062,CAN022,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,medium,partially_completed,demo
+CP0063,CAN022,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,4,high,partially_completed,portfolio
+CP0064,CAN022,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,high,partially_completed,github
+CP0065,CAN023,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,10,medium,partially_completed,documentation
+CP0066,CAN023,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,4,high,successful,portfolio
+CP0067,CAN023,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,4,very_high,completed,portfolio
+CP0068,CAN024,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,3,high,successful,github
+CP0069,CAN024,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,medium,partially_completed,resume
+CP0070,CAN025,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,high,completed,documentation
+CP0071,CAN025,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,completed,documentation
+CP0072,CAN025,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,medium,completed,portfolio
+CP0073,CAN026,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,high,completed,documentation
+CP0074,CAN026,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,medium,ongoing,resume
+CP0075,CAN027,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,high,successful,github
+CP0076,CAN027,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,10,high,successful,documentation
+CP0077,CAN028,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,completed,documentation
+CP0078,CAN029,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,low,successful,resume
+CP0079,CAN030,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,12,medium,successful,portfolio
+CP0080,CAN030,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,7,high,successful,portfolio
+CP0081,CAN030,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,12,low,completed,github
+CP0082,CAN031,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,12,high,completed,resume
+CP0083,CAN032,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,6,low,successful,documentation
+CP0084,CAN033,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,11,medium,partially_completed,documentation
+CP0085,CAN033,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,6,medium,completed,demo
+CP0086,CAN034,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,8,low,completed,github
+CP0087,CAN035,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,high,successful,portfolio
+CP0088,CAN035,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,medium,completed,demo
+CP0089,CAN035,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,high,ongoing,github
+CP0090,CAN035,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,6,low,successful,demo
+CP0091,CAN036,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,high,partially_completed,portfolio
+CP0092,CAN036,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,4,high,partially_completed,resume
+CP0093,CAN036,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,3,medium,successful,documentation
+CP0094,CAN037,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,8,medium,successful,documentation
+CP0095,CAN038,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,medium,successful,documentation
+CP0096,CAN038,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,high,partially_completed,portfolio
+CP0097,CAN038,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,completed,documentation
+CP0098,CAN038,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,9,low,completed,documentation
+CP0099,CAN039,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,4,very_high,partially_completed,documentation
+CP0100,CAN039,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,6,high,successful,documentation
+CP0101,CAN040,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,high,successful,github
+CP0102,CAN041,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,low,partially_completed,portfolio
+CP0103,CAN041,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,4,medium,successful,portfolio
+CP0104,CAN042,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,partially_completed,portfolio
+CP0105,CAN042,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,8,high,successful,portfolio
+CP0106,CAN043,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,high,partially_completed,github
+CP0107,CAN043,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,low,completed,portfolio
+CP0108,CAN043,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,medium,successful,github
+CP0109,CAN044,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,high,completed,portfolio
+CP0110,CAN044,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,high,successful,demo
+CP0111,CAN044,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,2,low,completed,demo
+CP0112,CAN045,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,5,medium,completed,github
+CP0113,CAN045,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,low,completed,github
+CP0114,CAN046,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,8,high,successful,portfolio
+CP0115,CAN046,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,7,low,successful,portfolio
+CP0116,CAN046,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,low,completed,github
+CP0117,CAN046,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,9,high,completed,documentation
+CP0118,CAN047,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,10,medium,ongoing,documentation
+CP0119,CAN047,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,medium,successful,portfolio
+CP0120,CAN047,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,11,medium,completed,documentation
+CP0121,CAN048,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,7,low,ongoing,documentation
+CP0122,CAN049,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,high,completed,documentation
+CP0123,CAN049,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,6,low,completed,portfolio
+CP0124,CAN049,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,6,high,successful,portfolio
+CP0125,CAN049,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,medium,partially_completed,portfolio
+CP0126,CAN050,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,7,high,successful,resume
+CP0127,CAN050,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,high,partially_completed,demo
+CP0128,CAN050,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,11,low,successful,portfolio
+CP0129,CAN051,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,12,medium,successful,github
+CP0130,CAN051,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,high,completed,github
+CP0131,CAN051,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,low,partially_completed,github
+CP0132,CAN051,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,high,successful,demo
+CP0133,CAN052,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,medium,completed,portfolio
+CP0134,CAN053,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,medium,partially_completed,portfolio
+CP0135,CAN053,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,7,low,successful,portfolio
+CP0136,CAN054,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,6,medium,completed,github
+CP0137,CAN054,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,medium,successful,demo
+CP0138,CAN054,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,medium,successful,demo
+CP0139,CAN054,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,5,low,completed,documentation
+CP0140,CAN055,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,7,very_high,successful,portfolio
+CP0141,CAN055,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,medium,completed,documentation
+CP0142,CAN055,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,very_high,completed,resume
+CP0143,CAN055,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,9,low,successful,github
+CP0144,CAN056,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,low,ongoing,github
+CP0145,CAN057,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,2,high,completed,github
+CP0146,CAN057,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,3,high,completed,documentation
+CP0147,CAN057,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,3,high,completed,demo
+CP0148,CAN058,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,medium,successful,github
+CP0149,CAN058,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,10,low,completed,demo
+CP0150,CAN059,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,2,high,successful,resume
+CP0151,CAN060,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,high,successful,github
+CP0152,CAN060,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,4,high,completed,demo
+CP0153,CAN060,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,8,medium,completed,portfolio
+CP0154,CAN060,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,12,medium,ongoing,portfolio
+CP0155,CAN061,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,high,successful,resume
+CP0156,CAN062,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,high,ongoing,github
+CP0157,CAN062,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,successful,demo
+CP0158,CAN063,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,2,high,partially_completed,documentation
+CP0159,CAN063,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,11,low,successful,portfolio
+CP0160,CAN064,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,very_high,ongoing,portfolio
+CP0161,CAN064,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,7,low,completed,portfolio
+CP0162,CAN064,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,medium,successful,resume
+CP0163,CAN065,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,low,successful,github
+CP0164,CAN066,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,7,low,successful,demo
+CP0165,CAN066,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,10,high,successful,resume
+CP0166,CAN067,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,11,medium,completed,demo
+CP0167,CAN067,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,3,high,successful,resume
+CP0168,CAN067,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,medium,successful,github
+CP0169,CAN068,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,low,successful,demo
+CP0170,CAN068,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,9,medium,completed,demo
+CP0171,CAN068,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,very_high,successful,resume
+CP0172,CAN068,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,completed,portfolio
+CP0173,CAN069,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,12,low,successful,github
+CP0174,CAN069,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,10,high,successful,github
+CP0175,CAN069,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,7,low,completed,documentation
+CP0176,CAN070,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,3,medium,completed,resume
+CP0177,CAN070,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,partially_completed,github
+CP0178,CAN070,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,3,medium,successful,demo
+CP0179,CAN070,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,low,completed,resume
+CP0180,CAN071,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,high,ongoing,github
+CP0181,CAN071,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,high,successful,documentation
+CP0182,CAN072,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,high,successful,github
+CP0183,CAN072,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,4,medium,successful,documentation
+CP0184,CAN072,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,4,high,ongoing,github
+CP0185,CAN073,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,medium,partially_completed,portfolio
+CP0186,CAN073,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,7,low,completed,github
+CP0187,CAN073,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,medium,completed,resume
+CP0188,CAN073,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,7,medium,successful,github
+CP0189,CAN074,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,2,low,successful,documentation
+CP0190,CAN074,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,low,successful,portfolio
+CP0191,CAN074,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,high,successful,portfolio
+CP0192,CAN074,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,12,medium,successful,github
+CP0193,CAN075,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,high,partially_completed,documentation
+CP0194,CAN075,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,medium,partially_completed,github
+CP0195,CAN075,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,high,completed,demo
+CP0196,CAN075,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,12,low,successful,github
+CP0197,CAN076,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,7,low,partially_completed,demo
+CP0198,CAN076,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,medium,successful,portfolio
+CP0199,CAN076,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,9,low,successful,resume
+CP0200,CAN077,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,high,successful,demo
+CP0201,CAN077,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,low,completed,resume
+CP0202,CAN078,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,low,successful,documentation
+CP0203,CAN078,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,medium,partially_completed,documentation
+CP0204,CAN078,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,3,high,ongoing,portfolio
+CP0205,CAN079,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,medium,completed,resume
+CP0206,CAN079,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,2,high,successful,demo
+CP0207,CAN079,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,medium,successful,demo
+CP0208,CAN079,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,7,very_high,successful,resume
+CP0209,CAN080,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,low,completed,github
+CP0210,CAN080,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,8,very_high,partially_completed,resume
+CP0211,CAN080,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,medium,completed,resume
+CP0212,CAN081,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,medium,completed,resume
+CP0213,CAN081,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,low,successful,documentation
+CP0214,CAN081,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,9,low,completed,github
+CP0215,CAN082,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,medium,successful,portfolio
+CP0216,CAN082,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,high,successful,github
+CP0217,CAN082,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,8,high,successful,portfolio
+CP0218,CAN083,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,successful,github
+CP0219,CAN083,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,7,high,successful,github
+CP0220,CAN083,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,high,successful,documentation
+CP0221,CAN083,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,completed,resume
+CP0222,CAN084,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,medium,completed,github
+CP0223,CAN085,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,medium,successful,resume
+CP0224,CAN085,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,medium,completed,resume
+CP0225,CAN085,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,5,very_high,successful,documentation
+CP0226,CAN085,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,2,medium,successful,resume
+CP0227,CAN086,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,medium,successful,demo
+CP0228,CAN086,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,medium,completed,github
+CP0229,CAN086,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,3,medium,completed,resume
+CP0230,CAN086,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,successful,portfolio
+CP0231,CAN087,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,low,partially_completed,resume
+CP0232,CAN088,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,low,successful,portfolio
+CP0233,CAN089,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,medium,successful,resume
+CP0234,CAN089,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,successful,portfolio
+CP0235,CAN089,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,7,low,successful,portfolio
+CP0236,CAN089,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,high,completed,resume
+CP0237,CAN090,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,medium,completed,documentation
+CP0238,CAN090,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,7,medium,partially_completed,portfolio
+CP0239,CAN091,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,10,medium,partially_completed,resume
+CP0240,CAN091,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,high,successful,documentation
+CP0241,CAN091,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,high,completed,resume
+CP0242,CAN091,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,low,successful,documentation
+CP0243,CAN092,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,high,successful,github
+CP0244,CAN092,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,medium,completed,resume
+CP0245,CAN093,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,medium,completed,github
+CP0246,CAN093,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,4,low,completed,portfolio
+CP0247,CAN094,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,6,high,successful,portfolio
+CP0248,CAN094,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,high,completed,resume
+CP0249,CAN094,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,2,medium,successful,github
+CP0250,CAN095,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,medium,successful,portfolio
+CP0251,CAN095,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,12,medium,ongoing,demo
+CP0252,CAN095,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,high,completed,resume
+CP0253,CAN096,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,medium,successful,demo
+CP0254,CAN097,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,medium,ongoing,github
+CP0255,CAN097,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,medium,partially_completed,github
+CP0256,CAN097,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,high,successful,documentation
+CP0257,CAN097,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,2,high,successful,github
+CP0258,CAN098,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,7,high,successful,github
+CP0259,CAN098,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,high,successful,demo
+CP0260,CAN098,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,medium,successful,demo
+CP0261,CAN098,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,10,low,completed,resume
+CP0262,CAN099,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,medium,successful,documentation
+CP0263,CAN100,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,4,low,successful,github
+CP0264,CAN101,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,very_high,partially_completed,documentation
+CP0265,CAN101,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,6,medium,completed,resume
+CP0266,CAN102,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,8,low,successful,demo
+CP0267,CAN103,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,high,completed,resume
+CP0268,CAN103,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,9,high,successful,demo
+CP0269,CAN103,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,9,low,partially_completed,demo
+CP0270,CAN103,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,medium,successful,portfolio
+CP0271,CAN104,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,very_high,completed,documentation
+CP0272,CAN104,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,9,medium,completed,demo
+CP0273,CAN104,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,6,low,partially_completed,github
+CP0274,CAN104,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,very_high,successful,documentation
+CP0275,CAN105,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,medium,partially_completed,resume
+CP0276,CAN105,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,medium,successful,documentation
+CP0277,CAN105,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,medium,successful,resume
+CP0278,CAN105,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,low,successful,demo
+CP0279,CAN106,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,high,successful,resume
+CP0280,CAN106,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,5,high,successful,documentation
+CP0281,CAN106,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,very_high,completed,demo
+CP0282,CAN107,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,high,successful,demo
+CP0283,CAN108,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,3,high,completed,documentation
+CP0284,CAN108,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,6,high,completed,documentation
+CP0285,CAN109,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,4,medium,completed,github
+CP0286,CAN109,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,12,high,successful,github
+CP0287,CAN109,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,medium,successful,portfolio
+CP0288,CAN109,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,7,high,completed,documentation
+CP0289,CAN110,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,10,low,successful,documentation
+CP0290,CAN110,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,12,low,partially_completed,demo
+CP0291,CAN110,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,medium,successful,resume
+CP0292,CAN111,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,3,high,successful,demo
+CP0293,CAN111,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,4,low,completed,demo
+CP0294,CAN111,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,7,medium,successful,demo
+CP0295,CAN111,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,7,high,completed,resume
+CP0296,CAN112,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,4,low,completed,resume
+CP0297,CAN112,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,high,partially_completed,portfolio
+CP0298,CAN113,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,10,high,successful,demo
+CP0299,CAN113,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,very_high,completed,github
+CP0300,CAN114,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,7,medium,successful,documentation
+CP0301,CAN114,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,high,successful,documentation
+CP0302,CAN114,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,4,low,completed,portfolio
+CP0303,CAN114,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,successful,resume
+CP0304,CAN115,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,low,ongoing,demo
+CP0305,CAN115,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,6,low,successful,documentation
+CP0306,CAN115,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,11,high,partially_completed,resume
+CP0307,CAN115,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,very_high,completed,resume
+CP0308,CAN116,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,5,medium,successful,portfolio
+CP0309,CAN116,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,6,high,successful,documentation
+CP0310,CAN117,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,low,completed,documentation
+CP0311,CAN118,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,medium,successful,documentation
+CP0312,CAN118,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,very_high,partially_completed,demo
+CP0313,CAN119,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,low,partially_completed,demo
+CP0314,CAN119,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,high,partially_completed,github
+CP0315,CAN120,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,6,very_high,successful,demo
+CP0316,CAN120,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,2,high,ongoing,demo
+CP0317,CAN120,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,medium,partially_completed,github
+CP0318,CAN121,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,11,very_high,successful,portfolio
+CP0319,CAN121,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,3,medium,completed,github
+CP0320,CAN121,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,3,medium,successful,portfolio
+CP0321,CAN121,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,medium,ongoing,documentation
+CP0322,CAN122,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,8,medium,successful,documentation
+CP0323,CAN123,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,high,successful,documentation
+CP0324,CAN123,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,high,completed,resume
+CP0325,CAN123,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,medium,ongoing,resume
+CP0326,CAN124,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,6,medium,successful,demo
+CP0327,CAN124,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,high,successful,demo
+CP0328,CAN125,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,medium,successful,resume
+CP0329,CAN125,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,11,low,successful,documentation
+CP0330,CAN126,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,9,high,completed,resume
+CP0331,CAN127,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,very_high,partially_completed,portfolio
+CP0332,CAN128,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,low,successful,portfolio
+CP0333,CAN128,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,6,low,completed,github
+CP0334,CAN128,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,high,partially_completed,github
+CP0335,CAN129,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,medium,partially_completed,github
+CP0336,CAN129,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,12,medium,successful,demo
+CP0337,CAN130,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,12,medium,successful,github
+CP0338,CAN130,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,8,low,successful,portfolio
+CP0339,CAN130,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,low,partially_completed,portfolio
+CP0340,CAN131,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,medium,successful,resume
+CP0341,CAN131,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,low,successful,documentation
+CP0342,CAN132,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,successful,portfolio
+CP0343,CAN133,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,6,medium,successful,portfolio
+CP0344,CAN133,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,8,medium,successful,documentation
+CP0345,CAN133,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,8,very_high,completed,portfolio
+CP0346,CAN133,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,medium,successful,resume
+CP0347,CAN134,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,high,completed,demo
+CP0348,CAN134,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,very_high,successful,github
+CP0349,CAN135,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,9,low,completed,demo
+CP0350,CAN135,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,medium,successful,github
+CP0351,CAN135,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,medium,successful,demo
+CP0352,CAN136,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,6,low,successful,portfolio
+CP0353,CAN136,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,medium,partially_completed,resume
+CP0354,CAN137,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,medium,completed,demo
+CP0355,CAN137,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,high,successful,documentation
+CP0356,CAN138,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,9,high,completed,portfolio
+CP0357,CAN138,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,high,completed,documentation
+CP0358,CAN138,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,7,high,completed,documentation
+CP0359,CAN138,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,2,high,partially_completed,documentation
+CP0360,CAN139,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,7,high,completed,documentation
+CP0361,CAN139,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,medium,completed,documentation
+CP0362,CAN139,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,9,medium,completed,github
+CP0363,CAN140,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,12,medium,partially_completed,demo
+CP0364,CAN140,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,successful,demo
+CP0365,CAN140,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,medium,successful,documentation
+CP0366,CAN140,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,low,successful,documentation
+CP0367,CAN141,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,8,medium,partially_completed,demo
+CP0368,CAN141,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,high,successful,portfolio
+CP0369,CAN141,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,high,ongoing,github
+CP0370,CAN141,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,low,completed,documentation
+CP0371,CAN142,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,6,low,successful,documentation
+CP0372,CAN142,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,3,medium,successful,demo
+CP0373,CAN142,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,high,completed,documentation
+CP0374,CAN143,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,low,completed,portfolio
+CP0375,CAN144,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,6,low,completed,resume
+CP0376,CAN144,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,medium,successful,portfolio
+CP0377,CAN144,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,high,ongoing,github
+CP0378,CAN145,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,3,very_high,completed,resume
+CP0379,CAN145,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,medium,successful,demo
+CP0380,CAN146,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,low,completed,github
+CP0381,CAN146,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,7,high,partially_completed,demo
+CP0382,CAN146,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,high,partially_completed,github
+CP0383,CAN146,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,11,medium,ongoing,portfolio
+CP0384,CAN147,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,6,high,successful,portfolio
+CP0385,CAN147,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,9,medium,completed,portfolio
+CP0386,CAN147,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,4,low,completed,demo
+CP0387,CAN147,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,high,successful,portfolio
+CP0388,CAN148,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,very_high,successful,github
+CP0389,CAN148,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,high,completed,portfolio
+CP0390,CAN148,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,12,very_high,successful,demo
+CP0391,CAN149,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,low,successful,github
+CP0392,CAN149,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,11,high,successful,resume
+CP0393,CAN149,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,medium,completed,portfolio
+CP0394,CAN149,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,6,medium,successful,resume
+CP0395,CAN150,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,8,medium,completed,portfolio
+CP0396,CAN150,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,medium,partially_completed,github
+CP0397,CAN150,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,11,medium,partially_completed,portfolio
+CP0398,CAN151,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,high,successful,documentation
+CP0399,CAN151,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,medium,successful,github
+CP0400,CAN151,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,9,high,partially_completed,portfolio
+CP0401,CAN152,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,high,partially_completed,portfolio
+CP0402,CAN152,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,high,completed,documentation
+CP0403,CAN152,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,successful,github
+CP0404,CAN152,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,8,medium,successful,demo
+CP0405,CAN153,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,medium,completed,github
+CP0406,CAN153,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,7,medium,completed,portfolio
+CP0407,CAN153,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,12,medium,completed,portfolio
+CP0408,CAN153,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,7,medium,successful,demo
+CP0409,CAN154,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,medium,successful,demo
+CP0410,CAN154,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,9,medium,completed,portfolio
+CP0411,CAN155,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,low,partially_completed,portfolio
+CP0412,CAN156,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,medium,successful,demo
+CP0413,CAN156,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,medium,successful,portfolio
+CP0414,CAN157,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,2,very_high,successful,portfolio
+CP0415,CAN158,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,9,low,successful,portfolio
+CP0416,CAN158,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,4,medium,successful,documentation
+CP0417,CAN158,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,low,completed,resume
+CP0418,CAN159,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,low,completed,portfolio
+CP0419,CAN159,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,9,very_high,successful,github
+CP0420,CAN159,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,11,low,partially_completed,resume
+CP0421,CAN160,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,9,high,partially_completed,resume
+CP0422,CAN161,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,8,medium,partially_completed,github
+CP0423,CAN161,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,medium,successful,github
+CP0424,CAN161,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,3,high,partially_completed,portfolio
+CP0425,CAN162,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,low,successful,portfolio
+CP0426,CAN162,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,high,partially_completed,portfolio
+CP0427,CAN162,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,high,successful,resume
+CP0428,CAN163,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,2,high,completed,portfolio
+CP0429,CAN164,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,medium,successful,resume
+CP0430,CAN164,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,3,very_high,completed,portfolio
+CP0431,CAN164,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,high,successful,documentation
+CP0432,CAN165,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,low,successful,github
+CP0433,CAN166,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,very_high,successful,demo
+CP0434,CAN166,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,2,low,completed,demo
+CP0435,CAN166,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,medium,successful,documentation
+CP0436,CAN166,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,2,medium,completed,portfolio
+CP0437,CAN167,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,8,medium,completed,resume
+CP0438,CAN168,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,high,completed,demo
+CP0439,CAN168,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,low,successful,portfolio
+CP0440,CAN168,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,very_high,completed,github
+CP0441,CAN168,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,2,high,completed,demo
+CP0442,CAN169,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,low,completed,github
+CP0443,CAN169,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,very_high,successful,portfolio
+CP0444,CAN170,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,low,completed,demo
+CP0445,CAN170,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,high,completed,portfolio
+CP0446,CAN170,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,3,medium,completed,documentation
+CP0447,CAN170,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,high,successful,portfolio
+CP0448,CAN171,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,4,medium,successful,github
+CP0449,CAN171,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,8,medium,successful,demo
+CP0450,CAN172,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,low,completed,demo
+CP0451,CAN172,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,medium,successful,github
+CP0452,CAN173,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,very_high,completed,documentation
+CP0453,CAN174,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,high,ongoing,portfolio
+CP0454,CAN174,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,8,high,completed,documentation
+CP0455,CAN174,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,very_high,partially_completed,portfolio
+CP0456,CAN174,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,medium,successful,demo
+CP0457,CAN175,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,10,low,successful,demo
+CP0458,CAN175,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,2,medium,successful,resume
+CP0459,CAN175,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,high,successful,portfolio
+CP0460,CAN175,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,5,low,completed,documentation
+CP0461,CAN176,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,6,low,successful,documentation
+CP0462,CAN176,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,7,very_high,successful,github
+CP0463,CAN176,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,very_high,successful,documentation
+CP0464,CAN176,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,4,high,partially_completed,portfolio
+CP0465,CAN177,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,medium,successful,github
+CP0466,CAN177,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,7,medium,successful,github
+CP0467,CAN177,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,medium,successful,github
+CP0468,CAN177,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,low,ongoing,documentation
+CP0469,CAN178,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,3,medium,successful,github
+CP0470,CAN178,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,medium,successful,github
+CP0471,CAN179,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,high,completed,documentation
+CP0472,CAN179,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,4,medium,successful,resume
+CP0473,CAN179,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,high,partially_completed,demo
+CP0474,CAN179,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,10,high,completed,documentation
+CP0475,CAN180,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,2,medium,completed,github
+CP0476,CAN180,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,8,high,successful,demo
+CP0477,CAN181,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,5,high,partially_completed,documentation
+CP0478,CAN181,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,12,low,completed,documentation
+CP0479,CAN182,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,5,medium,partially_completed,documentation
+CP0480,CAN182,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,12,medium,successful,portfolio
+CP0481,CAN183,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,low,successful,documentation
+CP0482,CAN183,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,low,successful,resume
+CP0483,CAN183,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,high,successful,resume
+CP0484,CAN183,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,10,high,completed,portfolio
+CP0485,CAN184,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,7,low,successful,documentation
+CP0486,CAN184,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,12,medium,successful,github
+CP0487,CAN185,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,medium,ongoing,documentation
+CP0488,CAN185,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,11,low,partially_completed,portfolio
+CP0489,CAN185,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,high,partially_completed,resume
+CP0490,CAN185,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,12,medium,successful,resume
+CP0491,CAN186,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,low,successful,demo
+CP0492,CAN186,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,medium,ongoing,github
+CP0493,CAN186,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,9,medium,completed,github
+CP0494,CAN186,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,9,high,completed,documentation
+CP0495,CAN187,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,10,medium,successful,github
+CP0496,CAN187,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,low,completed,demo
+CP0497,CAN188,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,low,successful,github
+CP0498,CAN188,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,high,successful,documentation
+CP0499,CAN188,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,medium,successful,github
+CP0500,CAN189,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,medium,successful,documentation
+CP0501,CAN190,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,9,high,successful,demo
+CP0502,CAN190,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,high,completed,resume
+CP0503,CAN190,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,low,partially_completed,demo
+CP0504,CAN190,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,10,medium,completed,resume
+CP0505,CAN191,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,7,high,ongoing,github
+CP0506,CAN191,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,medium,completed,documentation
+CP0507,CAN191,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,5,high,successful,portfolio
+CP0508,CAN191,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,6,medium,successful,demo
+CP0509,CAN192,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,9,low,successful,documentation
+CP0510,CAN192,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,medium,completed,documentation
+CP0511,CAN193,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,6,medium,successful,resume
+CP0512,CAN194,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,3,medium,partially_completed,demo
+CP0513,CAN194,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,3,high,successful,demo
+CP0514,CAN194,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,7,high,successful,github
+CP0515,CAN194,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,3,high,partially_completed,documentation
+CP0516,CAN195,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,successful,resume
+CP0517,CAN195,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,11,medium,successful,portfolio
+CP0518,CAN195,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,10,very_high,successful,demo
+CP0519,CAN195,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,medium,successful,github
+CP0520,CAN196,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,medium,completed,portfolio
+CP0521,CAN196,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,medium,completed,portfolio
+CP0522,CAN197,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,medium,successful,resume
+CP0523,CAN197,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,3,medium,successful,portfolio
+CP0524,CAN197,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,8,high,successful,demo
+CP0525,CAN197,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,10,medium,ongoing,portfolio
+CP0526,CAN198,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,high,completed,github
+CP0527,CAN198,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,9,high,partially_completed,github
+CP0528,CAN198,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,high,completed,demo
+CP0529,CAN199,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,12,low,successful,documentation
+CP0530,CAN199,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,4,very_high,successful,documentation
+CP0531,CAN199,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,high,completed,documentation
+CP0532,CAN200,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,12,low,partially_completed,github
+CP0533,CAN200,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,low,successful,github
+CP0534,CAN201,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,10,low,successful,portfolio
+CP0535,CAN201,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,9,very_high,successful,demo
+CP0536,CAN201,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,12,low,completed,github
+CP0537,CAN201,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,medium,ongoing,documentation
+CP0538,CAN202,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,high,successful,github
+CP0539,CAN202,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,partially_completed,documentation
+CP0540,CAN203,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,low,successful,portfolio
+CP0541,CAN203,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,2,medium,completed,resume
+CP0542,CAN203,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,low,successful,documentation
+CP0543,CAN204,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,8,medium,partially_completed,github
+CP0544,CAN204,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,high,successful,demo
+CP0545,CAN204,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,low,completed,demo
+CP0546,CAN204,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,medium,successful,github
+CP0547,CAN205,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,12,low,ongoing,resume
+CP0548,CAN206,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,low,successful,demo
+CP0549,CAN206,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,7,low,successful,resume
+CP0550,CAN206,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,3,high,successful,documentation
+CP0551,CAN207,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,medium,completed,documentation
+CP0552,CAN207,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,6,medium,successful,demo
+CP0553,CAN208,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,8,medium,partially_completed,demo
+CP0554,CAN208,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,8,low,ongoing,github
+CP0555,CAN208,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,11,very_high,ongoing,github
+CP0556,CAN209,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,medium,successful,github
+CP0557,CAN210,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,10,low,partially_completed,github
+CP0558,CAN211,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,medium,completed,demo
+CP0559,CAN212,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,medium,completed,documentation
+CP0560,CAN212,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,low,successful,github
+CP0561,CAN212,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,8,low,successful,demo
+CP0562,CAN212,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,9,high,successful,documentation
+CP0563,CAN213,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,2,high,successful,resume
+CP0564,CAN214,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,5,medium,partially_completed,github
+CP0565,CAN214,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,7,high,partially_completed,portfolio
+CP0566,CAN215,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,4,high,successful,resume
+CP0567,CAN215,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,12,medium,partially_completed,portfolio
+CP0568,CAN215,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,8,medium,successful,resume
+CP0569,CAN216,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,medium,successful,demo
+CP0570,CAN216,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,low,completed,documentation
+CP0571,CAN216,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,10,high,successful,resume
+CP0572,CAN216,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,4,medium,partially_completed,demo
+CP0573,CAN217,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,10,very_high,partially_completed,portfolio
+CP0574,CAN217,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,high,successful,resume
+CP0575,CAN217,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,3,medium,partially_completed,portfolio
+CP0576,CAN217,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,low,successful,github
+CP0577,CAN218,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,medium,partially_completed,demo
+CP0578,CAN218,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,high,successful,github
+CP0579,CAN218,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,7,medium,successful,resume
+CP0580,CAN219,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,10,low,successful,demo
+CP0581,CAN219,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,8,high,successful,resume
+CP0582,CAN219,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,high,partially_completed,portfolio
+CP0583,CAN219,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,6,high,successful,github
+CP0584,CAN220,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,11,high,partially_completed,portfolio
+CP0585,CAN220,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,high,successful,documentation
+CP0586,CAN220,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,high,ongoing,resume
+CP0587,CAN221,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,10,medium,successful,resume
+CP0588,CAN222,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,medium,successful,github
+CP0589,CAN222,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,11,medium,successful,demo
+CP0590,CAN222,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,3,very_high,ongoing,documentation
+CP0591,CAN222,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,3,high,successful,resume
+CP0592,CAN223,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,5,medium,successful,portfolio
+CP0593,CAN224,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,low,completed,portfolio
+CP0594,CAN224,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,high,completed,documentation
+CP0595,CAN225,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,5,very_high,completed,github
+CP0596,CAN225,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,4,medium,successful,portfolio
+CP0597,CAN225,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,11,high,completed,resume
+CP0598,CAN225,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,7,high,ongoing,demo
+CP0599,CAN226,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,7,high,successful,github
+CP0600,CAN226,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,6,high,successful,resume
+CP0601,CAN227,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,9,medium,completed,documentation
+CP0602,CAN228,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,2,high,successful,github
+CP0603,CAN228,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,medium,partially_completed,demo
+CP0604,CAN228,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,high,successful,portfolio
+CP0605,CAN228,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,high,completed,demo
+CP0606,CAN229,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,9,low,completed,resume
+CP0607,CAN230,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,low,successful,github
+CP0608,CAN231,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,partially_completed,demo
+CP0609,CAN232,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,11,high,partially_completed,resume
+CP0610,CAN232,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,3,low,partially_completed,demo
+CP0611,CAN233,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,medium,successful,documentation
+CP0612,CAN233,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,low,successful,portfolio
+CP0613,CAN233,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,9,high,partially_completed,documentation
+CP0614,CAN233,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,low,successful,resume
+CP0615,CAN234,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,5,medium,successful,portfolio
+CP0616,CAN234,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,high,completed,documentation
+CP0617,CAN235,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,5,medium,successful,github
+CP0618,CAN235,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,medium,successful,documentation
+CP0619,CAN236,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,low,successful,resume
+CP0620,CAN236,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,4,low,successful,github
+CP0621,CAN237,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,5,low,successful,resume
+CP0622,CAN238,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,high,successful,github
+CP0623,CAN238,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,4,medium,completed,documentation
+CP0624,CAN238,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,medium,successful,github
+CP0625,CAN238,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,4,low,successful,resume
+CP0626,CAN239,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,5,low,completed,github
+CP0627,CAN239,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,11,very_high,ongoing,documentation
+CP0628,CAN239,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,7,low,partially_completed,github
+CP0629,CAN239,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,12,medium,successful,portfolio
+CP0630,CAN240,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,4,high,completed,demo
+CP0631,CAN240,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,medium,partially_completed,github
+CP0632,CAN240,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,high,completed,portfolio
+CP0633,CAN240,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,3,high,completed,portfolio
+CP0634,CAN241,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,3,high,successful,github
+CP0635,CAN242,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,high,successful,demo
+CP0636,CAN243,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,medium,completed,resume
+CP0637,CAN243,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,5,medium,successful,documentation
+CP0638,CAN244,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,medium,successful,github
+CP0639,CAN244,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,3,high,successful,demo
+CP0640,CAN244,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,2,high,completed,documentation
+CP0641,CAN244,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,9,medium,completed,demo
+CP0642,CAN245,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,11,very_high,ongoing,demo
+CP0643,CAN245,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,medium,completed,portfolio
+CP0644,CAN245,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,5,very_high,successful,github
+CP0645,CAN245,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,high,completed,portfolio
+CP0646,CAN246,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,9,high,completed,resume
+CP0647,CAN247,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,high,completed,documentation
+CP0648,CAN248,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,2,medium,completed,resume
+CP0649,CAN248,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,6,high,successful,github
+CP0650,CAN248,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,8,medium,partially_completed,resume
+CP0651,CAN248,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,3,high,completed,portfolio
+CP0652,CAN249,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,11,low,completed,portfolio
+CP0653,CAN250,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,high,completed,resume
+CP0654,CAN250,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,4,high,successful,github
+CP0655,CAN250,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,12,medium,successful,resume
+CP0656,CAN251,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,4,medium,ongoing,demo
+CP0657,CAN251,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,low,ongoing,documentation
+CP0658,CAN251,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,3,high,partially_completed,portfolio
+CP0659,CAN252,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,very_high,successful,portfolio
+CP0660,CAN253,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,low,partially_completed,documentation
+CP0661,CAN253,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,4,medium,successful,github
+CP0662,CAN253,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,6,high,partially_completed,documentation
+CP0663,CAN254,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,10,high,successful,github
+CP0664,CAN255,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,10,very_high,successful,resume
+CP0665,CAN255,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,medium,successful,github
+CP0666,CAN255,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,2,medium,successful,resume
+CP0667,CAN256,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,low,completed,resume
+CP0668,CAN257,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,4,high,completed,portfolio
+CP0669,CAN257,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,9,high,successful,documentation
+CP0670,CAN257,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,12,medium,successful,documentation
+CP0671,CAN257,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,medium,successful,github
+CP0672,CAN258,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,9,low,completed,demo
+CP0673,CAN258,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,8,medium,successful,documentation
+CP0674,CAN258,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,6,high,successful,demo
+CP0675,CAN259,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,high,successful,documentation
+CP0676,CAN259,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,low,completed,portfolio
+CP0677,CAN259,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,high,completed,portfolio
+CP0678,CAN260,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,medium,partially_completed,github
+CP0679,CAN260,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,8,high,partially_completed,portfolio
+CP0680,CAN260,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,6,high,completed,portfolio
+CP0681,CAN261,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,3,medium,successful,github
+CP0682,CAN261,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,successful,documentation
+CP0683,CAN262,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,12,medium,successful,resume
+CP0684,CAN262,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,5,medium,completed,github
+CP0685,CAN262,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,8,low,completed,resume
+CP0686,CAN262,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,5,high,successful,github
+CP0687,CAN263,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,6,medium,successful,portfolio
+CP0688,CAN263,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,medium,partially_completed,portfolio
+CP0689,CAN263,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,9,medium,completed,resume
+CP0690,CAN264,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,10,high,successful,demo
+CP0691,CAN264,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,2,high,completed,resume
+CP0692,CAN265,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,high,completed,documentation
+CP0693,CAN266,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,high,successful,portfolio
+CP0694,CAN266,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,11,high,completed,documentation
+CP0695,CAN266,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,2,high,successful,portfolio
+CP0696,CAN266,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,7,very_high,completed,github
+CP0697,CAN267,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,7,medium,completed,portfolio
+CP0698,CAN267,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,9,medium,successful,resume
+CP0699,CAN267,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,12,medium,successful,demo
+CP0700,CAN267,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,2,high,successful,portfolio
+CP0701,CAN268,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,high,successful,demo
+CP0702,CAN268,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,11,medium,successful,portfolio
+CP0703,CAN268,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,high,completed,github
+CP0704,CAN269,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,successful,documentation
+CP0705,CAN269,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,3,medium,successful,resume
+CP0706,CAN269,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,4,medium,successful,portfolio
+CP0707,CAN269,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,3,high,partially_completed,github
+CP0708,CAN270,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,low,successful,documentation
+CP0709,CAN270,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,6,low,successful,demo
+CP0710,CAN271,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,11,very_high,successful,portfolio
+CP0711,CAN271,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,3,high,partially_completed,github
+CP0712,CAN271,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,8,high,successful,demo
+CP0713,CAN271,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,12,low,completed,resume
+CP0714,CAN272,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,medium,successful,documentation
+CP0715,CAN273,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,4,medium,completed,github
+CP0716,CAN274,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,medium,successful,portfolio
+CP0717,CAN274,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,12,medium,partially_completed,demo
+CP0718,CAN274,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,5,low,completed,github
+CP0719,CAN275,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,medium,completed,resume
+CP0720,CAN276,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,6,low,completed,demo
+CP0721,CAN276,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,10,high,successful,github
+CP0722,CAN277,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,11,high,completed,resume
+CP0723,CAN277,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,10,medium,completed,documentation
+CP0724,CAN277,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,medium,successful,github
+CP0725,CAN277,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,11,medium,successful,documentation
+CP0726,CAN278,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,5,low,completed,github
+CP0727,CAN278,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,7,high,successful,portfolio
+CP0728,CAN279,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,8,medium,successful,github
+CP0729,CAN279,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,2,high,successful,documentation
+CP0730,CAN279,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,11,medium,partially_completed,resume
+CP0731,CAN280,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,10,medium,successful,documentation
+CP0732,CAN280,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,2,very_high,completed,resume
+CP0733,CAN280,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,medium,ongoing,demo
+CP0734,CAN281,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,3,high,successful,documentation
+CP0735,CAN282,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,6,very_high,completed,resume
+CP0736,CAN282,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,8,low,successful,documentation
+CP0737,CAN282,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,8,low,successful,portfolio
+CP0738,CAN283,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,9,high,successful,portfolio
+CP0739,CAN283,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,11,medium,partially_completed,github
+CP0740,CAN284,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,12,low,partially_completed,github
+CP0741,CAN284,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,medium,successful,github
+CP0742,CAN285,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,5,medium,successful,documentation
+CP0743,CAN285,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,5,medium,successful,resume
+CP0744,CAN285,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,7,medium,partially_completed,documentation
+CP0745,CAN285,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,8,high,successful,resume
+CP0746,CAN286,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,12,medium,completed,demo
+CP0747,CAN286,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,10,high,successful,resume
+CP0748,CAN286,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,2,high,completed,portfolio
+CP0749,CAN287,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,4,high,successful,resume
+CP0750,CAN287,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,very_high,successful,resume
+CP0751,CAN288,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,6,medium,completed,demo
+CP0752,CAN288,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,11,high,completed,resume
+CP0753,CAN288,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,9,medium,completed,github
+CP0754,CAN289,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,12,medium,successful,demo
+CP0755,CAN289,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,10,low,successful,resume
+CP0756,CAN289,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,7,high,successful,portfolio
+CP0757,CAN290,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,medium,partially_completed,github
+CP0758,CAN290,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,3,low,completed,documentation
+CP0759,CAN290,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,12,high,successful,portfolio
+CP0760,CAN290,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,11,low,completed,portfolio
+CP0761,CAN291,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,2,medium,partially_completed,github
+CP0762,CAN291,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,6,medium,successful,portfolio
+CP0763,CAN292,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,11,low,completed,github
+CP0764,CAN292,Mobile Banking App,Developed a secure mobile banking application,Mobile Developer,"React Native,Node.js,PostgreSQL",Finance,3,high,successful,documentation
+CP0765,CAN293,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,high,completed,documentation
+CP0766,CAN293,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,8,low,successful,portfolio
+CP0767,CAN293,CRM Dashboard,Created an analytics dashboard for sales team performance tracking,Frontend Developer,"React,TypeScript,D3.js,REST API",Business,8,medium,completed,github
+CP0768,CAN293,Healthcare Portal,Patient management and appointment scheduling system,Full Stack Developer,"Django,React,PostgreSQL,Docker",Healthcare,8,high,successful,portfolio
+CP0769,CAN294,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,11,medium,successful,resume
+CP0770,CAN294,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,5,high,successful,documentation
+CP0771,CAN295,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,medium,completed,github
+CP0772,CAN295,Network Monitoring Tool,Real-time network monitoring and alerting system,DevOps Engineer,"Python,Prometheus,Grafana,Docker",Infrastructure,6,high,successful,github
+CP0773,CAN295,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,6,medium,successful,portfolio
+CP0774,CAN296,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,4,high,completed,demo
+CP0775,CAN296,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,medium,successful,documentation
+CP0776,CAN296,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,9,very_high,completed,github
+CP0777,CAN296,Real-time Chat Application,Developed a WebSocket-based chat application with group messaging,Full Stack Developer,"Node.js,React,MongoDB,Socket.io",Communication,7,high,successful,resume
+CP0778,CAN297,CI/CD Pipeline Automation,Automated build-test-deploy pipelines for microservices,DevOps Engineer,"Jenkins,Docker,Kubernetes,Terraform",Infrastructure,5,medium,completed,resume
+CP0779,CAN298,API Gateway Service,Built a centralized API gateway with rate limiting and auth,Backend Developer,"Go,Redis,Docker,Kubernetes",Technology,4,high,successful,demo
+CP0780,CAN298,E-commerce Platform,Built a full-stack e-commerce platform with payment integration,Backend Developer,"Python,Django,PostgreSQL,Redis",E-commerce,8,very_high,successful,github
+CP0781,CAN298,Social Media Analytics,Built a data pipeline for social media sentiment analysis,Data Engineer,"Python,Kafka,Spark,Elasticsearch",Media,12,high,completed,documentation
+CP0782,CAN298,Content Management System,Custom CMS for managing digital content and publishing,Full Stack Developer,"Django,React,AWS S3,Elasticsearch",Media,2,low,successful,demo
+CP0783,CAN299,ML Recommendation Engine,Built a collaborative filtering recommendation system,ML Engineer,"Python,TensorFlow,AWS,PostgreSQL",Technology,4,medium,completed,documentation
+CP0784,CAN299,Sales Forecasting Model,ML-based sales prediction model with 92% accuracy,Data Scientist,"Python,Scikit-learn,Pandas,Tableau",Business,5,very_high,completed,portfolio
+CP0785,CAN300,HR Onboarding System,Automated employee onboarding workflow system,Software Engineer,"Python,FastAPI,React,PostgreSQL",HR,2,high,successful,portfolio
+CP0786,CAN300,Inventory Management System,Designed and built an inventory tracking system,Software Engineer,"Java,Spring Boot,MySQL,React",Manufacturing,3,medium,successful,documentation
+CP0787,CAN300,Customer Support Bot,AI-powered customer support chatbot with NLP,ML Engineer,"Python,NLP,FastAPI,React",Customer Service,3,low,partially_completed,resume

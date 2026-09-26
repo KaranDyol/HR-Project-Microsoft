@@ -1,0 +1,225 @@
+job_requirement_id,job_id,skill_id,required_proficiency,required_proficiency_score,weight,is_mandatory,requirement_type,minimum_years,description
+JR0001,JOB001,SKILL_093,Expert,95,0.19,true,required,3,Proficiency in Compensation and Benefits
+JR0002,JOB001,SKILL_070,Advanced,80,0.14,true,required,3,Proficiency in Communication
+JR0003,JOB001,SKILL_094,Expert,95,0.17,true,required,1,Proficiency in Performance Management
+JR0004,JOB001,SKILL_075,Basic,40,0.16,false,preferred,1,Proficiency in Time Management
+JR0005,JOB001,SKILL_072,Basic,40,0.16,false,preferred,1,Proficiency in Teamwork
+JR0006,JOB001,SKILL_091,Beginner,25,0.18,false,preferred,0,Proficiency in Talent Acquisition
+JR0007,JOB002,SKILL_071,Advanced,80,0.16,true,required,4,Proficiency in Leadership
+JR0008,JOB002,SKILL_079,Expert,95,0.11,true,required,3,Proficiency in Mentoring
+JR0009,JOB002,SKILL_063,Advanced,80,0.2,true,required,1,Proficiency in Agile Methodology
+JR0010,JOB002,SKILL_072,Advanced,80,0.2,false,preferred,2,Proficiency in Teamwork
+JR0011,JOB002,SKILL_115,Advanced,80,0.22,false,preferred,0,Proficiency in System Design
+JR0012,JOB002,SKILL_152,Beginner,25,0.11,false,preferred,2,Proficiency in Stakeholder Management
+JR0013,JOB003,SKILL_050,Advanced,80,0.09,true,required,1,Proficiency in Statistical Modeling
+JR0014,JOB003,SKILL_014,Intermediate,60,0.13,true,required,3,Proficiency in R
+JR0015,JOB003,SKILL_155,Intermediate,60,0.08,true,required,1,Proficiency in Data Visualization
+JR0016,JOB003,SKILL_135,Intermediate,60,0.19,true,required,4,Proficiency in Data Modeling
+JR0017,JOB003,SKILL_051,Advanced,80,0.11,false,preferred,0,Proficiency in TensorFlow
+JR0018,JOB003,SKILL_045,Intermediate,60,0.12,false,preferred,2,Proficiency in Machine Learning
+JR0019,JOB003,SKILL_055,Basic,40,0.15,false,preferred,1,Proficiency in Apache Spark
+JR0020,JOB003,SKILL_053,Basic,40,0.13,false,preferred,2,Proficiency in Pandas
+JR0021,JOB004,SKILL_037,Expert,95,0.12,true,required,3,Proficiency in Microsoft Azure
+JR0022,JOB004,SKILL_128,Intermediate,60,0.14,true,required,2,Proficiency in Microservices Architecture
+JR0023,JOB004,SKILL_038,Expert,95,0.06,true,required,4,Proficiency in Google Cloud Platform
+JR0024,JOB004,SKILL_044,Expert,95,0.11,true,required,3,Proficiency in Ansible
+JR0025,JOB004,SKILL_042,Basic,40,0.16,false,preferred,1,Proficiency in Terraform
+JR0026,JOB004,SKILL_109,Advanced,80,0.13,false,preferred,2,Proficiency in Networking
+JR0027,JOB004,SKILL_110,Intermediate,60,0.12,false,preferred,0,Proficiency in System Administration
+JR0028,JOB004,SKILL_039,Advanced,80,0.16,false,preferred,1,Proficiency in Docker
+JR0029,JOB005,SKILL_086,Intermediate,60,0.16,true,required,1,Proficiency in Salesforce
+JR0030,JOB005,SKILL_144,Intermediate,60,0.09,true,required,1,Proficiency in Customer Relationship Management
+JR0031,JOB005,SKILL_085,Intermediate,60,0.13,true,required,3,Proficiency in CRM Systems
+JR0032,JOB005,SKILL_077,Beginner,25,0.2,false,preferred,0,Proficiency in Negotiation
+JR0033,JOB005,SKILL_075,Advanced,80,0.08,false,preferred,1,Proficiency in Time Management
+JR0034,JOB005,SKILL_076,Intermediate,60,0.18,false,preferred,0,Proficiency in Presentation Skills
+JR0035,JOB005,SKILL_070,Advanced,80,0.16,false,preferred,2,Proficiency in Communication
+JR0036,JOB006,SKILL_109,Expert,95,0.1,true,required,2,Proficiency in Networking
+JR0037,JOB006,SKILL_062,Expert,95,0.07,true,required,1,Proficiency in Identity and Access Management
+JR0038,JOB006,SKILL_150,Advanced,80,0.19,true,required,3,Proficiency in Compliance Management
+JR0039,JOB006,SKILL_111,Expert,95,0.1,true,required,1,Proficiency in Linux
+JR0040,JOB006,SKILL_001,Advanced,80,0.1,false,preferred,1,Proficiency in Python
+JR0041,JOB006,SKILL_061,Beginner,25,0.16,false,preferred,1,Proficiency in OWASP Security
+JR0042,JOB006,SKILL_059,Beginner,25,0.12,false,preferred,0,Proficiency in Network Security
+JR0043,JOB006,SKILL_060,Basic,40,0.07,false,preferred,0,Proficiency in Penetration Testing
+JR0044,JOB006,SKILL_058,Intermediate,60,0.09,false,preferred,2,Proficiency in Cybersecurity
+JR0045,JOB007,SKILL_119,Expert,95,0.12,true,required,2,Proficiency in Unit Testing
+JR0046,JOB007,SKILL_068,Advanced,80,0.23,true,required,1,Proficiency in JIRA
+JR0047,JOB007,SKILL_003,Intermediate,60,0.18,true,required,2,Proficiency in JavaScript
+JR0048,JOB007,SKILL_120,Intermediate,60,0.14,false,preferred,2,Proficiency in Integration Testing
+JR0049,JOB007,SKILL_027,Basic,40,0.1,false,preferred,2,Proficiency in SQL
+JR0050,JOB007,SKILL_121,Intermediate,60,0.09,false,preferred,1,Proficiency in Selenium
+JR0051,JOB007,SKILL_100,Beginner,25,0.14,false,preferred,1,Proficiency in Quality Assurance
+JR0052,JOB008,SKILL_044,Expert,95,0.25,true,required,4,Proficiency in Ansible
+JR0053,JOB008,SKILL_127,Expert,95,0.12,true,required,2,Proficiency in Git/Version Control
+JR0054,JOB008,SKILL_111,Intermediate,60,0.22,true,required,3,Proficiency in Linux
+JR0055,JOB008,SKILL_038,Beginner,25,0.2,false,preferred,2,Proficiency in Google Cloud Platform
+JR0056,JOB008,SKILL_039,Intermediate,60,0.1,false,preferred,0,Proficiency in Docker
+JR0057,JOB008,SKILL_040,Advanced,80,0.11,false,preferred,0,Proficiency in Kubernetes
+JR0058,JOB009,SKILL_040,Intermediate,60,0.08,true,required,2,Proficiency in Kubernetes
+JR0059,JOB009,SKILL_025,Expert,95,0.12,true,required,2,Proficiency in REST API Design
+JR0060,JOB009,SKILL_023,Advanced,80,0.11,true,required,1,Proficiency in Spring Boot
+JR0061,JOB009,SKILL_030,Advanced,80,0.2,true,required,3,Proficiency in MongoDB
+JR0062,JOB009,SKILL_026,Beginner,25,0.08,false,preferred,0,Proficiency in GraphQL
+JR0063,JOB009,SKILL_127,Basic,40,0.11,false,preferred,2,Proficiency in Git/Version Control
+JR0064,JOB009,SKILL_031,Basic,40,0.1,false,preferred,1,Proficiency in Redis
+JR0065,JOB009,SKILL_021,Intermediate,60,0.12,false,preferred,1,Proficiency in Flask
+JR0066,JOB009,SKILL_041,Intermediate,60,0.08,false,preferred,0,Proficiency in CI/CD Pipelines
+JR0067,JOB010,SKILL_155,Expert,95,0.13,true,required,4,Proficiency in Data Visualization
+JR0068,JOB010,SKILL_090,Advanced,80,0.23,true,required,1,Proficiency in Brand Management
+JR0069,JOB010,SKILL_089,Advanced,80,0.22,true,required,3,Proficiency in Content Marketing
+JR0070,JOB010,SKILL_136,Beginner,25,0.12,false,preferred,1,Proficiency in Google Analytics
+JR0071,JOB010,SKILL_087,Advanced,80,0.19,false,preferred,1,Proficiency in Digital Marketing
+JR0072,JOB010,SKILL_069,Beginner,25,0.11,false,preferred,0,Proficiency in Product Management
+JR0073,JOB011,SKILL_061,Intermediate,60,0.08,true,required,2,Proficiency in OWASP Security
+JR0074,JOB011,SKILL_059,Expert,95,0.16,true,required,2,Proficiency in Network Security
+JR0075,JOB011,SKILL_001,Advanced,80,0.14,true,required,2,Proficiency in Python
+JR0076,JOB011,SKILL_150,Advanced,80,0.12,true,required,3,Proficiency in Compliance Management
+JR0077,JOB011,SKILL_062,Intermediate,60,0.13,false,preferred,1,Proficiency in Identity and Access Management
+JR0078,JOB011,SKILL_111,Advanced,80,0.07,false,preferred,1,Proficiency in Linux
+JR0079,JOB011,SKILL_060,Advanced,80,0.15,false,preferred,0,Proficiency in Penetration Testing
+JR0080,JOB011,SKILL_058,Basic,40,0.09,false,preferred,2,Proficiency in Cybersecurity
+JR0081,JOB011,SKILL_109,Intermediate,60,0.06,false,preferred,0,Proficiency in Networking
+JR0082,JOB012,SKILL_069,Expert,95,0.13,true,required,2,Proficiency in Product Management
+JR0083,JOB012,SKILL_070,Advanced,80,0.07,true,required,3,Proficiency in Communication
+JR0084,JOB012,SKILL_088,Expert,95,0.07,true,required,2,Proficiency in SEO/SEM
+JR0085,JOB012,SKILL_155,Expert,95,0.18,true,required,3,Proficiency in Data Visualization
+JR0086,JOB012,SKILL_083,Beginner,25,0.2,false,preferred,0,Proficiency in Market Analysis
+JR0087,JOB012,SKILL_136,Basic,40,0.1,false,preferred,0,Proficiency in Google Analytics
+JR0088,JOB012,SKILL_090,Basic,40,0.11,false,preferred,1,Proficiency in Brand Management
+JR0089,JOB012,SKILL_087,Beginner,25,0.14,false,preferred,0,Proficiency in Digital Marketing
+JR0090,JOB013,SKILL_070,Intermediate,60,0.07,true,required,3,Proficiency in Communication
+JR0091,JOB013,SKILL_115,Expert,95,0.15,true,required,2,Proficiency in System Design
+JR0092,JOB013,SKILL_075,Expert,95,0.17,true,required,1,Proficiency in Time Management
+JR0093,JOB013,SKILL_153,Basic,40,0.12,false,preferred,2,Proficiency in Strategic Planning
+JR0094,JOB013,SKILL_152,Intermediate,60,0.21,false,preferred,1,Proficiency in Stakeholder Management
+JR0095,JOB013,SKILL_063,Advanced,80,0.09,false,preferred,1,Proficiency in Agile Methodology
+JR0096,JOB013,SKILL_079,Advanced,80,0.19,false,preferred,1,Proficiency in Mentoring
+JR0097,JOB014,SKILL_100,Intermediate,60,0.2,true,required,1,Proficiency in Quality Assurance
+JR0098,JOB014,SKILL_122,Intermediate,60,0.1,true,required,2,Proficiency in Performance Testing
+JR0099,JOB014,SKILL_119,Advanced,80,0.17,true,required,3,Proficiency in Unit Testing
+JR0100,JOB014,SKILL_063,Beginner,25,0.25,false,preferred,1,Proficiency in Agile Methodology
+JR0101,JOB014,SKILL_120,Beginner,25,0.11,false,preferred,2,Proficiency in Integration Testing
+JR0102,JOB014,SKILL_123,Advanced,80,0.17,false,preferred,1,Proficiency in Test Automation
+JR0103,JOB015,SKILL_155,Advanced,80,0.21,true,required,3,Proficiency in Data Visualization
+JR0104,JOB015,SKILL_089,Expert,95,0.21,true,required,2,Proficiency in Content Marketing
+JR0105,JOB015,SKILL_136,Advanced,80,0.1,true,required,4,Proficiency in Google Analytics
+JR0106,JOB015,SKILL_087,Beginner,25,0.17,false,preferred,0,Proficiency in Digital Marketing
+JR0107,JOB015,SKILL_070,Basic,40,0.1,false,preferred,2,Proficiency in Communication
+JR0108,JOB015,SKILL_088,Advanced,80,0.21,false,preferred,2,Proficiency in SEO/SEM
+JR0109,JOB016,SKILL_071,Advanced,80,0.09,true,required,2,Proficiency in Leadership
+JR0110,JOB016,SKILL_153,Expert,95,0.11,true,required,3,Proficiency in Strategic Planning
+JR0111,JOB016,SKILL_079,Advanced,80,0.13,true,required,1,Proficiency in Mentoring
+JR0112,JOB016,SKILL_063,Expert,95,0.14,true,required,3,Proficiency in Agile Methodology
+JR0113,JOB016,SKILL_067,Advanced,80,0.06,false,preferred,1,Proficiency in Project Management
+JR0114,JOB016,SKILL_072,Basic,40,0.1,false,preferred,1,Proficiency in Teamwork
+JR0115,JOB016,SKILL_152,Intermediate,60,0.15,false,preferred,1,Proficiency in Stakeholder Management
+JR0116,JOB016,SKILL_070,Basic,40,0.09,false,preferred,2,Proficiency in Communication
+JR0117,JOB016,SKILL_075,Intermediate,60,0.13,false,preferred,0,Proficiency in Time Management
+JR0118,JOB017,SKILL_063,Advanced,80,0.18,true,required,4,Proficiency in Agile Methodology
+JR0119,JOB017,SKILL_079,Advanced,80,0.09,true,required,2,Proficiency in Mentoring
+JR0120,JOB017,SKILL_153,Expert,95,0.16,true,required,1,Proficiency in Strategic Planning
+JR0121,JOB017,SKILL_067,Basic,40,0.19,false,preferred,1,Proficiency in Project Management
+JR0122,JOB017,SKILL_115,Basic,40,0.13,false,preferred,0,Proficiency in System Design
+JR0123,JOB017,SKILL_070,Beginner,25,0.25,false,preferred,0,Proficiency in Communication
+JR0124,JOB018,SKILL_041,Expert,95,0.1,true,required,4,Proficiency in CI/CD Pipelines
+JR0125,JOB018,SKILL_109,Intermediate,60,0.08,true,required,4,Proficiency in Networking
+JR0126,JOB018,SKILL_110,Advanced,80,0.1,true,required,2,Proficiency in System Administration
+JR0127,JOB018,SKILL_036,Expert,95,0.08,true,required,1,Proficiency in AWS
+JR0128,JOB018,SKILL_043,Advanced,80,0.1,true,required,3,Proficiency in Jenkins
+JR0129,JOB018,SKILL_042,Beginner,25,0.1,false,preferred,2,Proficiency in Terraform
+JR0130,JOB018,SKILL_044,Basic,40,0.12,false,preferred,1,Proficiency in Ansible
+JR0131,JOB018,SKILL_133,Intermediate,60,0.11,false,preferred,0,Proficiency in Apache Kafka
+JR0132,JOB018,SKILL_037,Advanced,80,0.09,false,preferred,1,Proficiency in Microsoft Azure
+JR0133,JOB018,SKILL_039,Basic,40,0.12,false,preferred,2,Proficiency in Docker
+JR0134,JOB019,SKILL_085,Intermediate,60,0.1,true,required,3,Proficiency in CRM Systems
+JR0135,JOB019,SKILL_070,Expert,95,0.15,true,required,3,Proficiency in Communication
+JR0136,JOB019,SKILL_148,Expert,95,0.16,true,required,2,Proficiency in Service Level Management
+JR0137,JOB019,SKILL_144,Advanced,80,0.15,false,preferred,2,Proficiency in Customer Relationship Management
+JR0138,JOB019,SKILL_147,Beginner,25,0.13,false,preferred,2,Proficiency in Issue Resolution
+JR0139,JOB019,SKILL_073,Intermediate,60,0.09,false,preferred,0,Proficiency in Problem Solving
+JR0140,JOB019,SKILL_146,Basic,40,0.22,false,preferred,1,Proficiency in Empathy
+JR0141,JOB020,SKILL_085,Advanced,80,0.09,true,required,2,Proficiency in CRM Systems
+JR0142,JOB020,SKILL_071,Intermediate,60,0.13,true,required,3,Proficiency in Leadership
+JR0143,JOB020,SKILL_152,Intermediate,60,0.09,true,required,1,Proficiency in Stakeholder Management
+JR0144,JOB020,SKILL_083,Advanced,80,0.16,true,required,4,Proficiency in Market Analysis
+JR0145,JOB020,SKILL_086,Advanced,80,0.12,false,preferred,2,Proficiency in Salesforce
+JR0146,JOB020,SKILL_153,Advanced,80,0.16,false,preferred,1,Proficiency in Strategic Planning
+JR0147,JOB020,SKILL_077,Intermediate,60,0.13,false,preferred,0,Proficiency in Negotiation
+JR0148,JOB020,SKILL_070,Advanced,80,0.12,false,preferred,2,Proficiency in Communication
+JR0149,JOB021,SKILL_083,Advanced,80,0.21,true,required,3,Proficiency in Market Analysis
+JR0150,JOB021,SKILL_049,Intermediate,60,0.19,true,required,1,Proficiency in Data Analysis
+JR0151,JOB021,SKILL_108,Expert,95,0.14,true,required,1,Proficiency in User Research
+JR0152,JOB021,SKILL_076,Basic,40,0.07,false,preferred,2,Proficiency in Presentation Skills
+JR0153,JOB021,SKILL_152,Advanced,80,0.18,false,preferred,2,Proficiency in Stakeholder Management
+JR0154,JOB021,SKILL_069,Beginner,25,0.07,false,preferred,0,Proficiency in Product Management
+JR0155,JOB021,SKILL_073,Basic,40,0.14,false,preferred,2,Proficiency in Problem Solving
+JR0156,JOB022,SKILL_111,Expert,95,0.07,true,required,3,Proficiency in Linux
+JR0157,JOB022,SKILL_110,Advanced,80,0.17,true,required,4,Proficiency in System Administration
+JR0158,JOB022,SKILL_042,Advanced,80,0.17,true,required,4,Proficiency in Terraform
+JR0159,JOB022,SKILL_128,Intermediate,60,0.08,true,required,2,Proficiency in Microservices Architecture
+JR0160,JOB022,SKILL_039,Beginner,25,0.18,false,preferred,0,Proficiency in Docker
+JR0161,JOB022,SKILL_036,Advanced,80,0.06,false,preferred,2,Proficiency in AWS
+JR0162,JOB022,SKILL_040,Basic,40,0.08,false,preferred,0,Proficiency in Kubernetes
+JR0163,JOB022,SKILL_037,Intermediate,60,0.07,false,preferred,0,Proficiency in Microsoft Azure
+JR0164,JOB022,SKILL_038,Intermediate,60,0.12,false,preferred,2,Proficiency in Google Cloud Platform
+JR0165,JOB023,SKILL_073,Advanced,80,0.06,true,required,1,Proficiency in Problem Solving
+JR0166,JOB023,SKILL_085,Intermediate,60,0.1,true,required,1,Proficiency in CRM Systems
+JR0167,JOB023,SKILL_148,Expert,95,0.14,true,required,1,Proficiency in Service Level Management
+JR0168,JOB023,SKILL_144,Expert,95,0.17,true,required,4,Proficiency in Customer Relationship Management
+JR0169,JOB023,SKILL_145,Basic,40,0.1,false,preferred,0,Proficiency in Active Listening
+JR0170,JOB023,SKILL_146,Basic,40,0.16,false,preferred,0,Proficiency in Empathy
+JR0171,JOB023,SKILL_070,Intermediate,60,0.12,false,preferred,1,Proficiency in Communication
+JR0172,JOB023,SKILL_147,Advanced,80,0.15,false,preferred,0,Proficiency in Issue Resolution
+JR0173,JOB024,SKILL_085,Intermediate,60,0.07,true,required,3,Proficiency in CRM Systems
+JR0174,JOB024,SKILL_084,Advanced,80,0.13,true,required,3,Proficiency in Business Strategy
+JR0175,JOB024,SKILL_071,Advanced,80,0.17,true,required,1,Proficiency in Leadership
+JR0176,JOB024,SKILL_153,Advanced,80,0.07,true,required,1,Proficiency in Strategic Planning
+JR0177,JOB024,SKILL_086,Beginner,25,0.07,false,preferred,1,Proficiency in Salesforce
+JR0178,JOB024,SKILL_083,Basic,40,0.09,false,preferred,2,Proficiency in Market Analysis
+JR0179,JOB024,SKILL_152,Basic,40,0.15,false,preferred,2,Proficiency in Stakeholder Management
+JR0180,JOB024,SKILL_077,Beginner,25,0.07,false,preferred,0,Proficiency in Negotiation
+JR0181,JOB024,SKILL_070,Advanced,80,0.18,false,preferred,2,Proficiency in Communication
+JR0182,JOB025,SKILL_093,Intermediate,60,0.21,true,required,2,Proficiency in Compensation and Benefits
+JR0183,JOB025,SKILL_094,Advanced,80,0.14,true,required,3,Proficiency in Performance Management
+JR0184,JOB025,SKILL_096,Advanced,80,0.15,true,required,3,Proficiency in HR Analytics
+JR0185,JOB025,SKILL_097,Beginner,25,0.21,false,preferred,1,Proficiency in Labor Law Compliance
+JR0186,JOB025,SKILL_070,Beginner,25,0.09,false,preferred,0,Proficiency in Communication
+JR0187,JOB025,SKILL_071,Beginner,25,0.2,false,preferred,2,Proficiency in Leadership
+JR0188,JOB026,SKILL_096,Advanced,80,0.19,true,required,3,Proficiency in HR Analytics
+JR0189,JOB026,SKILL_075,Intermediate,60,0.23,true,required,3,Proficiency in Time Management
+JR0190,JOB026,SKILL_097,Intermediate,60,0.12,true,required,1,Proficiency in Labor Law Compliance
+JR0191,JOB026,SKILL_072,Basic,40,0.15,false,preferred,2,Proficiency in Teamwork
+JR0192,JOB026,SKILL_093,Basic,40,0.15,false,preferred,1,Proficiency in Compensation and Benefits
+JR0193,JOB026,SKILL_070,Advanced,80,0.16,false,preferred,2,Proficiency in Communication
+JR0194,JOB027,SKILL_039,Advanced,80,0.16,true,required,1,Proficiency in Docker
+JR0195,JOB027,SKILL_110,Intermediate,60,0.17,true,required,1,Proficiency in System Administration
+JR0196,JOB027,SKILL_109,Advanced,80,0.09,true,required,1,Proficiency in Networking
+JR0197,JOB027,SKILL_058,Expert,95,0.15,true,required,4,Proficiency in Cybersecurity
+JR0198,JOB027,SKILL_111,Advanced,80,0.15,false,preferred,0,Proficiency in Linux
+JR0199,JOB027,SKILL_044,Beginner,25,0.12,false,preferred,1,Proficiency in Ansible
+JR0200,JOB027,SKILL_114,Beginner,25,0.06,false,preferred,0,Proficiency in IT Service Management
+JR0201,JOB027,SKILL_112,Basic,40,0.1,false,preferred,2,Proficiency in Windows Server
+JR0202,JOB028,SKILL_148,Intermediate,60,0.08,true,required,3,Proficiency in Service Level Management
+JR0203,JOB028,SKILL_146,Expert,95,0.11,true,required,1,Proficiency in Empathy
+JR0204,JOB028,SKILL_144,Expert,95,0.11,true,required,2,Proficiency in Customer Relationship Management
+JR0205,JOB028,SKILL_085,Advanced,80,0.13,true,required,2,Proficiency in CRM Systems
+JR0206,JOB028,SKILL_073,Beginner,25,0.11,false,preferred,1,Proficiency in Problem Solving
+JR0207,JOB028,SKILL_145,Basic,40,0.14,false,preferred,0,Proficiency in Active Listening
+JR0208,JOB028,SKILL_147,Advanced,80,0.12,false,preferred,1,Proficiency in Issue Resolution
+JR0209,JOB028,SKILL_070,Advanced,80,0.2,false,preferred,0,Proficiency in Communication
+JR0210,JOB029,SKILL_144,Advanced,80,0.22,true,required,4,Proficiency in Customer Relationship Management
+JR0211,JOB029,SKILL_085,Expert,95,0.14,true,required,2,Proficiency in CRM Systems
+JR0212,JOB029,SKILL_146,Intermediate,60,0.1,true,required,2,Proficiency in Empathy
+JR0213,JOB029,SKILL_073,Basic,40,0.14,false,preferred,0,Proficiency in Problem Solving
+JR0214,JOB029,SKILL_147,Advanced,80,0.29,false,preferred,1,Proficiency in Issue Resolution
+JR0215,JOB029,SKILL_148,Intermediate,60,0.11,false,preferred,2,Proficiency in Service Level Management
+JR0216,JOB030,SKILL_092,Advanced,80,0.11,true,required,1,Proficiency in Employee Relations
+JR0217,JOB030,SKILL_091,Expert,95,0.07,true,required,3,Proficiency in Talent Acquisition
+JR0218,JOB030,SKILL_070,Advanced,80,0.07,true,required,4,Proficiency in Communication
+JR0219,JOB030,SKILL_071,Expert,95,0.13,true,required,3,Proficiency in Leadership
+JR0220,JOB030,SKILL_096,Advanced,80,0.09,false,preferred,1,Proficiency in HR Analytics
+JR0221,JOB030,SKILL_153,Intermediate,60,0.14,false,preferred,1,Proficiency in Strategic Planning
+JR0222,JOB030,SKILL_093,Advanced,80,0.12,false,preferred,1,Proficiency in Compensation and Benefits
+JR0223,JOB030,SKILL_097,Basic,40,0.12,false,preferred,1,Proficiency in Labor Law Compliance
+JR0224,JOB030,SKILL_094,Advanced,80,0.15,false,preferred,1,Proficiency in Performance Management

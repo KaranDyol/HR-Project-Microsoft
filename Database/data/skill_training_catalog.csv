@@ -1,0 +1,158 @@
+training_id,skill_id,training_name,description,difficulty,duration_hours,provider
+TC0001,SKILL_001,Advanced Python,Comprehensive training on Python (Python programming language),expert,4,Coursera
+TC0002,SKILL_002,Java Fundamentals,Comprehensive training on Java (Java programming language),advanced,8,Udemy
+TC0003,SKILL_002,Advanced Java,Comprehensive training on Java (Java programming language),beginner,16,Internal Academy
+TC0004,SKILL_003,JavaScript Fundamentals,Comprehensive training on JavaScript (JavaScript programming language),intermediate,16,Pluralsight
+TC0005,SKILL_003,Practical JavaScript Workshop,Comprehensive training on JavaScript (JavaScript programming language),expert,32,DataCamp
+TC0006,SKILL_003,Advanced JavaScript,Comprehensive training on JavaScript (JavaScript programming language),advanced,40,Google Cloud Training
+TC0007,SKILL_004,TypeScript Masterclass,Comprehensive training on TypeScript (TypeScript programming language),advanced,4,Internal Academy
+TC0008,SKILL_004,TypeScript Best Practices,Comprehensive training on TypeScript (TypeScript programming language),expert,24,Udemy
+TC0009,SKILL_004,Advanced TypeScript,Comprehensive training on TypeScript (TypeScript programming language),advanced,40,AWS Training
+TC0010,SKILL_005,C++ for Professionals,Comprehensive training on C++ (C++ programming language),intermediate,24,AWS Training
+TC0011,SKILL_006,C# Fundamentals,Comprehensive training on C# (C# programming language),advanced,24,Udemy
+TC0012,SKILL_006,C# Certification Prep,Comprehensive training on C# (C# programming language),advanced,40,Coursera
+TC0013,SKILL_007,Go Certification Prep,Comprehensive training on Go (Go programming language),beginner,24,Udemy
+TC0014,SKILL_007,Go Masterclass,Comprehensive training on Go (Go programming language),expert,4,Coursera
+TC0015,SKILL_008,Rust Fundamentals,Comprehensive training on Rust (Rust programming language),expert,32,Internal Academy
+TC0016,SKILL_008,Advanced Rust,Comprehensive training on Rust (Rust programming language),intermediate,8,AWS Training
+TC0017,SKILL_009,Practical PHP Workshop,Comprehensive training on PHP (PHP programming language),expert,16,LinkedIn Learning
+TC0018,SKILL_010,Ruby for Professionals,Comprehensive training on Ruby (Ruby programming language),beginner,60,DataCamp
+TC0019,SKILL_010,Ruby Certification Prep,Comprehensive training on Ruby (Ruby programming language),expert,8,Internal Academy
+TC0020,SKILL_011,Kotlin Certification Prep,Comprehensive training on Kotlin (Kotlin programming language),beginner,4,upGrad
+TC0021,SKILL_011,Practical Kotlin Workshop,Comprehensive training on Kotlin (Kotlin programming language),advanced,16,Simplilearn
+TC0022,SKILL_011,Kotlin for Professionals,Comprehensive training on Kotlin (Kotlin programming language),intermediate,24,upGrad
+TC0023,SKILL_012,Swift Fundamentals,Comprehensive training on Swift (Swift programming language),expert,4,Udemy
+TC0024,SKILL_012,Swift Certification Prep,Comprehensive training on Swift (Swift programming language),intermediate,60,Google Cloud Training
+TC0025,SKILL_013,Scala Masterclass,Comprehensive training on Scala (Scala programming language),intermediate,60,upGrad
+TC0026,SKILL_014,R Certification Prep,Comprehensive training on R (R programming language for statistics),expert,16,Coursera
+TC0027,SKILL_015,HTML/CSS Best Practices,Comprehensive training on HTML/CSS (HTML and CSS web markup and styling),intermediate,4,LinkedIn Learning
+TC0028,SKILL_015,Advanced HTML/CSS,Comprehensive training on HTML/CSS (HTML and CSS web markup and styling),advanced,40,Microsoft Learn
+TC0029,SKILL_016,React Certification Prep,Comprehensive training on React (React JavaScript library for UI),beginner,16,AWS Training
+TC0030,SKILL_017,Practical Angular Workshop,Comprehensive training on Angular (Angular web application framework),expert,8,upGrad
+TC0031,SKILL_017,Angular Masterclass,Comprehensive training on Angular (Angular web application framework),beginner,40,DataCamp
+TC0032,SKILL_017,Angular for Professionals,Comprehensive training on Angular (Angular web application framework),advanced,16,Simplilearn
+TC0033,SKILL_018,Vue.js Fundamentals,Comprehensive training on Vue.js (Vue.js progressive JavaScript framework),advanced,60,DataCamp
+TC0034,SKILL_019,Advanced Node.js,Comprehensive training on Node.js (Node.js server-side JavaScript runtime),advanced,16,Pluralsight
+TC0035,SKILL_020,Django for Professionals,Comprehensive training on Django (Django Python web framework),advanced,8,Udemy
+TC0036,SKILL_020,Practical Django Workshop,Comprehensive training on Django (Django Python web framework),beginner,40,upGrad
+TC0037,SKILL_021,Flask Best Practices,Comprehensive training on Flask (Flask Python micro web framework),beginner,8,Coursera
+TC0038,SKILL_022,FastAPI Masterclass,Comprehensive training on FastAPI (FastAPI modern Python web framework),intermediate,32,Google Cloud Training
+TC0039,SKILL_022,Practical FastAPI Workshop,Comprehensive training on FastAPI (FastAPI modern Python web framework),advanced,32,Google Cloud Training
+TC0040,SKILL_022,FastAPI for Professionals,Comprehensive training on FastAPI (FastAPI modern Python web framework),expert,40,Microsoft Learn
+TC0041,SKILL_023,Spring Boot Fundamentals,Comprehensive training on Spring Boot (Spring Boot Java framework),beginner,40,Internal Academy
+TC0042,SKILL_023,Spring Boot for Professionals,Comprehensive training on Spring Boot (Spring Boot Java framework),beginner,24,Coursera
+TC0043,SKILL_024,.NET Framework for Professionals,Comprehensive training on .NET Framework (Microsoft .NET development framework),beginner,4,Internal Academy
+TC0044,SKILL_024,Advanced .NET Framework,Comprehensive training on .NET Framework (Microsoft .NET development framework),intermediate,24,AWS Training
+TC0045,SKILL_025,REST API Design Masterclass,Comprehensive training on REST API Design (RESTful API architecture and design),expert,8,upGrad
+TC0046,SKILL_025,REST API Design Certification Prep,Comprehensive training on REST API Design (RESTful API architecture and design),expert,16,Pluralsight
+TC0047,SKILL_026,GraphQL Fundamentals,Comprehensive training on GraphQL (GraphQL query language for APIs),advanced,16,DataCamp
+TC0048,SKILL_026,Practical GraphQL Workshop,Comprehensive training on GraphQL (GraphQL query language for APIs),advanced,24,AWS Training
+TC0049,SKILL_027,SQL Masterclass,Comprehensive training on SQL (Structured Query Language),advanced,4,edX
+TC0050,SKILL_027,SQL Best Practices,Comprehensive training on SQL (Structured Query Language),advanced,16,Internal Academy
+TC0051,SKILL_028,Advanced PostgreSQL,Comprehensive training on PostgreSQL (PostgreSQL relational database),intermediate,16,Coursera
+TC0052,SKILL_029,MySQL Masterclass,Comprehensive training on MySQL (MySQL relational database),beginner,16,Coursera
+TC0053,SKILL_030,MongoDB Masterclass,Comprehensive training on MongoDB (MongoDB NoSQL document database),expert,60,Simplilearn
+TC0054,SKILL_031,Redis Fundamentals,Comprehensive training on Redis (Redis in-memory data store),expert,24,Google Cloud Training
+TC0055,SKILL_031,Advanced Redis,Comprehensive training on Redis (Redis in-memory data store),advanced,16,upGrad
+TC0056,SKILL_032,Elasticsearch Fundamentals,Comprehensive training on Elasticsearch (Elasticsearch search and analytics engine),beginner,16,Internal Academy
+TC0057,SKILL_032,Elasticsearch Masterclass,Comprehensive training on Elasticsearch (Elasticsearch search and analytics engine),expert,16,Coursera
+TC0058,SKILL_032,Elasticsearch Best Practices,Comprehensive training on Elasticsearch (Elasticsearch search and analytics engine),advanced,32,Google Cloud Training
+TC0059,SKILL_033,Oracle Database Masterclass,Comprehensive training on Oracle Database (Oracle relational database system),advanced,8,Pluralsight
+TC0060,SKILL_033,Practical Oracle Database Workshop,Comprehensive training on Oracle Database (Oracle relational database system),advanced,32,Microsoft Learn
+TC0061,SKILL_034,Advanced Apache Cassandra,Comprehensive training on Apache Cassandra (Cassandra distributed NoSQL database),intermediate,24,edX
+TC0062,SKILL_035,Advanced Amazon DynamoDB,Comprehensive training on Amazon DynamoDB (AWS managed NoSQL database),expert,40,Google Cloud Training
+TC0063,SKILL_035,Amazon DynamoDB Best Practices,Comprehensive training on Amazon DynamoDB (AWS managed NoSQL database),advanced,24,Microsoft Learn
+TC0064,SKILL_036,AWS Masterclass,Comprehensive training on AWS (Amazon Web Services cloud platform),intermediate,8,Simplilearn
+TC0065,SKILL_036,Practical AWS Workshop,Comprehensive training on AWS (Amazon Web Services cloud platform),expert,60,Udemy
+TC0066,SKILL_037,Advanced Microsoft Azure,Comprehensive training on Microsoft Azure (Microsoft Azure cloud services),expert,16,LinkedIn Learning
+TC0067,SKILL_037,Microsoft Azure Fundamentals,Comprehensive training on Microsoft Azure (Microsoft Azure cloud services),intermediate,32,LinkedIn Learning
+TC0068,SKILL_038,Advanced Google Cloud Platform,Comprehensive training on Google Cloud Platform (Google Cloud Platform services),intermediate,24,upGrad
+TC0069,SKILL_038,Google Cloud Platform Masterclass,Comprehensive training on Google Cloud Platform (Google Cloud Platform services),intermediate,60,Pluralsight
+TC0070,SKILL_039,Docker Best Practices,Comprehensive training on Docker (Docker containerization platform),expert,8,Pluralsight
+TC0071,SKILL_039,Docker Certification Prep,Comprehensive training on Docker (Docker containerization platform),intermediate,32,edX
+TC0072,SKILL_039,Docker for Professionals,Comprehensive training on Docker (Docker containerization platform),advanced,8,AWS Training
+TC0073,SKILL_040,Practical Kubernetes Workshop,Comprehensive training on Kubernetes (Kubernetes container orchestration),expert,8,Pluralsight
+TC0074,SKILL_040,Kubernetes for Professionals,Comprehensive training on Kubernetes (Kubernetes container orchestration),advanced,40,LinkedIn Learning
+TC0075,SKILL_041,CI/CD Pipelines Best Practices,Comprehensive training on CI/CD Pipelines (Continuous integration and deployment),beginner,4,Udemy
+TC0076,SKILL_042,Practical Terraform Workshop,Comprehensive training on Terraform (Terraform infrastructure as code),advanced,24,Internal Academy
+TC0077,SKILL_042,Terraform Certification Prep,Comprehensive training on Terraform (Terraform infrastructure as code),beginner,60,Simplilearn
+TC0078,SKILL_043,Jenkins Certification Prep,Comprehensive training on Jenkins (Jenkins automation server),beginner,8,edX
+TC0079,SKILL_043,Jenkins Masterclass,Comprehensive training on Jenkins (Jenkins automation server),beginner,32,AWS Training
+TC0080,SKILL_044,Ansible Best Practices,Comprehensive training on Ansible (Ansible configuration management),expert,16,Google Cloud Training
+TC0081,SKILL_045,Machine Learning Masterclass,Comprehensive training on Machine Learning (Machine learning algorithms and techniques),advanced,8,LinkedIn Learning
+TC0082,SKILL_045,Machine Learning Fundamentals,Comprehensive training on Machine Learning (Machine learning algorithms and techniques),advanced,8,AWS Training
+TC0083,SKILL_045,Machine Learning Best Practices,Comprehensive training on Machine Learning (Machine learning algorithms and techniques),intermediate,60,Google Cloud Training
+TC0084,SKILL_046,Deep Learning Masterclass,Comprehensive training on Deep Learning (Deep neural network architectures),intermediate,16,Microsoft Learn
+TC0085,SKILL_046,Deep Learning for Professionals,Comprehensive training on Deep Learning (Deep neural network architectures),expert,24,LinkedIn Learning
+TC0086,SKILL_047,Natural Language Processing Certification Prep,Comprehensive training on Natural Language Processing (NLP text analysis techniques),advanced,16,Internal Academy
+TC0087,SKILL_047,Practical Natural Language Processing Workshop,Comprehensive training on Natural Language Processing (NLP text analysis techniques),intermediate,4,edX
+TC0088,SKILL_047,Advanced Natural Language Processing,Comprehensive training on Natural Language Processing (NLP text analysis techniques),expert,40,LinkedIn Learning
+TC0089,SKILL_048,Advanced Computer Vision,Comprehensive training on Computer Vision (Image and video analysis with ML),intermediate,8,Internal Academy
+TC0090,SKILL_048,Computer Vision Fundamentals,Comprehensive training on Computer Vision (Image and video analysis with ML),beginner,8,Simplilearn
+TC0091,SKILL_048,Computer Vision for Professionals,Comprehensive training on Computer Vision (Image and video analysis with ML),intermediate,16,Pluralsight
+TC0092,SKILL_049,Practical Data Analysis Workshop,Comprehensive training on Data Analysis (Statistical data analysis and interpretation),intermediate,32,Udemy
+TC0093,SKILL_050,Statistical Modeling Masterclass,Comprehensive training on Statistical Modeling (Statistical model building),advanced,24,DataCamp
+TC0094,SKILL_050,Statistical Modeling Certification Prep,Comprehensive training on Statistical Modeling (Statistical model building),advanced,8,Microsoft Learn
+TC0095,SKILL_051,Advanced TensorFlow,Comprehensive training on TensorFlow (TensorFlow ML framework),intermediate,60,Google Cloud Training
+TC0096,SKILL_052,PyTorch for Professionals,Comprehensive training on PyTorch (PyTorch deep learning framework),expert,8,Pluralsight
+TC0097,SKILL_052,PyTorch Masterclass,Comprehensive training on PyTorch (PyTorch deep learning framework),expert,8,edX
+TC0098,SKILL_052,Practical PyTorch Workshop,Comprehensive training on PyTorch (PyTorch deep learning framework),intermediate,8,Coursera
+TC0099,SKILL_053,Pandas Masterclass,Comprehensive training on Pandas (Python data manipulation library),expert,16,Google Cloud Training
+TC0100,SKILL_054,Advanced NumPy,Comprehensive training on NumPy (Python numerical computing library),advanced,8,DataCamp
+TC0101,SKILL_055,Apache Spark for Professionals,Comprehensive training on Apache Spark (Distributed data processing engine),expert,32,Pluralsight
+TC0102,SKILL_056,Tableau Best Practices,Comprehensive training on Tableau (Tableau data visualization platform),beginner,4,upGrad
+TC0103,SKILL_057,Power BI Fundamentals,Comprehensive training on Power BI (Microsoft Power BI analytics),beginner,60,Pluralsight
+TC0104,SKILL_058,Cybersecurity Fundamentals,Comprehensive training on Cybersecurity (Information security practices),expert,16,LinkedIn Learning
+TC0105,SKILL_058,Advanced Cybersecurity,Comprehensive training on Cybersecurity (Information security practices),advanced,40,Microsoft Learn
+TC0106,SKILL_058,Cybersecurity Masterclass,Comprehensive training on Cybersecurity (Information security practices),expert,4,DataCamp
+TC0107,SKILL_059,Advanced Network Security,Comprehensive training on Network Security (Network protection and monitoring),expert,8,Udemy
+TC0108,SKILL_059,Network Security Certification Prep,Comprehensive training on Network Security (Network protection and monitoring),expert,4,LinkedIn Learning
+TC0109,SKILL_060,Penetration Testing Fundamentals,Comprehensive training on Penetration Testing (Security vulnerability testing),expert,16,Internal Academy
+TC0110,SKILL_060,Penetration Testing Certification Prep,Comprehensive training on Penetration Testing (Security vulnerability testing),beginner,4,DataCamp
+TC0111,SKILL_060,Advanced Penetration Testing,Comprehensive training on Penetration Testing (Security vulnerability testing),expert,24,Pluralsight
+TC0112,SKILL_061,OWASP Security Best Practices,Comprehensive training on OWASP Security (OWASP web application security),beginner,8,upGrad
+TC0113,SKILL_061,OWASP Security Certification Prep,Comprehensive training on OWASP Security (OWASP web application security),advanced,4,Internal Academy
+TC0114,SKILL_061,Advanced OWASP Security,Comprehensive training on OWASP Security (OWASP web application security),expert,4,Coursera
+TC0115,SKILL_062,Identity and Access Management Fundamentals,Comprehensive training on Identity and Access Management (IAM systems and protocols),intermediate,24,Internal Academy
+TC0116,SKILL_062,Advanced Identity and Access Management,Comprehensive training on Identity and Access Management (IAM systems and protocols),intermediate,60,Pluralsight
+TC0117,SKILL_063,Agile Methodology Fundamentals,Comprehensive training on Agile Methodology (Agile software development),intermediate,8,LinkedIn Learning
+TC0118,SKILL_063,Agile Methodology for Professionals,Comprehensive training on Agile Methodology (Agile software development),advanced,24,Coursera
+TC0119,SKILL_063,Agile Methodology Masterclass,Comprehensive training on Agile Methodology (Agile software development),beginner,16,Coursera
+TC0120,SKILL_064,Advanced Scrum,Comprehensive training on Scrum (Scrum framework practices),advanced,24,Google Cloud Training
+TC0121,SKILL_064,Practical Scrum Workshop,Comprehensive training on Scrum (Scrum framework practices),intermediate,32,Coursera
+TC0122,SKILL_064,Scrum Best Practices,Comprehensive training on Scrum (Scrum framework practices),intermediate,24,DataCamp
+TC0123,SKILL_065,Kanban for Professionals,Comprehensive training on Kanban (Kanban workflow management),intermediate,16,Coursera
+TC0124,SKILL_065,Kanban Best Practices,Comprehensive training on Kanban (Kanban workflow management),advanced,8,Udemy
+TC0125,SKILL_065,Kanban Fundamentals,Comprehensive training on Kanban (Kanban workflow management),intermediate,60,DataCamp
+TC0126,SKILL_066,Waterfall Masterclass,Comprehensive training on Waterfall (Waterfall project methodology),expert,8,DataCamp
+TC0127,SKILL_067,Project Management Best Practices,Comprehensive training on Project Management (Project planning and execution),intermediate,4,Google Cloud Training
+TC0128,SKILL_067,Project Management for Professionals,Comprehensive training on Project Management (Project planning and execution),intermediate,60,Microsoft Learn
+TC0129,SKILL_067,Project Management Fundamentals,Comprehensive training on Project Management (Project planning and execution),beginner,16,Pluralsight
+TC0130,SKILL_068,JIRA Best Practices,Comprehensive training on JIRA (JIRA project tracking tool),intermediate,60,upGrad
+TC0131,SKILL_068,JIRA Certification Prep,Comprehensive training on JIRA (JIRA project tracking tool),expert,32,upGrad
+TC0132,SKILL_069,Product Management Masterclass,Comprehensive training on Product Management (Product lifecycle management),advanced,4,Udemy
+TC0133,SKILL_069,Product Management Fundamentals,Comprehensive training on Product Management (Product lifecycle management),expert,24,LinkedIn Learning
+TC0134,SKILL_069,Product Management for Professionals,Comprehensive training on Product Management (Product lifecycle management),advanced,60,DataCamp
+TC0135,SKILL_070,Communication Fundamentals,Comprehensive training on Communication (Verbal and written communication),beginner,24,Coursera
+TC0136,SKILL_070,Communication Masterclass,Comprehensive training on Communication (Verbal and written communication),beginner,40,upGrad
+TC0137,SKILL_070,Communication Best Practices,Comprehensive training on Communication (Verbal and written communication),expert,4,Udemy
+TC0138,SKILL_071,Leadership Fundamentals,Comprehensive training on Leadership (Team leadership and guidance),intermediate,32,AWS Training
+TC0139,SKILL_071,Leadership Best Practices,Comprehensive training on Leadership (Team leadership and guidance),advanced,60,Microsoft Learn
+TC0140,SKILL_071,Practical Leadership Workshop,Comprehensive training on Leadership (Team leadership and guidance),advanced,40,edX
+TC0141,SKILL_072,Teamwork for Professionals,Comprehensive training on Teamwork (Collaborative team participation),intermediate,40,Microsoft Learn
+TC0142,SKILL_072,Teamwork Best Practices,Comprehensive training on Teamwork (Collaborative team participation),expert,60,Udemy
+TC0143,SKILL_073,Problem Solving Masterclass,Comprehensive training on Problem Solving (Analytical problem resolution),beginner,60,Google Cloud Training
+TC0144,SKILL_073,Advanced Problem Solving,Comprehensive training on Problem Solving (Analytical problem resolution),advanced,24,upGrad
+TC0145,SKILL_074,Practical Critical Thinking Workshop,Comprehensive training on Critical Thinking (Objective analysis and evaluation),expert,40,edX
+TC0146,SKILL_074,Advanced Critical Thinking,Comprehensive training on Critical Thinking (Objective analysis and evaluation),intermediate,24,Internal Academy
+TC0147,SKILL_075,Time Management Certification Prep,Comprehensive training on Time Management (Effective time allocation and prioritization),advanced,40,Pluralsight
+TC0148,SKILL_075,Time Management for Professionals,Comprehensive training on Time Management (Effective time allocation and prioritization),beginner,24,AWS Training
+TC0149,SKILL_076,Presentation Skills Fundamentals,Comprehensive training on Presentation Skills (Public speaking and presentations),beginner,40,Google Cloud Training
+TC0150,SKILL_076,Presentation Skills Masterclass,Comprehensive training on Presentation Skills (Public speaking and presentations),intermediate,8,DataCamp
+TC0151,SKILL_077,Practical Negotiation Workshop,Comprehensive training on Negotiation (Negotiation and persuasion techniques),intermediate,24,DataCamp
+TC0152,SKILL_078,Conflict Resolution Best Practices,Comprehensive training on Conflict Resolution (Managing and resolving conflicts),intermediate,24,AWS Training
+TC0153,SKILL_079,Mentoring for Professionals,Comprehensive training on Mentoring (Coaching and mentoring others),expert,60,Udemy
+TC0154,SKILL_079,Mentoring Certification Prep,Comprehensive training on Mentoring (Coaching and mentoring others),advanced,32,Coursera
+TC0155,SKILL_079,Mentoring Masterclass,Comprehensive training on Mentoring (Coaching and mentoring others),advanced,40,Coursera
+TC0156,SKILL_080,Financial Analysis Fundamentals,Comprehensive training on Financial Analysis (Financial data analysis and reporting),advanced,24,DataCamp
+TC0157,SKILL_080,Advanced Financial Analysis,Comprehensive training on Financial Analysis (Financial data analysis and reporting),advanced,24,edX

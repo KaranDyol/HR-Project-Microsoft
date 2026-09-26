@@ -1,0 +1,931 @@
+answer_id,question_id,candidate_id,answer_text,technical_correctness,conceptual_understanding,problem_solving,practical_reasoning,communication,evidence,ai_confidence
+A0001,Q0001,CAN214,Candidate provided a detailed response about CI/CD.,2.7,4.9,2.5,3.3,5.1,Demonstrated understanding of Active Listening,0.63
+A0002,Q0002,CAN214,Candidate provided a detailed response about load balancing.,1.9,3.2,2.8,3.0,3.2,Demonstrated understanding of Issue Resolution,0.84
+A0003,Q0003,CAN214,Candidate provided a detailed response about authentication.,3.4,5.9,3.4,6.3,4.9,Demonstrated understanding of Issue Resolution,0.92
+A0004,Q0004,CAN214,Candidate provided a detailed response about CI/CD.,4.2,5.2,4.3,6.0,4.7,Demonstrated understanding of Communication,0.92
+A0005,Q0005,CAN186,Candidate provided a detailed response about load balancing.,8.9,8.2,9.5,7.9,8.8,Demonstrated understanding of Selenium,0.62
+A0006,Q0006,CAN186,Candidate provided a detailed response about data pipeline.,8.4,7.2,8.9,8.7,8.2,Demonstrated understanding of Selenium,0.84
+A0007,Q0007,CAN186,Candidate provided a detailed response about microservices.,9.1,8.9,8.9,9.9,8.1,Demonstrated understanding of Unit Testing,0.86
+A0008,Q0008,CAN186,Candidate provided a detailed response about cloud architecture.,9.7,8.3,8.2,8.3,8.9,Demonstrated understanding of SQL,0.86
+A0009,Q0009,CAN186,Candidate provided a detailed response about cloud architecture.,7.7,9.3,8.0,8.0,8.9,Demonstrated understanding of Quality Assurance,0.9
+A0010,Q0010,CAN186,Candidate provided a detailed response about microservices.,10.0,9.2,9.1,9.1,9.8,Demonstrated understanding of Performance Testing,0.8
+A0011,Q0011,CAN186,Candidate provided a detailed response about CI/CD.,8.8,8.5,8.9,8.4,9.5,Demonstrated understanding of Performance Testing,0.9
+A0012,Q0012,CAN139,Candidate provided a detailed response about API design.,7.3,6.9,7.1,5.5,6.1,Demonstrated understanding of System Administration,0.68
+A0013,Q0013,CAN139,Candidate provided a detailed response about search indexing.,6.7,6.4,6.8,7.4,5.9,Demonstrated understanding of CI/CD Pipelines,0.95
+A0014,Q0014,CAN139,Candidate provided a detailed response about database.,6.6,7.3,7.7,6.0,6.4,Demonstrated understanding of Terraform,0.82
+A0015,Q0015,CAN074,Candidate provided a detailed response about machine learning.,9.3,9.4,9.5,7.6,8.1,Demonstrated understanding of Apache Kafka,0.91
+A0016,Q0016,CAN074,Candidate provided a detailed response about database.,7.9,8.8,9.2,8.6,8.0,Demonstrated understanding of Linux,0.91
+A0017,Q0017,CAN074,Candidate provided a detailed response about database.,8.6,9.5,9.3,9.8,8.0,Demonstrated understanding of CI/CD Pipelines,0.77
+A0018,Q0018,CAN074,Candidate provided a detailed response about database.,8.2,9.2,8.8,7.9,7.7,Demonstrated understanding of Networking,0.71
+A0019,Q0019,CAN074,Candidate provided a detailed response about load balancing.,9.5,9.6,7.8,7.7,8.3,Demonstrated understanding of Terraform,0.64
+A0020,Q0020,CAN074,Candidate provided a detailed response about API design.,9.2,8.6,7.4,8.9,7.8,Demonstrated understanding of Networking,0.7
+A0021,Q0021,CAN074,Candidate provided a detailed response about data pipeline.,8.8,8.8,8.2,9.5,9.4,Demonstrated understanding of Kubernetes,0.92
+A0022,Q0022,CAN105,Candidate provided a detailed response about cloud architecture.,4.5,3.2,3.7,4.7,4.1,Demonstrated understanding of Java,0.83
+A0023,Q0023,CAN105,Candidate provided a detailed response about microservices.,2.4,4.0,3.1,3.9,3.3,Demonstrated understanding of Docker,0.84
+A0024,Q0024,CAN105,Candidate provided a detailed response about microservices.,4.3,4.5,3.3,3.6,4.5,Demonstrated understanding of JavaScript,0.91
+A0025,Q0025,CAN105,Candidate provided a detailed response about message queue.,1.6,1.6,2.0,2.3,1.0,Demonstrated understanding of PostgreSQL,0.77
+A0026,Q0026,CAN105,Candidate provided a detailed response about authentication.,4.1,4.0,4.1,5.0,4.7,Demonstrated understanding of Redis,0.92
+A0027,Q0027,CAN105,Candidate provided a detailed response about authentication.,2.7,2.3,2.9,3.1,2.8,Demonstrated understanding of Flask,0.79
+A0028,Q0028,CAN105,Candidate provided a detailed response about load balancing.,4.6,5.5,4.8,3.9,4.8,Demonstrated understanding of Microservices Architecture,0.91
+A0029,Q0029,CAN105,Candidate provided a detailed response about cloud architecture.,4.5,5.5,5.4,5.7,5.6,Demonstrated understanding of Node.js,0.76
+A0030,Q0030,CAN105,Candidate provided a detailed response about machine learning.,3.0,2.1,2.7,2.4,1.9,Demonstrated understanding of SQL,0.81
+A0031,Q0031,CAN105,Candidate provided a detailed response about microservices.,3.6,3.6,3.6,4.1,4.4,Demonstrated understanding of Node.js,0.67
+A0032,Q0032,CAN105,Candidate provided a detailed response about message queue.,4.9,3.4,3.7,5.0,5.1,Demonstrated understanding of Redis,0.72
+A0033,Q0033,CAN062,Candidate provided a detailed response about message queue.,2.4,2.8,3.1,3.1,3.6,Demonstrated understanding of Issue Resolution,0.86
+A0034,Q0034,CAN062,Candidate provided a detailed response about load balancing.,3.8,2.2,2.1,3.0,3.5,Demonstrated understanding of Problem Solving,0.7
+A0035,Q0035,CAN062,Candidate provided a detailed response about message queue.,3.1,2.7,3.6,3.2,3.9,Demonstrated understanding of Problem Solving,0.91
+A0036,Q0036,CAN062,Candidate provided a detailed response about data pipeline.,4.7,6.1,4.8,5.4,5.9,Demonstrated understanding of Customer Relationship Management,0.9
+A0037,Q0037,CAN062,Candidate provided a detailed response about database.,6.1,6.3,5.7,5.4,4.9,Demonstrated understanding of Service Level Management,0.88
+A0038,Q0038,CAN062,Candidate provided a detailed response about message queue.,2.9,1.9,2.4,1.8,2.3,Demonstrated understanding of Issue Resolution,0.68
+A0039,Q0039,CAN062,Candidate provided a detailed response about CI/CD.,4.8,4.2,5.2,4.4,3.4,Demonstrated understanding of Active Listening,0.76
+A0040,Q0040,CAN062,Candidate provided a detailed response about load balancing.,4.8,4.1,4.2,4.3,3.8,Demonstrated understanding of Issue Resolution,0.73
+A0041,Q0041,CAN034,Candidate provided a detailed response about machine learning.,6.9,6.0,6.5,6.0,5.1,Demonstrated understanding of Identity and Access Management,0.89
+A0042,Q0042,CAN034,Candidate provided a detailed response about load balancing.,7.4,6.2,6.2,6.6,6.4,Demonstrated understanding of Cybersecurity,0.89
+A0043,Q0043,CAN034,Candidate provided a detailed response about message queue.,6.2,7.4,6.5,6.4,6.5,Demonstrated understanding of Linux,0.88
+A0044,Q0044,CAN034,Candidate provided a detailed response about CI/CD.,4.7,4.7,4.3,5.4,5.1,Demonstrated understanding of OWASP Security,0.75
+A0045,Q0045,CAN034,Candidate provided a detailed response about authentication.,7.3,6.9,7.1,6.7,6.1,Demonstrated understanding of Identity and Access Management,0.63
+A0046,Q0046,CAN034,Candidate provided a detailed response about machine learning.,7.8,6.8,8.1,8.4,8.3,Demonstrated understanding of Networking,0.88
+A0047,Q0047,CAN034,Candidate provided a detailed response about cloud architecture.,6.6,6.2,7.2,6.2,7.7,Demonstrated understanding of Penetration Testing,0.62
+A0048,Q0048,CAN264,Candidate provided a detailed response about caching.,7.4,8.3,8.1,7.6,7.9,Demonstrated understanding of Ansible,0.75
+A0049,Q0049,CAN264,Candidate provided a detailed response about machine learning.,8.2,9.1,8.9,7.7,7.8,Demonstrated understanding of Google Cloud Platform,0.65
+A0050,Q0050,CAN264,Candidate provided a detailed response about API design.,7.9,8.9,9.4,8.4,8.0,Demonstrated understanding of Microsoft Azure,0.77
+A0051,Q0051,CAN264,Candidate provided a detailed response about search indexing.,6.9,7.7,6.4,7.0,6.4,Demonstrated understanding of Google Cloud Platform,0.73
+A0052,Q0052,CAN264,Candidate provided a detailed response about message queue.,7.1,6.6,8.0,7.9,7.2,Demonstrated understanding of CI/CD Pipelines,0.93
+A0053,Q0053,CAN264,Candidate provided a detailed response about API design.,7.4,8.5,7.0,6.7,7.4,Demonstrated understanding of System Administration,0.75
+A0054,Q0054,CAN264,Candidate provided a detailed response about cloud architecture.,7.7,8.1,8.0,6.7,6.4,Demonstrated understanding of Apache Kafka,0.86
+A0055,Q0055,CAN264,Candidate provided a detailed response about caching.,8.8,9.7,9.9,9.1,9.1,Demonstrated understanding of AWS,0.62
+A0056,Q0056,CAN264,Candidate provided a detailed response about authentication.,8.6,8.3,8.3,7.1,7.6,Demonstrated understanding of Google Cloud Platform,0.82
+A0057,Q0057,CAN073,Candidate provided a detailed response about CI/CD.,7.4,8.5,7.6,8.4,8.2,Demonstrated understanding of Data Visualization,0.68
+A0058,Q0058,CAN073,Candidate provided a detailed response about caching.,7.2,8.6,8.1,8.2,9.1,Demonstrated understanding of Data Visualization,0.81
+A0059,Q0059,CAN073,Candidate provided a detailed response about caching.,8.6,9.5,9.1,9.4,8.3,Demonstrated understanding of Google Analytics,0.83
+A0060,Q0060,CAN073,Candidate provided a detailed response about API design.,10,10,9.3,8.4,9.3,Demonstrated understanding of Data Visualization,0.83
+A0061,Q0061,CAN073,Candidate provided a detailed response about search indexing.,9.6,8.0,9.4,8.7,8.3,Demonstrated understanding of A/B Testing,0.78
+A0062,Q0062,CAN272,Candidate provided a detailed response about microservices.,6.8,5.6,7.5,7.2,7.0,Demonstrated understanding of Network Security,0.62
+A0063,Q0063,CAN272,Candidate provided a detailed response about microservices.,7.5,6.0,7.5,6.8,6.2,Demonstrated understanding of Cybersecurity,0.93
+A0064,Q0064,CAN272,Candidate provided a detailed response about load balancing.,4.6,4.5,4.6,4.9,5.4,Demonstrated understanding of Python,0.83
+A0065,Q0065,CAN272,Candidate provided a detailed response about cloud architecture.,7.1,5.3,7.1,6.7,5.3,Demonstrated understanding of Network Security,0.61
+A0066,Q0066,CAN272,Candidate provided a detailed response about message queue.,6.3,6.4,6.4,6.6,5.9,Demonstrated understanding of Penetration Testing,0.7
+A0067,Q0067,CAN272,Candidate provided a detailed response about machine learning.,9.3,8.5,9.4,7.6,9.3,Demonstrated understanding of Networking,0.62
+A0068,Q0068,CAN272,Candidate provided a detailed response about load balancing.,7.8,7.0,7.4,8.0,7.0,Demonstrated understanding of OWASP Security,0.84
+A0069,Q0069,CAN272,Candidate provided a detailed response about data pipeline.,7.3,7.9,6.9,7.3,7.3,Demonstrated understanding of Network Security,0.87
+A0070,Q0070,CAN272,Candidate provided a detailed response about machine learning.,7.2,7.5,6.4,7.1,5.9,Demonstrated understanding of Compliance Management,0.84
+A0071,Q0071,CAN272,Candidate provided a detailed response about authentication.,7.1,6.0,6.2,7.0,7.3,Demonstrated understanding of Networking,0.79
+A0072,Q0072,CAN260,Candidate provided a detailed response about message queue.,7.3,7.3,6.4,6.7,6.8,Demonstrated understanding of Communication,0.62
+A0073,Q0073,CAN260,Candidate provided a detailed response about data pipeline.,8.5,7.9,8.5,7.3,7.9,Demonstrated understanding of Labor Law Compliance,0.86
+A0074,Q0074,CAN260,Candidate provided a detailed response about search indexing.,7.9,7.2,8.1,6.6,7.7,Demonstrated understanding of Teamwork,0.94
+A0075,Q0075,CAN260,Candidate provided a detailed response about API design.,7.8,7.0,7.0,7.1,7.9,Demonstrated understanding of HR Analytics,0.71
+A0076,Q0076,CAN260,Candidate provided a detailed response about load balancing.,5.9,5.6,5.3,5.9,5.8,Demonstrated understanding of Talent Acquisition,0.65
+A0077,Q0077,CAN260,Candidate provided a detailed response about search indexing.,8.0,8.4,8.5,7.9,7.3,Demonstrated understanding of Compensation and Benefits,0.9
+A0078,Q0078,CAN260,Candidate provided a detailed response about machine learning.,6.5,7.1,6.8,7.7,7.5,Demonstrated understanding of Labor Law Compliance,0.82
+A0079,Q0079,CAN260,Candidate provided a detailed response about caching.,7.2,7.9,7.0,7.1,7.1,Demonstrated understanding of Compensation and Benefits,0.84
+A0080,Q0080,CAN135,Candidate provided a detailed response about caching.,7.6,8.2,7.6,8.0,9.1,Demonstrated understanding of Issue Resolution,0.84
+A0081,Q0081,CAN135,Candidate provided a detailed response about message queue.,8.6,7.4,7.4,7.4,9.1,Demonstrated understanding of CRM Systems,0.88
+A0082,Q0082,CAN135,Candidate provided a detailed response about message queue.,10,9.6,9.1,8.3,8.3,Demonstrated understanding of Customer Relationship Management,0.76
+A0083,Q0083,CAN135,Candidate provided a detailed response about microservices.,8.5,8.0,7.3,7.6,7.7,Demonstrated understanding of Active Listening,0.61
+A0084,Q0084,CAN076,Candidate provided a detailed response about search indexing.,5.7,5.8,6.3,5.6,6.8,Demonstrated understanding of Market Analysis,0.81
+A0085,Q0085,CAN076,Candidate provided a detailed response about cloud architecture.,6.3,6.9,5.4,6.1,6.7,Demonstrated understanding of Strategic Planning,0.73
+A0086,Q0086,CAN076,Candidate provided a detailed response about API design.,7.9,6.9,7.8,6.6,7.1,Demonstrated understanding of Negotiation,0.68
+A0087,Q0087,CAN042,Candidate provided a detailed response about message queue.,8.6,8.2,8.0,8.7,9.0,Demonstrated understanding of Salesforce,0.62
+A0088,Q0088,CAN042,Candidate provided a detailed response about search indexing.,7.0,6.4,6.4,6.8,7.2,Demonstrated understanding of Communication,0.61
+A0089,Q0089,CAN042,Candidate provided a detailed response about load balancing.,9.3,9.2,8.2,8.7,9.2,Demonstrated understanding of Problem Solving,0.73
+A0090,Q0090,CAN042,Candidate provided a detailed response about authentication.,9.1,9.6,9.6,8.8,8.4,Demonstrated understanding of CRM Systems,0.81
+A0091,Q0091,CAN042,Candidate provided a detailed response about caching.,9.4,10,9.3,10,9.6,Demonstrated understanding of Presentation Skills,0.9
+A0092,Q0092,CAN042,Candidate provided a detailed response about caching.,8.5,8.9,8.8,8.5,8.7,Demonstrated understanding of Presentation Skills,0.87
+A0093,Q0093,CAN042,Candidate provided a detailed response about caching.,8.9,8.4,9.4,8.5,8.8,Demonstrated understanding of Salesforce,0.78
+A0094,Q0094,CAN042,Candidate provided a detailed response about database.,10,10,9.6,10,9.6,Demonstrated understanding of Presentation Skills,0.8
+A0095,Q0095,CAN042,Candidate provided a detailed response about cloud architecture.,8.1,8.6,8.4,9.7,9.3,Demonstrated understanding of Presentation Skills,0.9
+A0096,Q0096,CAN003,Candidate provided a detailed response about message queue.,2.8,5.2,2.4,4.1,5.2,Demonstrated understanding of Digital Marketing,0.77
+A0097,Q0097,CAN003,Candidate provided a detailed response about cloud architecture.,2.9,3.3,2.1,2.9,3.4,Demonstrated understanding of Product Management,0.67
+A0098,Q0098,CAN003,Candidate provided a detailed response about load balancing.,2.4,3.0,3.4,4.7,3.2,Demonstrated understanding of Communication,0.89
+A0099,Q0099,CAN118,Candidate provided a detailed response about cloud architecture.,8.1,7.6,7.4,6.9,4.7,Demonstrated understanding of Quality Assurance,0.61
+A0100,Q0100,CAN118,Candidate provided a detailed response about CI/CD.,4.7,6.3,5.9,5.5,3.3,Demonstrated understanding of Agile Methodology,0.73
+A0101,Q0101,CAN118,Candidate provided a detailed response about API design.,5.5,6.3,5.0,5.0,3.5,Demonstrated understanding of Test Automation,0.85
+A0102,Q0102,CAN118,Candidate provided a detailed response about load balancing.,5.1,5.4,4.6,6.1,3.4,Demonstrated understanding of Test Automation,0.63
+A0103,Q0103,CAN118,Candidate provided a detailed response about microservices.,5.5,7.0,5.8,5.6,3.2,Demonstrated understanding of Performance Testing,0.72
+A0104,Q0104,CAN118,Candidate provided a detailed response about CI/CD.,5.3,5.9,4.4,5.6,2.8,Demonstrated understanding of JavaScript,0.94
+A0105,Q0105,CAN118,Candidate provided a detailed response about authentication.,7.6,7.2,8.2,7.3,4.1,Demonstrated understanding of Agile Methodology,0.94
+A0106,Q0106,CAN166,Candidate provided a detailed response about search indexing.,8.0,7.1,8.1,7.4,8.5,Demonstrated understanding of Microsoft Azure,0.81
+A0107,Q0107,CAN166,Candidate provided a detailed response about machine learning.,7.4,8.3,7.5,9.0,8.1,Demonstrated understanding of Microservices Architecture,0.62
+A0108,Q0108,CAN166,Candidate provided a detailed response about database.,8.7,8.6,8.7,7.3,9.0,Demonstrated understanding of Terraform,0.68
+A0109,Q0109,CAN166,Candidate provided a detailed response about caching.,6.6,6.3,8.0,6.6,6.2,Demonstrated understanding of Jenkins,0.94
+A0110,Q0110,CAN166,Candidate provided a detailed response about CI/CD.,6.3,6.9,6.8,6.7,7.2,Demonstrated understanding of Kubernetes,0.75
+A0111,Q0111,CAN166,Candidate provided a detailed response about load balancing.,8.6,7.2,8.5,7.3,7.6,Demonstrated understanding of Microsoft Azure,0.89
+A0112,Q0112,CAN166,Candidate provided a detailed response about authentication.,6.3,5.7,6.5,7.1,5.5,Demonstrated understanding of CI/CD Pipelines,0.66
+A0113,Q0113,CAN166,Candidate provided a detailed response about CI/CD.,7.8,8.2,8.5,8.3,7.7,Demonstrated understanding of Git/Version Control,0.92
+A0114,Q0114,CAN090,Candidate provided a detailed response about cloud architecture.,5.6,4.0,5.5,3.9,4.6,Demonstrated understanding of TensorFlow,0.91
+A0115,Q0115,CAN090,Candidate provided a detailed response about database.,7.0,6.5,6.3,7.4,6.3,Demonstrated understanding of Statistical Modeling,0.71
+A0116,Q0116,CAN090,Candidate provided a detailed response about data pipeline.,5.8,5.5,4.4,4.3,5.5,Demonstrated understanding of Data Analysis,0.87
+A0117,Q0117,CAN107,Candidate provided a detailed response about load balancing.,3.1,2.6,2.8,3.3,3.8,Demonstrated understanding of Time Management,0.77
+A0118,Q0118,CAN107,Candidate provided a detailed response about cloud architecture.,3.8,4.4,3.7,3.6,3.0,Demonstrated understanding of Project Management,0.82
+A0119,Q0119,CAN107,Candidate provided a detailed response about caching.,2.3,3.2,3.3,3.9,2.9,Demonstrated understanding of Teamwork,0.63
+A0120,Q0120,CAN107,Candidate provided a detailed response about search indexing.,4.4,4.5,4.2,4.0,2.8,Demonstrated understanding of Time Management,0.73
+A0121,Q0121,CAN266,Candidate provided a detailed response about load balancing.,9.4,8.1,9.7,9.5,8.8,Demonstrated understanding of Teamwork,0.72
+A0122,Q0122,CAN266,Candidate provided a detailed response about machine learning.,6.1,7.2,5.3,6.8,5.7,Demonstrated understanding of Performance Management,0.92
+A0123,Q0123,CAN266,Candidate provided a detailed response about authentication.,8.5,7.1,7.6,8.6,7.2,Demonstrated understanding of Employee Relations,0.67
+A0124,Q0124,CAN068,Candidate provided a detailed response about microservices.,8.7,8.7,8.5,7.7,7.6,Demonstrated understanding of Issue Resolution,0.74
+A0125,Q0125,CAN068,Candidate provided a detailed response about authentication.,7.4,7.1,7.4,5.5,6.1,Demonstrated understanding of Issue Resolution,0.89
+A0126,Q0126,CAN068,Candidate provided a detailed response about cloud architecture.,7.6,7.8,7.8,7.6,7.2,Demonstrated understanding of Service Level Management,0.8
+A0127,Q0127,CAN068,Candidate provided a detailed response about cloud architecture.,6.8,8.2,6.3,7.7,7.1,Demonstrated understanding of Active Listening,0.7
+A0128,Q0128,CAN068,Candidate provided a detailed response about data pipeline.,6.3,6.8,6.3,6.5,6.0,Demonstrated understanding of Communication,0.71
+A0129,Q0129,CAN180,Candidate provided a detailed response about caching.,6.0,6.1,6.4,7.3,7.0,Demonstrated understanding of Python,0.88
+A0130,Q0130,CAN180,Candidate provided a detailed response about CI/CD.,7.0,7.2,8.2,7.8,7.0,Demonstrated understanding of Natural Language Processing,0.85
+A0131,Q0131,CAN180,Candidate provided a detailed response about CI/CD.,7.6,7.8,9.2,9.3,8.8,Demonstrated understanding of R,0.7
+A0132,Q0132,CAN180,Candidate provided a detailed response about cloud architecture.,8.4,8.3,8.4,8.6,7.7,Demonstrated understanding of R,0.77
+A0133,Q0133,CAN180,Candidate provided a detailed response about machine learning.,9.0,9.0,8.3,8.7,8.0,Demonstrated understanding of Data Modeling,0.63
+A0134,Q0134,CAN180,Candidate provided a detailed response about data pipeline.,8.9,8.7,8.8,8.8,7.4,Demonstrated understanding of Apache Spark,0.68
+A0135,Q0135,CAN180,Candidate provided a detailed response about message queue.,6.3,7.2,6.3,7.4,6.7,Demonstrated understanding of Pandas,0.74
+A0136,Q0136,CAN180,Candidate provided a detailed response about caching.,9.6,8.1,9.6,8.3,8.4,Demonstrated understanding of Machine Learning,0.81
+A0137,Q0137,CAN180,Candidate provided a detailed response about authentication.,8.1,8.8,7.4,8.2,8.5,Demonstrated understanding of Data Visualization,0.92
+A0138,Q0138,CAN110,Candidate provided a detailed response about microservices.,7.7,6.2,6.7,6.7,6.5,Demonstrated understanding of Time Management,0.67
+A0139,Q0139,CAN110,Candidate provided a detailed response about machine learning.,6.5,8.2,8.1,8.3,8.2,Demonstrated understanding of Leadership,0.78
+A0140,Q0140,CAN110,Candidate provided a detailed response about machine learning.,9.8,9.9,9.2,9.4,8.4,Demonstrated understanding of Mentoring,0.77
+A0141,Q0141,CAN110,Candidate provided a detailed response about message queue.,7.3,8.9,8.1,8.9,8.2,Demonstrated understanding of Agile Methodology,0.94
+A0142,Q0142,CAN110,Candidate provided a detailed response about data pipeline.,7.0,6.0,7.9,6.9,6.3,Demonstrated understanding of Project Management,0.89
+A0143,Q0143,CAN110,Candidate provided a detailed response about API design.,7.8,8.6,7.1,7.3,7.1,Demonstrated understanding of Leadership,0.61
+A0144,Q0144,CAN110,Candidate provided a detailed response about caching.,8.0,9.1,9.4,8.3,8.7,Demonstrated understanding of Teamwork,0.89
+A0145,Q0145,CAN110,Candidate provided a detailed response about search indexing.,6.1,7.1,7.1,7.7,6.8,Demonstrated understanding of Leadership,0.65
+A0146,Q0146,CAN063,Candidate provided a detailed response about message queue.,7.8,8.0,8.5,8.1,6.9,Demonstrated understanding of Time Management,0.68
+A0147,Q0147,CAN063,Candidate provided a detailed response about machine learning.,8.3,9.1,9.1,8.0,8.8,Demonstrated understanding of Mentoring,0.77
+A0148,Q0148,CAN063,Candidate provided a detailed response about message queue.,9.7,9.1,10,9.6,9.1,Demonstrated understanding of Project Management,0.76
+A0149,Q0149,CAN063,Candidate provided a detailed response about microservices.,9.2,9.0,8.5,7.9,8.3,Demonstrated understanding of Mentoring,0.82
+A0150,Q0150,CAN060,Candidate provided a detailed response about microservices.,8.2,7.8,8.3,8.3,8.6,Demonstrated understanding of Digital Marketing,0.87
+A0151,Q0151,CAN060,Candidate provided a detailed response about caching.,8.9,9.0,8.7,9.0,9.3,Demonstrated understanding of Digital Marketing,0.89
+A0152,Q0152,CAN060,Candidate provided a detailed response about message queue.,7.5,6.8,6.7,6.5,7.4,Demonstrated understanding of A/B Testing,0.91
+A0153,Q0153,CAN060,Candidate provided a detailed response about API design.,8.1,8.3,8.1,7.5,9.1,Demonstrated understanding of Product Management,0.95
+A0154,Q0154,CAN060,Candidate provided a detailed response about data pipeline.,8.0,8.5,8.7,8.9,8.1,Demonstrated understanding of Digital Marketing,0.71
+A0155,Q0155,CAN060,Candidate provided a detailed response about message queue.,10,9.0,9.0,9.7,10,Demonstrated understanding of Google Analytics,0.91
+A0156,Q0156,CAN060,Candidate provided a detailed response about search indexing.,8.0,8.4,8.8,8.9,7.8,Demonstrated understanding of Digital Marketing,0.6
+A0157,Q0157,CAN060,Candidate provided a detailed response about search indexing.,6.0,5.5,5.2,6.1,5.5,Demonstrated understanding of Market Analysis,0.71
+A0158,Q0158,CAN060,Candidate provided a detailed response about machine learning.,8.7,7.7,8.2,7.1,7.6,Demonstrated understanding of Product Management,0.9
+A0159,Q0159,CAN060,Candidate provided a detailed response about microservices.,8.0,8.6,7.9,7.9,8.8,Demonstrated understanding of Data Visualization,0.74
+A0160,Q0160,CAN060,Candidate provided a detailed response about message queue.,8.7,8.9,8.4,7.4,7.8,Demonstrated understanding of Digital Marketing,0.91
+A0161,Q0161,CAN060,Candidate provided a detailed response about caching.,8.6,8.9,7.7,8.6,9.0,Demonstrated understanding of Google Analytics,0.93
+A0162,Q0162,CAN060,Candidate provided a detailed response about machine learning.,10,9.2,9.3,10,9.1,Demonstrated understanding of Market Analysis,0.7
+A0163,Q0163,CAN009,Candidate provided a detailed response about API design.,6.6,6.2,6.3,7.2,6.7,Demonstrated understanding of Google Cloud Platform,0.71
+A0164,Q0164,CAN009,Candidate provided a detailed response about API design.,5.2,3.7,3.5,4.5,3.7,Demonstrated understanding of Terraform,0.77
+A0165,Q0165,CAN009,Candidate provided a detailed response about caching.,6.1,6.7,5.8,5.3,6.0,Demonstrated understanding of CI/CD Pipelines,0.94
+A0166,Q0166,CAN009,Candidate provided a detailed response about data pipeline.,6.1,6.2,6.7,6.3,6.9,Demonstrated understanding of Microservices Architecture,0.7
+A0167,Q0167,CAN133,Candidate provided a detailed response about API design.,2.9,3.7,3.8,3.7,3.8,Demonstrated understanding of Stakeholder Management,0.95
+A0168,Q0168,CAN133,Candidate provided a detailed response about microservices.,3.0,5.5,4.0,5.9,4.6,Demonstrated understanding of Leadership,0.93
+A0169,Q0169,CAN133,Candidate provided a detailed response about cloud architecture.,4.1,5.4,4.0,5.2,4.3,Demonstrated understanding of Leadership,0.73
+A0170,Q0170,CAN133,Candidate provided a detailed response about CI/CD.,2.3,3.8,2.9,3.6,4.0,Demonstrated understanding of Communication,0.71
+A0171,Q0171,CAN133,Candidate provided a detailed response about search indexing.,4.2,6.0,3.6,6.1,5.0,Demonstrated understanding of Strategic Planning,0.88
+A0172,Q0172,CAN133,Candidate provided a detailed response about authentication.,3.2,5.9,3.6,5.8,5.4,Demonstrated understanding of Negotiation,0.89
+A0173,Q0173,CAN133,Candidate provided a detailed response about microservices.,2.7,3.8,3.6,4.2,5.1,Demonstrated understanding of CRM Systems,0.68
+A0174,Q0174,CAN133,Candidate provided a detailed response about authentication.,3.4,4.2,2.7,4.7,3.7,Demonstrated understanding of Communication,0.66
+A0175,Q0175,CAN133,Candidate provided a detailed response about machine learning.,3.7,4.1,2.4,5.3,3.8,Demonstrated understanding of Stakeholder Management,0.83
+A0176,Q0176,CAN104,Candidate provided a detailed response about machine learning.,9.1,7.8,8.7,8.1,7.4,Demonstrated understanding of Communication,0.88
+A0177,Q0177,CAN104,Candidate provided a detailed response about microservices.,8.6,8.6,8.7,7.2,8.5,Demonstrated understanding of Talent Acquisition,0.71
+A0178,Q0178,CAN104,Candidate provided a detailed response about machine learning.,6.6,7.1,7.8,8.2,6.6,Demonstrated understanding of HR Analytics,0.85
+A0179,Q0179,CAN104,Candidate provided a detailed response about data pipeline.,6.1,7.5,6.1,6.7,7.5,Demonstrated understanding of Employee Relations,0.64
+A0180,Q0180,CAN124,Candidate provided a detailed response about caching.,6.0,5.8,4.6,5.0,6.1,Demonstrated understanding of Communication,0.7
+A0181,Q0181,CAN124,Candidate provided a detailed response about database.,8.0,6.7,7.1,7.4,8.3,Demonstrated understanding of Customer Relationship Management,0.62
+A0182,Q0182,CAN124,Candidate provided a detailed response about authentication.,6.7,6.8,6.7,7.7,8.0,Demonstrated understanding of Service Level Management,0.67
+A0183,Q0183,CAN124,Candidate provided a detailed response about cloud architecture.,7.2,7.7,6.2,7.9,7.6,Demonstrated understanding of Customer Relationship Management,0.82
+A0184,Q0184,CAN124,Candidate provided a detailed response about data pipeline.,6.6,5.5,5.7,6.0,6.2,Demonstrated understanding of Issue Resolution,0.6
+A0185,Q0185,CAN124,Candidate provided a detailed response about database.,8.4,7.9,8.2,8.6,8.3,Demonstrated understanding of Communication,0.85
+A0186,Q0186,CAN124,Candidate provided a detailed response about machine learning.,6.2,5.7,6.2,5.8,6.1,Demonstrated understanding of Empathy,0.74
+A0187,Q0187,CAN078,Candidate provided a detailed response about caching.,7.7,8.0,8.7,8.1,8.5,Demonstrated understanding of Google Analytics,0.79
+A0188,Q0188,CAN078,Candidate provided a detailed response about API design.,8.5,8.9,9.3,8.8,8.5,Demonstrated understanding of SEO/SEM,0.72
+A0189,Q0189,CAN078,Candidate provided a detailed response about database.,6.9,8.2,7.8,7.7,6.9,Demonstrated understanding of A/B Testing,0.89
+A0190,Q0190,CAN262,Candidate provided a detailed response about machine learning.,7.4,7.4,6.0,5.6,3.7,Demonstrated understanding of Microsoft Azure,0.78
+A0191,Q0191,CAN262,Candidate provided a detailed response about search indexing.,4.3,5.3,3.7,4.2,2.5,Demonstrated understanding of CI/CD Pipelines,0.86
+A0192,Q0192,CAN262,Candidate provided a detailed response about load balancing.,5.9,6.3,6.7,6.2,3.4,Demonstrated understanding of CI/CD Pipelines,0.88
+A0193,Q0193,CAN262,Candidate provided a detailed response about CI/CD.,5.9,5.5,4.6,5.5,3.6,Demonstrated understanding of Microservices Architecture,0.74
+A0194,Q0194,CAN262,Candidate provided a detailed response about data pipeline.,5.8,5.2,6.9,5.8,3.8,Demonstrated understanding of Kubernetes,0.62
+A0195,Q0195,CAN262,Candidate provided a detailed response about API design.,5.1,6.5,6.5,6.6,3.2,Demonstrated understanding of System Administration,0.84
+A0196,Q0196,CAN262,Candidate provided a detailed response about CI/CD.,7.0,6.1,7.5,7.2,4.0,Demonstrated understanding of Terraform,0.86
+A0197,Q0197,CAN262,Candidate provided a detailed response about load balancing.,4.8,3.7,4.5,4.8,2.4,Demonstrated understanding of Git/Version Control,0.89
+A0198,Q0198,CAN223,Candidate provided a detailed response about cloud architecture.,5.6,5.4,4.3,5.0,5.7,Demonstrated understanding of Stakeholder Management,0.79
+A0199,Q0199,CAN223,Candidate provided a detailed response about message queue.,4.0,4.2,4.7,4.1,4.3,Demonstrated understanding of Business Strategy,0.65
+A0200,Q0200,CAN223,Candidate provided a detailed response about machine learning.,2.9,3.2,2.9,1.7,3.1,Demonstrated understanding of Leadership,0.81
+A0201,Q0201,CAN223,Candidate provided a detailed response about microservices.,3.5,2.9,3.6,3.5,2.9,Demonstrated understanding of Negotiation,0.6
+A0202,Q0202,CAN223,Candidate provided a detailed response about message queue.,4.7,4.2,5.1,4.9,5.5,Demonstrated understanding of Leadership,0.6
+A0203,Q0203,CAN223,Candidate provided a detailed response about search indexing.,4.7,2.9,3.2,3.2,4.3,Demonstrated understanding of Market Analysis,0.83
+A0204,Q0204,CAN223,Candidate provided a detailed response about load balancing.,4.1,3.3,4.6,3.3,3.3,Demonstrated understanding of Market Analysis,0.8
+A0205,Q0205,CAN223,Candidate provided a detailed response about microservices.,2.0,2.9,3.0,2.7,3.7,Demonstrated understanding of Stakeholder Management,0.72
+A0206,Q0206,CAN277,Candidate provided a detailed response about authentication.,4.9,3.5,4.3,4.4,3.5,Demonstrated understanding of AWS,0.91
+A0207,Q0207,CAN277,Candidate provided a detailed response about search indexing.,2.4,2.7,1.4,1.7,1.4,Demonstrated understanding of System Administration,0.85
+A0208,Q0208,CAN277,Candidate provided a detailed response about API design.,4.7,4.9,4.0,3.4,3.3,Demonstrated understanding of Linux,0.92
+A0209,Q0209,CAN277,Candidate provided a detailed response about CI/CD.,2.1,3.1,2.3,2.3,2.7,Demonstrated understanding of Microservices Architecture,0.8
+A0210,Q0210,CAN277,Candidate provided a detailed response about machine learning.,4.4,4.2,5.0,4.6,3.8,Demonstrated understanding of CI/CD Pipelines,0.78
+A0211,Q0211,CAN017,Candidate provided a detailed response about authentication.,6.7,6.8,8.5,6.8,8.2,Demonstrated understanding of Communication,0.65
+A0212,Q0212,CAN017,Candidate provided a detailed response about caching.,7.3,6.5,5.9,6.6,6.0,Demonstrated understanding of Brand Management,0.77
+A0213,Q0213,CAN017,Candidate provided a detailed response about database.,5.9,5.3,4.3,4.8,5.5,Demonstrated understanding of Market Analysis,0.63
+A0214,Q0214,CAN017,Candidate provided a detailed response about machine learning.,6.2,5.9,4.9,5.9,6.0,Demonstrated understanding of Data Visualization,0.92
+A0215,Q0215,CAN017,Candidate provided a detailed response about data pipeline.,5.8,4.8,6.4,6.1,5.5,Demonstrated understanding of Communication,0.93
+A0216,Q0216,CAN231,Candidate provided a detailed response about load balancing.,2.9,5.8,3.8,5.1,4.6,Demonstrated understanding of Time Management,0.68
+A0217,Q0217,CAN231,Candidate provided a detailed response about microservices.,3.6,4.1,2.9,4.4,5.0,Demonstrated understanding of Strategic Planning,0.75
+A0218,Q0218,CAN231,Candidate provided a detailed response about API design.,3.5,6.5,4.1,6.2,4.8,Demonstrated understanding of Communication,0.78
+A0219,Q0219,CAN231,Candidate provided a detailed response about cloud architecture.,2.0,4.1,2.4,4.7,3.3,Demonstrated understanding of Leadership,0.68
+A0220,Q0220,CAN231,Candidate provided a detailed response about cloud architecture.,4.7,6.2,3.4,5.1,5.1,Demonstrated understanding of Agile Methodology,0.66
+A0221,Q0221,CAN231,Candidate provided a detailed response about search indexing.,3.6,5.4,4.0,4.7,5.1,Demonstrated understanding of Communication,0.6
+A0222,Q0222,CAN231,Candidate provided a detailed response about microservices.,3.8,6.8,4.9,5.5,5.2,Demonstrated understanding of System Design,0.66
+A0223,Q0223,CAN231,Candidate provided a detailed response about API design.,2.5,4.3,2.5,4.5,4.2,Demonstrated understanding of System Design,0.64
+A0224,Q0224,CAN231,Candidate provided a detailed response about authentication.,2.0,3.3,2.0,3.5,3.9,Demonstrated understanding of Project Management,0.6
+A0225,Q0225,CAN218,Candidate provided a detailed response about API design.,7.0,5.5,6.9,5.1,6.8,Demonstrated understanding of Strategic Planning,0.94
+A0226,Q0226,CAN218,Candidate provided a detailed response about database.,6.3,5.6,6.3,6.3,5.6,Demonstrated understanding of Leadership,0.77
+A0227,Q0227,CAN218,Candidate provided a detailed response about API design.,5.4,6.1,6.2,6.4,5.7,Demonstrated understanding of Salesforce,0.65
+A0228,Q0228,CAN218,Candidate provided a detailed response about caching.,5.7,5.2,6.2,6.8,5.5,Demonstrated understanding of Leadership,0.84
+A0229,Q0229,CAN218,Candidate provided a detailed response about search indexing.,5.5,5.0,5.2,5.6,6.1,Demonstrated understanding of Communication,0.71
+A0230,Q0230,CAN228,Candidate provided a detailed response about authentication.,6.0,6.8,7.5,6.7,6.9,Demonstrated understanding of Quality Assurance,0.74
+A0231,Q0231,CAN228,Candidate provided a detailed response about caching.,9.0,8.8,9.1,8.8,9.5,Demonstrated understanding of Performance Testing,0.87
+A0232,Q0232,CAN228,Candidate provided a detailed response about cloud architecture.,6.3,6.5,6.3,7.5,6.7,Demonstrated understanding of Unit Testing,0.75
+A0233,Q0233,CAN228,Candidate provided a detailed response about search indexing.,8.9,8.1,7.5,7.9,7.8,Demonstrated understanding of Quality Assurance,0.71
+A0234,Q0234,CAN228,Candidate provided a detailed response about machine learning.,10,9.5,9.7,10,10,Demonstrated understanding of Integration Testing,0.89
+A0235,Q0235,CAN228,Candidate provided a detailed response about authentication.,9.0,9.2,9.6,9.5,8.6,Demonstrated understanding of JIRA,0.72
+A0236,Q0236,CAN228,Candidate provided a detailed response about CI/CD.,7.6,9.0,8.7,8.0,9.2,Demonstrated understanding of Quality Assurance,0.73
+A0237,Q0237,CAN228,Candidate provided a detailed response about cloud architecture.,8.6,7.1,7.4,8.7,6.9,Demonstrated understanding of Unit Testing,0.76
+A0238,Q0238,CAN228,Candidate provided a detailed response about machine learning.,7.9,8.4,7.3,7.2,7.1,Demonstrated understanding of Agile Methodology,0.88
+A0239,Q0239,CAN281,Candidate provided a detailed response about machine learning.,8.3,8.9,9.0,8.6,7.5,Demonstrated understanding of SQL,0.91
+A0240,Q0240,CAN281,Candidate provided a detailed response about caching.,8.8,8.7,9.3,7.9,8.1,Demonstrated understanding of JavaScript,0.79
+A0241,Q0241,CAN281,Candidate provided a detailed response about data pipeline.,10,9.2,10,10.0,9.8,Demonstrated understanding of Microservices Architecture,0.91
+A0242,Q0242,CAN281,Candidate provided a detailed response about machine learning.,6.6,8.1,7.6,7.8,6.8,Demonstrated understanding of Django,0.74
+A0243,Q0243,CAN281,Candidate provided a detailed response about microservices.,9.6,8.7,9.1,10,10,Demonstrated understanding of Redis,0.61
+A0244,Q0244,CAN281,Candidate provided a detailed response about load balancing.,7.9,9.0,7.9,9.2,7.6,Demonstrated understanding of System Design,0.7
+A0245,Q0245,CAN281,Candidate provided a detailed response about message queue.,7.6,8.4,7.6,9.1,8.1,Demonstrated understanding of CI/CD Pipelines,0.62
+A0246,Q0246,CAN281,Candidate provided a detailed response about microservices.,6.0,7.6,7.4,6.2,6.9,Demonstrated understanding of Python,0.82
+A0247,Q0247,CAN281,Candidate provided a detailed response about load balancing.,6.7,7.8,6.6,8.2,7.4,Demonstrated understanding of System Design,0.71
+A0248,Q0248,CAN018,Candidate provided a detailed response about load balancing.,5.8,6.8,6.0,7.1,3.7,Demonstrated understanding of Leadership,0.92
+A0249,Q0249,CAN018,Candidate provided a detailed response about CI/CD.,4.8,4.6,5.1,5.0,3.2,Demonstrated understanding of Strategic Planning,0.91
+A0250,Q0250,CAN018,Candidate provided a detailed response about microservices.,4.8,5.1,6.2,4.8,3.3,Demonstrated understanding of CRM Systems,0.77
+A0251,Q0251,CAN018,Candidate provided a detailed response about CI/CD.,4.0,4.1,4.7,4.7,3.3,Demonstrated understanding of Market Analysis,0.77
+A0252,Q0252,CAN018,Candidate provided a detailed response about CI/CD.,5.3,5.3,5.6,5.1,2.6,Demonstrated understanding of Stakeholder Management,0.79
+A0253,Q0253,CAN252,Candidate provided a detailed response about load balancing.,8.9,7.5,8.5,7.9,8.0,Demonstrated understanding of Test Automation,0.83
+A0254,Q0254,CAN252,Candidate provided a detailed response about search indexing.,7.4,8.7,7.8,7.8,9.0,Demonstrated understanding of Selenium,0.6
+A0255,Q0255,CAN252,Candidate provided a detailed response about microservices.,8.2,7.3,7.1,7.7,8.1,Demonstrated understanding of Unit Testing,0.69
+A0256,Q0256,CAN252,Candidate provided a detailed response about authentication.,9.7,9.0,10.0,10,10,Demonstrated understanding of JIRA,0.65
+A0257,Q0257,CAN252,Candidate provided a detailed response about search indexing.,8.3,8.6,8.4,7.7,8.0,Demonstrated understanding of Performance Testing,0.63
+A0258,Q0258,CAN252,Candidate provided a detailed response about CI/CD.,6.8,6.8,8.4,6.5,7.5,Demonstrated understanding of Python,0.62
+A0259,Q0259,CAN252,Candidate provided a detailed response about caching.,8.6,10.0,8.7,9.0,9.7,Demonstrated understanding of Performance Testing,0.92
+A0260,Q0260,CAN252,Candidate provided a detailed response about search indexing.,9.1,8.0,9.1,7.8,7.4,Demonstrated understanding of Selenium,0.69
+A0261,Q0261,CAN252,Candidate provided a detailed response about database.,10,10,9.9,8.9,9.8,Demonstrated understanding of SQL,0.9
+A0262,Q0262,CAN239,Candidate provided a detailed response about database.,8.7,7.2,8.5,8.8,7.5,Demonstrated understanding of Linux,0.84
+A0263,Q0263,CAN239,Candidate provided a detailed response about authentication.,9.8,8.4,9.1,9.3,9.2,Demonstrated understanding of Cybersecurity,0.62
+A0264,Q0264,CAN239,Candidate provided a detailed response about API design.,7.7,7.2,7.3,8.7,7.3,Demonstrated understanding of Networking,0.79
+A0265,Q0265,CAN239,Candidate provided a detailed response about API design.,7.3,7.1,7.3,7.9,7.4,Demonstrated understanding of Cybersecurity,0.77
+A0266,Q0266,CAN239,Candidate provided a detailed response about caching.,8.5,9.7,8.9,9.2,8.2,Demonstrated understanding of Linux,0.69
+A0267,Q0267,CAN239,Candidate provided a detailed response about cloud architecture.,8.4,9.5,8.7,8.2,8.0,Demonstrated understanding of Ansible,0.75
+A0268,Q0268,CAN239,Candidate provided a detailed response about machine learning.,8.0,8.4,8.0,7.5,8.1,Demonstrated understanding of Windows Server,0.87
+A0269,Q0269,CAN239,Candidate provided a detailed response about message queue.,8.8,7.3,8.2,8.9,7.7,Demonstrated understanding of Cybersecurity,0.7
+A0270,Q0270,CAN239,Candidate provided a detailed response about search indexing.,9.1,9.5,9.5,8.4,10,Demonstrated understanding of Docker,0.61
+A0271,Q0271,CAN039,Candidate provided a detailed response about cloud architecture.,6.5,7.3,7.5,6.4,7.4,Demonstrated understanding of Google Analytics,0.63
+A0272,Q0272,CAN039,Candidate provided a detailed response about database.,5.6,6.9,7.0,7.0,6.7,Demonstrated understanding of Brand Management,0.88
+A0273,Q0273,CAN039,Candidate provided a detailed response about cloud architecture.,6.1,6.4,5.6,5.7,6.4,Demonstrated understanding of Data Visualization,0.69
+A0274,Q0274,CAN039,Candidate provided a detailed response about data pipeline.,6.6,7.3,6.1,6.7,7.0,Demonstrated understanding of Market Analysis,0.84
+A0275,Q0275,CAN039,Candidate provided a detailed response about load balancing.,5.4,6.4,6.3,5.5,6.7,Demonstrated understanding of Content Marketing,0.73
+A0276,Q0276,CAN023,Candidate provided a detailed response about search indexing.,3.4,2.3,2.8,2.0,3.1,Demonstrated understanding of CRM Systems,0.84
+A0277,Q0277,CAN023,Candidate provided a detailed response about microservices.,3.9,3.6,4.3,3.9,3.3,Demonstrated understanding of Service Level Management,0.68
+A0278,Q0278,CAN023,Candidate provided a detailed response about microservices.,5.4,5.0,4.9,4.5,5.3,Demonstrated understanding of CRM Systems,0.84
+A0279,Q0279,CAN023,Candidate provided a detailed response about CI/CD.,3.9,3.5,3.1,3.2,4.2,Demonstrated understanding of Issue Resolution,0.75
+A0280,Q0280,CAN023,Candidate provided a detailed response about CI/CD.,5.3,3.8,4.2,4.3,5.0,Demonstrated understanding of Communication,0.62
+A0281,Q0281,CAN023,Candidate provided a detailed response about cloud architecture.,3.9,5.3,3.9,3.8,4.9,Demonstrated understanding of Communication,0.83
+A0282,Q0282,CAN023,Candidate provided a detailed response about microservices.,4.3,5.4,5.2,5.4,5.3,Demonstrated understanding of CRM Systems,0.86
+A0283,Q0283,CAN023,Candidate provided a detailed response about caching.,4.8,5.0,6.1,4.5,6.2,Demonstrated understanding of Service Level Management,0.93
+A0284,Q0284,CAN023,Candidate provided a detailed response about caching.,2.5,2.8,3.6,2.5,2.1,Demonstrated understanding of Issue Resolution,0.68
+A0285,Q0285,CAN023,Candidate provided a detailed response about data pipeline.,4.9,4.3,4.3,4.6,3.7,Demonstrated understanding of Issue Resolution,0.8
+A0286,Q0286,CAN023,Candidate provided a detailed response about search indexing.,4.5,3.2,3.7,4.1,3.5,Demonstrated understanding of Service Level Management,0.65
+A0287,Q0287,CAN023,Candidate provided a detailed response about cloud architecture.,2.1,3.6,3.6,3.1,3.1,Demonstrated understanding of Communication,0.88
+A0288,Q0288,CAN058,Candidate provided a detailed response about authentication.,2.7,4.1,3.2,3.8,5.0,Demonstrated understanding of CI/CD Pipelines,0.91
+A0289,Q0289,CAN058,Candidate provided a detailed response about load balancing.,3.4,4.1,2.6,3.2,5.0,Demonstrated understanding of FastAPI,0.88
+A0290,Q0290,CAN058,Candidate provided a detailed response about message queue.,3.7,4.7,4.0,5.2,4.1,Demonstrated understanding of MongoDB,0.7
+A0291,Q0291,CAN111,Candidate provided a detailed response about search indexing.,7.2,6.9,8.5,8.2,7.7,Demonstrated understanding of R,0.65
+A0292,Q0292,CAN111,Candidate provided a detailed response about authentication.,9.0,7.4,7.5,8.0,8.9,Demonstrated understanding of PyTorch,0.64
+A0293,Q0293,CAN111,Candidate provided a detailed response about microservices.,8.3,9.0,10,8.8,8.4,Demonstrated understanding of Statistical Modeling,0.88
+A0294,Q0294,CAN111,Candidate provided a detailed response about cloud architecture.,8.5,7.4,8.4,8.0,7.0,Demonstrated understanding of PyTorch,0.62
+A0295,Q0295,CAN111,Candidate provided a detailed response about authentication.,10,8.8,10,9.9,9.7,Demonstrated understanding of Apache Spark,0.94
+A0296,Q0296,CAN047,Candidate provided a detailed response about search indexing.,4.0,5.3,3.7,4.6,2.4,Demonstrated understanding of Compensation and Benefits,0.75
+A0297,Q0297,CAN047,Candidate provided a detailed response about search indexing.,6.3,6.5,5.9,6.6,3.7,Demonstrated understanding of Labor Law Compliance,0.74
+A0298,Q0298,CAN047,Candidate provided a detailed response about microservices.,4.1,4.9,5.2,4.7,2.3,Demonstrated understanding of Labor Law Compliance,0.94
+A0299,Q0299,CAN047,Candidate provided a detailed response about data pipeline.,6.4,5.7,5.9,6.4,2.8,Demonstrated understanding of Teamwork,0.85
+A0300,Q0300,CAN047,Candidate provided a detailed response about search indexing.,7.5,6.8,6.7,6.4,4.1,Demonstrated understanding of Time Management,0.62
+A0301,Q0301,CAN292,Candidate provided a detailed response about load balancing.,7.7,8.1,8.1,8.1,8.2,Demonstrated understanding of Linux,0.89
+A0302,Q0302,CAN292,Candidate provided a detailed response about caching.,10,8.8,10,9.4,10,Demonstrated understanding of System Administration,0.75
+A0303,Q0303,CAN292,Candidate provided a detailed response about authentication.,8.6,9.5,8.0,9.6,9.5,Demonstrated understanding of System Administration,0.95
+A0304,Q0304,CAN292,Candidate provided a detailed response about microservices.,8.6,9.9,9.2,9.4,9.6,Demonstrated understanding of Kubernetes,0.79
+A0305,Q0305,CAN292,Candidate provided a detailed response about database.,9.2,9.4,9.9,9.4,8.9,Demonstrated understanding of Apache Kafka,0.83
+A0306,Q0306,CAN292,Candidate provided a detailed response about microservices.,10,10,9.9,10,9.1,Demonstrated understanding of Docker,0.83
+A0307,Q0307,CAN292,Candidate provided a detailed response about CI/CD.,9.3,8.5,8.3,9.5,9.1,Demonstrated understanding of Terraform,0.83
+A0308,Q0308,CAN292,Candidate provided a detailed response about load balancing.,9.9,9.4,9.7,9.1,10.0,Demonstrated understanding of AWS,0.65
+A0309,Q0309,CAN292,Candidate provided a detailed response about API design.,8.9,9.1,9.6,8.4,8.5,Demonstrated understanding of Ansible,0.68
+A0310,Q0310,CAN292,Candidate provided a detailed response about caching.,10,10,10,9.4,10,Demonstrated understanding of Docker,0.86
+A0311,Q0311,CAN275,Candidate provided a detailed response about cloud architecture.,9.2,10.0,8.5,9.9,8.8,Demonstrated understanding of JIRA,0.7
+A0312,Q0312,CAN275,Candidate provided a detailed response about API design.,8.6,7.6,9.1,9.2,9.2,Demonstrated understanding of Python,0.72
+A0313,Q0313,CAN275,Candidate provided a detailed response about CI/CD.,9.0,8.6,10.0,8.6,9.2,Demonstrated understanding of JIRA,0.71
+A0314,Q0314,CAN275,Candidate provided a detailed response about database.,9.4,10,8.9,10,9.5,Demonstrated understanding of Quality Assurance,0.87
+A0315,Q0315,CAN275,Candidate provided a detailed response about load balancing.,7.9,9.1,8.1,8.7,8.4,Demonstrated understanding of JavaScript,0.92
+A0316,Q0316,CAN275,Candidate provided a detailed response about data pipeline.,7.3,8.1,8.1,6.5,7.8,Demonstrated understanding of Unit Testing,0.82
+A0317,Q0317,CAN275,Candidate provided a detailed response about authentication.,8.3,9.1,8.4,8.1,9.2,Demonstrated understanding of JIRA,0.86
+A0318,Q0318,CAN275,Candidate provided a detailed response about caching.,7.5,6.5,8.2,6.9,7.3,Demonstrated understanding of Test Automation,0.78
+A0319,Q0319,CAN275,Candidate provided a detailed response about database.,7.8,8.6,8.1,8.4,8.7,Demonstrated understanding of Python,0.73
+A0320,Q0320,CAN144,Candidate provided a detailed response about authentication.,7.4,7.6,8.1,7.0,7.8,Demonstrated understanding of Google Cloud Platform,0.65
+A0321,Q0321,CAN144,Candidate provided a detailed response about caching.,8.5,8.3,8.1,9.6,9.7,Demonstrated understanding of Kubernetes,0.75
+A0322,Q0322,CAN144,Candidate provided a detailed response about API design.,7.1,7.4,8.8,8.9,8.7,Demonstrated understanding of CI/CD Pipelines,0.79
+A0323,Q0323,CAN144,Candidate provided a detailed response about cloud architecture.,6.9,6.7,8.4,8.1,8.4,Demonstrated understanding of AWS,0.83
+A0324,Q0324,CAN144,Candidate provided a detailed response about load balancing.,8.9,8.7,8.5,8.4,7.9,Demonstrated understanding of CI/CD Pipelines,0.6
+A0325,Q0325,CAN144,Candidate provided a detailed response about database.,9.4,9.2,10,9.9,10,Demonstrated understanding of Ansible,0.8
+A0326,Q0326,CAN144,Candidate provided a detailed response about microservices.,8.3,8.8,8.6,9.1,7.6,Demonstrated understanding of Jenkins,0.92
+A0327,Q0327,CAN144,Candidate provided a detailed response about database.,8.6,7.9,7.9,7.0,8.3,Demonstrated understanding of System Administration,0.84
+A0328,Q0328,CAN144,Candidate provided a detailed response about authentication.,7.6,7.6,7.0,7.3,9.0,Demonstrated understanding of Google Cloud Platform,0.79
+A0329,Q0329,CAN093,Candidate provided a detailed response about cloud architecture.,4.8,4.9,5.9,5.6,6.4,Demonstrated understanding of Docker,0.65
+A0330,Q0330,CAN093,Candidate provided a detailed response about caching.,4.8,5.2,6.4,6.4,5.6,Demonstrated understanding of Jenkins,0.89
+A0331,Q0331,CAN093,Candidate provided a detailed response about machine learning.,4.9,5.4,4.1,4.6,4.7,Demonstrated understanding of Apache Kafka,0.88
+A0332,Q0332,CAN093,Candidate provided a detailed response about cloud architecture.,4.7,4.5,5.7,4.3,5.4,Demonstrated understanding of Microsoft Azure,0.74
+A0333,Q0333,CAN093,Candidate provided a detailed response about authentication.,6.3,6.0,6.1,6.5,7.1,Demonstrated understanding of Linux,0.79
+A0334,Q0334,CAN093,Candidate provided a detailed response about API design.,6.1,6.0,5.2,6.7,6.0,Demonstrated understanding of Terraform,0.81
+A0335,Q0335,CAN093,Candidate provided a detailed response about load balancing.,4.7,5.6,6.4,6.1,5.0,Demonstrated understanding of Microservices Architecture,0.78
+A0336,Q0336,CAN145,Candidate provided a detailed response about machine learning.,6.3,4.9,5.3,5.6,4.6,Demonstrated understanding of Communication,0.94
+A0337,Q0337,CAN145,Candidate provided a detailed response about search indexing.,5.1,5.9,5.6,6.1,5.8,Demonstrated understanding of Leadership,0.9
+A0338,Q0338,CAN145,Candidate provided a detailed response about API design.,5.6,6.6,5.5,5.2,6.8,Demonstrated understanding of System Design,0.6
+A0339,Q0339,CAN145,Candidate provided a detailed response about load balancing.,5.6,5.6,6.8,6.4,5.5,Demonstrated understanding of Stakeholder Management,0.85
+A0340,Q0340,CAN145,Candidate provided a detailed response about machine learning.,4.5,5.6,4.6,6.0,4.5,Demonstrated understanding of Project Management,0.76
+A0341,Q0341,CAN072,Candidate provided a detailed response about CI/CD.,7.7,6.2,7.1,7.5,5.9,Demonstrated understanding of Communication,0.7
+A0342,Q0342,CAN072,Candidate provided a detailed response about authentication.,8.8,8.5,9.2,7.8,9.1,Demonstrated understanding of Communication,0.92
+A0343,Q0343,CAN072,Candidate provided a detailed response about database.,8.4,7.6,7.5,7.7,7.6,Demonstrated understanding of Problem Solving,0.79
+A0344,Q0344,CAN072,Candidate provided a detailed response about CI/CD.,7.4,7.0,7.7,7.6,8.3,Demonstrated understanding of CRM Systems,0.69
+A0345,Q0345,CAN006,Candidate provided a detailed response about machine learning.,5.5,6.6,7.0,5.8,4.0,Demonstrated understanding of Integration Testing,0.82
+A0346,Q0346,CAN006,Candidate provided a detailed response about database.,4.8,4.4,4.3,5.6,3.2,Demonstrated understanding of Unit Testing,0.92
+A0347,Q0347,CAN006,Candidate provided a detailed response about search indexing.,7.0,5.6,6.1,5.6,3.6,Demonstrated understanding of JIRA,0.71
+A0348,Q0348,CAN006,Candidate provided a detailed response about search indexing.,5.0,5.7,5.2,5.4,3.8,Demonstrated understanding of JavaScript,0.87
+A0349,Q0349,CAN006,Candidate provided a detailed response about load balancing.,5.1,6.2,7.0,5.3,3.4,Demonstrated understanding of Unit Testing,0.64
+A0350,Q0350,CAN006,Candidate provided a detailed response about authentication.,3.7,5.1,4.3,5.1,3.2,Demonstrated understanding of Performance Testing,0.68
+A0351,Q0351,CAN099,Candidate provided a detailed response about database.,2.4,4.1,3.1,4.6,4.2,Demonstrated understanding of Communication,0.62
+A0352,Q0352,CAN099,Candidate provided a detailed response about caching.,3.4,4.2,3.6,5.1,4.5,Demonstrated understanding of Leadership,0.61
+A0353,Q0353,CAN099,Candidate provided a detailed response about database.,4.7,5.8,4.3,5.3,6.4,Demonstrated understanding of Agile Methodology,0.67
+A0354,Q0354,CAN099,Candidate provided a detailed response about microservices.,3.0,3.7,3.1,3.9,2.8,Demonstrated understanding of Leadership,0.85
+A0355,Q0355,CAN300,Candidate provided a detailed response about authentication.,5.1,3.3,4.7,4.2,3.7,Demonstrated understanding of System Administration,0.9
+A0356,Q0356,CAN300,Candidate provided a detailed response about API design.,2.2,3.0,2.2,3.8,3.8,Demonstrated understanding of IT Service Management,0.87
+A0357,Q0357,CAN300,Candidate provided a detailed response about microservices.,6.1,6.1,5.4,5.7,4.4,Demonstrated understanding of Docker,0.93
+A0358,Q0358,CAN300,Candidate provided a detailed response about microservices.,3.5,4.2,4.5,4.8,4.4,Demonstrated understanding of Cybersecurity,0.8
+A0359,Q0359,CAN300,Candidate provided a detailed response about machine learning.,3.6,3.1,2.6,4.5,4.1,Demonstrated understanding of Linux,0.74
+A0360,Q0360,CAN300,Candidate provided a detailed response about database.,1.9,3.2,3.6,2.1,2.6,Demonstrated understanding of Ansible,0.65
+A0361,Q0361,CAN300,Candidate provided a detailed response about data pipeline.,5.1,4.1,3.9,3.5,4.5,Demonstrated understanding of Ansible,0.95
+A0362,Q0362,CAN300,Candidate provided a detailed response about message queue.,2.9,4.0,3.5,3.3,2.5,Demonstrated understanding of Cybersecurity,0.64
+A0363,Q0363,CAN125,Candidate provided a detailed response about caching.,3.9,5.5,3.4,5.6,5.1,Demonstrated understanding of Communication,0.73
+A0364,Q0364,CAN125,Candidate provided a detailed response about database.,2.9,4.6,2.7,4.8,3.9,Demonstrated understanding of CRM Systems,0.72
+A0365,Q0365,CAN125,Candidate provided a detailed response about database.,2.9,4.2,2.6,3.9,4.0,Demonstrated understanding of Negotiation,0.77
+A0366,Q0366,CAN234,Candidate provided a detailed response about caching.,6.8,6.6,6.5,7.0,3.8,Demonstrated understanding of Networking,0.66
+A0367,Q0367,CAN234,Candidate provided a detailed response about database.,4.1,4.4,5.1,4.5,3.5,Demonstrated understanding of OWASP Security,0.84
+A0368,Q0368,CAN234,Candidate provided a detailed response about cloud architecture.,5.4,5.4,6.7,6.1,3.8,Demonstrated understanding of Identity and Access Management,0.79
+A0369,Q0369,CAN234,Candidate provided a detailed response about authentication.,4.5,4.4,4.6,4.5,3.0,Demonstrated understanding of Compliance Management,0.72
+A0370,Q0370,CAN234,Candidate provided a detailed response about load balancing.,4.8,4.8,5.7,6.4,3.9,Demonstrated understanding of Compliance Management,0.72
+A0371,Q0371,CAN287,Candidate provided a detailed response about CI/CD.,10,9.3,8.9,10,10,Demonstrated understanding of Integration Testing,0.71
+A0372,Q0372,CAN287,Candidate provided a detailed response about data pipeline.,8.7,8.4,8.0,7.9,7.9,Demonstrated understanding of Test Automation,0.8
+A0373,Q0373,CAN287,Candidate provided a detailed response about load balancing.,10,10,8.9,8.7,9.1,Demonstrated understanding of Python,0.83
+A0374,Q0374,CAN287,Candidate provided a detailed response about data pipeline.,9.3,9.7,9.8,9.4,8.7,Demonstrated understanding of Selenium,0.68
+A0375,Q0375,CAN287,Candidate provided a detailed response about machine learning.,9.1,8.5,8.9,8.3,8.9,Demonstrated understanding of Quality Assurance,0.84
+A0376,Q0376,CAN287,Candidate provided a detailed response about microservices.,9.9,8.9,9.7,10,10,Demonstrated understanding of Agile Methodology,0.66
+A0377,Q0377,CAN287,Candidate provided a detailed response about message queue.,9.7,10,9.4,9.8,10,Demonstrated understanding of JIRA,0.75
+A0378,Q0378,CAN247,Candidate provided a detailed response about message queue.,3.4,3.6,4.1,4.6,2.0,Demonstrated understanding of HR Analytics,0.75
+A0379,Q0379,CAN247,Candidate provided a detailed response about database.,4.9,4.8,4.3,5.4,3.4,Demonstrated understanding of Talent Acquisition,0.63
+A0380,Q0380,CAN247,Candidate provided a detailed response about microservices.,5.7,5.9,4.6,5.1,2.8,Demonstrated understanding of Teamwork,0.64
+A0381,Q0381,CAN247,Candidate provided a detailed response about cloud architecture.,5.8,7.1,6.9,6.3,3.8,Demonstrated understanding of HR Analytics,0.83
+A0382,Q0382,CAN232,Candidate provided a detailed response about authentication.,8.3,9.2,9.8,9.6,9.0,Demonstrated understanding of Kubernetes,0.88
+A0383,Q0383,CAN232,Candidate provided a detailed response about database.,10,8.7,9.5,8.8,10,Demonstrated understanding of Git/Version Control,0.92
+A0384,Q0384,CAN232,Candidate provided a detailed response about cloud architecture.,8.6,8.7,8.6,8.8,9.4,Demonstrated understanding of AWS,0.68
+A0385,Q0385,CAN232,Candidate provided a detailed response about load balancing.,8.5,7.8,8.5,8.2,8.2,Demonstrated understanding of Microservices Architecture,0.84
+A0386,Q0386,CAN232,Candidate provided a detailed response about authentication.,9.9,8.7,10,9.3,10,Demonstrated understanding of Jenkins,0.7
+A0387,Q0387,CAN100,Candidate provided a detailed response about load balancing.,7.2,5.5,7.3,5.6,6.4,Demonstrated understanding of Test Automation,0.89
+A0388,Q0388,CAN100,Candidate provided a detailed response about database.,8.8,8.7,7.4,8.7,8.6,Demonstrated understanding of Unit Testing,0.72
+A0389,Q0389,CAN100,Candidate provided a detailed response about search indexing.,8.3,10,8.9,9.9,8.4,Demonstrated understanding of Selenium,0.72
+A0390,Q0390,CAN100,Candidate provided a detailed response about load balancing.,8.7,8.7,9.1,8.7,9.1,Demonstrated understanding of JIRA,0.91
+A0391,Q0391,CAN100,Candidate provided a detailed response about caching.,9.5,8.7,8.9,8.3,8.9,Demonstrated understanding of Agile Methodology,0.91
+A0392,Q0392,CAN100,Candidate provided a detailed response about caching.,8.2,7.5,8.2,8.5,7.7,Demonstrated understanding of Performance Testing,0.7
+A0393,Q0393,CAN100,Candidate provided a detailed response about cloud architecture.,8.8,8.5,8.3,8.6,7.4,Demonstrated understanding of Unit Testing,0.64
+A0394,Q0394,CAN100,Candidate provided a detailed response about CI/CD.,8.6,8.6,7.9,8.4,7.8,Demonstrated understanding of Integration Testing,0.61
+A0395,Q0395,CAN280,Candidate provided a detailed response about data pipeline.,7.3,8.1,8.3,7.8,6.7,Demonstrated understanding of Communication,0.71
+A0396,Q0396,CAN280,Candidate provided a detailed response about load balancing.,8.0,6.2,6.3,7.2,7.1,Demonstrated understanding of Active Listening,0.84
+A0397,Q0397,CAN280,Candidate provided a detailed response about data pipeline.,6.6,6.9,7.0,7.2,7.4,Demonstrated understanding of Issue Resolution,0.82
+A0398,Q0398,CAN280,Candidate provided a detailed response about database.,9.0,7.3,8.8,7.3,8.5,Demonstrated understanding of Empathy,0.75
+A0399,Q0399,CAN280,Candidate provided a detailed response about authentication.,7.1,7.8,7.1,7.2,7.4,Demonstrated understanding of CRM Systems,0.84
+A0400,Q0400,CAN209,Candidate provided a detailed response about microservices.,8.9,9.5,8.7,9.1,8.6,Demonstrated understanding of Microservices Architecture,0.74
+A0401,Q0401,CAN209,Candidate provided a detailed response about message queue.,8.4,7.7,7.3,8.7,7.4,Demonstrated understanding of Microservices Architecture,0.84
+A0402,Q0402,CAN209,Candidate provided a detailed response about CI/CD.,8.0,8.1,7.9,8.2,7.5,Demonstrated understanding of Jenkins,0.65
+A0403,Q0403,CAN209,Candidate provided a detailed response about authentication.,8.3,10,9.2,9.8,8.8,Demonstrated understanding of Apache Kafka,0.84
+A0404,Q0404,CAN209,Candidate provided a detailed response about machine learning.,9.1,7.5,8.5,8.8,7.5,Demonstrated understanding of Microservices Architecture,0.86
+A0405,Q0405,CAN170,Candidate provided a detailed response about message queue.,6.8,6.6,7.2,6.6,6.3,Demonstrated understanding of Kubernetes,0.87
+A0406,Q0406,CAN170,Candidate provided a detailed response about caching.,5.4,6.9,6.7,5.7,6.8,Demonstrated understanding of Microservices Architecture,0.95
+A0407,Q0407,CAN170,Candidate provided a detailed response about cloud architecture.,6.1,5.1,6.6,6.0,5.0,Demonstrated understanding of Flask,0.77
+A0408,Q0408,CAN217,Candidate provided a detailed response about CI/CD.,7.0,6.4,5.9,5.5,3.5,Demonstrated understanding of Leadership,0.63
+A0409,Q0409,CAN217,Candidate provided a detailed response about message queue.,4.8,4.2,4.4,4.1,2.6,Demonstrated understanding of CRM Systems,0.76
+A0410,Q0410,CAN217,Candidate provided a detailed response about microservices.,5.3,6.2,5.6,4.9,3.6,Demonstrated understanding of Leadership,0.69
+A0411,Q0411,CAN217,Candidate provided a detailed response about database.,5.3,5.5,5.3,4.1,2.5,Demonstrated understanding of Leadership,0.82
+A0412,Q0412,CAN217,Candidate provided a detailed response about API design.,7.3,5.5,5.7,6.4,4.3,Demonstrated understanding of CRM Systems,0.83
+A0413,Q0413,CAN217,Candidate provided a detailed response about API design.,4.7,5.3,4.3,4.4,3.2,Demonstrated understanding of Salesforce,0.91
+A0414,Q0414,CAN217,Candidate provided a detailed response about microservices.,4.5,5.4,5.9,6.2,3.7,Demonstrated understanding of Stakeholder Management,0.91
+A0415,Q0415,CAN217,Candidate provided a detailed response about CI/CD.,6.6,6.5,6.4,5.4,4.1,Demonstrated understanding of Market Analysis,0.64
+A0416,Q0416,CAN142,Candidate provided a detailed response about microservices.,9.7,9.9,9.3,8.5,8.2,Demonstrated understanding of Content Marketing,0.83
+A0417,Q0417,CAN142,Candidate provided a detailed response about database.,8.6,9.0,9.3,8.3,8.7,Demonstrated understanding of A/B Testing,0.67
+A0418,Q0418,CAN142,Candidate provided a detailed response about cloud architecture.,9.2,10,9.1,8.9,9.8,Demonstrated understanding of Communication,0.74
+A0419,Q0419,CAN142,Candidate provided a detailed response about caching.,9.9,9.3,9.8,9.5,9.4,Demonstrated understanding of A/B Testing,0.86
+A0420,Q0420,CAN142,Candidate provided a detailed response about machine learning.,8.9,8.7,7.6,8.6,9.1,Demonstrated understanding of Market Analysis,0.69
+A0421,Q0421,CAN142,Candidate provided a detailed response about search indexing.,7.9,8.1,8.8,8.9,7.9,Demonstrated understanding of Data Visualization,0.84
+A0422,Q0422,CAN142,Candidate provided a detailed response about message queue.,8.7,9.0,8.8,9.0,8.4,Demonstrated understanding of Product Management,0.77
+A0423,Q0423,CAN245,Candidate provided a detailed response about machine learning.,5.9,5.3,5.0,5.3,5.5,Demonstrated understanding of Brand Management,0.9
+A0424,Q0424,CAN245,Candidate provided a detailed response about API design.,6.5,6.7,5.4,4.9,6.4,Demonstrated understanding of SEO/SEM,0.77
+A0425,Q0425,CAN245,Candidate provided a detailed response about caching.,5.4,5.3,5.2,4.8,5.6,Demonstrated understanding of Data Visualization,0.93
+A0426,Q0426,CAN245,Candidate provided a detailed response about load balancing.,6.6,7.3,6.0,6.7,6.3,Demonstrated understanding of Content Marketing,0.71
+A0427,Q0427,CAN158,Candidate provided a detailed response about API design.,5.0,5.4,5.1,5.4,6.1,Demonstrated understanding of Statistical Modeling,0.65
+A0428,Q0428,CAN158,Candidate provided a detailed response about data pipeline.,7.2,5.9,5.4,6.4,5.7,Demonstrated understanding of TensorFlow,0.73
+A0429,Q0429,CAN158,Candidate provided a detailed response about database.,6.4,6.0,5.5,6.7,6.5,Demonstrated understanding of SQL,0.84
+A0430,Q0430,CAN165,Candidate provided a detailed response about CI/CD.,6.4,5.8,5.4,5.0,3.0,Demonstrated understanding of Strategic Planning,0.76
+A0431,Q0431,CAN165,Candidate provided a detailed response about CI/CD.,7.4,6.8,7.4,7.6,4.3,Demonstrated understanding of Salesforce,0.62
+A0432,Q0432,CAN165,Candidate provided a detailed response about load balancing.,4.6,5.4,5.5,5.1,2.2,Demonstrated understanding of Salesforce,0.81
+A0433,Q0433,CAN165,Candidate provided a detailed response about load balancing.,5.4,5.7,4.5,4.5,3.1,Demonstrated understanding of Market Analysis,0.87
+A0434,Q0434,CAN165,Candidate provided a detailed response about machine learning.,7.7,6.0,6.4,7.9,4.1,Demonstrated understanding of Salesforce,0.74
+A0435,Q0435,CAN165,Candidate provided a detailed response about CI/CD.,4.9,5.9,4.8,5.1,3.7,Demonstrated understanding of Market Analysis,0.63
+A0436,Q0436,CAN165,Candidate provided a detailed response about caching.,5.8,6.4,6.5,5.2,3.9,Demonstrated understanding of Market Analysis,0.84
+A0437,Q0437,CAN165,Candidate provided a detailed response about caching.,4.2,3.8,4.8,3.8,2.3,Demonstrated understanding of Negotiation,0.72
+A0438,Q0438,CAN165,Candidate provided a detailed response about database.,5.8,5.1,6.1,5.6,2.6,Demonstrated understanding of Business Strategy,0.94
+A0439,Q0439,CAN165,Candidate provided a detailed response about machine learning.,4.1,5.5,4.9,5.1,2.7,Demonstrated understanding of Salesforce,0.92
+A0440,Q0440,CAN035,Candidate provided a detailed response about load balancing.,6.8,6.7,6.4,6.1,7.1,Demonstrated understanding of Labor Law Compliance,0.95
+A0441,Q0441,CAN035,Candidate provided a detailed response about CI/CD.,6.5,7.4,7.2,7.7,6.7,Demonstrated understanding of Employee Relations,0.71
+A0442,Q0442,CAN035,Candidate provided a detailed response about CI/CD.,5.2,6.3,5.9,6.1,6.7,Demonstrated understanding of Employee Relations,0.85
+A0443,Q0443,CAN035,Candidate provided a detailed response about API design.,5.8,6.4,5.7,6.4,6.0,Demonstrated understanding of Performance Management,0.69
+A0444,Q0444,CAN035,Candidate provided a detailed response about database.,5.2,4.4,6.1,5.0,4.9,Demonstrated understanding of Labor Law Compliance,0.66
+A0445,Q0445,CAN035,Candidate provided a detailed response about machine learning.,6.4,5.7,4.6,5.4,5.2,Demonstrated understanding of Communication,0.87
+A0446,Q0446,CAN035,Candidate provided a detailed response about search indexing.,6.3,5.5,5.2,5.7,4.8,Demonstrated understanding of Performance Management,0.75
+A0447,Q0447,CAN035,Candidate provided a detailed response about load balancing.,7.2,6.3,6.4,6.5,7.4,Demonstrated understanding of Labor Law Compliance,0.74
+A0448,Q0448,CAN213,Candidate provided a detailed response about cloud architecture.,6.5,6.7,6.0,6.0,6.1,Demonstrated understanding of Stakeholder Management,0.77
+A0449,Q0449,CAN213,Candidate provided a detailed response about API design.,6.1,7.2,6.0,7.2,7.7,Demonstrated understanding of Communication,0.91
+A0450,Q0450,CAN213,Candidate provided a detailed response about database.,5.3,5.0,4.2,4.4,4.4,Demonstrated understanding of Mentoring,0.95
+A0451,Q0451,CAN220,Candidate provided a detailed response about machine learning.,4.3,4.5,3.2,4.6,4.2,Demonstrated understanding of Networking,0.93
+A0452,Q0452,CAN220,Candidate provided a detailed response about data pipeline.,2.5,1.3,2.7,3.0,1.7,Demonstrated understanding of Compliance Management,0.83
+A0453,Q0453,CAN220,Candidate provided a detailed response about search indexing.,2.4,1.7,2.7,2.3,3.6,Demonstrated understanding of Networking,0.94
+A0454,Q0454,CAN220,Candidate provided a detailed response about caching.,3.1,2.5,3.3,2.5,2.2,Demonstrated understanding of Networking,0.67
+A0455,Q0455,CAN220,Candidate provided a detailed response about CI/CD.,5.1,5.4,5.9,5.6,5.2,Demonstrated understanding of Penetration Testing,0.65
+A0456,Q0456,CAN236,Candidate provided a detailed response about search indexing.,6.2,6.8,6.3,6.9,6.2,Demonstrated understanding of JavaScript,0.82
+A0457,Q0457,CAN236,Candidate provided a detailed response about search indexing.,5.0,6.6,6.7,6.4,6.2,Demonstrated understanding of Unit Testing,0.86
+A0458,Q0458,CAN236,Candidate provided a detailed response about search indexing.,4.2,4.9,4.1,5.1,4.9,Demonstrated understanding of SQL,0.83
+A0459,Q0459,CAN236,Candidate provided a detailed response about caching.,6.6,6.5,6.2,6.2,5.9,Demonstrated understanding of Integration Testing,0.75
+A0460,Q0460,CAN196,Candidate provided a detailed response about load balancing.,9.4,10,8.9,10,10,Demonstrated understanding of Agile Methodology,0.78
+A0461,Q0461,CAN196,Candidate provided a detailed response about cloud architecture.,9.7,8.2,10,9.8,9.7,Demonstrated understanding of Teamwork,0.9
+A0462,Q0462,CAN196,Candidate provided a detailed response about message queue.,10.0,9.3,9.5,8.5,9.5,Demonstrated understanding of Time Management,0.79
+A0463,Q0463,CAN196,Candidate provided a detailed response about machine learning.,7.8,7.6,9.2,9.3,7.6,Demonstrated understanding of System Design,0.62
+A0464,Q0464,CAN196,Candidate provided a detailed response about authentication.,9.9,9.4,10,8.5,9.4,Demonstrated understanding of Strategic Planning,0.6
+A0465,Q0465,CAN021,Candidate provided a detailed response about cloud architecture.,8.3,7.6,9.6,9.3,9.3,Demonstrated understanding of Cybersecurity,0.81
+A0466,Q0466,CAN021,Candidate provided a detailed response about message queue.,8.7,9.9,9.8,10,9.8,Demonstrated understanding of System Administration,0.62
+A0467,Q0467,CAN021,Candidate provided a detailed response about caching.,10,10,9.7,10,9.0,Demonstrated understanding of IT Service Management,0.83
+A0468,Q0468,CAN021,Candidate provided a detailed response about database.,9.1,8.4,8.5,7.8,8.1,Demonstrated understanding of Docker,0.68
+A0469,Q0469,CAN021,Candidate provided a detailed response about load balancing.,6.8,7.9,6.9,7.5,8.3,Demonstrated understanding of Ansible,0.7
+A0470,Q0470,CAN021,Candidate provided a detailed response about machine learning.,9.1,9.5,10,9.0,8.6,Demonstrated understanding of Windows Server,0.88
+A0471,Q0471,CAN021,Candidate provided a detailed response about machine learning.,10,10,9.7,8.7,10.0,Demonstrated understanding of Cybersecurity,0.78
+A0472,Q0472,CAN021,Candidate provided a detailed response about message queue.,8.3,9.1,9.2,9.6,8.4,Demonstrated understanding of Docker,0.68
+A0473,Q0473,CAN021,Candidate provided a detailed response about machine learning.,8.6,8.4,7.7,8.3,7.6,Demonstrated understanding of Linux,0.86
+A0474,Q0474,CAN049,Candidate provided a detailed response about CI/CD.,10.0,9.9,8.9,9.8,8.2,Demonstrated understanding of Problem Solving,0.94
+A0475,Q0475,CAN049,Candidate provided a detailed response about load balancing.,9.1,10,9.4,9.8,9.3,Demonstrated understanding of Salesforce,0.63
+A0476,Q0476,CAN049,Candidate provided a detailed response about CI/CD.,9.4,9.0,10,9.3,9.7,Demonstrated understanding of Communication,0.71
+A0477,Q0477,CAN049,Candidate provided a detailed response about caching.,9.2,8.4,7.6,8.2,8.7,Demonstrated understanding of Presentation Skills,0.61
+A0478,Q0478,CAN286,Candidate provided a detailed response about search indexing.,4.5,5.1,4.0,5.2,2.9,Demonstrated understanding of Compliance Management,0.9
+A0479,Q0479,CAN286,Candidate provided a detailed response about machine learning.,4.3,5.9,5.5,4.9,2.6,Demonstrated understanding of Network Security,0.83
+A0480,Q0480,CAN286,Candidate provided a detailed response about search indexing.,3.7,3.6,3.9,4.6,3.2,Demonstrated understanding of Network Security,0.69
+A0481,Q0481,CAN286,Candidate provided a detailed response about caching.,4.7,6.2,6.2,6.2,2.9,Demonstrated understanding of Networking,0.77
+A0482,Q0482,CAN286,Candidate provided a detailed response about message queue.,5.4,5.7,5.1,6.3,4.1,Demonstrated understanding of Penetration Testing,0.87
+A0483,Q0483,CAN286,Candidate provided a detailed response about search indexing.,4.2,3.2,3.2,4.5,2.7,Demonstrated understanding of Penetration Testing,0.66
+A0484,Q0484,CAN286,Candidate provided a detailed response about message queue.,5.9,5.6,5.3,4.9,2.8,Demonstrated understanding of Linux,0.79
+A0485,Q0485,CAN286,Candidate provided a detailed response about cloud architecture.,5.5,5.7,4.9,4.6,3.3,Demonstrated understanding of Network Security,0.69
+A0486,Q0486,CAN286,Candidate provided a detailed response about data pipeline.,5.4,5.6,5.0,4.8,3.1,Demonstrated understanding of OWASP Security,0.94
+A0487,Q0487,CAN286,Candidate provided a detailed response about caching.,4.3,5.9,4.7,4.9,3.6,Demonstrated understanding of Penetration Testing,0.78
+A0488,Q0488,CAN152,Candidate provided a detailed response about CI/CD.,7.2,6.5,7.0,5.8,3.5,Demonstrated understanding of Agile Methodology,0.83
+A0489,Q0489,CAN152,Candidate provided a detailed response about microservices.,4.6,5.0,4.1,4.0,3.4,Demonstrated understanding of Stakeholder Management,0.88
+A0490,Q0490,CAN152,Candidate provided a detailed response about cloud architecture.,4.7,4.8,5.8,4.3,2.6,Demonstrated understanding of Strategic Planning,0.8
+A0491,Q0491,CAN156,Candidate provided a detailed response about caching.,4.7,4.3,4.6,4.6,3.2,Demonstrated understanding of Digital Marketing,0.95
+A0492,Q0492,CAN156,Candidate provided a detailed response about API design.,3.9,4.0,3.9,4.2,2.5,Demonstrated understanding of Product Management,0.76
+A0493,Q0493,CAN156,Candidate provided a detailed response about database.,4.8,6.0,5.2,4.5,3.7,Demonstrated understanding of Market Analysis,0.91
+A0494,Q0494,CAN156,Candidate provided a detailed response about authentication.,4.9,5.3,4.7,4.2,2.8,Demonstrated understanding of Brand Management,0.7
+A0495,Q0495,CAN156,Candidate provided a detailed response about data pipeline.,5.4,3.8,5.2,5.2,3.2,Demonstrated understanding of A/B Testing,0.93
+A0496,Q0496,CAN156,Candidate provided a detailed response about caching.,4.8,4.3,4.3,4.2,3.6,Demonstrated understanding of SEO/SEM,0.8
+A0497,Q0497,CAN156,Candidate provided a detailed response about cloud architecture.,5.2,5.2,6.7,5.4,3.4,Demonstrated understanding of Brand Management,0.86
+A0498,Q0498,CAN156,Candidate provided a detailed response about cloud architecture.,6.6,6.5,7.1,5.8,4.0,Demonstrated understanding of SEO/SEM,0.79
+A0499,Q0499,CAN007,Candidate provided a detailed response about CI/CD.,5.3,6.1,5.3,6.2,3.2,Demonstrated understanding of System Administration,0.72
+A0500,Q0500,CAN007,Candidate provided a detailed response about database.,5.9,6.1,4.5,4.5,3.5,Demonstrated understanding of System Administration,0.63
+A0501,Q0501,CAN007,Candidate provided a detailed response about machine learning.,7.1,7.0,5.8,7.3,3.5,Demonstrated understanding of Docker,0.79
+A0502,Q0502,CAN007,Candidate provided a detailed response about cloud architecture.,6.5,5.1,5.0,6.7,3.8,Demonstrated understanding of Microservices Architecture,0.61
+A0503,Q0503,CAN191,Candidate provided a detailed response about caching.,5.3,5.8,5.5,4.9,3.5,Demonstrated understanding of Brand Management,0.68
+A0504,Q0504,CAN191,Candidate provided a detailed response about load balancing.,3.6,5.4,5.1,4.1,2.4,Demonstrated understanding of Brand Management,0.68
+A0505,Q0505,CAN191,Candidate provided a detailed response about authentication.,4.9,4.5,5.0,6.3,3.0,Demonstrated understanding of Brand Management,0.82
+A0506,Q0506,CAN191,Candidate provided a detailed response about CI/CD.,6.3,6.1,4.5,4.7,3.2,Demonstrated understanding of A/B Testing,0.9
+A0507,Q0507,CAN191,Candidate provided a detailed response about microservices.,7.1,7.4,7.7,7.5,4.4,Demonstrated understanding of SEO/SEM,0.69
+A0508,Q0508,CAN191,Candidate provided a detailed response about microservices.,5.4,4.7,6.3,5.3,3.0,Demonstrated understanding of Communication,0.7
+A0509,Q0509,CAN191,Candidate provided a detailed response about data pipeline.,4.8,6.1,5.4,6.4,3.5,Demonstrated understanding of A/B Testing,0.84
+A0510,Q0510,CAN191,Candidate provided a detailed response about machine learning.,5.5,5.8,5.6,4.4,3.4,Demonstrated understanding of Product Management,0.73
+A0511,Q0511,CAN189,Candidate provided a detailed response about authentication.,5.4,6.0,5.8,7.1,5.3,Demonstrated understanding of Problem Solving,0.92
+A0512,Q0512,CAN189,Candidate provided a detailed response about authentication.,5.3,4.8,3.8,3.9,4.4,Demonstrated understanding of Agile Methodology,0.66
+A0513,Q0513,CAN189,Candidate provided a detailed response about machine learning.,5.3,4.9,6.0,6.1,4.4,Demonstrated understanding of Problem Solving,0.7
+A0514,Q0514,CAN189,Candidate provided a detailed response about cloud architecture.,8.4,8.6,7.9,8.7,8.5,Demonstrated understanding of Communication,0.95
+A0515,Q0515,CAN189,Candidate provided a detailed response about caching.,4.3,4.5,4.7,4.0,4.1,Demonstrated understanding of Product Management,0.85
+A0516,Q0516,CAN189,Candidate provided a detailed response about API design.,4.8,5.5,4.9,5.9,5.7,Demonstrated understanding of Problem Solving,0.86
+A0517,Q0517,CAN189,Candidate provided a detailed response about cloud architecture.,6.6,6.0,7.0,5.6,5.4,Demonstrated understanding of A/B Testing,0.74
+A0518,Q0518,CAN189,Candidate provided a detailed response about load balancing.,5.6,6.8,5.0,6.1,6.3,Demonstrated understanding of A/B Testing,0.82
+A0519,Q0519,CAN164,Candidate provided a detailed response about authentication.,8.6,8.4,8.9,7.2,7.8,Demonstrated understanding of CI/CD Pipelines,0.85
+A0520,Q0520,CAN164,Candidate provided a detailed response about machine learning.,8.7,8.4,7.9,7.9,8.5,Demonstrated understanding of Kubernetes,0.82
+A0521,Q0521,CAN164,Candidate provided a detailed response about CI/CD.,6.5,8.4,8.3,7.3,7.6,Demonstrated understanding of Spring Boot,0.63
+A0522,Q0522,CAN164,Candidate provided a detailed response about database.,6.6,7.8,7.6,7.6,7.6,Demonstrated understanding of Go,0.74
+A0523,Q0523,CAN164,Candidate provided a detailed response about authentication.,7.4,8.1,8.4,7.9,7.9,Demonstrated understanding of FastAPI,0.65
+A0524,Q0524,CAN240,Candidate provided a detailed response about database.,8.9,8.7,8.1,7.9,7.9,Demonstrated understanding of Apache Kafka,0.73
+A0525,Q0525,CAN240,Candidate provided a detailed response about database.,9.5,9.1,9.1,8.8,10,Demonstrated understanding of Jenkins,0.7
+A0526,Q0526,CAN240,Candidate provided a detailed response about machine learning.,9.1,8.6,8.9,8.8,9.6,Demonstrated understanding of Google Cloud Platform,0.73
+A0527,Q0527,CAN240,Candidate provided a detailed response about authentication.,10,9.4,10,9.8,9.7,Demonstrated understanding of AWS,0.75
+A0528,Q0528,CAN240,Candidate provided a detailed response about machine learning.,8.7,10,9.1,9.3,9.6,Demonstrated understanding of Terraform,0.67
+A0529,Q0529,CAN240,Candidate provided a detailed response about database.,7.9,8.1,8.8,9.2,7.5,Demonstrated understanding of Networking,0.66
+A0530,Q0530,CAN030,Candidate provided a detailed response about cloud architecture.,8.5,7.4,7.6,8.5,8.3,Demonstrated understanding of Networking,0.83
+A0531,Q0531,CAN030,Candidate provided a detailed response about microservices.,7.6,7.4,8.5,7.3,7.5,Demonstrated understanding of Apache Kafka,0.94
+A0532,Q0532,CAN030,Candidate provided a detailed response about API design.,7.3,8.3,7.5,7.0,8.5,Demonstrated understanding of AWS,0.71
+A0533,Q0533,CAN030,Candidate provided a detailed response about cloud architecture.,8.4,9.3,8.8,7.5,8.2,Demonstrated understanding of Kubernetes,0.62
+A0534,Q0534,CAN030,Candidate provided a detailed response about API design.,8.5,7.7,9.2,9.2,8.9,Demonstrated understanding of AWS,0.82
+A0535,Q0535,CAN211,Candidate provided a detailed response about caching.,2.2,3.0,2.9,3.7,4.2,Demonstrated understanding of Strategic Planning,0.77
+A0536,Q0536,CAN211,Candidate provided a detailed response about authentication.,3.1,5.1,3.5,5.3,3.6,Demonstrated understanding of Teamwork,0.66
+A0537,Q0537,CAN211,Candidate provided a detailed response about caching.,3.3,3.9,3.6,5.3,4.1,Demonstrated understanding of Agile Methodology,0.78
+A0538,Q0538,CAN211,Candidate provided a detailed response about machine learning.,3.8,5.2,2.6,3.9,5.0,Demonstrated understanding of Leadership,0.73
+A0539,Q0539,CAN211,Candidate provided a detailed response about database.,3.2,4.4,3.4,4.7,5.5,Demonstrated understanding of System Design,0.93
+A0540,Q0540,CAN211,Candidate provided a detailed response about database.,3.9,5.4,3.2,3.9,5.2,Demonstrated understanding of System Design,0.83
+A0541,Q0541,CAN211,Candidate provided a detailed response about CI/CD.,2.9,4.8,4.1,5.5,5.9,Demonstrated understanding of Time Management,0.69
+A0542,Q0542,CAN211,Candidate provided a detailed response about load balancing.,2.7,3.6,1.4,3.6,2.3,Demonstrated understanding of Time Management,0.7
+A0543,Q0543,CAN211,Candidate provided a detailed response about database.,3.9,6.4,3.8,4.9,4.5,Demonstrated understanding of Mentoring,0.65
+A0544,Q0544,CAN283,Candidate provided a detailed response about authentication.,4.2,6.4,4.0,6.4,5.1,Demonstrated understanding of Terraform,0.61
+A0545,Q0545,CAN283,Candidate provided a detailed response about data pipeline.,3.0,5.6,3.5,5.6,5.1,Demonstrated understanding of Kubernetes,0.61
+A0546,Q0546,CAN283,Candidate provided a detailed response about search indexing.,3.9,6.2,4.1,5.9,6.5,Demonstrated understanding of Ansible,0.73
+A0547,Q0547,CAN283,Candidate provided a detailed response about authentication.,4.5,6.8,4.8,6.9,5.8,Demonstrated understanding of Terraform,0.74
+A0548,Q0548,CAN283,Candidate provided a detailed response about caching.,3.1,4.1,2.9,3.8,3.5,Demonstrated understanding of System Administration,0.76
+A0549,Q0549,CAN088,Candidate provided a detailed response about data pipeline.,6.2,4.8,4.8,5.3,5.7,Demonstrated understanding of Employee Relations,0.9
+A0550,Q0550,CAN088,Candidate provided a detailed response about cloud architecture.,6.7,6.6,6.5,6.6,7.2,Demonstrated understanding of Communication,0.78
+A0551,Q0551,CAN088,Candidate provided a detailed response about search indexing.,6.9,5.8,5.2,5.1,5.9,Demonstrated understanding of HR Analytics,0.9
+A0552,Q0552,CAN088,Candidate provided a detailed response about CI/CD.,5.5,5.7,5.5,6.4,5.3,Demonstrated understanding of Employee Relations,0.67
+A0553,Q0553,CAN088,Candidate provided a detailed response about load balancing.,6.3,7.9,6.6,7.2,7.9,Demonstrated understanding of Labor Law Compliance,0.71
+A0554,Q0554,CAN088,Candidate provided a detailed response about caching.,5.9,6.6,6.3,5.9,5.8,Demonstrated understanding of Training and Development,0.64
+A0555,Q0555,CAN088,Candidate provided a detailed response about cloud architecture.,6.2,6.3,7.0,6.0,7.1,Demonstrated understanding of Compensation and Benefits,0.77
+A0556,Q0556,CAN088,Candidate provided a detailed response about database.,7.9,9.0,7.5,7.3,7.2,Demonstrated understanding of Talent Acquisition,0.73
+A0557,Q0557,CAN088,Candidate provided a detailed response about machine learning.,8.4,7.4,7.6,7.0,8.5,Demonstrated understanding of Training and Development,0.87
+A0558,Q0558,CAN101,Candidate provided a detailed response about data pipeline.,7.9,8.5,8.9,9.5,8.0,Demonstrated understanding of Active Listening,0.73
+A0559,Q0559,CAN101,Candidate provided a detailed response about data pipeline.,8.0,7.0,7.8,6.9,7.3,Demonstrated understanding of CRM Systems,0.89
+A0560,Q0560,CAN101,Candidate provided a detailed response about message queue.,8.2,9.3,8.6,8.9,7.9,Demonstrated understanding of Customer Relationship Management,0.69
+A0561,Q0561,CAN101,Candidate provided a detailed response about database.,8.4,9.2,9.2,8.3,8.7,Demonstrated understanding of Customer Relationship Management,0.83
+A0562,Q0562,CAN101,Candidate provided a detailed response about authentication.,10,9.9,8.8,9.8,9.1,Demonstrated understanding of Problem Solving,0.9
+A0563,Q0563,CAN130,Candidate provided a detailed response about machine learning.,5.9,5.4,6.9,5.4,5.4,Demonstrated understanding of CRM Systems,0.87
+A0564,Q0564,CAN130,Candidate provided a detailed response about message queue.,6.6,5.6,6.1,5.9,6.6,Demonstrated understanding of Problem Solving,0.89
+A0565,Q0565,CAN130,Candidate provided a detailed response about API design.,4.6,4.6,4.9,4.0,4.7,Demonstrated understanding of CRM Systems,0.76
+A0566,Q0566,CAN224,Candidate provided a detailed response about caching.,6.9,6.3,6.0,6.8,6.0,Demonstrated understanding of Natural Language Processing,0.64
+A0567,Q0567,CAN224,Candidate provided a detailed response about caching.,5.7,7.2,7.2,7.2,6.3,Demonstrated understanding of Apache Spark,0.75
+A0568,Q0568,CAN224,Candidate provided a detailed response about load balancing.,6.8,6.3,7.6,7.2,7.5,Demonstrated understanding of SQL,0.77
+A0569,Q0569,CAN224,Candidate provided a detailed response about cloud architecture.,6.3,4.7,5.8,5.3,4.4,Demonstrated understanding of Data Modeling,0.81
+A0570,Q0570,CAN224,Candidate provided a detailed response about message queue.,5.5,6.7,5.5,5.6,6.9,Demonstrated understanding of TensorFlow,0.65
+A0571,Q0571,CAN224,Candidate provided a detailed response about cloud architecture.,6.2,5.1,5.2,4.7,4.8,Demonstrated understanding of Python,0.67
+A0572,Q0572,CAN224,Candidate provided a detailed response about machine learning.,6.8,6.3,7.6,6.3,7.5,Demonstrated understanding of Pandas,0.61
+A0573,Q0573,CAN224,Candidate provided a detailed response about data pipeline.,5.4,6.9,7.3,7.3,6.4,Demonstrated understanding of Deep Learning,0.86
+A0574,Q0574,CAN036,Candidate provided a detailed response about database.,2.7,4.6,3.5,5.4,4.6,Demonstrated understanding of Google Cloud Platform,0.92
+A0575,Q0575,CAN036,Candidate provided a detailed response about load balancing.,3.6,5.8,4.3,5.5,6.3,Demonstrated understanding of AWS,0.94
+A0576,Q0576,CAN036,Candidate provided a detailed response about data pipeline.,4.2,5.4,3.8,4.5,4.9,Demonstrated understanding of Ansible,0.94
+A0577,Q0577,CAN036,Candidate provided a detailed response about CI/CD.,1.8,3.0,2.9,3.0,2.5,Demonstrated understanding of System Administration,0.63
+A0578,Q0578,CAN036,Candidate provided a detailed response about CI/CD.,2.5,3.2,2.7,3.5,3.5,Demonstrated understanding of Google Cloud Platform,0.8
+A0579,Q0579,CAN059,Candidate provided a detailed response about caching.,7.1,6.5,6.8,6.6,6.9,Demonstrated understanding of CRM Systems,0.7
+A0580,Q0580,CAN059,Candidate provided a detailed response about caching.,6.5,5.1,6.2,6.9,6.9,Demonstrated understanding of Communication,0.65
+A0581,Q0581,CAN059,Candidate provided a detailed response about machine learning.,6.7,7.7,5.9,7.8,7.9,Demonstrated understanding of Business Strategy,0.89
+A0582,Q0582,CAN059,Candidate provided a detailed response about machine learning.,4.5,5.5,5.3,4.4,5.1,Demonstrated understanding of Market Analysis,0.81
+A0583,Q0583,CAN059,Candidate provided a detailed response about caching.,6.5,5.8,5.5,5.7,6.5,Demonstrated understanding of Negotiation,0.6
+A0584,Q0584,CAN059,Candidate provided a detailed response about CI/CD.,4.4,4.4,5.5,5.0,4.7,Demonstrated understanding of Market Analysis,0.88
+A0585,Q0585,CAN059,Candidate provided a detailed response about database.,5.7,4.9,4.1,4.6,4.1,Demonstrated understanding of Salesforce,0.79
+A0586,Q0586,CAN059,Candidate provided a detailed response about API design.,5.6,6.2,4.6,5.8,5.8,Demonstrated understanding of Stakeholder Management,0.66
+A0587,Q0587,CAN059,Candidate provided a detailed response about caching.,6.3,6.3,5.3,6.7,5.7,Demonstrated understanding of Negotiation,0.78
+A0588,Q0588,CAN059,Candidate provided a detailed response about search indexing.,4.4,5.3,4.7,5.2,5.3,Demonstrated understanding of Business Strategy,0.91
+A0589,Q0589,CAN059,Candidate provided a detailed response about load balancing.,7.7,6.1,7.2,6.1,7.0,Demonstrated understanding of Negotiation,0.83
+A0590,Q0590,CAN069,Candidate provided a detailed response about machine learning.,10,10,10,10,10,Demonstrated understanding of HR Analytics,0.83
+A0591,Q0591,CAN069,Candidate provided a detailed response about message queue.,7.1,7.3,6.8,8.3,7.2,Demonstrated understanding of Leadership,0.92
+A0592,Q0592,CAN069,Candidate provided a detailed response about load balancing.,8.9,8.2,9.0,8.0,7.9,Demonstrated understanding of Labor Law Compliance,0.84
+A0593,Q0593,CAN069,Candidate provided a detailed response about API design.,8.7,9.7,10.0,8.8,9.0,Demonstrated understanding of Talent Acquisition,0.88
+A0594,Q0594,CAN069,Candidate provided a detailed response about message queue.,8.4,7.9,7.1,8.9,8.4,Demonstrated understanding of Talent Acquisition,0.87
+A0595,Q0595,CAN069,Candidate provided a detailed response about CI/CD.,9.9,8.8,9.6,9.8,9.4,Demonstrated understanding of Performance Management,0.66
+A0596,Q0596,CAN069,Candidate provided a detailed response about caching.,9.0,9.1,9.9,9.9,9.8,Demonstrated understanding of Compensation and Benefits,0.69
+A0597,Q0597,CAN069,Candidate provided a detailed response about search indexing.,8.2,8.2,7.6,7.1,8.6,Demonstrated understanding of Employee Relations,0.75
+A0598,Q0598,CAN069,Candidate provided a detailed response about CI/CD.,8.9,10,10,9.4,9.1,Demonstrated understanding of Talent Acquisition,0.92
+A0599,Q0599,CAN069,Candidate provided a detailed response about microservices.,7.9,7.7,8.7,9.1,8.3,Demonstrated understanding of Labor Law Compliance,0.66
+A0600,Q0600,CAN069,Candidate provided a detailed response about search indexing.,8.7,9.2,9.3,9.3,9.4,Demonstrated understanding of HR Analytics,0.71
+A0601,Q0601,CAN069,Candidate provided a detailed response about load balancing.,6.9,7.6,7.2,7.3,6.8,Demonstrated understanding of Leadership,0.76
+A0602,Q0602,CAN069,Candidate provided a detailed response about cloud architecture.,8.1,9.0,9.4,9.0,8.7,Demonstrated understanding of Talent Acquisition,0.84
+A0603,Q0603,CAN243,Candidate provided a detailed response about load balancing.,5.9,6.3,6.6,5.7,4.3,Demonstrated understanding of Communication,0.83
+A0604,Q0604,CAN243,Candidate provided a detailed response about microservices.,5.9,5.5,6.6,6.8,4.0,Demonstrated understanding of Communication,0.81
+A0605,Q0605,CAN243,Candidate provided a detailed response about authentication.,5.4,5.7,5.6,6.9,3.8,Demonstrated understanding of Mentoring,0.64
+A0606,Q0606,CAN243,Candidate provided a detailed response about data pipeline.,5.7,4.8,5.6,5.5,3.2,Demonstrated understanding of System Design,0.64
+A0607,Q0607,CAN243,Candidate provided a detailed response about load balancing.,7.2,6.0,6.0,7.2,4.2,Demonstrated understanding of Strategic Planning,0.74
+A0608,Q0608,CAN173,Candidate provided a detailed response about caching.,2.6,4.1,2.4,4.1,3.5,Demonstrated understanding of Leadership,0.92
+A0609,Q0609,CAN173,Candidate provided a detailed response about data pipeline.,3.6,4.5,2.9,4.3,4.9,Demonstrated understanding of Stakeholder Management,0.67
+A0610,Q0610,CAN173,Candidate provided a detailed response about CI/CD.,2.2,3.6,2.5,3.1,3.7,Demonstrated understanding of Project Management,0.76
+A0611,Q0611,CAN173,Candidate provided a detailed response about CI/CD.,3.8,4.3,3.2,5.5,4.6,Demonstrated understanding of Mentoring,0.69
+A0612,Q0612,CAN173,Candidate provided a detailed response about message queue.,3.0,2.6,2.1,3.8,3.0,Demonstrated understanding of System Design,0.73
+A0613,Q0613,CAN173,Candidate provided a detailed response about search indexing.,3.9,5.3,2.9,5.1,5.3,Demonstrated understanding of Communication,0.94
+A0614,Q0614,CAN173,Candidate provided a detailed response about search indexing.,3.4,4.4,2.8,5.0,3.5,Demonstrated understanding of Stakeholder Management,0.85
+A0615,Q0615,CAN173,Candidate provided a detailed response about database.,2.9,4.1,3.1,4.7,4.4,Demonstrated understanding of Mentoring,0.9
+A0616,Q0616,CAN173,Candidate provided a detailed response about message queue.,3.5,4.0,3.5,3.9,4.0,Demonstrated understanding of Strategic Planning,0.73
+A0617,Q0617,CAN116,Candidate provided a detailed response about caching.,8.5,9.4,9.6,8.3,9.7,Demonstrated understanding of Business Strategy,0.94
+A0618,Q0618,CAN116,Candidate provided a detailed response about machine learning.,9.4,8.4,9.1,8.0,8.4,Demonstrated understanding of Market Analysis,0.87
+A0619,Q0619,CAN116,Candidate provided a detailed response about caching.,9.5,9.2,9.8,9.6,9.4,Demonstrated understanding of Strategic Planning,0.72
+A0620,Q0620,CAN116,Candidate provided a detailed response about data pipeline.,9.9,8.0,9.3,7.9,8.4,Demonstrated understanding of Strategic Planning,0.69
+A0621,Q0621,CAN116,Candidate provided a detailed response about database.,8.3,8.1,7.8,8.9,7.8,Demonstrated understanding of Communication,0.81
+A0622,Q0622,CAN116,Candidate provided a detailed response about message queue.,10,10,10,10,9.4,Demonstrated understanding of CRM Systems,0.69
+A0623,Q0623,CAN116,Candidate provided a detailed response about data pipeline.,9.5,7.9,9.4,9.0,9.0,Demonstrated understanding of Leadership,0.72
+A0624,Q0624,CAN116,Candidate provided a detailed response about message queue.,9.1,9.7,9.5,9.0,8.9,Demonstrated understanding of Stakeholder Management,0.87
+A0625,Q0625,CAN116,Candidate provided a detailed response about data pipeline.,8.7,9.4,9.1,9.3,8.9,Demonstrated understanding of Business Strategy,0.63
+A0626,Q0626,CAN116,Candidate provided a detailed response about message queue.,8.6,8.2,8.2,7.8,8.9,Demonstrated understanding of Communication,0.7
+A0627,Q0627,CAN044,Candidate provided a detailed response about database.,3.8,3.6,2.5,4.0,3.3,Demonstrated understanding of Google Cloud Platform,0.85
+A0628,Q0628,CAN044,Candidate provided a detailed response about search indexing.,2.5,2.6,1.3,2.7,2.8,Demonstrated understanding of Linux,0.89
+A0629,Q0629,CAN044,Candidate provided a detailed response about CI/CD.,1.7,2.2,2.3,3.3,2.8,Demonstrated understanding of Terraform,0.73
+A0630,Q0630,CAN044,Candidate provided a detailed response about authentication.,4.8,5.3,3.9,4.8,5.3,Demonstrated understanding of Linux,0.74
+A0631,Q0631,CAN044,Candidate provided a detailed response about database.,4.3,4.2,5.3,6.0,5.9,Demonstrated understanding of Linux,0.75
+A0632,Q0632,CAN044,Candidate provided a detailed response about API design.,5.2,5.5,4.0,5.4,4.6,Demonstrated understanding of AWS,0.91
+A0633,Q0633,CAN044,Candidate provided a detailed response about CI/CD.,4.9,3.8,5.5,4.3,3.9,Demonstrated understanding of Microservices Architecture,0.77
+A0634,Q0634,CAN044,Candidate provided a detailed response about CI/CD.,3.5,4.2,4.9,4.2,3.9,Demonstrated understanding of Apache Kafka,0.79
+A0635,Q0635,CAN044,Candidate provided a detailed response about message queue.,3.9,4.1,5.2,4.6,5.0,Demonstrated understanding of CI/CD Pipelines,0.87
+A0636,Q0636,CAN044,Candidate provided a detailed response about authentication.,3.0,3.4,3.0,2.4,1.9,Demonstrated understanding of System Administration,0.89
+A0637,Q0637,CAN044,Candidate provided a detailed response about API design.,2.3,3.4,3.3,3.5,3.8,Demonstrated understanding of Apache Kafka,0.85
+A0638,Q0638,CAN044,Candidate provided a detailed response about CI/CD.,2.9,2.9,1.6,1.3,1.4,Demonstrated understanding of Microsoft Azure,0.9
+A0639,Q0639,CAN044,Candidate provided a detailed response about message queue.,3.0,2.5,2.7,3.0,2.7,Demonstrated understanding of Microservices Architecture,0.9
+A0640,Q0640,CAN044,Candidate provided a detailed response about search indexing.,5.5,5.9,4.9,5.5,5.7,Demonstrated understanding of Terraform,0.72
+A0641,Q0641,CAN282,Candidate provided a detailed response about machine learning.,5.2,6.6,6.9,5.2,5.2,Demonstrated understanding of Google Cloud Platform,0.93
+A0642,Q0642,CAN282,Candidate provided a detailed response about microservices.,8.8,7.8,6.9,8.0,7.2,Demonstrated understanding of System Administration,0.72
+A0643,Q0643,CAN282,Candidate provided a detailed response about API design.,7.2,7.5,5.9,5.9,6.5,Demonstrated understanding of Terraform,0.9
+A0644,Q0644,CAN282,Candidate provided a detailed response about CI/CD.,8.0,6.5,6.6,7.0,8.0,Demonstrated understanding of Networking,0.69
+A0645,Q0645,CAN282,Candidate provided a detailed response about search indexing.,7.4,7.7,7.0,8.7,8.1,Demonstrated understanding of Git/Version Control,0.76
+A0646,Q0646,CAN282,Candidate provided a detailed response about microservices.,5.6,5.8,6.6,7.1,6.4,Demonstrated understanding of Microsoft Azure,0.65
+A0647,Q0647,CAN282,Candidate provided a detailed response about microservices.,5.5,6.3,6.0,7.0,6.1,Demonstrated understanding of Kubernetes,0.67
+A0648,Q0648,CAN282,Candidate provided a detailed response about load balancing.,7.4,6.5,6.6,8.4,7.0,Demonstrated understanding of Terraform,0.8
+A0649,Q0649,CAN269,Candidate provided a detailed response about authentication.,6.8,7.5,7.3,7.3,7.6,Demonstrated understanding of Market Analysis,0.93
+A0650,Q0650,CAN269,Candidate provided a detailed response about message queue.,6.5,5.0,4.9,5.7,6.5,Demonstrated understanding of Data Visualization,0.9
+A0651,Q0651,CAN269,Candidate provided a detailed response about load balancing.,7.4,7.4,7.0,7.9,8.4,Demonstrated understanding of Data Visualization,0.79
+A0652,Q0652,CAN269,Candidate provided a detailed response about message queue.,8.1,8.5,8.3,8.6,7.4,Demonstrated understanding of Communication,0.74
+A0653,Q0653,CAN269,Candidate provided a detailed response about authentication.,6.6,6.4,6.1,6.0,5.2,Demonstrated understanding of A/B Testing,0.62
+A0654,Q0654,CAN269,Candidate provided a detailed response about CI/CD.,7.5,7.5,6.7,6.8,6.7,Demonstrated understanding of Market Analysis,0.65
+A0655,Q0655,CAN269,Candidate provided a detailed response about API design.,8.0,6.5,8.1,7.5,8.0,Demonstrated understanding of Digital Marketing,0.76
+A0656,Q0656,CAN269,Candidate provided a detailed response about data pipeline.,7.3,7.4,6.6,7.0,6.7,Demonstrated understanding of Google Analytics,0.67
+A0657,Q0657,CAN269,Candidate provided a detailed response about cloud architecture.,6.2,5.6,5.7,6.6,5.9,Demonstrated understanding of Brand Management,0.69
+A0658,Q0658,CAN269,Candidate provided a detailed response about machine learning.,6.1,7.1,5.5,7.3,6.0,Demonstrated understanding of Brand Management,0.9
+A0659,Q0659,CAN269,Candidate provided a detailed response about authentication.,7.2,7.6,8.2,7.5,8.4,Demonstrated understanding of A/B Testing,0.66
+A0660,Q0660,CAN269,Candidate provided a detailed response about authentication.,6.5,6.9,5.3,5.2,5.6,Demonstrated understanding of SEO/SEM,0.86
+A0661,Q0661,CAN188,Candidate provided a detailed response about API design.,4.0,5.2,4.0,4.7,2.0,Demonstrated understanding of CI/CD Pipelines,0.62
+A0662,Q0662,CAN188,Candidate provided a detailed response about database.,2.9,4.0,3.8,2.8,2.6,Demonstrated understanding of Apache Kafka,0.67
+A0663,Q0663,CAN188,Candidate provided a detailed response about load balancing.,4.7,4.8,5.0,4.9,2.9,Demonstrated understanding of Linux,0.63
+A0664,Q0664,CAN188,Candidate provided a detailed response about authentication.,4.7,4.7,4.1,4.4,2.7,Demonstrated understanding of Jenkins,0.73
+A0665,Q0665,CAN178,Candidate provided a detailed response about database.,5.6,4.1,5.8,4.5,2.6,Demonstrated understanding of Performance Testing,0.69
+A0666,Q0666,CAN178,Candidate provided a detailed response about machine learning.,4.6,4.6,3.7,4.1,2.6,Demonstrated understanding of Integration Testing,0.73
+A0667,Q0667,CAN178,Candidate provided a detailed response about caching.,5.6,5.0,5.9,5.1,3.0,Demonstrated understanding of JavaScript,0.72
+A0668,Q0668,CAN178,Candidate provided a detailed response about caching.,4.2,3.9,3.8,3.3,1.9,Demonstrated understanding of Test Automation,0.61
+A0669,Q0669,CAN178,Candidate provided a detailed response about cloud architecture.,5.5,6.1,6.9,6.8,3.6,Demonstrated understanding of Quality Assurance,0.62
+A0670,Q0670,CAN178,Candidate provided a detailed response about search indexing.,5.1,5.2,5.8,4.7,2.7,Demonstrated understanding of SQL,0.81
+A0671,Q0671,CAN178,Candidate provided a detailed response about authentication.,3.8,4.3,4.8,5.6,3.2,Demonstrated understanding of JavaScript,0.72
+A0672,Q0672,CAN178,Candidate provided a detailed response about data pipeline.,5.3,4.5,5.1,4.3,2.7,Demonstrated understanding of Test Automation,0.62
+A0673,Q0673,CAN178,Candidate provided a detailed response about message queue.,5.6,6.5,6.7,5.5,3.8,Demonstrated understanding of Performance Testing,0.85
+A0674,Q0674,CAN241,Candidate provided a detailed response about API design.,3.0,3.6,2.4,4.7,3.6,Demonstrated understanding of Time Management,0.65
+A0675,Q0675,CAN241,Candidate provided a detailed response about data pipeline.,3.6,4.8,2.9,4.7,4.4,Demonstrated understanding of Mentoring,0.86
+A0676,Q0676,CAN241,Candidate provided a detailed response about cloud architecture.,3.6,5.1,2.6,4.3,5.3,Demonstrated understanding of Time Management,0.92
+A0677,Q0677,CAN241,Candidate provided a detailed response about authentication.,3.9,5.2,3.4,4.1,5.9,Demonstrated understanding of System Design,0.62
+A0678,Q0678,CAN241,Candidate provided a detailed response about machine learning.,2.9,2.9,2.4,4.0,3.0,Demonstrated understanding of Stakeholder Management,0.76
+A0679,Q0679,CAN241,Candidate provided a detailed response about authentication.,1.7,2.9,1.5,2.9,3.6,Demonstrated understanding of Agile Methodology,0.77
+A0680,Q0680,CAN241,Candidate provided a detailed response about data pipeline.,3.3,4.8,2.3,4.8,4.9,Demonstrated understanding of Leadership,0.79
+A0681,Q0681,CAN171,Candidate provided a detailed response about database.,2.6,4.1,2.9,4.2,4.5,Demonstrated understanding of Employee Relations,0.87
+A0682,Q0682,CAN171,Candidate provided a detailed response about machine learning.,4.3,5.8,3.4,5.0,5.6,Demonstrated understanding of Teamwork,0.77
+A0683,Q0683,CAN171,Candidate provided a detailed response about authentication.,2.7,5.1,2.7,4.4,5.4,Demonstrated understanding of Labor Law Compliance,0.67
+A0684,Q0684,CAN055,Candidate provided a detailed response about CI/CD.,6.8,5.0,6.1,6.9,3.1,Demonstrated understanding of Terraform,0.88
+A0685,Q0685,CAN055,Candidate provided a detailed response about authentication.,3.7,2.8,3.8,4.2,2.3,Demonstrated understanding of Kubernetes,0.68
+A0686,Q0686,CAN055,Candidate provided a detailed response about authentication.,5.3,6.2,6.3,5.0,3.5,Demonstrated understanding of Jenkins,0.7
+A0687,Q0687,CAN055,Candidate provided a detailed response about CI/CD.,6.0,6.5,6.7,6.4,4.1,Demonstrated understanding of Terraform,0.85
+A0688,Q0688,CAN055,Candidate provided a detailed response about caching.,5.7,4.4,5.0,5.9,3.6,Demonstrated understanding of Microsoft Azure,0.76
+A0689,Q0689,CAN055,Candidate provided a detailed response about search indexing.,5.5,6.3,5.9,4.9,2.6,Demonstrated understanding of Networking,0.71
+A0690,Q0690,CAN055,Candidate provided a detailed response about authentication.,4.4,6.3,5.9,4.9,3.6,Demonstrated understanding of Google Cloud Platform,0.73
+A0691,Q0691,CAN055,Candidate provided a detailed response about cloud architecture.,4.9,4.9,5.4,5.4,2.8,Demonstrated understanding of AWS,0.7
+A0692,Q0692,CAN055,Candidate provided a detailed response about caching.,7.1,7.3,7.1,5.4,4.0,Demonstrated understanding of Ansible,0.64
+A0693,Q0693,CAN055,Candidate provided a detailed response about CI/CD.,3.1,4.1,4.0,4.5,2.9,Demonstrated understanding of Kubernetes,0.83
+A0694,Q0694,CAN055,Candidate provided a detailed response about database.,5.9,5.6,5.5,6.4,3.7,Demonstrated understanding of Google Cloud Platform,0.69
+A0695,Q0695,CAN147,Candidate provided a detailed response about search indexing.,9.1,8.6,7.9,8.5,8.0,Demonstrated understanding of Talent Acquisition,0.87
+A0696,Q0696,CAN147,Candidate provided a detailed response about database.,8.6,9.9,8.4,10,9.2,Demonstrated understanding of Strategic Planning,0.7
+A0697,Q0697,CAN147,Candidate provided a detailed response about load balancing.,8.4,7.2,8.6,7.8,8.6,Demonstrated understanding of Training and Development,0.89
+A0698,Q0698,CAN147,Candidate provided a detailed response about cloud architecture.,7.7,7.2,8.4,7.2,8.4,Demonstrated understanding of HR Analytics,0.88
+A0699,Q0699,CAN276,Candidate provided a detailed response about machine learning.,4.4,4.4,4.2,3.3,4.3,Demonstrated understanding of Brand Management,0.73
+A0700,Q0700,CAN276,Candidate provided a detailed response about machine learning.,4.2,3.7,4.1,3.0,2.9,Demonstrated understanding of Content Marketing,0.82
+A0701,Q0701,CAN276,Candidate provided a detailed response about message queue.,3.7,4.4,4.2,4.6,5.2,Demonstrated understanding of Digital Marketing,0.78
+A0702,Q0702,CAN276,Candidate provided a detailed response about search indexing.,3.0,2.8,3.7,3.1,4.3,Demonstrated understanding of Brand Management,0.81
+A0703,Q0703,CAN251,Candidate provided a detailed response about CI/CD.,3.1,3.5,3.1,4.8,3.6,Demonstrated understanding of Agile Methodology,0.67
+A0704,Q0704,CAN251,Candidate provided a detailed response about database.,4.7,5.9,6.0,4.7,5.5,Demonstrated understanding of JIRA,0.89
+A0705,Q0705,CAN251,Candidate provided a detailed response about database.,1.8,1.4,2.2,2.8,2.7,Demonstrated understanding of SQL,0.7
+A0706,Q0706,CAN149,Candidate provided a detailed response about load balancing.,8.6,9.4,10,10,9.0,Demonstrated understanding of Labor Law Compliance,0.92
+A0707,Q0707,CAN149,Candidate provided a detailed response about microservices.,7.5,6.2,6.9,7.3,6.5,Demonstrated understanding of Teamwork,0.75
+A0708,Q0708,CAN149,Candidate provided a detailed response about CI/CD.,7.1,7.7,6.4,8.0,7.6,Demonstrated understanding of Communication,0.62
+A0709,Q0709,CAN198,Candidate provided a detailed response about microservices.,4.9,4.7,5.9,4.7,2.9,Demonstrated understanding of Presentation Skills,0.9
+A0710,Q0710,CAN198,Candidate provided a detailed response about load balancing.,5.7,5.4,5.4,5.3,3.8,Demonstrated understanding of Market Analysis,0.95
+A0711,Q0711,CAN198,Candidate provided a detailed response about authentication.,5.7,3.9,4.3,5.8,3.2,Demonstrated understanding of Product Management,0.64
+A0712,Q0712,CAN198,Candidate provided a detailed response about database.,4.8,6.0,5.6,4.9,3.7,Demonstrated understanding of User Research,0.84
+A0713,Q0713,CAN198,Candidate provided a detailed response about authentication.,3.5,4.9,4.0,4.2,2.5,Demonstrated understanding of Problem Solving,0.87
+A0714,Q0714,CAN198,Candidate provided a detailed response about message queue.,6.5,7.2,6.7,6.2,4.3,Demonstrated understanding of Agile Methodology,0.61
+A0715,Q0715,CAN198,Candidate provided a detailed response about microservices.,5.3,6.0,5.6,5.8,4.0,Demonstrated understanding of User Research,0.77
+A0716,Q0716,CAN031,Candidate provided a detailed response about database.,6.4,5.2,5.7,5.2,4.0,Demonstrated understanding of Networking,0.75
+A0717,Q0717,CAN031,Candidate provided a detailed response about authentication.,6.3,5.7,5.6,5.6,4.0,Demonstrated understanding of Linux,0.95
+A0718,Q0718,CAN031,Candidate provided a detailed response about machine learning.,4.3,4.8,4.6,5.6,3.1,Demonstrated understanding of Compliance Management,0.91
+A0719,Q0719,CAN031,Candidate provided a detailed response about cloud architecture.,6.1,7.7,6.9,6.2,4.1,Demonstrated understanding of OWASP Security,0.82
+A0720,Q0720,CAN031,Candidate provided a detailed response about caching.,5.9,4.7,6.1,4.6,2.8,Demonstrated understanding of Compliance Management,0.82
+A0721,Q0721,CAN031,Candidate provided a detailed response about load balancing.,4.5,6.3,4.8,6.3,3.0,Demonstrated understanding of Network Security,0.92
+A0722,Q0722,CAN031,Candidate provided a detailed response about load balancing.,6.0,4.7,6.1,5.9,2.8,Demonstrated understanding of Linux,0.81
+A0723,Q0723,CAN031,Candidate provided a detailed response about data pipeline.,5.5,5.0,6.2,6.7,3.8,Demonstrated understanding of Linux,0.9
+A0724,Q0724,CAN168,Candidate provided a detailed response about API design.,10,9.0,10,9.5,10,Demonstrated understanding of Strategic Planning,0.72
+A0725,Q0725,CAN168,Candidate provided a detailed response about data pipeline.,8.9,9.0,8.4,7.8,7.7,Demonstrated understanding of Communication,0.76
+A0726,Q0726,CAN168,Candidate provided a detailed response about database.,9.2,9.4,10,9.8,10.0,Demonstrated understanding of Teamwork,0.64
+A0727,Q0727,CAN168,Candidate provided a detailed response about API design.,8.8,9.6,9.3,9.0,7.7,Demonstrated understanding of System Design,0.61
+A0728,Q0728,CAN168,Candidate provided a detailed response about database.,9.7,10,9.7,8.5,8.6,Demonstrated understanding of Strategic Planning,0.83
+A0729,Q0729,CAN168,Candidate provided a detailed response about machine learning.,9.6,9.5,9.3,8.3,7.9,Demonstrated understanding of Leadership,0.78
+A0730,Q0730,CAN168,Candidate provided a detailed response about machine learning.,8.6,7.8,7.8,8.1,8.9,Demonstrated understanding of Agile Methodology,0.62
+A0731,Q0731,CAN168,Candidate provided a detailed response about caching.,8.5,9.3,8.7,8.2,8.0,Demonstrated understanding of Leadership,0.94
+A0732,Q0732,CAN157,Candidate provided a detailed response about microservices.,9.3,10.0,9.9,9.4,9.4,Demonstrated understanding of Market Analysis,0.88
+A0733,Q0733,CAN157,Candidate provided a detailed response about data pipeline.,9.0,10,9.4,10,9.8,Demonstrated understanding of Stakeholder Management,0.87
+A0734,Q0734,CAN157,Candidate provided a detailed response about cloud architecture.,9.4,9.6,9.1,10,9.4,Demonstrated understanding of Data Analysis,0.69
+A0735,Q0735,CAN157,Candidate provided a detailed response about CI/CD.,9.5,9.8,9.1,9.0,10,Demonstrated understanding of Stakeholder Management,0.84
+A0736,Q0736,CAN157,Candidate provided a detailed response about machine learning.,9.2,7.8,8.7,9.4,9.4,Demonstrated understanding of Presentation Skills,0.66
+A0737,Q0737,CAN157,Candidate provided a detailed response about API design.,9.5,8.6,9.0,9.6,8.9,Demonstrated understanding of Presentation Skills,0.95
+A0738,Q0738,CAN157,Candidate provided a detailed response about search indexing.,9.9,9.5,8.3,9.7,8.4,Demonstrated understanding of Data Analysis,0.82
+A0739,Q0739,CAN157,Candidate provided a detailed response about database.,9.2,8.2,8.5,8.4,9.1,Demonstrated understanding of User Research,0.89
+A0740,Q0740,CAN051,Candidate provided a detailed response about authentication.,8.4,7.3,8.4,8.0,8.8,Demonstrated understanding of Google Cloud Platform,0.89
+A0741,Q0741,CAN051,Candidate provided a detailed response about CI/CD.,9.2,7.8,8.5,8.3,7.6,Demonstrated understanding of Microservices Architecture,0.77
+A0742,Q0742,CAN051,Candidate provided a detailed response about cloud architecture.,9.7,10,8.8,8.5,10,Demonstrated understanding of System Administration,0.78
+A0743,Q0743,CAN051,Candidate provided a detailed response about API design.,7.1,8.5,7.3,7.5,8.1,Demonstrated understanding of Git/Version Control,0.71
+A0744,Q0744,CAN051,Candidate provided a detailed response about CI/CD.,9.5,9.1,8.2,8.4,8.9,Demonstrated understanding of Ansible,0.74
+A0745,Q0745,CAN249,Candidate provided a detailed response about database.,10,9.1,9.1,10,9.7,Demonstrated understanding of JavaScript,0.62
+A0746,Q0746,CAN249,Candidate provided a detailed response about API design.,7.7,9.4,9.4,8.3,9.2,Demonstrated understanding of Quality Assurance,0.74
+A0747,Q0747,CAN249,Candidate provided a detailed response about load balancing.,8.5,7.5,8.0,8.3,7.2,Demonstrated understanding of JIRA,0.8
+A0748,Q0748,CAN249,Candidate provided a detailed response about caching.,9.2,9.7,10,9.1,9.1,Demonstrated understanding of Performance Testing,0.78
+A0749,Q0749,CAN249,Candidate provided a detailed response about data pipeline.,7.8,8.5,7.5,8.5,7.0,Demonstrated understanding of Agile Methodology,0.93
+A0750,Q0750,CAN249,Candidate provided a detailed response about microservices.,7.8,9.6,8.0,9.0,8.1,Demonstrated understanding of Python,0.68
+A0751,Q0751,CAN249,Candidate provided a detailed response about load balancing.,9.0,10,10,8.9,8.7,Demonstrated understanding of SQL,0.8
+A0752,Q0752,CAN249,Candidate provided a detailed response about data pipeline.,8.6,9.5,9.0,8.6,9.0,Demonstrated understanding of Agile Methodology,0.89
+A0753,Q0753,CAN200,Candidate provided a detailed response about microservices.,2.7,3.4,2.9,4.5,4.3,Demonstrated understanding of Negotiation,0.65
+A0754,Q0754,CAN200,Candidate provided a detailed response about CI/CD.,2.1,3.2,2.3,2.6,2.6,Demonstrated understanding of Market Analysis,0.84
+A0755,Q0755,CAN200,Candidate provided a detailed response about caching.,2.5,2.6,2.9,3.7,4.0,Demonstrated understanding of Salesforce,0.72
+A0756,Q0756,CAN200,Candidate provided a detailed response about database.,2.8,4.3,2.8,3.0,3.5,Demonstrated understanding of Strategic Planning,0.67
+A0757,Q0757,CAN200,Candidate provided a detailed response about CI/CD.,3.3,5.7,4.3,6.0,5.1,Demonstrated understanding of Stakeholder Management,0.67
+A0758,Q0758,CAN159,Candidate provided a detailed response about data pipeline.,6.3,6.0,6.2,6.6,4.0,Demonstrated understanding of SEO/SEM,0.87
+A0759,Q0759,CAN159,Candidate provided a detailed response about load balancing.,5.0,6.0,4.8,5.3,3.1,Demonstrated understanding of A/B Testing,0.64
+A0760,Q0760,CAN159,Candidate provided a detailed response about cloud architecture.,5.1,4.4,5.4,4.6,2.5,Demonstrated understanding of Digital Marketing,0.83
+A0761,Q0761,CAN159,Candidate provided a detailed response about cloud architecture.,4.6,5.0,3.3,4.2,2.3,Demonstrated understanding of Communication,0.72
+A0762,Q0762,CAN159,Candidate provided a detailed response about CI/CD.,4.0,3.5,3.3,3.7,2.0,Demonstrated understanding of A/B Testing,0.94
+A0763,Q0763,CAN159,Candidate provided a detailed response about machine learning.,4.1,5.6,4.6,5.5,3.4,Demonstrated understanding of Market Analysis,0.73
+A0764,Q0764,CAN159,Candidate provided a detailed response about message queue.,4.4,6.1,5.1,4.7,3.3,Demonstrated understanding of Product Management,0.93
+A0765,Q0765,CAN159,Candidate provided a detailed response about microservices.,5.0,5.6,5.1,5.0,2.3,Demonstrated understanding of SEO/SEM,0.92
+A0766,Q0766,CAN261,Candidate provided a detailed response about CI/CD.,8.5,8.5,7.8,7.9,8.2,Demonstrated understanding of Data Visualization,0.61
+A0767,Q0767,CAN261,Candidate provided a detailed response about cloud architecture.,8.8,8.2,7.7,7.6,8.8,Demonstrated understanding of Machine Learning,0.88
+A0768,Q0768,CAN261,Candidate provided a detailed response about load balancing.,9.0,8.6,9.2,8.0,8.7,Demonstrated understanding of Data Analysis,0.94
+A0769,Q0769,CAN261,Candidate provided a detailed response about database.,9.2,9.0,10.0,9.6,10,Demonstrated understanding of Statistical Modeling,0.62
+A0770,Q0770,CAN261,Candidate provided a detailed response about CI/CD.,9.0,10,9.2,10,9.2,Demonstrated understanding of Data Modeling,0.95
+A0771,Q0771,CAN261,Candidate provided a detailed response about load balancing.,9.5,9.1,9.1,8.6,9.1,Demonstrated understanding of Statistical Modeling,0.69
+A0772,Q0772,CAN261,Candidate provided a detailed response about message queue.,9.1,8.0,8.0,8.1,8.9,Demonstrated understanding of Deep Learning,0.81
+A0773,Q0773,CAN261,Candidate provided a detailed response about machine learning.,8.2,9.9,9.9,9.0,9.9,Demonstrated understanding of Apache Spark,0.71
+A0774,Q0774,CAN261,Candidate provided a detailed response about microservices.,8.5,10.0,10,8.5,9.0,Demonstrated understanding of SQL,0.74
+A0775,Q0775,CAN261,Candidate provided a detailed response about CI/CD.,8.5,9.6,9.0,9.2,9.7,Demonstrated understanding of TensorFlow,0.95
+A0776,Q0776,CAN022,Candidate provided a detailed response about database.,8.3,9.3,8.3,9.8,7.9,Demonstrated understanding of Penetration Testing,0.67
+A0777,Q0777,CAN022,Candidate provided a detailed response about message queue.,8.6,9.9,9.3,10.0,9.3,Demonstrated understanding of Penetration Testing,0.92
+A0778,Q0778,CAN022,Candidate provided a detailed response about API design.,7.6,8.9,7.7,7.3,8.2,Demonstrated understanding of Network Security,0.71
+A0779,Q0779,CAN087,Candidate provided a detailed response about database.,4.5,5.0,4.4,5.7,5.0,Demonstrated understanding of Kubernetes,0.9
+A0780,Q0780,CAN087,Candidate provided a detailed response about authentication.,3.6,2.9,4.0,4.1,4.0,Demonstrated understanding of Google Cloud Platform,0.81
+A0781,Q0781,CAN087,Candidate provided a detailed response about authentication.,3.4,4.9,3.9,4.4,5.0,Demonstrated understanding of Docker,0.72
+A0782,Q0782,CAN087,Candidate provided a detailed response about database.,5.4,4.4,5.3,5.6,4.9,Demonstrated understanding of Docker,0.7
+A0783,Q0783,CAN087,Candidate provided a detailed response about API design.,2.8,1.8,1.7,2.0,3.0,Demonstrated understanding of Kubernetes,0.89
+A0784,Q0784,CAN087,Candidate provided a detailed response about data pipeline.,4.3,4.5,4.1,3.1,3.5,Demonstrated understanding of System Administration,0.71
+A0785,Q0785,CAN087,Candidate provided a detailed response about search indexing.,3.3,3.9,3.4,3.0,3.1,Demonstrated understanding of Apache Kafka,0.84
+A0786,Q0786,CAN219,Candidate provided a detailed response about search indexing.,5.4,5.4,5.4,6.2,6.8,Demonstrated understanding of Teamwork,0.93
+A0787,Q0787,CAN219,Candidate provided a detailed response about machine learning.,9.4,8.0,8.7,8.2,8.5,Demonstrated understanding of Time Management,0.9
+A0788,Q0788,CAN219,Candidate provided a detailed response about data pipeline.,8.6,7.6,8.7,8.8,8.0,Demonstrated understanding of Teamwork,0.82
+A0789,Q0789,CAN219,Candidate provided a detailed response about search indexing.,8.9,8.3,8.6,7.0,7.8,Demonstrated understanding of Stakeholder Management,0.86
+A0790,Q0790,CAN219,Candidate provided a detailed response about caching.,8.1,8.3,7.8,7.1,7.0,Demonstrated understanding of Teamwork,0.76
+A0791,Q0791,CAN219,Candidate provided a detailed response about message queue.,6.5,5.8,6.2,6.3,7.3,Demonstrated understanding of Project Management,0.92
+A0792,Q0792,CAN219,Candidate provided a detailed response about authentication.,7.9,7.8,7.9,7.4,7.0,Demonstrated understanding of System Design,0.66
+A0793,Q0793,CAN219,Candidate provided a detailed response about load balancing.,10,8.9,10,10,8.9,Demonstrated understanding of Communication,0.71
+A0794,Q0794,CAN219,Candidate provided a detailed response about cloud architecture.,6.9,7.5,7.2,8.4,6.6,Demonstrated understanding of Project Management,0.8
+A0795,Q0795,CAN219,Candidate provided a detailed response about data pipeline.,7.7,8.5,8.2,9.0,9.1,Demonstrated understanding of Teamwork,0.67
+A0796,Q0796,CAN219,Candidate provided a detailed response about search indexing.,8.0,8.4,7.6,7.8,8.7,Demonstrated understanding of Time Management,0.9
+A0797,Q0797,CAN219,Candidate provided a detailed response about database.,10,8.9,10,10,8.8,Demonstrated understanding of Communication,0.9
+A0798,Q0798,CAN219,Candidate provided a detailed response about data pipeline.,8.6,8.0,8.7,8.5,8.1,Demonstrated understanding of Mentoring,0.92
+A0799,Q0799,CAN219,Candidate provided a detailed response about cloud architecture.,7.0,6.9,7.3,8.2,8.5,Demonstrated understanding of Strategic Planning,0.65
+A0800,Q0800,CAN219,Candidate provided a detailed response about CI/CD.,8.5,9.1,8.0,9.1,8.3,Demonstrated understanding of Mentoring,0.85
+A0801,Q0801,CAN112,Candidate provided a detailed response about database.,3.4,3.7,4.0,3.4,4.3,Demonstrated understanding of Product Management,0.92
+A0802,Q0802,CAN112,Candidate provided a detailed response about search indexing.,3.5,2.9,2.9,2.2,2.5,Demonstrated understanding of Product Management,0.83
+A0803,Q0803,CAN112,Candidate provided a detailed response about CI/CD.,4.8,4.6,5.1,4.4,3.9,Demonstrated understanding of Product Management,0.91
+A0804,Q0804,CAN112,Candidate provided a detailed response about search indexing.,2.8,3.2,3.0,3.4,3.7,Demonstrated understanding of Digital Marketing,0.85
+A0805,Q0805,CAN112,Candidate provided a detailed response about database.,2.5,2.9,3.2,3.0,3.3,Demonstrated understanding of A/B Testing,0.83
+A0806,Q0806,CAN112,Candidate provided a detailed response about database.,4.0,3.5,4.1,2.9,3.2,Demonstrated understanding of Google Analytics,0.72
+A0807,Q0807,CAN112,Candidate provided a detailed response about caching.,1.7,1.9,1,1.7,1.5,Demonstrated understanding of Data Visualization,0.66
+A0808,Q0808,CAN112,Candidate provided a detailed response about database.,4.3,3.1,4.4,3.6,3.6,Demonstrated understanding of Communication,0.77
+A0809,Q0809,CAN112,Candidate provided a detailed response about database.,2.3,2.1,3.2,1.9,2.7,Demonstrated understanding of A/B Testing,0.89
+A0810,Q0810,CAN112,Candidate provided a detailed response about cloud architecture.,3.1,3.7,3.2,2.5,3.9,Demonstrated understanding of Digital Marketing,0.94
+A0811,Q0811,CAN112,Candidate provided a detailed response about load balancing.,4.4,3.6,4.7,5.3,5.4,Demonstrated understanding of A/B Testing,0.72
+A0812,Q0812,CAN112,Candidate provided a detailed response about API design.,3.8,4.3,3.3,5.0,3.7,Demonstrated understanding of Google Analytics,0.94
+A0813,Q0813,CAN112,Candidate provided a detailed response about caching.,4.0,4.2,3.8,3.9,3.7,Demonstrated understanding of SEO/SEM,0.85
+A0814,Q0814,CAN190,Candidate provided a detailed response about API design.,9.3,9.9,10,10,10,Demonstrated understanding of Stakeholder Management,0.77
+A0815,Q0815,CAN190,Candidate provided a detailed response about machine learning.,6.9,7.4,8.5,6.9,7.6,Demonstrated understanding of Agile Methodology,0.76
+A0816,Q0816,CAN190,Candidate provided a detailed response about data pipeline.,8.5,10,9.3,8.4,9.2,Demonstrated understanding of Strategic Planning,0.87
+A0817,Q0817,CAN190,Candidate provided a detailed response about cloud architecture.,8.0,9.2,8.7,8.2,8.0,Demonstrated understanding of Time Management,0.94
+A0818,Q0818,CAN190,Candidate provided a detailed response about load balancing.,7.1,7.5,7.6,8.0,8.8,Demonstrated understanding of System Design,0.8
+A0819,Q0819,CAN190,Candidate provided a detailed response about microservices.,8.7,8.7,10,9.9,9.8,Demonstrated understanding of Teamwork,0.9
+A0820,Q0820,CAN190,Candidate provided a detailed response about cloud architecture.,9.6,9.4,8.0,9.5,8.5,Demonstrated understanding of Leadership,0.7
+A0821,Q0821,CAN271,Candidate provided a detailed response about microservices.,10,9.0,9.8,10,9.1,Demonstrated understanding of Performance Management,0.93
+A0822,Q0822,CAN271,Candidate provided a detailed response about cloud architecture.,7.6,7.6,8.2,7.3,8.0,Demonstrated understanding of Employee Relations,0.93
+A0823,Q0823,CAN271,Candidate provided a detailed response about cloud architecture.,9.7,9.4,8.9,8.3,8.6,Demonstrated understanding of Strategic Planning,0.67
+A0824,Q0824,CAN271,Candidate provided a detailed response about message queue.,8.7,8.4,9.1,8.2,8.9,Demonstrated understanding of HR Analytics,0.85
+A0825,Q0825,CAN065,Candidate provided a detailed response about data pipeline.,9.0,8.2,9.5,9.5,9.0,Demonstrated understanding of CRM Systems,0.93
+A0826,Q0826,CAN065,Candidate provided a detailed response about authentication.,9.5,8.2,8.7,8.7,9.0,Demonstrated understanding of Problem Solving,0.66
+A0827,Q0827,CAN065,Candidate provided a detailed response about message queue.,8.7,8.0,8.0,8.0,9.6,Demonstrated understanding of Salesforce,0.71
+A0828,Q0828,CAN065,Candidate provided a detailed response about data pipeline.,8.0,8.7,8.2,7.6,8.8,Demonstrated understanding of Time Management,0.74
+A0829,Q0829,CAN065,Candidate provided a detailed response about caching.,7.4,7.9,7.9,7.5,7.0,Demonstrated understanding of Negotiation,0.65
+A0830,Q0830,CAN065,Candidate provided a detailed response about search indexing.,9.7,9.8,10,10,9.4,Demonstrated understanding of Problem Solving,0.73
+A0831,Q0831,CAN065,Candidate provided a detailed response about caching.,9.4,10,10,9.1,8.8,Demonstrated understanding of Negotiation,0.71
+A0832,Q0832,CAN065,Candidate provided a detailed response about caching.,8.7,8.7,9.4,9.9,10,Demonstrated understanding of Negotiation,0.7
+A0833,Q0833,CAN065,Candidate provided a detailed response about CI/CD.,9.7,10,10.0,9.3,9.1,Demonstrated understanding of Presentation Skills,0.63
+A0834,Q0834,CAN065,Candidate provided a detailed response about API design.,9.1,10,9.2,8.5,8.8,Demonstrated understanding of Presentation Skills,0.71
+A0835,Q0835,CAN065,Candidate provided a detailed response about microservices.,9.1,9.3,9.3,10,9.5,Demonstrated understanding of Time Management,0.93
+A0836,Q0836,CAN065,Candidate provided a detailed response about message queue.,9.4,9.3,9.8,8.9,8.9,Demonstrated understanding of Communication,0.62
+A0837,Q0837,CAN065,Candidate provided a detailed response about data pipeline.,8.1,9.4,9.1,8.6,8.8,Demonstrated understanding of Customer Relationship Management,0.77
+A0838,Q0838,CAN065,Candidate provided a detailed response about database.,9.0,9.3,8.4,9.8,9.2,Demonstrated understanding of Market Analysis,0.63
+A0839,Q0839,CAN181,Candidate provided a detailed response about API design.,7.7,7.8,8.6,8.0,8.1,Demonstrated understanding of Service Level Management,0.75
+A0840,Q0840,CAN181,Candidate provided a detailed response about microservices.,8.8,10,8.1,8.4,9.8,Demonstrated understanding of CRM Systems,0.95
+A0841,Q0841,CAN181,Candidate provided a detailed response about message queue.,8.1,8.7,7.3,8.8,8.1,Demonstrated understanding of Active Listening,0.86
+A0842,Q0842,CAN181,Candidate provided a detailed response about machine learning.,9.0,10,9.8,10,9.1,Demonstrated understanding of Problem Solving,0.64
+A0843,Q0843,CAN222,Candidate provided a detailed response about CI/CD.,5.9,6.6,6.4,7.2,3.5,Demonstrated understanding of Communication,0.93
+A0844,Q0844,CAN222,Candidate provided a detailed response about cloud architecture.,5.3,4.4,4.9,4.3,2.5,Demonstrated understanding of User Research,0.66
+A0845,Q0845,CAN222,Candidate provided a detailed response about microservices.,5.6,5.4,4.3,5.8,3.1,Demonstrated understanding of A/B Testing,0.81
+A0846,Q0846,CAN222,Candidate provided a detailed response about database.,4.4,4.4,4.6,4.9,3.2,Demonstrated understanding of Data Analysis,0.62
+A0847,Q0847,CAN012,Candidate provided a detailed response about caching.,4.6,6.1,4.6,4.8,4.6,Demonstrated understanding of Project Management,0.64
+A0848,Q0848,CAN012,Candidate provided a detailed response about data pipeline.,5.9,5.1,5.4,5.4,4.5,Demonstrated understanding of Agile Methodology,0.88
+A0849,Q0849,CAN012,Candidate provided a detailed response about data pipeline.,6.7,5.7,6.1,7.0,5.8,Demonstrated understanding of Teamwork,0.85
+A0850,Q0850,CAN012,Candidate provided a detailed response about API design.,4.4,4.8,5.7,5.1,4.7,Demonstrated understanding of Leadership,0.8
+A0851,Q0851,CAN012,Candidate provided a detailed response about message queue.,7.7,6.0,6.5,7.2,6.2,Demonstrated understanding of Mentoring,0.84
+A0852,Q0852,CAN012,Candidate provided a detailed response about search indexing.,5.3,5.2,6.0,5.7,6.8,Demonstrated understanding of Time Management,0.77
+A0853,Q0853,CAN012,Candidate provided a detailed response about CI/CD.,5.8,6.7,6.5,6.2,5.1,Demonstrated understanding of Stakeholder Management,0.76
+A0854,Q0854,CAN012,Candidate provided a detailed response about database.,3.7,3.7,4.7,3.7,3.8,Demonstrated understanding of Communication,0.82
+A0855,Q0855,CAN278,Candidate provided a detailed response about microservices.,2.2,3.5,3.8,3.3,2.2,Demonstrated understanding of Identity and Access Management,0.61
+A0856,Q0856,CAN278,Candidate provided a detailed response about caching.,2.9,4.7,4.7,3.1,3.9,Demonstrated understanding of Networking,0.88
+A0857,Q0857,CAN278,Candidate provided a detailed response about database.,3.4,4.6,4.1,3.1,4.6,Demonstrated understanding of Python,0.76
+A0858,Q0858,CAN278,Candidate provided a detailed response about cloud architecture.,5.7,5.7,5.3,4.7,5.4,Demonstrated understanding of Networking,0.78
+A0859,Q0859,CAN278,Candidate provided a detailed response about API design.,1.5,2.6,2.8,1.8,2.5,Demonstrated understanding of Cybersecurity,0.63
+A0860,Q0860,CAN278,Candidate provided a detailed response about authentication.,2.1,1.4,1.6,2.4,1.5,Demonstrated understanding of Linux,0.76
+A0861,Q0861,CAN278,Candidate provided a detailed response about API design.,2.8,4.5,3.8,3.2,3.4,Demonstrated understanding of Networking,0.83
+A0862,Q0862,CAN106,Candidate provided a detailed response about search indexing.,6.3,5.3,5.8,4.9,4.9,Demonstrated understanding of Unit Testing,0.84
+A0863,Q0863,CAN106,Candidate provided a detailed response about CI/CD.,5.2,5.2,5.6,5.9,5.2,Demonstrated understanding of JIRA,0.89
+A0864,Q0864,CAN106,Candidate provided a detailed response about machine learning.,5.8,5.4,4.5,6.1,5.6,Demonstrated understanding of SQL,0.62
+A0865,Q0865,CAN106,Candidate provided a detailed response about authentication.,6.7,7.3,6.6,6.4,6.7,Demonstrated understanding of Python,0.84
+A0866,Q0866,CAN106,Candidate provided a detailed response about authentication.,5.5,5.9,5.9,5.4,4.7,Demonstrated understanding of Unit Testing,0.76
+A0867,Q0867,CAN106,Candidate provided a detailed response about microservices.,6.9,7.0,7.2,6.4,7.2,Demonstrated understanding of Python,0.7
+A0868,Q0868,CAN106,Candidate provided a detailed response about machine learning.,3.8,4.9,5.7,5.0,5.4,Demonstrated understanding of Agile Methodology,0.61
+A0869,Q0869,CAN038,Candidate provided a detailed response about microservices.,6.0,6.7,6.3,7.3,6.4,Demonstrated understanding of Identity and Access Management,0.66
+A0870,Q0870,CAN038,Candidate provided a detailed response about search indexing.,6.9,6.8,6.7,6.8,5.5,Demonstrated understanding of Penetration Testing,0.82
+A0871,Q0871,CAN038,Candidate provided a detailed response about CI/CD.,8.0,6.6,7.6,6.9,7.0,Demonstrated understanding of Compliance Management,0.95
+A0872,Q0872,CAN207,Candidate provided a detailed response about caching.,3.3,4.7,3.7,4.4,4.4,Demonstrated understanding of Communication,0.68
+A0873,Q0873,CAN207,Candidate provided a detailed response about API design.,2.4,3.9,2.2,4.4,4.8,Demonstrated understanding of Labor Law Compliance,0.94
+A0874,Q0874,CAN207,Candidate provided a detailed response about message queue.,2.4,4.0,2.9,3.5,3.4,Demonstrated understanding of Strategic Planning,0.94
+A0875,Q0875,CAN207,Candidate provided a detailed response about cloud architecture.,2.9,5.6,2.9,5.9,4.0,Demonstrated understanding of Talent Acquisition,0.95
+A0876,Q0876,CAN207,Candidate provided a detailed response about message queue.,3.8,4.2,2.9,3.7,4.9,Demonstrated understanding of Training and Development,0.66
+A0877,Q0877,CAN201,Candidate provided a detailed response about load balancing.,8.4,8.4,8.8,8.5,8.8,Demonstrated understanding of Labor Law Compliance,0.63
+A0878,Q0878,CAN201,Candidate provided a detailed response about message queue.,7.4,9.0,7.5,7.3,7.9,Demonstrated understanding of Compensation and Benefits,0.65
+A0879,Q0879,CAN201,Candidate provided a detailed response about message queue.,8.0,7.7,8.7,7.6,7.2,Demonstrated understanding of Performance Management,0.77
+A0880,Q0880,CAN201,Candidate provided a detailed response about data pipeline.,8.4,6.5,6.7,7.4,6.6,Demonstrated understanding of Training and Development,0.73
+A0881,Q0881,CAN201,Candidate provided a detailed response about caching.,9.5,8.6,9.1,8.7,9.8,Demonstrated understanding of Employee Relations,0.7
+A0882,Q0882,CAN201,Candidate provided a detailed response about authentication.,8.2,8.8,7.3,7.6,8.6,Demonstrated understanding of Talent Acquisition,0.83
+A0883,Q0883,CAN201,Candidate provided a detailed response about cloud architecture.,8.4,6.9,7.7,8.5,7.1,Demonstrated understanding of HR Analytics,0.67
+A0884,Q0884,CAN201,Candidate provided a detailed response about API design.,7.5,7.3,8.3,7.8,7.7,Demonstrated understanding of HR Analytics,0.94
+A0885,Q0885,CAN131,Candidate provided a detailed response about cloud architecture.,6.2,6.8,7.3,7.2,3.7,Demonstrated understanding of Communication,0.93
+A0886,Q0886,CAN131,Candidate provided a detailed response about database.,5.0,4.4,5.3,5.8,2.6,Demonstrated understanding of Customer Relationship Management,0.74
+A0887,Q0887,CAN131,Candidate provided a detailed response about database.,5.7,4.0,4.5,5.5,2.5,Demonstrated understanding of Issue Resolution,0.83
+A0888,Q0888,CAN131,Candidate provided a detailed response about data pipeline.,4.7,5.0,4.2,3.8,2.9,Demonstrated understanding of Service Level Management,0.8
+A0889,Q0889,CAN131,Candidate provided a detailed response about message queue.,5.5,4.8,4.5,5.4,3.7,Demonstrated understanding of Service Level Management,0.89
+A0890,Q0890,CAN131,Candidate provided a detailed response about caching.,3.7,4.0,3.3,4.1,2.6,Demonstrated understanding of Problem Solving,0.88
+A0891,Q0891,CAN131,Candidate provided a detailed response about machine learning.,6.2,5.2,5.7,5.7,3.1,Demonstrated understanding of Service Level Management,0.9
+A0892,Q0892,CAN094,Candidate provided a detailed response about cloud architecture.,7.3,7.1,6.4,6.7,5.7,Demonstrated understanding of Strategic Planning,0.84
+A0893,Q0893,CAN094,Candidate provided a detailed response about authentication.,8.1,7.7,8.7,9.2,8.4,Demonstrated understanding of Mentoring,0.65
+A0894,Q0894,CAN094,Candidate provided a detailed response about cloud architecture.,8.5,8.5,7.5,8.8,8.4,Demonstrated understanding of System Design,0.94
+A0895,Q0895,CAN094,Candidate provided a detailed response about authentication.,7.8,7.1,5.9,6.0,6.4,Demonstrated understanding of Teamwork,0.93
+A0896,Q0896,CAN194,Candidate provided a detailed response about authentication.,9.6,10,10,8.6,9.1,Demonstrated understanding of Communication,0.84
+A0897,Q0897,CAN194,Candidate provided a detailed response about machine learning.,8.6,8.7,8.3,7.4,7.9,Demonstrated understanding of Content Marketing,0.89
+A0898,Q0898,CAN194,Candidate provided a detailed response about API design.,9.0,10,10,9.0,9.4,Demonstrated understanding of Digital Marketing,0.73
+A0899,Q0899,CAN040,Candidate provided a detailed response about authentication.,8.0,8.4,7.7,8.9,7.9,Demonstrated understanding of Mentoring,0.71
+A0900,Q0900,CAN040,Candidate provided a detailed response about caching.,6.5,6.8,6.8,5.1,5.2,Demonstrated understanding of Stakeholder Management,0.93
+A0901,Q0901,CAN040,Candidate provided a detailed response about machine learning.,7.8,8.3,6.8,8.2,7.7,Demonstrated understanding of Stakeholder Management,0.77
+A0902,Q0902,CAN040,Candidate provided a detailed response about CI/CD.,7.4,7.4,6.9,7.6,6.3,Demonstrated understanding of Stakeholder Management,0.77
+A0903,Q0903,CAN040,Candidate provided a detailed response about machine learning.,7.9,5.9,7.0,6.4,6.2,Demonstrated understanding of Agile Methodology,0.94
+A0904,Q0904,CAN117,Candidate provided a detailed response about machine learning.,5.2,5.4,5.5,4.1,3.1,Demonstrated understanding of System Design,0.86
+A0905,Q0905,CAN117,Candidate provided a detailed response about data pipeline.,5.1,4.3,4.7,4.0,2.2,Demonstrated understanding of Leadership,0.63
+A0906,Q0906,CAN117,Candidate provided a detailed response about message queue.,3.4,3.0,3.5,2.7,2.2,Demonstrated understanding of System Design,0.71
+A0907,Q0907,CAN117,Candidate provided a detailed response about microservices.,4.4,5.1,4.8,5.0,2.8,Demonstrated understanding of Teamwork,0.72
+A0908,Q0908,CAN117,Candidate provided a detailed response about message queue.,6.0,4.9,5.7,5.3,2.9,Demonstrated understanding of Agile Methodology,0.9
+A0909,Q0909,CAN117,Candidate provided a detailed response about load balancing.,5.6,4.6,5.5,5.4,3.3,Demonstrated understanding of Teamwork,0.91
+A0910,Q0910,CAN117,Candidate provided a detailed response about message queue.,3.6,3.5,5.0,4.1,2.3,Demonstrated understanding of Project Management,0.7
+A0911,Q0911,CAN117,Candidate provided a detailed response about machine learning.,5.9,6.7,6.5,7.5,3.8,Demonstrated understanding of Mentoring,0.69
+A0912,Q0912,CAN117,Candidate provided a detailed response about database.,4.3,4.2,4.3,4.0,2.5,Demonstrated understanding of Mentoring,0.65
+A0913,Q0913,CAN117,Candidate provided a detailed response about data pipeline.,5.5,5.4,4.3,5.9,3.6,Demonstrated understanding of Stakeholder Management,0.85
+A0914,Q0914,CAN117,Candidate provided a detailed response about message queue.,4.2,4.7,5.3,5.3,2.6,Demonstrated understanding of System Design,0.87
+A0915,Q0915,CAN296,Candidate provided a detailed response about machine learning.,8.0,8.8,8.4,8.7,8.3,Demonstrated understanding of Leadership,0.93
+A0916,Q0916,CAN296,Candidate provided a detailed response about microservices.,7.4,7.5,7.0,8.1,7.8,Demonstrated understanding of Strategic Planning,0.74
+A0917,Q0917,CAN296,Candidate provided a detailed response about authentication.,9.0,8.6,8.7,9.1,8.5,Demonstrated understanding of Employee Relations,0.91
+A0918,Q0918,CAN296,Candidate provided a detailed response about data pipeline.,8.5,8.3,8.4,8.4,8.1,Demonstrated understanding of Compensation and Benefits,0.84
+A0919,Q0919,CAN137,Candidate provided a detailed response about CI/CD.,9.9,9.0,8.9,10,8.6,Demonstrated understanding of Salesforce,0.73
+A0920,Q0920,CAN137,Candidate provided a detailed response about database.,8.6,8.4,9.3,9.3,8.6,Demonstrated understanding of Salesforce,0.79
+A0921,Q0921,CAN137,Candidate provided a detailed response about caching.,7.5,9.1,8.9,7.9,7.8,Demonstrated understanding of CRM Systems,0.86
+A0922,Q0922,CAN137,Candidate provided a detailed response about microservices.,9.7,8.7,9.9,9.1,9.4,Demonstrated understanding of Time Management,0.62
+A0923,Q0923,CAN096,Candidate provided a detailed response about load balancing.,7.5,7.5,8.1,6.9,7.5,Demonstrated understanding of Service Level Management,0.88
+A0924,Q0924,CAN096,Candidate provided a detailed response about message queue.,7.1,6.5,6.7,5.9,7.1,Demonstrated understanding of Active Listening,0.93
+A0925,Q0925,CAN096,Candidate provided a detailed response about message queue.,7.6,7.5,7.4,7.5,7.2,Demonstrated understanding of Active Listening,0.77
+A0926,Q0926,CAN096,Candidate provided a detailed response about CI/CD.,7.4,6.5,6.2,5.9,6.0,Demonstrated understanding of Empathy,0.64
+A0927,Q0927,CAN096,Candidate provided a detailed response about search indexing.,6.3,8.0,6.5,6.5,7.9,Demonstrated understanding of Service Level Management,0.67
+A0928,Q0928,CAN187,Candidate provided a detailed response about machine learning.,7.6,8.2,7.4,8.4,8.2,Demonstrated understanding of Content Marketing,0.8
+A0929,Q0929,CAN187,Candidate provided a detailed response about CI/CD.,8.7,9.0,8.6,8.7,10,Demonstrated understanding of Product Management,0.64
+A0930,Q0930,CAN187,Candidate provided a detailed response about caching.,10,10,9.6,9.9,9.8,Demonstrated understanding of SEO/SEM,0.73

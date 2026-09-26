@@ -1,0 +1,423 @@
+occupation_code,element_id,element_name,scale_id,data_value,recommend_suppress
+15-1252.00,2.A.1.a,Reading Comprehension,IM,3.75,N
+15-1252.00,2.A.1.a,Reading Comprehension,LV,4.25,N
+15-1252.00,2.A.1.b,Active Listening,IM,3.88,N
+15-1252.00,2.A.1.b,Active Listening,LV,3.75,N
+15-1252.00,2.A.1.c,Writing,IM,3.5,N
+15-1252.00,2.A.1.c,Writing,LV,3.75,N
+15-1252.00,2.A.2.a,Critical Thinking,IM,4.25,N
+15-1252.00,2.A.2.a,Critical Thinking,LV,4.88,N
+15-1252.00,2.A.2.b,Active Learning,IM,4.12,N
+15-1252.00,2.A.2.b,Active Learning,LV,4.5,N
+15-1252.00,2.B.2.i,Complex Problem Solving,IM,4.38,N
+15-1252.00,2.B.2.i,Complex Problem Solving,LV,4.63,N
+15-1252.00,2.B.3.a,Operations Analysis,IM,3.88,N
+15-1252.00,2.B.3.a,Operations Analysis,LV,4.12,N
+15-1252.00,2.B.3.b,Technology Design,IM,4.12,N
+15-1252.00,2.B.3.b,Technology Design,LV,5.0,N
+15-1252.00,2.B.3.e,Programming,IM,4.75,N
+15-1252.00,2.B.3.e,Programming,LV,5.75,N
+15-1252.00,2.B.4.g,Judgment and Decision Making,IM,4.0,N
+15-1252.00,2.B.4.g,Judgment and Decision Making,LV,4.5,N
+15-1252.00,2.B.4.h,Systems Analysis,IM,4.12,N
+15-1252.00,2.B.4.h,Systems Analysis,LV,4.75,N
+15-1252.00,2.B.5.a,Time Management,IM,3.75,N
+15-1252.00,2.B.5.a,Time Management,LV,3.88,N
+15-1254.00,2.A.1.a,Reading Comprehension,IM,3.62,N
+15-1254.00,2.A.1.a,Reading Comprehension,LV,3.88,N
+15-1254.00,2.A.1.b,Active Listening,IM,3.75,N
+15-1254.00,2.A.1.b,Active Listening,LV,3.5,N
+15-1254.00,2.A.1.c,Writing,IM,3.38,N
+15-1254.00,2.A.1.c,Writing,LV,3.5,N
+15-1254.00,2.A.2.a,Critical Thinking,IM,4.0,N
+15-1254.00,2.A.2.a,Critical Thinking,LV,4.5,N
+15-1254.00,2.A.2.b,Active Learning,IM,4.0,N
+15-1254.00,2.A.2.b,Active Learning,LV,4.25,N
+15-1254.00,2.B.2.i,Complex Problem Solving,IM,4.12,N
+15-1254.00,2.B.2.i,Complex Problem Solving,LV,4.25,N
+15-1254.00,2.B.3.a,Operations Analysis,IM,3.75,N
+15-1254.00,2.B.3.a,Operations Analysis,LV,4.0,N
+15-1254.00,2.B.3.b,Technology Design,IM,4.25,N
+15-1254.00,2.B.3.b,Technology Design,LV,5.12,N
+15-1254.00,2.B.3.e,Programming,IM,4.5,N
+15-1254.00,2.B.3.e,Programming,LV,5.5,N
+15-1254.00,2.B.4.g,Judgment and Decision Making,IM,3.88,N
+15-1254.00,2.B.4.g,Judgment and Decision Making,LV,4.25,N
+15-1254.00,2.B.4.h,Systems Analysis,IM,3.88,N
+15-1254.00,2.B.4.h,Systems Analysis,LV,4.38,N
+15-1254.00,2.B.5.a,Time Management,IM,3.62,N
+15-1254.00,2.B.5.a,Time Management,LV,3.75,N
+15-1211.00,2.A.1.a,Reading Comprehension,IM,4.0,N
+15-1211.00,2.A.1.a,Reading Comprehension,LV,4.5,N
+15-1211.00,2.A.1.b,Active Listening,IM,4.12,N
+15-1211.00,2.A.1.b,Active Listening,LV,4.25,N
+15-1211.00,2.A.1.c,Writing,IM,3.88,N
+15-1211.00,2.A.1.c,Writing,LV,4.12,N
+15-1211.00,2.A.1.d,Speaking,IM,3.88,N
+15-1211.00,2.A.1.d,Speaking,LV,4.0,N
+15-1211.00,2.A.2.a,Critical Thinking,IM,4.38,N
+15-1211.00,2.A.2.a,Critical Thinking,LV,5.0,N
+15-1211.00,2.A.2.b,Active Learning,IM,4.0,N
+15-1211.00,2.A.2.b,Active Learning,LV,4.38,N
+15-1211.00,2.B.2.i,Complex Problem Solving,IM,4.25,N
+15-1211.00,2.B.2.i,Complex Problem Solving,LV,4.5,N
+15-1211.00,2.B.3.a,Operations Analysis,IM,4.12,N
+15-1211.00,2.B.3.a,Operations Analysis,LV,4.5,N
+15-1211.00,2.B.4.g,Judgment and Decision Making,IM,4.25,N
+15-1211.00,2.B.4.g,Judgment and Decision Making,LV,4.75,N
+15-1211.00,2.B.4.h,Systems Analysis,IM,4.5,N
+15-1211.00,2.B.4.h,Systems Analysis,LV,5.12,N
+15-1211.00,2.B.5.a,Time Management,IM,3.88,N
+15-1211.00,2.B.5.a,Time Management,LV,4.0,N
+15-1212.00,2.A.1.a,Reading Comprehension,IM,3.88,N
+15-1212.00,2.A.1.a,Reading Comprehension,LV,4.25,N
+15-1212.00,2.A.1.b,Active Listening,IM,3.75,N
+15-1212.00,2.A.1.b,Active Listening,LV,3.75,N
+15-1212.00,2.A.1.c,Writing,IM,3.62,N
+15-1212.00,2.A.1.c,Writing,LV,3.88,N
+15-1212.00,2.A.2.a,Critical Thinking,IM,4.25,N
+15-1212.00,2.A.2.a,Critical Thinking,LV,4.88,N
+15-1212.00,2.A.2.b,Active Learning,IM,4.25,N
+15-1212.00,2.A.2.b,Active Learning,LV,4.75,N
+15-1212.00,2.B.2.i,Complex Problem Solving,IM,4.38,N
+15-1212.00,2.B.2.i,Complex Problem Solving,LV,4.5,N
+15-1212.00,2.B.3.b,Technology Design,IM,3.88,N
+15-1212.00,2.B.3.b,Technology Design,LV,4.5,N
+15-1212.00,2.B.4.e,Quality Control Analysis,IM,3.75,N
+15-1212.00,2.B.4.e,Quality Control Analysis,LV,4.12,N
+15-1212.00,2.B.4.g,Judgment and Decision Making,IM,4.12,N
+15-1212.00,2.B.4.g,Judgment and Decision Making,LV,4.5,N
+15-1212.00,2.B.4.h,Systems Analysis,IM,4.12,N
+15-1212.00,2.B.4.h,Systems Analysis,LV,4.5,N
+15-1212.00,2.B.5.a,Time Management,IM,3.75,N
+15-1212.00,2.B.5.a,Time Management,LV,3.88,N
+15-1242.00,2.A.1.a,Reading Comprehension,IM,3.75,N
+15-1242.00,2.A.1.a,Reading Comprehension,LV,4.12,N
+15-1242.00,2.A.1.b,Active Listening,IM,3.62,N
+15-1242.00,2.A.1.b,Active Listening,LV,3.5,N
+15-1242.00,2.A.1.c,Writing,IM,3.38,N
+15-1242.00,2.A.1.c,Writing,LV,3.62,N
+15-1242.00,2.A.2.a,Critical Thinking,IM,4.12,N
+15-1242.00,2.A.2.a,Critical Thinking,LV,4.75,N
+15-1242.00,2.A.2.b,Active Learning,IM,3.88,N
+15-1242.00,2.A.2.b,Active Learning,LV,4.25,N
+15-1242.00,2.B.2.i,Complex Problem Solving,IM,4.0,N
+15-1242.00,2.B.2.i,Complex Problem Solving,LV,4.25,N
+15-1242.00,2.B.3.a,Operations Analysis,IM,3.88,N
+15-1242.00,2.B.3.a,Operations Analysis,LV,4.25,N
+15-1242.00,2.B.3.b,Technology Design,IM,3.75,N
+15-1242.00,2.B.3.b,Technology Design,LV,4.38,N
+15-1242.00,2.B.3.e,Programming,IM,4.12,N
+15-1242.00,2.B.3.e,Programming,LV,4.88,N
+15-1242.00,2.B.4.g,Judgment and Decision Making,IM,3.88,N
+15-1242.00,2.B.4.g,Judgment and Decision Making,LV,4.25,N
+15-1242.00,2.B.4.h,Systems Analysis,IM,4.0,N
+15-1242.00,2.B.4.h,Systems Analysis,LV,4.5,N
+15-2051.00,2.A.1.a,Reading Comprehension,IM,4.0,N
+15-2051.00,2.A.1.a,Reading Comprehension,LV,4.5,N
+15-2051.00,2.A.1.c,Writing,IM,3.75,N
+15-2051.00,2.A.1.c,Writing,LV,4.0,N
+15-2051.00,2.A.1.e,Mathematics,IM,4.25,N
+15-2051.00,2.A.1.e,Mathematics,LV,4.75,N
+15-2051.00,2.A.2.a,Critical Thinking,IM,4.5,N
+15-2051.00,2.A.2.a,Critical Thinking,LV,5.12,N
+15-2051.00,2.A.2.b,Active Learning,IM,4.25,N
+15-2051.00,2.A.2.b,Active Learning,LV,4.75,N
+15-2051.00,2.B.2.i,Complex Problem Solving,IM,4.5,N
+15-2051.00,2.B.2.i,Complex Problem Solving,LV,4.88,N
+15-2051.00,2.B.3.a,Operations Analysis,IM,4.12,N
+15-2051.00,2.B.3.a,Operations Analysis,LV,4.5,N
+15-2051.00,2.B.3.e,Programming,IM,4.25,N
+15-2051.00,2.B.3.e,Programming,LV,5.12,N
+15-2051.00,2.B.4.g,Judgment and Decision Making,IM,4.12,N
+15-2051.00,2.B.4.g,Judgment and Decision Making,LV,4.62,N
+15-2051.00,2.B.4.h,Systems Analysis,IM,4.25,N
+15-2051.00,2.B.4.h,Systems Analysis,LV,4.88,N
+15-2051.00,2.B.5.a,Time Management,IM,3.62,N
+15-2051.00,2.B.5.a,Time Management,LV,3.75,N
+11-3021.00,2.A.1.a,Reading Comprehension,IM,4.12,N
+11-3021.00,2.A.1.a,Reading Comprehension,LV,4.5,N
+11-3021.00,2.A.1.b,Active Listening,IM,4.25,N
+11-3021.00,2.A.1.b,Active Listening,LV,4.38,N
+11-3021.00,2.A.1.c,Writing,IM,3.88,N
+11-3021.00,2.A.1.c,Writing,LV,4.12,N
+11-3021.00,2.A.1.d,Speaking,IM,4.25,N
+11-3021.00,2.A.1.d,Speaking,LV,4.5,N
+11-3021.00,2.A.2.a,Critical Thinking,IM,4.38,N
+11-3021.00,2.A.2.a,Critical Thinking,LV,5.0,N
+11-3021.00,2.A.2.d,Monitoring,IM,4.12,N
+11-3021.00,2.A.2.d,Monitoring,LV,4.5,N
+11-3021.00,2.B.1.a,Social Perceptiveness,IM,3.88,N
+11-3021.00,2.B.1.a,Social Perceptiveness,LV,4.12,N
+11-3021.00,2.B.1.b,Coordination,IM,4.12,N
+11-3021.00,2.B.1.b,Coordination,LV,4.38,N
+11-3021.00,2.B.2.i,Complex Problem Solving,IM,4.25,N
+11-3021.00,2.B.2.i,Complex Problem Solving,LV,4.5,N
+11-3021.00,2.B.4.g,Judgment and Decision Making,IM,4.38,N
+11-3021.00,2.B.4.g,Judgment and Decision Making,LV,4.88,N
+11-3021.00,2.B.5.a,Time Management,IM,4.12,N
+11-3021.00,2.B.5.a,Time Management,LV,4.38,N
+11-3021.00,2.B.5.d,Management of Personnel Resources,IM,4.25,N
+11-3021.00,2.B.5.d,Management of Personnel Resources,LV,4.62,N
+11-2022.00,2.A.1.b,Active Listening,IM,4.12,N
+11-2022.00,2.A.1.b,Active Listening,LV,4.12,N
+11-2022.00,2.A.1.d,Speaking,IM,4.38,N
+11-2022.00,2.A.1.d,Speaking,LV,4.62,N
+11-2022.00,2.A.2.a,Critical Thinking,IM,4.0,N
+11-2022.00,2.A.2.a,Critical Thinking,LV,4.38,N
+11-2022.00,2.A.2.d,Monitoring,IM,3.88,N
+11-2022.00,2.A.2.d,Monitoring,LV,4.12,N
+11-2022.00,2.B.1.a,Social Perceptiveness,IM,4.0,N
+11-2022.00,2.B.1.a,Social Perceptiveness,LV,4.25,N
+11-2022.00,2.B.1.b,Coordination,IM,4.12,N
+11-2022.00,2.B.1.b,Coordination,LV,4.25,N
+11-2022.00,2.B.1.c,Persuasion,IM,4.38,N
+11-2022.00,2.B.1.c,Persuasion,LV,4.5,N
+11-2022.00,2.B.1.d,Negotiation,IM,4.12,N
+11-2022.00,2.B.1.d,Negotiation,LV,4.25,N
+11-2022.00,2.B.4.g,Judgment and Decision Making,IM,4.25,N
+11-2022.00,2.B.4.g,Judgment and Decision Making,LV,4.62,N
+11-2022.00,2.B.5.a,Time Management,IM,4.0,N
+11-2022.00,2.B.5.a,Time Management,LV,4.25,N
+11-2022.00,2.B.5.b,Management of Financial Resources,IM,3.88,N
+11-2022.00,2.B.5.b,Management of Financial Resources,LV,4.0,N
+11-2022.00,2.B.5.d,Management of Personnel Resources,IM,4.12,N
+11-2022.00,2.B.5.d,Management of Personnel Resources,LV,4.38,N
+11-2021.00,2.A.1.b,Active Listening,IM,3.88,N
+11-2021.00,2.A.1.b,Active Listening,LV,3.75,N
+11-2021.00,2.A.1.c,Writing,IM,3.88,N
+11-2021.00,2.A.1.c,Writing,LV,4.12,N
+11-2021.00,2.A.1.d,Speaking,IM,4.12,N
+11-2021.00,2.A.1.d,Speaking,LV,4.25,N
+11-2021.00,2.A.2.a,Critical Thinking,IM,4.12,N
+11-2021.00,2.A.2.a,Critical Thinking,LV,4.5,N
+11-2021.00,2.A.2.b,Active Learning,IM,3.88,N
+11-2021.00,2.A.2.b,Active Learning,LV,4.12,N
+11-2021.00,2.B.1.a,Social Perceptiveness,IM,3.75,N
+11-2021.00,2.B.1.a,Social Perceptiveness,LV,3.88,N
+11-2021.00,2.B.1.b,Coordination,IM,4.0,N
+11-2021.00,2.B.1.b,Coordination,LV,4.12,N
+11-2021.00,2.B.1.c,Persuasion,IM,4.25,N
+11-2021.00,2.B.1.c,Persuasion,LV,4.38,N
+11-2021.00,2.B.4.g,Judgment and Decision Making,IM,4.12,N
+11-2021.00,2.B.4.g,Judgment and Decision Making,LV,4.5,N
+11-2021.00,2.B.5.a,Time Management,IM,3.88,N
+11-2021.00,2.B.5.a,Time Management,LV,4.0,N
+11-2021.00,2.B.5.b,Management of Financial Resources,IM,4.0,N
+11-2021.00,2.B.5.b,Management of Financial Resources,LV,4.25,N
+13-2051.00,2.A.1.a,Reading Comprehension,IM,4.12,N
+13-2051.00,2.A.1.a,Reading Comprehension,LV,4.62,N
+13-2051.00,2.A.1.c,Writing,IM,3.88,N
+13-2051.00,2.A.1.c,Writing,LV,4.12,N
+13-2051.00,2.A.1.e,Mathematics,IM,4.38,N
+13-2051.00,2.A.1.e,Mathematics,LV,4.88,N
+13-2051.00,2.A.2.a,Critical Thinking,IM,4.38,N
+13-2051.00,2.A.2.a,Critical Thinking,LV,5.0,N
+13-2051.00,2.A.2.b,Active Learning,IM,4.0,N
+13-2051.00,2.A.2.b,Active Learning,LV,4.38,N
+13-2051.00,2.B.2.i,Complex Problem Solving,IM,4.12,N
+13-2051.00,2.B.2.i,Complex Problem Solving,LV,4.38,N
+13-2051.00,2.B.4.g,Judgment and Decision Making,IM,4.25,N
+13-2051.00,2.B.4.g,Judgment and Decision Making,LV,4.75,N
+13-2051.00,2.B.4.h,Systems Analysis,IM,3.88,N
+13-2051.00,2.B.4.h,Systems Analysis,LV,4.25,N
+13-2051.00,2.B.5.a,Time Management,IM,3.75,N
+13-2051.00,2.B.5.a,Time Management,LV,3.88,N
+11-3121.00,2.A.1.a,Reading Comprehension,IM,3.88,N
+11-3121.00,2.A.1.a,Reading Comprehension,LV,4.12,N
+11-3121.00,2.A.1.b,Active Listening,IM,4.25,N
+11-3121.00,2.A.1.b,Active Listening,LV,4.25,N
+11-3121.00,2.A.1.c,Writing,IM,3.75,N
+11-3121.00,2.A.1.c,Writing,LV,3.88,N
+11-3121.00,2.A.1.d,Speaking,IM,4.25,N
+11-3121.00,2.A.1.d,Speaking,LV,4.38,N
+11-3121.00,2.A.2.a,Critical Thinking,IM,4.12,N
+11-3121.00,2.A.2.a,Critical Thinking,LV,4.5,N
+11-3121.00,2.A.2.d,Monitoring,IM,4.0,N
+11-3121.00,2.A.2.d,Monitoring,LV,4.25,N
+11-3121.00,2.B.1.a,Social Perceptiveness,IM,4.12,N
+11-3121.00,2.B.1.a,Social Perceptiveness,LV,4.25,N
+11-3121.00,2.B.1.b,Coordination,IM,4.0,N
+11-3121.00,2.B.1.b,Coordination,LV,4.12,N
+11-3121.00,2.B.1.d,Negotiation,IM,4.25,N
+11-3121.00,2.B.1.d,Negotiation,LV,4.38,N
+11-3121.00,2.B.4.g,Judgment and Decision Making,IM,4.38,N
+11-3121.00,2.B.4.g,Judgment and Decision Making,LV,4.75,N
+11-3121.00,2.B.5.a,Time Management,IM,4.0,N
+11-3121.00,2.B.5.a,Time Management,LV,4.12,N
+11-3121.00,2.B.5.d,Management of Personnel Resources,IM,4.38,N
+11-3121.00,2.B.5.d,Management of Personnel Resources,LV,4.62,N
+13-1071.00,2.A.1.a,Reading Comprehension,IM,3.75,N
+13-1071.00,2.A.1.a,Reading Comprehension,LV,3.88,N
+13-1071.00,2.A.1.b,Active Listening,IM,4.12,N
+13-1071.00,2.A.1.b,Active Listening,LV,4.0,N
+13-1071.00,2.A.1.d,Speaking,IM,4.0,N
+13-1071.00,2.A.1.d,Speaking,LV,4.12,N
+13-1071.00,2.A.2.a,Critical Thinking,IM,3.88,N
+13-1071.00,2.A.2.a,Critical Thinking,LV,4.12,N
+13-1071.00,2.B.1.a,Social Perceptiveness,IM,4.0,N
+13-1071.00,2.B.1.a,Social Perceptiveness,LV,4.12,N
+13-1071.00,2.B.1.b,Coordination,IM,3.75,N
+13-1071.00,2.B.1.b,Coordination,LV,3.88,N
+13-1071.00,2.B.1.c,Persuasion,IM,3.88,N
+13-1071.00,2.B.1.c,Persuasion,LV,3.88,N
+13-1071.00,2.B.4.g,Judgment and Decision Making,IM,4.0,N
+13-1071.00,2.B.4.g,Judgment and Decision Making,LV,4.25,N
+13-1071.00,2.B.5.a,Time Management,IM,3.88,N
+13-1071.00,2.B.5.a,Time Management,LV,4.0,N
+11-1021.00,2.A.1.a,Reading Comprehension,IM,4.0,N
+11-1021.00,2.A.1.a,Reading Comprehension,LV,4.25,N
+11-1021.00,2.A.1.b,Active Listening,IM,4.25,N
+11-1021.00,2.A.1.b,Active Listening,LV,4.25,N
+11-1021.00,2.A.1.d,Speaking,IM,4.38,N
+11-1021.00,2.A.1.d,Speaking,LV,4.5,N
+11-1021.00,2.A.2.a,Critical Thinking,IM,4.38,N
+11-1021.00,2.A.2.a,Critical Thinking,LV,4.88,N
+11-1021.00,2.A.2.d,Monitoring,IM,4.25,N
+11-1021.00,2.A.2.d,Monitoring,LV,4.5,N
+11-1021.00,2.B.1.a,Social Perceptiveness,IM,4.0,N
+11-1021.00,2.B.1.a,Social Perceptiveness,LV,4.12,N
+11-1021.00,2.B.1.b,Coordination,IM,4.25,N
+11-1021.00,2.B.1.b,Coordination,LV,4.38,N
+11-1021.00,2.B.1.d,Negotiation,IM,4.12,N
+11-1021.00,2.B.1.d,Negotiation,LV,4.12,N
+11-1021.00,2.B.4.g,Judgment and Decision Making,IM,4.5,N
+11-1021.00,2.B.4.g,Judgment and Decision Making,LV,5.0,N
+11-1021.00,2.B.5.a,Time Management,IM,4.25,N
+11-1021.00,2.B.5.a,Time Management,LV,4.5,N
+11-1021.00,2.B.5.b,Management of Financial Resources,IM,4.12,N
+11-1021.00,2.B.5.b,Management of Financial Resources,LV,4.25,N
+11-1021.00,2.B.5.d,Management of Personnel Resources,IM,4.38,N
+11-1021.00,2.B.5.d,Management of Personnel Resources,LV,4.62,N
+43-4051.00,2.A.1.a,Reading Comprehension,IM,3.5,N
+43-4051.00,2.A.1.a,Reading Comprehension,LV,3.38,N
+43-4051.00,2.A.1.b,Active Listening,IM,4.12,N
+43-4051.00,2.A.1.b,Active Listening,LV,3.88,N
+43-4051.00,2.A.1.d,Speaking,IM,4.0,N
+43-4051.00,2.A.1.d,Speaking,LV,3.88,N
+43-4051.00,2.A.2.a,Critical Thinking,IM,3.5,N
+43-4051.00,2.A.2.a,Critical Thinking,LV,3.5,N
+43-4051.00,2.B.1.a,Social Perceptiveness,IM,3.88,N
+43-4051.00,2.B.1.a,Social Perceptiveness,LV,3.75,N
+43-4051.00,2.B.1.f,Service Orientation,IM,4.38,N
+43-4051.00,2.B.1.f,Service Orientation,LV,4.25,N
+43-4051.00,2.B.2.i,Complex Problem Solving,IM,3.38,N
+43-4051.00,2.B.2.i,Complex Problem Solving,LV,3.25,N
+43-4051.00,2.B.4.g,Judgment and Decision Making,IM,3.62,N
+43-4051.00,2.B.4.g,Judgment and Decision Making,LV,3.5,N
+43-4051.00,2.B.5.a,Time Management,IM,3.5,N
+43-4051.00,2.B.5.a,Time Management,LV,3.38,N
+13-2011.00,2.A.1.a,Reading Comprehension,IM,4.12,N
+13-2011.00,2.A.1.a,Reading Comprehension,LV,4.5,N
+13-2011.00,2.A.1.c,Writing,IM,3.75,N
+13-2011.00,2.A.1.c,Writing,LV,4.0,N
+13-2011.00,2.A.1.e,Mathematics,IM,4.25,N
+13-2011.00,2.A.1.e,Mathematics,LV,4.62,N
+13-2011.00,2.A.2.a,Critical Thinking,IM,4.25,N
+13-2011.00,2.A.2.a,Critical Thinking,LV,4.75,N
+13-2011.00,2.A.2.b,Active Learning,IM,3.88,N
+13-2011.00,2.A.2.b,Active Learning,LV,4.12,N
+13-2011.00,2.B.2.i,Complex Problem Solving,IM,3.88,N
+13-2011.00,2.B.2.i,Complex Problem Solving,LV,3.88,N
+13-2011.00,2.B.4.e,Quality Control Analysis,IM,3.88,N
+13-2011.00,2.B.4.e,Quality Control Analysis,LV,4.12,N
+13-2011.00,2.B.4.g,Judgment and Decision Making,IM,4.12,N
+13-2011.00,2.B.4.g,Judgment and Decision Making,LV,4.5,N
+13-2011.00,2.B.5.a,Time Management,IM,3.88,N
+13-2011.00,2.B.5.a,Time Management,LV,4.0,N
+13-1111.00,2.A.1.a,Reading Comprehension,IM,4.25,N
+13-1111.00,2.A.1.a,Reading Comprehension,LV,4.62,N
+13-1111.00,2.A.1.b,Active Listening,IM,4.25,N
+13-1111.00,2.A.1.b,Active Listening,LV,4.25,N
+13-1111.00,2.A.1.c,Writing,IM,4.0,N
+13-1111.00,2.A.1.c,Writing,LV,4.25,N
+13-1111.00,2.A.1.d,Speaking,IM,4.12,N
+13-1111.00,2.A.1.d,Speaking,LV,4.25,N
+13-1111.00,2.A.2.a,Critical Thinking,IM,4.5,N
+13-1111.00,2.A.2.a,Critical Thinking,LV,5.12,N
+13-1111.00,2.A.2.b,Active Learning,IM,4.12,N
+13-1111.00,2.A.2.b,Active Learning,LV,4.5,N
+13-1111.00,2.B.2.i,Complex Problem Solving,IM,4.38,N
+13-1111.00,2.B.2.i,Complex Problem Solving,LV,4.62,N
+13-1111.00,2.B.4.g,Judgment and Decision Making,IM,4.38,N
+13-1111.00,2.B.4.g,Judgment and Decision Making,LV,4.88,N
+13-1111.00,2.B.4.h,Systems Analysis,IM,4.25,N
+13-1111.00,2.B.4.h,Systems Analysis,LV,4.75,N
+13-1111.00,2.B.5.a,Time Management,IM,4.0,N
+13-1111.00,2.B.5.a,Time Management,LV,4.12,N
+13-1082.00,2.A.1.a,Reading Comprehension,IM,3.88,N
+13-1082.00,2.A.1.a,Reading Comprehension,LV,4.12,N
+13-1082.00,2.A.1.b,Active Listening,IM,4.12,N
+13-1082.00,2.A.1.b,Active Listening,LV,4.0,N
+13-1082.00,2.A.1.c,Writing,IM,3.88,N
+13-1082.00,2.A.1.c,Writing,LV,4.0,N
+13-1082.00,2.A.1.d,Speaking,IM,4.12,N
+13-1082.00,2.A.1.d,Speaking,LV,4.12,N
+13-1082.00,2.A.2.a,Critical Thinking,IM,4.12,N
+13-1082.00,2.A.2.a,Critical Thinking,LV,4.5,N
+13-1082.00,2.A.2.d,Monitoring,IM,4.0,N
+13-1082.00,2.A.2.d,Monitoring,LV,4.25,N
+13-1082.00,2.B.1.b,Coordination,IM,4.12,N
+13-1082.00,2.B.1.b,Coordination,LV,4.25,N
+13-1082.00,2.B.2.i,Complex Problem Solving,IM,4.0,N
+13-1082.00,2.B.2.i,Complex Problem Solving,LV,4.12,N
+13-1082.00,2.B.4.g,Judgment and Decision Making,IM,4.25,N
+13-1082.00,2.B.4.g,Judgment and Decision Making,LV,4.62,N
+13-1082.00,2.B.5.a,Time Management,IM,4.25,N
+13-1082.00,2.B.5.a,Time Management,LV,4.38,N
+13-1082.00,2.B.5.b,Management of Financial Resources,IM,3.75,N
+13-1082.00,2.B.5.b,Management of Financial Resources,LV,3.88,N
+27-3042.00,2.A.1.a,Reading Comprehension,IM,4.38,N
+27-3042.00,2.A.1.a,Reading Comprehension,LV,4.75,N
+27-3042.00,2.A.1.b,Active Listening,IM,3.88,N
+27-3042.00,2.A.1.b,Active Listening,LV,3.75,N
+27-3042.00,2.A.1.c,Writing,IM,4.62,N
+27-3042.00,2.A.1.c,Writing,LV,5.25,N
+27-3042.00,2.A.2.a,Critical Thinking,IM,4.0,N
+27-3042.00,2.A.2.a,Critical Thinking,LV,4.38,N
+27-3042.00,2.A.2.b,Active Learning,IM,3.88,N
+27-3042.00,2.A.2.b,Active Learning,LV,4.12,N
+27-3042.00,2.B.2.i,Complex Problem Solving,IM,3.62,N
+27-3042.00,2.B.2.i,Complex Problem Solving,LV,3.75,N
+27-3042.00,2.B.4.g,Judgment and Decision Making,IM,3.75,N
+27-3042.00,2.B.4.g,Judgment and Decision Making,LV,4.0,N
+27-3042.00,2.B.5.a,Time Management,IM,3.88,N
+27-3042.00,2.B.5.a,Time Management,LV,4.0,N
+13-1161.00,2.A.1.a,Reading Comprehension,IM,4.12,N
+13-1161.00,2.A.1.a,Reading Comprehension,LV,4.5,N
+13-1161.00,2.A.1.b,Active Listening,IM,3.88,N
+13-1161.00,2.A.1.b,Active Listening,LV,3.75,N
+13-1161.00,2.A.1.c,Writing,IM,3.88,N
+13-1161.00,2.A.1.c,Writing,LV,4.12,N
+13-1161.00,2.A.1.e,Mathematics,IM,3.88,N
+13-1161.00,2.A.1.e,Mathematics,LV,4.12,N
+13-1161.00,2.A.2.a,Critical Thinking,IM,4.25,N
+13-1161.00,2.A.2.a,Critical Thinking,LV,4.75,N
+13-1161.00,2.A.2.b,Active Learning,IM,4.0,N
+13-1161.00,2.A.2.b,Active Learning,LV,4.38,N
+13-1161.00,2.B.2.i,Complex Problem Solving,IM,4.0,N
+13-1161.00,2.B.2.i,Complex Problem Solving,LV,4.12,N
+13-1161.00,2.B.4.g,Judgment and Decision Making,IM,4.12,N
+13-1161.00,2.B.4.g,Judgment and Decision Making,LV,4.5,N
+13-1161.00,2.B.5.a,Time Management,IM,3.75,N
+13-1161.00,2.B.5.a,Time Management,LV,3.88,N
+13-1151.00,2.A.1.a,Reading Comprehension,IM,3.88,N
+13-1151.00,2.A.1.a,Reading Comprehension,LV,4.0,N
+13-1151.00,2.A.1.b,Active Listening,IM,4.12,N
+13-1151.00,2.A.1.b,Active Listening,LV,4.0,N
+13-1151.00,2.A.1.c,Writing,IM,3.75,N
+13-1151.00,2.A.1.c,Writing,LV,3.88,N
+13-1151.00,2.A.1.d,Speaking,IM,4.25,N
+13-1151.00,2.A.1.d,Speaking,LV,4.38,N
+13-1151.00,2.A.2.a,Critical Thinking,IM,3.88,N
+13-1151.00,2.A.2.a,Critical Thinking,LV,4.12,N
+13-1151.00,2.A.2.c,Learning Strategies,IM,4.25,N
+13-1151.00,2.A.2.c,Learning Strategies,LV,4.5,N
+13-1151.00,2.B.1.a,Social Perceptiveness,IM,3.88,N
+13-1151.00,2.B.1.a,Social Perceptiveness,LV,3.88,N
+13-1151.00,2.B.1.e,Instructing,IM,4.38,N
+13-1151.00,2.B.1.e,Instructing,LV,4.5,N
+13-1151.00,2.B.4.g,Judgment and Decision Making,IM,3.88,N
+13-1151.00,2.B.4.g,Judgment and Decision Making,LV,4.12,N
+13-1151.00,2.B.5.a,Time Management,IM,3.75,N
+13-1151.00,2.B.5.a,Time Management,LV,3.88,N

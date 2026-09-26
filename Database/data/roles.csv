@@ -1,0 +1,18 @@
+role_id,role_name,department_id,role_description,seniority_level,minimum_experience_years
+ROLE001,Backend Developer,DEP001,Backend API development and services,Mid,2
+ROLE002,Frontend Developer,DEP001,Frontend UI development and design,Mid,2
+ROLE003,DevOps Engineer,DEP001,"CI/CD, infrastructure, and deployment",Mid,3
+ROLE004,Engineering Manager,DEP001,Engineering team leadership and planning,Senior,6
+ROLE005,QA Engineer,DEP001,Quality assurance and test automation,Mid,2
+ROLE006,HR Specialist,DEP002,"Recruitment, onboarding, and HR operations",Mid,2
+ROLE007,HR Manager,DEP002,HR strategy and team management,Senior,5
+ROLE008,Sales Executive,DEP003,Client acquisition and revenue generation,Junior,1
+ROLE009,Sales Manager,DEP003,Sales team leadership and strategy,Senior,5
+ROLE010,Marketing Specialist,DEP004,Digital marketing and campaign management,Mid,2
+ROLE011,Financial Analyst,DEP005,Financial modeling and analysis,Mid,2
+ROLE012,Operations Manager,DEP006,Process optimization and operations management,Senior,5
+ROLE013,Support Specialist,DEP007,Customer issue resolution and support,Junior,1
+ROLE014,Product Manager,DEP008,Product roadmap and feature planning,Senior,4
+ROLE015,Data Scientist,DEP009,ML model development and data analysis,Mid,3
+ROLE016,System Administrator,DEP010,Server and infrastructure management,Mid,2
+ROLE017,Security Analyst,DEP010,Security monitoring and threat analysis,Mid,3

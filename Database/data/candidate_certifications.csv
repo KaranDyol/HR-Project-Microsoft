@@ -1,0 +1,351 @@
+certification_id,candidate_id,certification_name,issuing_organization,issue_date,expiry_date,verification_status,related_skill_id
+CERT0001,CAN001,Oracle Database Administrator,Oracle,2025-04-04,2028-04-03,unverified,SKILL_033
+CERT0002,CAN001,Certified Kubernetes Administrator,CNCF,2025-12-25,,pending,SKILL_040
+CERT0003,CAN002,MongoDB Developer,MongoDB,2026-03-04,2028-03-03,pending,SKILL_030
+CERT0004,CAN004,MongoDB Developer,MongoDB,2023-01-19,2024-01-19,verified,SKILL_030
+CERT0005,CAN005,TensorFlow Developer Certificate,Google,2026-05-09,2027-05-09,unverified,SKILL_051
+CERT0006,CAN006,Google Cloud Professional Data Engineer,Google,2024-03-15,2025-03-15,unverified,SKILL_038
+CERT0007,CAN007,SHRM-CP,SHRM,2023-12-30,2024-12-29,verified,SKILL_094
+CERT0008,CAN007,React Developer Certification,Meta,2025-11-03,,unverified,SKILL_016
+CERT0009,CAN010,Tableau Desktop Specialist,Tableau,2024-07-18,2026-07-18,pending,SKILL_056
+CERT0010,CAN010,Microsoft Azure Fundamentals,Microsoft,2022-09-19,2024-09-18,verified,SKILL_037
+CERT0011,CAN010,CISSP,ISC2,2025-10-10,,verified,SKILL_058
+CERT0012,CAN012,Salesforce Administrator,Salesforce,2023-05-23,2026-05-22,pending,SKILL_086
+CERT0013,CAN012,Google Cloud Professional Data Engineer,Google,2025-10-04,2028-10-03,pending,SKILL_038
+CERT0014,CAN013,SHRM-CP,SHRM,2024-02-19,2025-02-18,unverified,SKILL_094
+CERT0015,CAN015,TensorFlow Developer Certificate,Google,2025-08-29,2026-08-29,unverified,SKILL_051
+CERT0016,CAN015,Microsoft Azure Fundamentals,Microsoft,2023-09-26,2026-09-25,unverified,SKILL_037
+CERT0017,CAN017,HubSpot Inbound Marketing,HubSpot,2022-05-12,,unverified,SKILL_087
+CERT0018,CAN018,MongoDB Developer,MongoDB,2026-06-06,2029-06-05,pending,SKILL_030
+CERT0019,CAN018,Certified Scrum Master,Scrum Alliance,2023-01-09,2026-01-08,unverified,SKILL_064
+CERT0020,CAN019,Salesforce Administrator,Salesforce,2024-08-31,2025-08-31,verified,SKILL_086
+CERT0021,CAN020,Docker Certified Associate,Docker Inc,2026-05-29,2029-05-28,verified,SKILL_039
+CERT0022,CAN022,TensorFlow Developer Certificate,Google,2024-09-14,,verified,SKILL_051
+CERT0023,CAN023,Docker Certified Associate,Docker Inc,2023-10-28,2024-10-27,pending,SKILL_039
+CERT0024,CAN023,Oracle Database Administrator,Oracle,2024-10-26,2025-10-26,verified,SKILL_033
+CERT0025,CAN023,Certified Scrum Master,Scrum Alliance,2026-04-19,2028-04-18,unverified,SKILL_064
+CERT0026,CAN025,Microsoft Azure Fundamentals,Microsoft,2025-08-11,2027-08-11,pending,SKILL_037
+CERT0027,CAN025,CompTIA Security+,CompTIA,2022-05-08,2023-05-08,unverified,SKILL_058
+CERT0028,CAN026,Certified Kubernetes Administrator,CNCF,2022-10-29,,pending,SKILL_040
+CERT0029,CAN026,AWS Solutions Architect Associate,Amazon Web Services,2025-01-29,2027-01-29,pending,SKILL_036
+CERT0030,CAN028,AWS Developer Associate,Amazon Web Services,2023-02-19,2026-02-18,unverified,SKILL_036
+CERT0031,CAN029,Docker Certified Associate,Docker Inc,2025-05-14,,pending,SKILL_039
+CERT0032,CAN030,Docker Certified Associate,Docker Inc,2024-07-13,2027-07-13,unverified,SKILL_039
+CERT0033,CAN031,SHRM-CP,SHRM,2025-09-22,2027-09-22,unverified,SKILL_094
+CERT0034,CAN031,TensorFlow Developer Certificate,Google,2024-10-31,2027-10-31,verified,SKILL_051
+CERT0035,CAN032,CompTIA Security+,CompTIA,2025-06-04,2027-06-04,pending,SKILL_058
+CERT0036,CAN033,Certified Kubernetes Administrator,CNCF,2024-12-20,,pending,SKILL_040
+CERT0037,CAN033,Six Sigma Green Belt,ASQ,2024-06-12,,verified,SKILL_102
+CERT0038,CAN034,PMP Certification,PMI,2023-08-22,2025-08-21,verified,SKILL_067
+CERT0039,CAN034,React Developer Certification,Meta,2025-05-26,,verified,SKILL_016
+CERT0040,CAN035,React Developer Certification,Meta,2024-12-26,2027-12-26,verified,SKILL_016
+CERT0041,CAN036,Docker Certified Associate,Docker Inc,2025-01-26,2027-01-26,pending,SKILL_039
+CERT0042,CAN036,TensorFlow Developer Certificate,Google,2024-06-01,,pending,SKILL_051
+CERT0043,CAN036,CompTIA Security+,CompTIA,2023-07-15,2025-07-14,unverified,SKILL_058
+CERT0044,CAN037,Google Analytics Certification,Google,2024-07-08,2027-07-08,unverified,SKILL_136
+CERT0045,CAN037,Salesforce Administrator,Salesforce,2026-05-15,,verified,SKILL_086
+CERT0046,CAN038,Certified Scrum Master,Scrum Alliance,2023-11-25,2026-11-24,unverified,SKILL_064
+CERT0047,CAN038,PMP Certification,PMI,2022-11-06,2023-11-06,verified,SKILL_067
+CERT0048,CAN039,Certified Scrum Master,Scrum Alliance,2023-02-15,2024-02-15,pending,SKILL_064
+CERT0049,CAN039,HubSpot Inbound Marketing,HubSpot,2022-07-24,2024-07-23,unverified,SKILL_087
+CERT0050,CAN040,AWS Solutions Architect Associate,Amazon Web Services,2022-02-02,,unverified,SKILL_036
+CERT0051,CAN042,PMP Certification,PMI,2024-07-07,2025-07-07,verified,SKILL_067
+CERT0052,CAN043,AWS Solutions Architect Associate,Amazon Web Services,2026-01-23,2027-01-23,verified,SKILL_036
+CERT0053,CAN043,MongoDB Developer,MongoDB,2026-01-12,,verified,SKILL_030
+CERT0054,CAN043,React Developer Certification,Meta,2023-01-29,,verified,SKILL_016
+CERT0055,CAN044,Tableau Desktop Specialist,Tableau,2025-02-04,2027-02-04,pending,SKILL_056
+CERT0056,CAN046,AWS Developer Associate,Amazon Web Services,2024-12-17,2026-12-17,pending,SKILL_036
+CERT0057,CAN046,CompTIA Security+,CompTIA,2022-12-20,2024-12-19,pending,SKILL_058
+CERT0058,CAN046,Certified Kubernetes Administrator,CNCF,2025-03-20,2027-03-20,verified,SKILL_040
+CERT0059,CAN047,React Developer Certification,Meta,2022-03-02,,pending,SKILL_016
+CERT0060,CAN047,Google Cloud Professional Data Engineer,Google,2025-04-23,2027-04-23,verified,SKILL_038
+CERT0061,CAN048,MongoDB Developer,MongoDB,2025-08-25,2028-08-24,verified,SKILL_030
+CERT0062,CAN049,TensorFlow Developer Certificate,Google,2025-11-07,2026-11-07,pending,SKILL_051
+CERT0063,CAN049,HubSpot Inbound Marketing,HubSpot,2023-11-18,,pending,SKILL_087
+CERT0064,CAN050,AWS Solutions Architect Associate,Amazon Web Services,2023-05-15,2026-05-14,pending,SKILL_036
+CERT0065,CAN051,Microsoft Azure Fundamentals,Microsoft,2024-12-11,2026-12-11,pending,SKILL_037
+CERT0066,CAN052,Google Cloud Professional Data Engineer,Google,2025-02-11,2028-02-11,pending,SKILL_038
+CERT0067,CAN053,AWS Solutions Architect Associate,Amazon Web Services,2025-06-21,2028-06-20,pending,SKILL_036
+CERT0068,CAN053,PMP Certification,PMI,2024-10-19,2027-10-19,pending,SKILL_067
+CERT0069,CAN055,Google Cloud Professional Data Engineer,Google,2024-11-05,,unverified,SKILL_038
+CERT0070,CAN055,Microsoft Azure Fundamentals,Microsoft,2026-03-18,2027-03-18,pending,SKILL_037
+CERT0071,CAN056,Certified Kubernetes Administrator,CNCF,2022-10-16,2025-10-15,unverified,SKILL_040
+CERT0072,CAN056,Google Analytics Certification,Google,2026-05-31,2029-05-30,verified,SKILL_136
+CERT0073,CAN056,AWS Developer Associate,Amazon Web Services,2023-01-06,2024-01-06,unverified,SKILL_036
+CERT0074,CAN057,Google Cloud Professional Data Engineer,Google,2025-05-27,2026-05-27,verified,SKILL_038
+CERT0075,CAN057,Salesforce Administrator,Salesforce,2025-09-08,,pending,SKILL_086
+CERT0076,CAN057,MongoDB Developer,MongoDB,2023-06-02,,verified,SKILL_030
+CERT0077,CAN059,Certified Kubernetes Administrator,CNCF,2024-07-13,2025-07-13,verified,SKILL_040
+CERT0078,CAN059,SHRM-CP,SHRM,2022-07-12,2024-07-11,unverified,SKILL_094
+CERT0079,CAN061,SHRM-CP,SHRM,2025-06-10,,unverified,SKILL_094
+CERT0080,CAN061,TensorFlow Developer Certificate,Google,2022-10-09,2024-10-08,pending,SKILL_051
+CERT0081,CAN062,AWS Solutions Architect Associate,Amazon Web Services,2025-02-21,2026-02-21,unverified,SKILL_036
+CERT0082,CAN062,CompTIA Security+,CompTIA,2023-10-11,2025-10-10,unverified,SKILL_058
+CERT0083,CAN063,React Developer Certification,Meta,2025-08-22,2026-08-22,pending,SKILL_016
+CERT0084,CAN063,CISSP,ISC2,2024-01-11,2027-01-10,pending,SKILL_058
+CERT0085,CAN064,TensorFlow Developer Certificate,Google,2022-04-10,2024-04-09,unverified,SKILL_051
+CERT0086,CAN064,Google Cloud Professional Data Engineer,Google,2022-10-26,2023-10-26,verified,SKILL_038
+CERT0087,CAN064,PMP Certification,PMI,2025-07-26,,pending,SKILL_067
+CERT0088,CAN065,MongoDB Developer,MongoDB,2023-07-01,2024-06-30,pending,SKILL_030
+CERT0089,CAN065,Salesforce Administrator,Salesforce,2022-03-03,,verified,SKILL_086
+CERT0090,CAN065,PMP Certification,PMI,2022-01-26,2023-01-26,verified,SKILL_067
+CERT0091,CAN066,TensorFlow Developer Certificate,Google,2023-06-24,2026-06-23,verified,SKILL_051
+CERT0092,CAN066,MongoDB Developer,MongoDB,2026-03-05,2028-03-04,unverified,SKILL_030
+CERT0093,CAN067,Google Analytics Certification,Google,2024-06-01,,unverified,SKILL_136
+CERT0094,CAN068,Google Cloud Professional Data Engineer,Google,2022-04-22,2024-04-21,pending,SKILL_038
+CERT0095,CAN070,Six Sigma Green Belt,ASQ,2025-12-11,,pending,SKILL_102
+CERT0096,CAN070,CompTIA Security+,CompTIA,2023-12-28,2026-12-27,pending,SKILL_058
+CERT0097,CAN071,AWS Developer Associate,Amazon Web Services,2024-08-01,,verified,SKILL_036
+CERT0098,CAN071,Docker Certified Associate,Docker Inc,2025-10-25,2026-10-25,verified,SKILL_039
+CERT0099,CAN072,SHRM-CP,SHRM,2026-06-17,2028-06-16,unverified,SKILL_094
+CERT0100,CAN073,Oracle Database Administrator,Oracle,2024-01-04,,verified,SKILL_033
+CERT0101,CAN074,SHRM-CP,SHRM,2025-07-25,2027-07-25,unverified,SKILL_094
+CERT0102,CAN076,React Developer Certification,Meta,2024-08-03,,pending,SKILL_016
+CERT0103,CAN076,PMP Certification,PMI,2024-03-16,2026-03-16,verified,SKILL_067
+CERT0104,CAN076,TensorFlow Developer Certificate,Google,2024-08-25,2027-08-25,unverified,SKILL_051
+CERT0105,CAN077,CISSP,ISC2,2024-02-03,2025-02-02,verified,SKILL_058
+CERT0106,CAN078,Oracle Database Administrator,Oracle,2023-11-18,2026-11-17,pending,SKILL_033
+CERT0107,CAN079,CISSP,ISC2,2023-09-21,,unverified,SKILL_058
+CERT0108,CAN080,PMP Certification,PMI,2025-12-22,2028-12-21,unverified,SKILL_067
+CERT0109,CAN083,AWS Solutions Architect Associate,Amazon Web Services,2024-02-21,2025-02-20,unverified,SKILL_036
+CERT0110,CAN084,Google Cloud Professional Data Engineer,Google,2024-01-31,,unverified,SKILL_038
+CERT0111,CAN087,Certified Kubernetes Administrator,CNCF,2023-09-26,2026-09-25,verified,SKILL_040
+CERT0112,CAN089,CISSP,ISC2,2024-07-31,2027-07-31,unverified,SKILL_058
+CERT0113,CAN090,Google Analytics Certification,Google,2022-08-27,2025-08-26,unverified,SKILL_136
+CERT0114,CAN090,CompTIA Security+,CompTIA,2023-05-20,2025-05-19,unverified,SKILL_058
+CERT0115,CAN091,Docker Certified Associate,Docker Inc,2024-06-26,2025-06-26,pending,SKILL_039
+CERT0116,CAN092,AWS Developer Associate,Amazon Web Services,2025-04-14,2028-04-13,pending,SKILL_036
+CERT0117,CAN095,TensorFlow Developer Certificate,Google,2025-10-13,2026-10-13,pending,SKILL_051
+CERT0118,CAN096,AWS Developer Associate,Amazon Web Services,2023-02-07,2026-02-06,unverified,SKILL_036
+CERT0119,CAN096,AWS Solutions Architect Associate,Amazon Web Services,2022-05-18,2023-05-18,verified,SKILL_036
+CERT0120,CAN097,Certified Kubernetes Administrator,CNCF,2026-01-29,2029-01-28,verified,SKILL_040
+CERT0121,CAN098,CISSP,ISC2,2025-06-26,2026-06-26,unverified,SKILL_058
+CERT0122,CAN100,TensorFlow Developer Certificate,Google,2026-03-16,2029-03-15,unverified,SKILL_051
+CERT0123,CAN101,Docker Certified Associate,Docker Inc,2024-09-10,2025-09-10,verified,SKILL_039
+CERT0124,CAN101,Certified Scrum Master,Scrum Alliance,2022-12-19,2025-12-18,pending,SKILL_064
+CERT0125,CAN101,Tableau Desktop Specialist,Tableau,2023-10-30,2026-10-29,verified,SKILL_056
+CERT0126,CAN102,Docker Certified Associate,Docker Inc,2024-08-13,,pending,SKILL_039
+CERT0127,CAN102,MongoDB Developer,MongoDB,2025-03-19,,unverified,SKILL_030
+CERT0128,CAN107,Salesforce Administrator,Salesforce,2022-07-11,2024-07-10,pending,SKILL_086
+CERT0129,CAN107,Six Sigma Green Belt,ASQ,2026-01-06,2027-01-06,unverified,SKILL_102
+CERT0130,CAN108,React Developer Certification,Meta,2023-01-14,,verified,SKILL_016
+CERT0131,CAN109,AWS Developer Associate,Amazon Web Services,2023-12-18,2024-12-17,pending,SKILL_036
+CERT0132,CAN109,Google Cloud Professional Data Engineer,Google,2023-07-19,2026-07-18,unverified,SKILL_038
+CERT0133,CAN111,CISSP,ISC2,2022-06-11,2024-06-10,unverified,SKILL_058
+CERT0134,CAN111,Certified Scrum Master,Scrum Alliance,2026-02-13,,unverified,SKILL_064
+CERT0135,CAN111,Docker Certified Associate,Docker Inc,2025-12-09,,verified,SKILL_039
+CERT0136,CAN113,Salesforce Administrator,Salesforce,2023-05-10,2024-05-09,pending,SKILL_086
+CERT0137,CAN116,Docker Certified Associate,Docker Inc,2026-02-21,2028-02-21,unverified,SKILL_039
+CERT0138,CAN116,SHRM-CP,SHRM,2024-11-06,2025-11-06,pending,SKILL_094
+CERT0139,CAN117,MongoDB Developer,MongoDB,2024-07-06,,verified,SKILL_030
+CERT0140,CAN117,HubSpot Inbound Marketing,HubSpot,2022-07-08,,verified,SKILL_087
+CERT0141,CAN118,Oracle Database Administrator,Oracle,2023-07-19,2024-07-18,verified,SKILL_033
+CERT0142,CAN118,PMP Certification,PMI,2023-03-29,,verified,SKILL_067
+CERT0143,CAN119,AWS Developer Associate,Amazon Web Services,2023-01-09,2025-01-08,pending,SKILL_036
+CERT0144,CAN119,Salesforce Administrator,Salesforce,2025-02-27,2027-02-27,unverified,SKILL_086
+CERT0145,CAN119,React Developer Certification,Meta,2022-08-12,2025-08-11,verified,SKILL_016
+CERT0146,CAN120,Certified Kubernetes Administrator,CNCF,2022-10-08,,verified,SKILL_040
+CERT0147,CAN120,Docker Certified Associate,Docker Inc,2022-06-09,2025-06-08,pending,SKILL_039
+CERT0148,CAN121,TensorFlow Developer Certificate,Google,2025-08-15,2026-08-15,unverified,SKILL_051
+CERT0149,CAN122,AWS Solutions Architect Associate,Amazon Web Services,2022-07-19,2024-07-18,unverified,SKILL_036
+CERT0150,CAN122,Six Sigma Green Belt,ASQ,2024-11-09,2025-11-09,unverified,SKILL_102
+CERT0151,CAN123,React Developer Certification,Meta,2024-02-26,,unverified,SKILL_016
+CERT0152,CAN123,AWS Developer Associate,Amazon Web Services,2026-03-11,,pending,SKILL_036
+CERT0153,CAN124,Microsoft Azure Fundamentals,Microsoft,2026-05-27,2027-05-27,unverified,SKILL_037
+CERT0154,CAN125,Salesforce Administrator,Salesforce,2022-02-04,,verified,SKILL_086
+CERT0155,CAN126,AWS Developer Associate,Amazon Web Services,2024-04-17,2025-04-17,pending,SKILL_036
+CERT0156,CAN127,Google Analytics Certification,Google,2024-10-05,2025-10-05,unverified,SKILL_136
+CERT0157,CAN128,React Developer Certification,Meta,2024-05-29,2027-05-29,verified,SKILL_016
+CERT0158,CAN128,TensorFlow Developer Certificate,Google,2022-02-03,2024-02-03,verified,SKILL_051
+CERT0159,CAN129,Tableau Desktop Specialist,Tableau,2023-03-13,2025-03-12,unverified,SKILL_056
+CERT0160,CAN129,SHRM-CP,SHRM,2024-07-03,2025-07-03,verified,SKILL_094
+CERT0161,CAN132,AWS Solutions Architect Associate,Amazon Web Services,2024-10-29,2027-10-29,unverified,SKILL_036
+CERT0162,CAN135,React Developer Certification,Meta,2023-01-29,2026-01-28,verified,SKILL_016
+CERT0163,CAN135,Tableau Desktop Specialist,Tableau,2023-01-17,2025-01-16,unverified,SKILL_056
+CERT0164,CAN136,PMP Certification,PMI,2024-02-13,2027-02-12,verified,SKILL_067
+CERT0165,CAN137,Tableau Desktop Specialist,Tableau,2025-09-26,,verified,SKILL_056
+CERT0166,CAN137,TensorFlow Developer Certificate,Google,2023-02-02,,unverified,SKILL_051
+CERT0167,CAN138,Oracle Database Administrator,Oracle,2023-08-06,,pending,SKILL_033
+CERT0168,CAN140,HubSpot Inbound Marketing,HubSpot,2023-10-27,2026-10-26,pending,SKILL_087
+CERT0169,CAN142,CompTIA Security+,CompTIA,2026-04-29,2027-04-29,verified,SKILL_058
+CERT0170,CAN143,SHRM-CP,SHRM,2023-04-14,,verified,SKILL_094
+CERT0171,CAN143,Google Analytics Certification,Google,2024-09-12,2025-09-12,pending,SKILL_136
+CERT0172,CAN143,Six Sigma Green Belt,ASQ,2023-08-21,2024-08-20,pending,SKILL_102
+CERT0173,CAN145,Certified Scrum Master,Scrum Alliance,2023-11-13,,unverified,SKILL_064
+CERT0174,CAN145,Certified Kubernetes Administrator,CNCF,2023-04-11,2024-04-10,verified,SKILL_040
+CERT0175,CAN148,Google Cloud Professional Data Engineer,Google,2026-01-19,2027-01-19,unverified,SKILL_038
+CERT0176,CAN149,CISSP,ISC2,2026-05-18,2028-05-17,verified,SKILL_058
+CERT0177,CAN150,CompTIA Security+,CompTIA,2026-06-02,,verified,SKILL_058
+CERT0178,CAN150,Certified Scrum Master,Scrum Alliance,2024-05-09,2025-05-09,pending,SKILL_064
+CERT0179,CAN151,React Developer Certification,Meta,2025-12-26,2026-12-26,pending,SKILL_016
+CERT0180,CAN152,TensorFlow Developer Certificate,Google,2025-02-21,2028-02-21,unverified,SKILL_051
+CERT0181,CAN152,Google Analytics Certification,Google,2024-01-06,,pending,SKILL_136
+CERT0182,CAN153,Docker Certified Associate,Docker Inc,2025-01-12,2027-01-12,verified,SKILL_039
+CERT0183,CAN154,AWS Solutions Architect Associate,Amazon Web Services,2023-01-13,,unverified,SKILL_036
+CERT0184,CAN154,Certified Scrum Master,Scrum Alliance,2026-05-23,2028-05-22,verified,SKILL_064
+CERT0185,CAN154,Oracle Database Administrator,Oracle,2024-12-01,2026-12-01,unverified,SKILL_033
+CERT0186,CAN156,Docker Certified Associate,Docker Inc,2023-04-29,,pending,SKILL_039
+CERT0187,CAN156,AWS Solutions Architect Associate,Amazon Web Services,2024-08-17,2027-08-17,verified,SKILL_036
+CERT0188,CAN157,Google Cloud Professional Data Engineer,Google,2024-05-09,2027-05-09,pending,SKILL_038
+CERT0189,CAN158,CISSP,ISC2,2025-04-03,2027-04-03,unverified,SKILL_058
+CERT0190,CAN158,React Developer Certification,Meta,2022-09-25,2024-09-24,pending,SKILL_016
+CERT0191,CAN161,HubSpot Inbound Marketing,HubSpot,2025-08-26,2027-08-26,verified,SKILL_087
+CERT0192,CAN163,Salesforce Administrator,Salesforce,2024-05-29,,unverified,SKILL_086
+CERT0193,CAN163,SHRM-CP,SHRM,2022-08-24,2023-08-24,unverified,SKILL_094
+CERT0194,CAN164,Certified Scrum Master,Scrum Alliance,2025-04-30,2028-04-29,verified,SKILL_064
+CERT0195,CAN164,CISSP,ISC2,2025-07-15,2027-07-15,pending,SKILL_058
+CERT0196,CAN165,Certified Scrum Master,Scrum Alliance,2023-07-16,2025-07-15,verified,SKILL_064
+CERT0197,CAN165,CompTIA Security+,CompTIA,2025-10-10,2027-10-10,pending,SKILL_058
+CERT0198,CAN167,Google Analytics Certification,Google,2025-11-02,2028-11-01,verified,SKILL_136
+CERT0199,CAN167,Certified Scrum Master,Scrum Alliance,2025-09-04,2026-09-04,pending,SKILL_064
+CERT0200,CAN167,AWS Developer Associate,Amazon Web Services,2026-03-30,2028-03-29,unverified,SKILL_036
+CERT0201,CAN168,Salesforce Administrator,Salesforce,2025-08-25,2026-08-25,verified,SKILL_086
+CERT0202,CAN168,Microsoft Azure Fundamentals,Microsoft,2023-01-12,2025-01-11,unverified,SKILL_037
+CERT0203,CAN169,Salesforce Administrator,Salesforce,2024-01-17,2025-01-16,pending,SKILL_086
+CERT0204,CAN170,HubSpot Inbound Marketing,HubSpot,2022-03-03,,pending,SKILL_087
+CERT0205,CAN170,TensorFlow Developer Certificate,Google,2025-03-20,2027-03-20,verified,SKILL_051
+CERT0206,CAN171,Salesforce Administrator,Salesforce,2023-08-24,2026-08-23,pending,SKILL_086
+CERT0207,CAN172,CISSP,ISC2,2022-10-24,2025-10-23,pending,SKILL_058
+CERT0208,CAN174,Google Cloud Professional Data Engineer,Google,2026-01-29,2028-01-29,verified,SKILL_038
+CERT0209,CAN176,Docker Certified Associate,Docker Inc,2025-08-14,2028-08-13,unverified,SKILL_039
+CERT0210,CAN176,SHRM-CP,SHRM,2023-05-13,,verified,SKILL_094
+CERT0211,CAN177,Certified Scrum Master,Scrum Alliance,2026-06-16,2027-06-16,verified,SKILL_064
+CERT0212,CAN177,AWS Solutions Architect Associate,Amazon Web Services,2024-09-29,2025-09-29,verified,SKILL_036
+CERT0213,CAN178,Google Analytics Certification,Google,2024-02-14,2026-02-13,verified,SKILL_136
+CERT0214,CAN178,React Developer Certification,Meta,2024-04-02,,pending,SKILL_016
+CERT0215,CAN178,Docker Certified Associate,Docker Inc,2022-12-01,2024-11-30,verified,SKILL_039
+CERT0216,CAN179,AWS Solutions Architect Associate,Amazon Web Services,2022-04-10,2023-04-10,verified,SKILL_036
+CERT0217,CAN180,CISSP,ISC2,2025-10-13,2028-10-12,pending,SKILL_058
+CERT0218,CAN181,TensorFlow Developer Certificate,Google,2022-02-04,2023-02-04,verified,SKILL_051
+CERT0219,CAN181,CompTIA Security+,CompTIA,2023-04-10,2026-04-09,pending,SKILL_058
+CERT0220,CAN181,React Developer Certification,Meta,2025-12-31,2027-12-31,unverified,SKILL_016
+CERT0221,CAN182,AWS Solutions Architect Associate,Amazon Web Services,2026-01-08,,verified,SKILL_036
+CERT0222,CAN182,CompTIA Security+,CompTIA,2022-06-25,,verified,SKILL_058
+CERT0223,CAN183,Certified Scrum Master,Scrum Alliance,2022-07-04,2025-07-03,unverified,SKILL_064
+CERT0224,CAN183,PMP Certification,PMI,2023-11-09,2026-11-08,unverified,SKILL_067
+CERT0225,CAN184,React Developer Certification,Meta,2024-08-20,2025-08-20,pending,SKILL_016
+CERT0226,CAN184,Salesforce Administrator,Salesforce,2026-06-28,2029-06-27,verified,SKILL_086
+CERT0227,CAN185,Google Cloud Professional Data Engineer,Google,2025-04-24,,pending,SKILL_038
+CERT0228,CAN186,PMP Certification,PMI,2024-05-10,2027-05-10,pending,SKILL_067
+CERT0229,CAN187,Docker Certified Associate,Docker Inc,2024-12-29,,verified,SKILL_039
+CERT0230,CAN189,CISSP,ISC2,2025-05-10,2026-05-10,verified,SKILL_058
+CERT0231,CAN189,Oracle Database Administrator,Oracle,2023-02-02,,unverified,SKILL_033
+CERT0232,CAN190,Salesforce Administrator,Salesforce,2023-03-03,2024-03-02,verified,SKILL_086
+CERT0233,CAN191,Google Cloud Professional Data Engineer,Google,2024-06-11,2026-06-11,unverified,SKILL_038
+CERT0234,CAN192,MongoDB Developer,MongoDB,2025-02-06,,pending,SKILL_030
+CERT0235,CAN193,Oracle Database Administrator,Oracle,2024-02-18,2025-02-17,verified,SKILL_033
+CERT0236,CAN194,AWS Solutions Architect Associate,Amazon Web Services,2024-12-15,2027-12-15,verified,SKILL_036
+CERT0237,CAN194,Microsoft Azure Fundamentals,Microsoft,2026-05-27,2027-05-27,unverified,SKILL_037
+CERT0238,CAN194,Google Cloud Professional Data Engineer,Google,2023-02-26,2026-02-25,verified,SKILL_038
+CERT0239,CAN197,TensorFlow Developer Certificate,Google,2023-04-26,2026-04-25,verified,SKILL_051
+CERT0240,CAN197,Docker Certified Associate,Docker Inc,2026-03-29,2027-03-29,verified,SKILL_039
+CERT0241,CAN199,Salesforce Administrator,Salesforce,2024-10-24,2025-10-24,verified,SKILL_086
+CERT0242,CAN200,Tableau Desktop Specialist,Tableau,2025-01-30,2026-01-30,unverified,SKILL_056
+CERT0243,CAN203,HubSpot Inbound Marketing,HubSpot,2026-01-23,2027-01-23,unverified,SKILL_087
+CERT0244,CAN203,CompTIA Security+,CompTIA,2022-04-29,2025-04-28,unverified,SKILL_058
+CERT0245,CAN205,CompTIA Security+,CompTIA,2024-12-31,2027-12-31,verified,SKILL_058
+CERT0246,CAN205,React Developer Certification,Meta,2025-08-05,2028-08-04,verified,SKILL_016
+CERT0247,CAN206,Salesforce Administrator,Salesforce,2025-11-20,2028-11-19,pending,SKILL_086
+CERT0248,CAN206,CompTIA Security+,CompTIA,2022-08-19,2025-08-18,pending,SKILL_058
+CERT0249,CAN206,AWS Solutions Architect Associate,Amazon Web Services,2025-07-21,2027-07-21,verified,SKILL_036
+CERT0250,CAN209,PMP Certification,PMI,2026-04-02,2029-04-01,unverified,SKILL_067
+CERT0251,CAN209,Tableau Desktop Specialist,Tableau,2022-08-12,,pending,SKILL_056
+CERT0252,CAN211,Docker Certified Associate,Docker Inc,2023-06-26,,pending,SKILL_039
+CERT0253,CAN211,Google Analytics Certification,Google,2025-07-21,2026-07-21,verified,SKILL_136
+CERT0254,CAN212,Salesforce Administrator,Salesforce,2023-06-12,2025-06-11,unverified,SKILL_086
+CERT0255,CAN213,Oracle Database Administrator,Oracle,2026-05-21,2029-05-20,pending,SKILL_033
+CERT0256,CAN214,HubSpot Inbound Marketing,HubSpot,2023-03-26,2024-03-25,pending,SKILL_087
+CERT0257,CAN214,Microsoft Azure Fundamentals,Microsoft,2025-04-06,2027-04-06,unverified,SKILL_037
+CERT0258,CAN215,Oracle Database Administrator,Oracle,2025-08-18,2028-08-17,unverified,SKILL_033
+CERT0259,CAN215,SHRM-CP,SHRM,2024-05-29,2026-05-29,verified,SKILL_094
+CERT0260,CAN216,HubSpot Inbound Marketing,HubSpot,2022-07-18,2024-07-17,pending,SKILL_087
+CERT0261,CAN217,React Developer Certification,Meta,2026-03-29,2028-03-28,pending,SKILL_016
+CERT0262,CAN217,MongoDB Developer,MongoDB,2022-09-23,,unverified,SKILL_030
+CERT0263,CAN217,PMP Certification,PMI,2022-09-28,2023-09-28,unverified,SKILL_067
+CERT0264,CAN220,CompTIA Security+,CompTIA,2024-07-26,2025-07-26,verified,SKILL_058
+CERT0265,CAN220,Salesforce Administrator,Salesforce,2023-08-05,,unverified,SKILL_086
+CERT0266,CAN220,Tableau Desktop Specialist,Tableau,2022-03-01,,pending,SKILL_056
+CERT0267,CAN221,MongoDB Developer,MongoDB,2026-01-29,2029-01-28,verified,SKILL_030
+CERT0268,CAN221,Certified Scrum Master,Scrum Alliance,2025-11-04,2027-11-04,unverified,SKILL_064
+CERT0269,CAN222,AWS Solutions Architect Associate,Amazon Web Services,2025-06-11,2028-06-10,unverified,SKILL_036
+CERT0270,CAN223,Google Analytics Certification,Google,2026-02-16,,unverified,SKILL_136
+CERT0271,CAN223,CompTIA Security+,CompTIA,2023-05-04,,verified,SKILL_058
+CERT0272,CAN224,HubSpot Inbound Marketing,HubSpot,2026-02-17,,verified,SKILL_087
+CERT0273,CAN227,CompTIA Security+,CompTIA,2023-08-08,,pending,SKILL_058
+CERT0274,CAN227,Google Cloud Professional Data Engineer,Google,2022-02-04,2024-02-04,pending,SKILL_038
+CERT0275,CAN227,SHRM-CP,SHRM,2024-04-13,2026-04-13,verified,SKILL_094
+CERT0276,CAN228,AWS Solutions Architect Associate,Amazon Web Services,2023-05-14,2026-05-13,verified,SKILL_036
+CERT0277,CAN228,Certified Kubernetes Administrator,CNCF,2022-10-14,2025-10-13,pending,SKILL_040
+CERT0278,CAN228,MongoDB Developer,MongoDB,2022-03-26,2023-03-26,pending,SKILL_030
+CERT0279,CAN229,Oracle Database Administrator,Oracle,2025-07-11,,unverified,SKILL_033
+CERT0280,CAN230,Salesforce Administrator,Salesforce,2025-09-08,2026-09-08,unverified,SKILL_086
+CERT0281,CAN230,Google Cloud Professional Data Engineer,Google,2026-02-22,2029-02-21,verified,SKILL_038
+CERT0282,CAN231,AWS Developer Associate,Amazon Web Services,2025-11-16,2027-11-16,unverified,SKILL_036
+CERT0283,CAN231,React Developer Certification,Meta,2023-12-11,,unverified,SKILL_016
+CERT0284,CAN232,Six Sigma Green Belt,ASQ,2026-05-15,2028-05-14,verified,SKILL_102
+CERT0285,CAN232,Google Cloud Professional Data Engineer,Google,2022-03-03,2024-03-02,verified,SKILL_038
+CERT0286,CAN234,React Developer Certification,Meta,2024-02-27,2025-02-26,pending,SKILL_016
+CERT0287,CAN235,React Developer Certification,Meta,2023-12-28,2024-12-27,pending,SKILL_016
+CERT0288,CAN237,Tableau Desktop Specialist,Tableau,2022-10-07,2024-10-06,unverified,SKILL_056
+CERT0289,CAN237,MongoDB Developer,MongoDB,2025-11-11,2028-11-10,verified,SKILL_030
+CERT0290,CAN237,Microsoft Azure Fundamentals,Microsoft,2026-02-08,2028-02-08,pending,SKILL_037
+CERT0291,CAN239,React Developer Certification,Meta,2025-05-14,2027-05-14,unverified,SKILL_016
+CERT0292,CAN239,Certified Scrum Master,Scrum Alliance,2022-01-21,2024-01-21,verified,SKILL_064
+CERT0293,CAN241,Tableau Desktop Specialist,Tableau,2022-11-24,2025-11-23,pending,SKILL_056
+CERT0294,CAN243,Oracle Database Administrator,Oracle,2024-07-27,2026-07-27,verified,SKILL_033
+CERT0295,CAN245,Google Cloud Professional Data Engineer,Google,2022-11-18,2025-11-17,pending,SKILL_038
+CERT0296,CAN245,SHRM-CP,SHRM,2024-08-07,,unverified,SKILL_094
+CERT0297,CAN245,TensorFlow Developer Certificate,Google,2023-08-04,,pending,SKILL_051
+CERT0298,CAN246,Six Sigma Green Belt,ASQ,2023-10-15,2024-10-14,unverified,SKILL_102
+CERT0299,CAN249,React Developer Certification,Meta,2024-12-06,2027-12-06,unverified,SKILL_016
+CERT0300,CAN249,AWS Solutions Architect Associate,Amazon Web Services,2022-07-05,2025-07-04,unverified,SKILL_036
+CERT0301,CAN249,AWS Developer Associate,Amazon Web Services,2023-10-27,2025-10-26,verified,SKILL_036
+CERT0302,CAN250,Google Cloud Professional Data Engineer,Google,2025-10-29,2028-10-28,verified,SKILL_038
+CERT0303,CAN251,Google Analytics Certification,Google,2022-02-22,2024-02-22,verified,SKILL_136
+CERT0304,CAN251,Microsoft Azure Fundamentals,Microsoft,2022-06-29,2025-06-28,unverified,SKILL_037
+CERT0305,CAN252,React Developer Certification,Meta,2025-06-18,,verified,SKILL_016
+CERT0306,CAN253,Google Cloud Professional Data Engineer,Google,2024-07-09,2025-07-09,pending,SKILL_038
+CERT0307,CAN254,Google Analytics Certification,Google,2025-09-23,2027-09-23,unverified,SKILL_136
+CERT0308,CAN255,Salesforce Administrator,Salesforce,2022-05-10,,pending,SKILL_086
+CERT0309,CAN255,Tableau Desktop Specialist,Tableau,2023-09-20,2025-09-19,verified,SKILL_056
+CERT0310,CAN256,Certified Scrum Master,Scrum Alliance,2025-12-03,2027-12-03,pending,SKILL_064
+CERT0311,CAN257,TensorFlow Developer Certificate,Google,2025-10-09,2026-10-09,pending,SKILL_051
+CERT0312,CAN257,Salesforce Administrator,Salesforce,2023-06-12,2026-06-11,pending,SKILL_086
+CERT0313,CAN257,AWS Developer Associate,Amazon Web Services,2024-03-14,2025-03-14,unverified,SKILL_036
+CERT0314,CAN259,TensorFlow Developer Certificate,Google,2022-02-07,2024-02-07,verified,SKILL_051
+CERT0315,CAN262,Certified Scrum Master,Scrum Alliance,2022-05-19,,unverified,SKILL_064
+CERT0316,CAN262,PMP Certification,PMI,2023-08-28,,unverified,SKILL_067
+CERT0317,CAN264,CISSP,ISC2,2023-01-26,,verified,SKILL_058
+CERT0318,CAN264,AWS Solutions Architect Associate,Amazon Web Services,2024-02-27,2027-02-26,verified,SKILL_036
+CERT0319,CAN269,MongoDB Developer,MongoDB,2025-05-21,2026-05-21,pending,SKILL_030
+CERT0320,CAN270,Docker Certified Associate,Docker Inc,2022-08-28,2025-08-27,verified,SKILL_039
+CERT0321,CAN273,CISSP,ISC2,2023-03-30,2025-03-29,pending,SKILL_058
+CERT0322,CAN273,TensorFlow Developer Certificate,Google,2025-07-10,,verified,SKILL_051
+CERT0323,CAN274,React Developer Certification,Meta,2024-08-17,2026-08-17,unverified,SKILL_016
+CERT0324,CAN275,PMP Certification,PMI,2025-03-16,2028-03-15,verified,SKILL_067
+CERT0325,CAN276,Google Cloud Professional Data Engineer,Google,2023-10-23,2024-10-22,unverified,SKILL_038
+CERT0326,CAN279,Six Sigma Green Belt,ASQ,2024-12-23,2027-12-23,verified,SKILL_102
+CERT0327,CAN280,Tableau Desktop Specialist,Tableau,2024-09-15,2026-09-15,unverified,SKILL_056
+CERT0328,CAN280,CISSP,ISC2,2026-01-04,2028-01-04,verified,SKILL_058
+CERT0329,CAN280,Microsoft Azure Fundamentals,Microsoft,2024-04-29,2026-04-29,unverified,SKILL_037
+CERT0330,CAN281,AWS Developer Associate,Amazon Web Services,2022-03-04,,unverified,SKILL_036
+CERT0331,CAN281,Google Cloud Professional Data Engineer,Google,2023-02-04,2024-02-04,pending,SKILL_038
+CERT0332,CAN283,Salesforce Administrator,Salesforce,2022-11-04,2023-11-04,pending,SKILL_086
+CERT0333,CAN285,Six Sigma Green Belt,ASQ,2025-08-26,,pending,SKILL_102
+CERT0334,CAN286,Tableau Desktop Specialist,Tableau,2024-07-14,2026-07-14,pending,SKILL_056
+CERT0335,CAN286,CompTIA Security+,CompTIA,2025-12-03,2028-12-02,verified,SKILL_058
+CERT0336,CAN286,Microsoft Azure Fundamentals,Microsoft,2025-12-20,2028-12-19,pending,SKILL_037
+CERT0337,CAN287,Docker Certified Associate,Docker Inc,2024-04-30,2027-04-30,verified,SKILL_039
+CERT0338,CAN288,React Developer Certification,Meta,2024-02-21,2025-02-20,pending,SKILL_016
+CERT0339,CAN290,Salesforce Administrator,Salesforce,2022-09-02,2025-09-01,pending,SKILL_086
+CERT0340,CAN291,Salesforce Administrator,Salesforce,2025-04-01,2027-04-01,pending,SKILL_086
+CERT0341,CAN291,SHRM-CP,SHRM,2023-01-24,2024-01-24,pending,SKILL_094
+CERT0342,CAN292,PMP Certification,PMI,2022-08-03,,verified,SKILL_067
+CERT0343,CAN292,Salesforce Administrator,Salesforce,2025-10-24,,pending,SKILL_086
+CERT0344,CAN292,Google Cloud Professional Data Engineer,Google,2024-07-08,2025-07-08,verified,SKILL_038
+CERT0345,CAN294,CISSP,ISC2,2022-03-26,2024-03-25,verified,SKILL_058
+CERT0346,CAN295,CISSP,ISC2,2022-09-07,2024-09-06,verified,SKILL_058
+CERT0347,CAN297,HubSpot Inbound Marketing,HubSpot,2024-04-19,2027-04-19,pending,SKILL_087
+CERT0348,CAN299,AWS Solutions Architect Associate,Amazon Web Services,2023-01-07,,verified,SKILL_036
+CERT0349,CAN299,Microsoft Azure Fundamentals,Microsoft,2023-04-18,2024-04-17,unverified,SKILL_037
+CERT0350,CAN300,Tableau Desktop Specialist,Tableau,2022-09-21,2025-09-20,pending,SKILL_056

@@ -1,0 +1,564 @@
+training_id,employee_id,training_name,skill_id,training_category,start_date,completion_date,completion_percentage,assessment_score,status,hours_spent
+TR0001,EMP001,Effective Communication Workshop,SKILL_115,leadership,2026-06-08,2026-06-23,100,58.0,completed,14.8
+TR0002,EMP001,Project Management Professional Prep,SKILL_001,certification,2026-06-01,,33,,in_progress,46.4
+TR0003,EMP001,SQL Performance Tuning,SKILL_019,soft_skills,2026-04-02,2026-05-31,29,,dropped,9.6
+TR0004,EMP001,Advanced Python Programming,SKILL_002,certification,2026-01-16,2026-03-07,100,86.9,completed,36.9
+TR0005,EMP001,React Masterclass,SKILL_026,compliance,2026-02-19,2026-03-26,100,78.9,completed,34.3
+TR0006,EMP002,Blockchain Fundamentals,SKILL_019,leadership,2026-04-21,,72,,in_progress,28.8
+TR0007,EMP002,Data Analysis with Pandas,SKILL_063,leadership,2026-05-30,2026-07-26,100,47.5,completed,55.4
+TR0008,EMP002,DevOps Best Practices,SKILL_128,technical,2026-03-06,2026-03-21,100,61.6,completed,12.2
+TR0009,EMP002,Cybersecurity Essentials,SKILL_115,leadership,2026-03-17,,32,,in_progress,13.4
+TR0010,EMP003,AWS Solutions Architect Prep,SKILL_020,compliance,2026-01-22,2026-02-18,100,61.0,completed,29.8
+TR0011,EMP003,Six Sigma Green Belt,SKILL_002,technical,2026-02-19,,47,,in_progress,41.0
+TR0012,EMP003,Salesforce Administration,SKILL_025,leadership,2026-01-17,2026-02-22,100,64.9,completed,7.9
+TR0013,EMP003,Digital Marketing Strategy,SKILL_003,technical,2026-01-03,2026-01-10,35,,dropped,17.6
+TR0014,EMP003,API Design Best Practices,SKILL_022,soft_skills,2026-02-15,2026-03-23,100,67.6,completed,6.0
+TR0015,EMP003,Cloud Architecture Design,SKILL_020,technical,2026-05-27,2026-06-12,100,71.4,completed,19.8
+TR0016,EMP003,Docker & Kubernetes Bootcamp,SKILL_002,soft_skills,2026-06-14,2026-06-23,100,75.6,completed,31.6
+TR0017,EMP004,System Design Interview Prep,SKILL_026,soft_skills,2026-03-17,,0,,enrolled,36.1
+TR0018,EMP004,NLP with Transformers,SKILL_026,leadership,2026-02-07,2026-03-28,13,,dropped,50.8
+TR0019,EMP004,Salesforce Administration,SKILL_115,soft_skills,2026-05-12,2026-05-30,100,85.6,completed,17.2
+TR0020,EMP004,Test Automation Framework,SKILL_021,technical,2026-03-21,2026-05-16,100,70.0,completed,44.5
+TR0021,EMP004,Digital Marketing Strategy,SKILL_025,domain,2026-04-30,,54,,in_progress,16.9
+TR0022,EMP005,Time Management Mastery,SKILL_023,technical,2026-05-01,,62,,in_progress,36.2
+TR0023,EMP005,Effective Communication Workshop,SKILL_021,compliance,2026-04-09,,46,,in_progress,31.5
+TR0024,EMP005,API Design Best Practices,SKILL_021,domain,2026-04-30,,67,,in_progress,48.1
+TR0025,EMP005,Data Visualization Masterclass,SKILL_019,domain,2026-05-31,,74,,in_progress,26.5
+TR0026,EMP005,System Design Interview Prep,SKILL_003,technical,2026-06-02,2026-06-23,27,,dropped,12.1
+TR0027,EMP006,Technical Writing Excellence,SKILL_039,leadership,2026-05-17,,0,,enrolled,28.4
+TR0028,EMP006,AWS Solutions Architect Prep,SKILL_115,technical,2026-05-27,,48,,in_progress,26.7
+TR0029,EMP006,Salesforce Administration,SKILL_007,leadership,2026-03-04,2026-04-18,14,,dropped,57.5
+TR0030,EMP006,API Design Best Practices,SKILL_007,leadership,2026-03-11,,0,,enrolled,19.3
+TR0031,EMP006,Project Management Professional Prep,SKILL_007,soft_skills,2026-01-18,2026-03-15,100,63.8,completed,16.9
+TR0032,EMP007,Negotiation Skills,SKILL_001,compliance,2026-05-29,2026-06-14,100,87.6,completed,59.9
+TR0033,EMP007,System Design Interview Prep,SKILL_025,technical,2026-01-06,,0,,enrolled,41.3
+TR0034,EMP007,Six Sigma Green Belt,SKILL_115,compliance,2026-03-31,,0,,enrolled,54.4
+TR0035,EMP007,Test Automation Framework,SKILL_019,soft_skills,2026-02-15,,0,,enrolled,23.9
+TR0036,EMP007,Effective Communication Workshop,SKILL_021,domain,2026-04-30,,0,,enrolled,21.1
+TR0037,EMP007,Cybersecurity Essentials,SKILL_040,certification,2026-05-04,2026-06-11,13,,dropped,17.2
+TR0038,EMP008,Digital Marketing Strategy,SKILL_019,leadership,2026-03-20,2026-04-29,100,69.4,completed,37.6
+TR0039,EMP008,Cloud Architecture Design,SKILL_025,certification,2026-05-01,,77,,in_progress,24.6
+TR0040,EMP008,API Design Best Practices,SKILL_039,compliance,2026-03-21,,66,,in_progress,59.5
+TR0041,EMP008,Technical Writing Excellence,SKILL_022,technical,2026-05-01,,61,,in_progress,50.3
+TR0042,EMP009,Effective Communication Workshop,SKILL_039,leadership,2026-06-12,,0,,enrolled,45.6
+TR0043,EMP009,Docker & Kubernetes Bootcamp,SKILL_115,technical,2026-02-01,,50,,in_progress,53.2
+TR0044,EMP009,Data Analysis with Pandas,SKILL_027,leadership,2026-03-20,,0,,enrolled,58.5
+TR0045,EMP009,Test Automation Framework,SKILL_028,soft_skills,2026-02-05,2026-02-17,100,77.8,completed,43.9
+TR0046,EMP009,Digital Marketing Strategy,SKILL_002,technical,2026-02-24,2026-03-22,100,57.5,completed,32.8
+TR0047,EMP009,Technical Writing Excellence,SKILL_128,leadership,2026-01-16,2026-02-22,19,,dropped,17.8
+TR0048,EMP010,Effective Communication Workshop,SKILL_027,domain,2026-05-25,2026-06-18,100,71.2,completed,17.4
+TR0049,EMP010,Advanced Python Programming,SKILL_003,compliance,2026-03-19,2026-03-27,100,70.5,completed,41.0
+TR0050,EMP010,Cybersecurity Essentials,SKILL_007,soft_skills,2026-04-26,2026-06-02,100,89.9,completed,48.5
+TR0051,EMP010,UX Research Methods,SKILL_003,soft_skills,2026-04-26,2026-06-02,14,,dropped,51.5
+TR0052,EMP011,Technical Writing Excellence,SKILL_115,leadership,2026-05-06,2026-05-14,100,55.3,completed,48.5
+TR0053,EMP011,Financial Modeling,SKILL_019,soft_skills,2026-03-05,2026-04-28,100,49.3,completed,15.0
+TR0054,EMP011,React Masterclass,SKILL_001,domain,2026-04-28,2026-05-18,100,82.9,completed,36.8
+TR0055,EMP011,Blockchain Fundamentals,SKILL_027,compliance,2026-04-26,2026-05-29,100,61.8,completed,56.5
+TR0056,EMP011,UX Research Methods,SKILL_028,soft_skills,2026-04-15,2026-06-07,100,64.1,completed,24.4
+TR0057,EMP011,System Design Interview Prep,SKILL_127,certification,2026-01-21,2026-03-21,100,60.3,completed,29.9
+TR0058,EMP011,Cloud Architecture Design,SKILL_115,leadership,2026-03-14,2026-04-21,100,44.2,completed,31.3
+TR0059,EMP012,Cybersecurity Essentials,SKILL_007,compliance,2026-02-02,,64,,in_progress,19.3
+TR0060,EMP012,Effective Communication Workshop,SKILL_020,soft_skills,2026-04-16,,72,,in_progress,26.6
+TR0061,EMP012,Deep Learning Specialization,SKILL_031,domain,2026-03-26,,0,,enrolled,18.0
+TR0062,EMP012,Test Automation Framework,SKILL_128,certification,2026-04-21,2026-05-15,100,80.0,completed,38.2
+TR0063,EMP012,Financial Modeling,SKILL_039,technical,2026-06-15,,0,,enrolled,17.8
+TR0064,EMP012,UX Research Methods,SKILL_119,leadership,2026-03-17,2026-05-15,100,68.0,completed,33.8
+TR0065,EMP012,Advanced Python Programming,SKILL_028,compliance,2026-01-10,2026-03-03,100,92.1,completed,53.6
+TR0066,EMP013,Docker & Kubernetes Bootcamp,SKILL_028,domain,2026-01-03,,32,,in_progress,33.6
+TR0067,EMP013,Advanced Python Programming,SKILL_030,certification,2026-02-24,2026-03-28,100,74.8,completed,49.9
+TR0068,EMP013,Negotiation Skills,SKILL_002,compliance,2026-03-23,2026-04-07,100,78.4,completed,59.2
+TR0069,EMP013,Data Analysis with Pandas,SKILL_025,soft_skills,2026-06-01,,75,,in_progress,26.8
+TR0070,EMP013,Financial Modeling,SKILL_040,certification,2026-01-16,,79,,in_progress,28.9
+TR0071,EMP013,Machine Learning Fundamentals,SKILL_040,compliance,2026-05-26,,49,,in_progress,11.7
+TR0072,EMP013,DevOps Best Practices,SKILL_022,soft_skills,2026-01-14,2026-02-07,100,77.8,completed,18.5
+TR0073,EMP014,Technical Writing Excellence,SKILL_023,soft_skills,2026-04-25,2026-05-12,100,44.9,completed,43.8
+TR0074,EMP014,Agile & Scrum Certification,SKILL_020,compliance,2026-03-24,2026-04-29,100,30.4,completed,35.2
+TR0075,EMP014,Six Sigma Green Belt,SKILL_128,compliance,2026-04-27,,54,,in_progress,7.3
+TR0076,EMP014,Data Analysis with Pandas,SKILL_002,soft_skills,2026-01-31,,47,,in_progress,29.4
+TR0077,EMP015,Data Visualization Masterclass,SKILL_119,compliance,2026-04-01,2026-05-30,100,100,completed,56.5
+TR0078,EMP015,Six Sigma Green Belt,SKILL_127,domain,2026-02-02,2026-03-13,100,80.2,completed,18.7
+TR0079,EMP015,Advanced Python Programming,SKILL_028,leadership,2026-04-01,2026-05-01,100,86.2,completed,59.0
+TR0080,EMP015,Time Management Mastery,SKILL_026,technical,2026-04-01,,72,,in_progress,24.8
+TR0081,EMP015,Test Automation Framework,SKILL_021,compliance,2026-06-08,,75,,in_progress,26.5
+TR0082,EMP015,Effective Communication Workshop,SKILL_063,soft_skills,2026-04-26,,0,,enrolled,40.0
+TR0083,EMP016,System Design Interview Prep,SKILL_016,compliance,2026-06-05,,57,,in_progress,5.9
+TR0084,EMP016,Test Automation Framework,SKILL_104,domain,2026-05-24,2026-07-10,100,83.9,completed,37.3
+TR0085,EMP016,Cybersecurity Essentials,SKILL_063,compliance,2026-05-03,2026-05-19,100,74.7,completed,28.3
+TR0086,EMP016,Deep Learning Specialization,SKILL_015,compliance,2026-01-27,,46,,in_progress,20.7
+TR0087,EMP017,Machine Learning Fundamentals,SKILL_104,soft_skills,2026-05-09,2026-06-17,100,73.7,completed,59.9
+TR0088,EMP017,Cybersecurity Essentials,SKILL_018,domain,2026-03-14,,58,,in_progress,57.5
+TR0089,EMP017,Six Sigma Green Belt,SKILL_063,certification,2026-03-16,,0,,enrolled,27.5
+TR0090,EMP017,Test Automation Framework,SKILL_019,certification,2026-05-14,,70,,in_progress,32.8
+TR0091,EMP017,Negotiation Skills,SKILL_068,technical,2026-05-23,2026-06-09,100,88.1,completed,30.8
+TR0092,EMP017,API Design Best Practices,SKILL_019,certification,2026-05-30,2026-06-13,100,58.1,completed,30.2
+TR0093,EMP018,Advanced Python Programming,SKILL_026,domain,2026-04-23,2026-06-17,100,53.9,completed,55.0
+TR0094,EMP018,UX Research Methods,SKILL_016,compliance,2026-03-04,,0,,enrolled,27.4
+TR0095,EMP018,Leadership Excellence,SKILL_017,technical,2026-05-17,2026-05-26,100,68.1,completed,28.8
+TR0096,EMP018,Project Management Professional Prep,SKILL_105,certification,2026-01-31,2026-02-28,100,77.3,completed,25.1
+TR0097,EMP019,React Masterclass,SKILL_127,domain,2026-06-01,2026-07-29,100,73.0,completed,55.5
+TR0098,EMP019,Product Management Fundamentals,SKILL_004,soft_skills,2026-05-31,2026-07-11,100,77.6,completed,38.9
+TR0099,EMP019,Six Sigma Green Belt,SKILL_105,technical,2026-02-05,2026-03-30,100,68.0,completed,24.4
+TR0100,EMP019,UX Research Methods,SKILL_025,domain,2026-01-08,2026-01-26,100,69.7,completed,35.6
+TR0101,EMP019,Machine Learning Fundamentals,SKILL_019,compliance,2026-04-06,2026-05-29,100,81.4,completed,17.7
+TR0102,EMP020,System Design Interview Prep,SKILL_026,technical,2026-03-09,,0,,enrolled,32.8
+TR0103,EMP020,Time Management Mastery,SKILL_015,certification,2026-01-21,,38,,in_progress,39.7
+TR0104,EMP020,Leadership Excellence,SKILL_119,compliance,2026-02-19,2026-03-03,100,80.3,completed,29.3
+TR0105,EMP020,Test Automation Framework,SKILL_017,soft_skills,2026-06-12,2026-07-11,11,,dropped,16.2
+TR0106,EMP020,UX Research Methods,SKILL_016,leadership,2026-02-28,2026-03-16,100,62.5,completed,6.8
+TR0107,EMP021,Technical Writing Excellence,SKILL_016,certification,2026-01-08,,31,,in_progress,30.7
+TR0108,EMP021,Six Sigma Green Belt,SKILL_026,certification,2026-03-12,2026-04-28,100,40.1,completed,47.3
+TR0109,EMP021,Deep Learning Specialization,SKILL_016,soft_skills,2026-02-03,,36,,in_progress,36.0
+TR0110,EMP021,DevOps Best Practices,SKILL_018,leadership,2026-04-14,2026-06-13,100,55.9,completed,8.1
+TR0111,EMP022,React Masterclass,SKILL_025,leadership,2026-01-25,,0,,enrolled,5.8
+TR0112,EMP022,Advanced Python Programming,SKILL_017,soft_skills,2026-03-11,,0,,enrolled,37.9
+TR0113,EMP022,Product Management Fundamentals,SKILL_016,technical,2026-04-27,2026-06-18,100,69.5,completed,55.3
+TR0114,EMP022,Financial Modeling,SKILL_017,leadership,2026-01-08,,0,,enrolled,56.0
+TR0115,EMP022,Salesforce Administration,SKILL_105,technical,2026-04-19,2026-05-12,100,63.0,completed,42.0
+TR0116,EMP023,Docker & Kubernetes Bootcamp,SKILL_127,compliance,2026-02-21,,35,,in_progress,44.2
+TR0117,EMP023,Machine Learning Fundamentals,SKILL_019,domain,2026-04-12,2026-04-21,100,75.3,completed,27.5
+TR0118,EMP023,Project Management Professional Prep,SKILL_063,certification,2026-02-25,,36,,in_progress,19.6
+TR0119,EMP023,Cybersecurity Essentials,SKILL_119,certification,2026-04-15,,75,,in_progress,43.1
+TR0120,EMP023,React Masterclass,SKILL_127,leadership,2026-01-30,2026-02-12,100,61.9,completed,17.2
+TR0121,EMP023,Advanced Python Programming,SKILL_068,soft_skills,2026-04-28,2026-05-07,100,70.7,completed,18.5
+TR0122,EMP024,Negotiation Skills,SKILL_015,compliance,2026-02-15,2026-03-25,100,76.1,completed,22.0
+TR0123,EMP024,Advanced Python Programming,SKILL_105,technical,2026-06-07,2026-08-06,100,66.7,completed,29.1
+TR0124,EMP024,React Masterclass,SKILL_127,compliance,2026-04-25,2026-05-20,100,84.5,completed,8.3
+TR0125,EMP024,Data Analysis with Pandas,SKILL_016,leadership,2026-04-03,2026-04-11,100,54.4,completed,43.6
+TR0126,EMP024,Product Management Fundamentals,SKILL_104,compliance,2026-06-09,2026-07-04,100,67.6,completed,17.7
+TR0127,EMP025,Test Automation Framework,SKILL_119,domain,2026-01-30,,0,,enrolled,49.0
+TR0128,EMP025,Deep Learning Specialization,SKILL_025,leadership,2026-06-01,,68,,in_progress,35.5
+TR0129,EMP025,Salesforce Administration,SKILL_105,domain,2026-05-18,2026-07-05,100,32.3,completed,38.1
+TR0130,EMP025,NLP with Transformers,SKILL_119,domain,2026-03-30,2026-04-15,100,40.9,completed,18.8
+TR0131,EMP025,AWS Solutions Architect Prep,SKILL_004,certification,2026-05-04,,0,,enrolled,33.8
+TR0132,EMP025,Time Management Mastery,SKILL_105,compliance,2026-01-20,2026-02-26,100,30.9,completed,41.2
+TR0133,EMP025,DevOps Best Practices,SKILL_016,certification,2026-04-20,,0,,enrolled,34.8
+TR0134,EMP026,Deep Learning Specialization,SKILL_041,domain,2026-04-18,2026-05-26,100,73.2,completed,28.0
+TR0135,EMP026,NLP with Transformers,SKILL_127,leadership,2026-01-11,2026-02-14,100,86.7,completed,45.0
+TR0136,EMP026,Leadership Excellence,SKILL_039,domain,2026-03-14,2026-04-20,21,,dropped,39.6
+TR0137,EMP026,Data Visualization Masterclass,SKILL_036,domain,2026-05-04,2026-05-12,31,,dropped,25.4
+TR0138,EMP026,Salesforce Administration,SKILL_039,certification,2026-06-08,2026-06-16,100,67.9,completed,33.0
+TR0139,EMP026,React Masterclass,SKILL_110,domain,2026-05-02,2026-06-28,100,80.1,completed,26.6
+TR0140,EMP026,Blockchain Fundamentals,SKILL_127,certification,2026-05-09,2026-06-13,100,65.0,completed,49.3
+TR0141,EMP027,API Design Best Practices,SKILL_039,soft_skills,2026-03-21,,70,,in_progress,24.0
+TR0142,EMP027,Digital Marketing Strategy,SKILL_036,compliance,2026-01-11,2026-02-10,100,65.9,completed,5.1
+TR0143,EMP027,NLP with Transformers,SKILL_128,soft_skills,2026-04-07,,30,,in_progress,6.3
+TR0144,EMP027,Negotiation Skills,SKILL_111,certification,2026-05-16,2026-06-10,100,69.0,completed,6.0
+TR0145,EMP027,System Design Interview Prep,SKILL_041,compliance,2026-03-12,,59,,in_progress,44.5
+TR0146,EMP028,Data Visualization Masterclass,SKILL_133,technical,2026-04-11,2026-06-09,100,32.9,completed,36.1
+TR0147,EMP028,NLP with Transformers,SKILL_036,domain,2026-04-27,,60,,in_progress,37.1
+TR0148,EMP028,System Design Interview Prep,SKILL_042,leadership,2026-02-26,2026-04-25,100,45.2,completed,30.3
+TR0149,EMP028,UX Research Methods,SKILL_044,technical,2026-01-14,2026-03-10,100,31.3,completed,6.8
+TR0150,EMP028,Time Management Mastery,SKILL_041,soft_skills,2026-02-05,2026-03-23,100,43.7,completed,45.0
+TR0151,EMP028,Six Sigma Green Belt,SKILL_127,certification,2026-03-10,,0,,enrolled,56.4
+TR0152,EMP029,NLP with Transformers,SKILL_037,compliance,2026-01-12,2026-02-24,100,77.9,completed,53.5
+TR0153,EMP029,Technical Writing Excellence,SKILL_111,certification,2026-03-19,2026-05-14,100,62.2,completed,17.2
+TR0154,EMP029,Cybersecurity Essentials,SKILL_037,domain,2026-04-22,2026-05-14,100,93.5,completed,5.2
+TR0155,EMP029,Leadership Excellence,SKILL_111,technical,2026-03-16,,53,,in_progress,44.0
+TR0156,EMP029,Negotiation Skills,SKILL_043,leadership,2026-05-14,2026-07-10,27,,dropped,39.7
+TR0157,EMP029,SQL Performance Tuning,SKILL_128,soft_skills,2026-04-26,2026-06-03,100,60.7,completed,52.1
+TR0158,EMP029,Test Automation Framework,SKILL_128,leadership,2026-03-30,2026-05-18,27,,dropped,13.8
+TR0159,EMP030,SQL Performance Tuning,SKILL_110,domain,2026-05-12,,63,,in_progress,47.6
+TR0160,EMP030,Technical Writing Excellence,SKILL_039,domain,2026-01-20,,0,,enrolled,46.4
+TR0161,EMP030,Time Management Mastery,SKILL_043,compliance,2026-03-10,2026-04-09,11,,dropped,32.1
+TR0162,EMP030,Agile & Scrum Certification,SKILL_109,domain,2026-05-10,,51,,in_progress,10.3
+TR0163,EMP031,Technical Writing Excellence,SKILL_128,leadership,2026-01-17,,0,,enrolled,9.6
+TR0164,EMP031,React Masterclass,SKILL_037,certification,2026-02-23,,78,,in_progress,28.8
+TR0165,EMP031,Data Analysis with Pandas,SKILL_111,soft_skills,2026-03-19,2026-04-26,12,,dropped,58.2
+TR0166,EMP031,Advanced Python Programming,SKILL_128,certification,2026-03-06,,71,,in_progress,7.6
+TR0167,EMP032,Deep Learning Specialization,SKILL_072,soft_skills,2026-01-13,2026-02-20,27,,dropped,33.8
+TR0168,EMP032,NLP with Transformers,SKILL_067,soft_skills,2026-04-10,2026-06-01,100,83.9,completed,31.6
+TR0169,EMP032,API Design Best Practices,SKILL_152,leadership,2026-06-13,2026-07-07,100,68.3,completed,41.1
+TR0170,EMP032,Leadership Excellence,SKILL_152,leadership,2026-01-02,2026-02-06,100,96.4,completed,32.9
+TR0171,EMP032,React Masterclass,SKILL_072,soft_skills,2026-02-16,,42,,in_progress,14.2
+TR0172,EMP032,Agile & Scrum Certification,SKILL_063,certification,2026-06-13,2026-07-04,100,76.2,completed,16.4
+TR0173,EMP032,Salesforce Administration,SKILL_079,technical,2026-02-18,,44,,in_progress,47.1
+TR0174,EMP033,Six Sigma Green Belt,SKILL_070,compliance,2026-06-14,,0,,enrolled,36.0
+TR0175,EMP033,Data Analysis with Pandas,SKILL_072,domain,2026-01-24,2026-03-15,100,40.4,completed,9.5
+TR0176,EMP033,DevOps Best Practices,SKILL_079,compliance,2026-03-12,,79,,in_progress,18.7
+TR0177,EMP033,Financial Modeling,SKILL_070,certification,2026-04-07,,39,,in_progress,25.9
+TR0178,EMP033,Effective Communication Workshop,SKILL_153,leadership,2026-05-15,,66,,in_progress,43.1
+TR0179,EMP033,React Masterclass,SKILL_152,certification,2026-02-24,,50,,in_progress,11.4
+TR0180,EMP034,API Design Best Practices,SKILL_079,domain,2026-04-03,2026-04-22,100,26.7,completed,21.5
+TR0181,EMP034,UX Research Methods,SKILL_079,certification,2026-05-09,,51,,in_progress,28.8
+TR0182,EMP034,Technical Writing Excellence,SKILL_075,certification,2026-05-23,2026-07-06,100,6.3,completed,5.9
+TR0183,EMP034,SQL Performance Tuning,SKILL_153,leadership,2026-05-14,,30,,in_progress,5.8
+TR0184,EMP034,Machine Learning Fundamentals,SKILL_071,soft_skills,2026-05-16,2026-05-26,100,25.9,completed,49.2
+TR0185,EMP034,NLP with Transformers,SKILL_152,certification,2026-03-07,,0,,enrolled,23.7
+TR0186,EMP034,Digital Marketing Strategy,SKILL_063,leadership,2026-01-31,2026-03-17,100,40.0,completed,58.2
+TR0187,EMP035,NLP with Transformers,SKILL_070,domain,2026-02-08,,0,,enrolled,46.8
+TR0188,EMP035,Cloud Architecture Design,SKILL_071,technical,2026-06-02,2026-07-13,100,62.9,completed,43.5
+TR0189,EMP035,Product Management Fundamentals,SKILL_067,compliance,2026-05-06,,66,,in_progress,21.6
+TR0190,EMP035,System Design Interview Prep,SKILL_152,domain,2026-06-04,,0,,enrolled,10.3
+TR0191,EMP035,Cybersecurity Essentials,SKILL_063,soft_skills,2026-04-13,2026-04-28,100,58.9,completed,40.0
+TR0192,EMP035,Effective Communication Workshop,SKILL_067,technical,2026-03-02,2026-03-20,100,75.7,completed,53.1
+TR0193,EMP036,DevOps Best Practices,SKILL_120,certification,2026-02-08,2026-02-17,100,76.9,completed,21.8
+TR0194,EMP036,Blockchain Fundamentals,SKILL_120,certification,2026-03-27,2026-05-21,100,68.4,completed,24.0
+TR0195,EMP036,SQL Performance Tuning,SKILL_119,leadership,2026-02-21,2026-03-08,26,,dropped,22.2
+TR0196,EMP036,Time Management Mastery,SKILL_123,domain,2026-02-02,,30,,in_progress,8.9
+TR0197,EMP037,Test Automation Framework,SKILL_063,certification,2026-01-15,2026-03-14,11,,dropped,15.4
+TR0198,EMP037,React Masterclass,SKILL_063,technical,2026-06-05,2026-06-24,35,,dropped,38.3
+TR0199,EMP037,Time Management Mastery,SKILL_119,leadership,2026-04-27,2026-05-31,100,51.6,completed,10.4
+TR0200,EMP037,Salesforce Administration,SKILL_003,certification,2026-02-18,2026-03-04,100,27.1,completed,54.7
+TR0201,EMP038,UX Research Methods,SKILL_119,leadership,2026-04-17,2026-05-10,100,79.8,completed,30.5
+TR0202,EMP038,Financial Modeling,SKILL_121,compliance,2026-06-15,,0,,enrolled,20.4
+TR0203,EMP038,Data Visualization Masterclass,SKILL_063,domain,2026-04-12,,54,,in_progress,59.8
+TR0204,EMP038,Time Management Mastery,SKILL_068,leadership,2026-01-16,,0,,enrolled,29.8
+TR0205,EMP038,Negotiation Skills,SKILL_122,soft_skills,2026-06-07,2026-06-24,100,83.2,completed,59.1
+TR0206,EMP038,Agile & Scrum Certification,SKILL_119,soft_skills,2026-01-07,,40,,in_progress,33.6
+TR0207,EMP038,Salesforce Administration,SKILL_001,compliance,2026-03-27,2026-04-13,100,96.5,completed,6.8
+TR0208,EMP039,Docker & Kubernetes Bootcamp,SKILL_001,soft_skills,2026-03-31,,0,,enrolled,8.7
+TR0209,EMP039,Cloud Architecture Design,SKILL_027,leadership,2026-05-18,2026-06-18,37,,dropped,53.0
+TR0210,EMP039,Time Management Mastery,SKILL_027,domain,2026-01-27,,74,,in_progress,23.1
+TR0211,EMP039,React Masterclass,SKILL_120,domain,2026-04-12,2026-05-21,100,41.6,completed,13.6
+TR0212,EMP040,AWS Solutions Architect Prep,SKILL_027,technical,2026-04-03,2026-05-15,100,73.9,completed,54.2
+TR0213,EMP040,Cybersecurity Essentials,SKILL_063,leadership,2026-04-29,,67,,in_progress,27.7
+TR0214,EMP040,Six Sigma Green Belt,SKILL_120,technical,2026-01-15,2026-02-14,100,51.4,completed,36.4
+TR0215,EMP040,Product Management Fundamentals,SKILL_119,technical,2026-02-02,2026-03-05,100,58.6,completed,59.1
+TR0216,EMP040,Deep Learning Specialization,SKILL_003,leadership,2026-03-08,,0,,enrolled,46.9
+TR0217,EMP040,Advanced Python Programming,SKILL_027,compliance,2026-06-10,,80,,in_progress,6.0
+TR0218,EMP040,Docker & Kubernetes Bootcamp,SKILL_100,compliance,2026-02-15,2026-03-30,18,,dropped,44.5
+TR0219,EMP041,Docker & Kubernetes Bootcamp,SKILL_121,soft_skills,2026-05-26,2026-06-29,100,37.6,completed,30.4
+TR0220,EMP041,Time Management Mastery,SKILL_001,soft_skills,2026-05-25,2026-07-13,100,55.2,completed,17.6
+TR0221,EMP041,SQL Performance Tuning,SKILL_123,compliance,2026-05-13,2026-06-27,20,,dropped,26.4
+TR0222,EMP041,Data Analysis with Pandas,SKILL_003,soft_skills,2026-01-13,,62,,in_progress,54.1
+TR0223,EMP041,Project Management Professional Prep,SKILL_119,certification,2026-05-11,2026-05-29,100,39.5,completed,15.4
+TR0224,EMP042,Cloud Architecture Design,SKILL_096,domain,2026-02-11,2026-03-03,100,79.9,completed,8.2
+TR0225,EMP042,Effective Communication Workshop,SKILL_092,technical,2026-06-13,,48,,in_progress,45.6
+TR0226,EMP042,API Design Best Practices,SKILL_072,domain,2026-03-22,,65,,in_progress,10.4
+TR0227,EMP042,UX Research Methods,SKILL_096,leadership,2026-05-17,2026-06-01,100,73.6,completed,56.6
+TR0228,EMP042,Deep Learning Specialization,SKILL_097,domain,2026-02-12,,80,,in_progress,49.9
+TR0229,EMP042,Advanced Python Programming,SKILL_070,soft_skills,2026-05-18,,0,,enrolled,20.0
+TR0230,EMP043,API Design Best Practices,SKILL_097,leadership,2026-02-24,,0,,enrolled,7.0
+TR0231,EMP043,Test Automation Framework,SKILL_094,compliance,2026-04-04,2026-05-02,100,57.3,completed,19.7
+TR0232,EMP043,Technical Writing Excellence,SKILL_092,leadership,2026-02-20,2026-02-28,21,,dropped,24.6
+TR0233,EMP043,SQL Performance Tuning,SKILL_070,compliance,2026-01-28,2026-03-16,100,60.5,completed,31.7
+TR0234,EMP043,Effective Communication Workshop,SKILL_096,certification,2026-02-15,,0,,enrolled,33.5
+TR0235,EMP043,Advanced Python Programming,SKILL_096,leadership,2026-04-28,,0,,enrolled,50.6
+TR0236,EMP043,Deep Learning Specialization,SKILL_093,domain,2026-02-21,,66,,in_progress,47.3
+TR0237,EMP044,Salesforce Administration,SKILL_097,technical,2026-04-19,,47,,in_progress,47.3
+TR0238,EMP044,Product Management Fundamentals,SKILL_093,certification,2026-05-18,2026-06-12,100,28.4,completed,25.8
+TR0239,EMP044,Agile & Scrum Certification,SKILL_092,technical,2026-01-17,2026-01-31,100,26.1,completed,10.0
+TR0240,EMP044,Digital Marketing Strategy,SKILL_094,domain,2026-04-15,2026-06-05,100,26.9,completed,37.7
+TR0241,EMP044,SQL Performance Tuning,SKILL_091,soft_skills,2026-04-14,2026-06-02,100,44.0,completed,15.0
+TR0242,EMP044,Effective Communication Workshop,SKILL_096,certification,2026-04-09,,0,,enrolled,52.4
+TR0243,EMP044,System Design Interview Prep,SKILL_096,certification,2026-02-11,,0,,enrolled,54.2
+TR0244,EMP045,Agile & Scrum Certification,SKILL_094,certification,2026-01-17,2026-02-13,100,57.9,completed,20.2
+TR0245,EMP045,System Design Interview Prep,SKILL_096,leadership,2026-01-03,,30,,in_progress,33.9
+TR0246,EMP045,Project Management Professional Prep,SKILL_070,leadership,2026-01-13,,46,,in_progress,46.9
+TR0247,EMP045,Advanced Python Programming,SKILL_094,domain,2026-05-09,2026-06-06,100,42.2,completed,55.5
+TR0248,EMP045,Salesforce Administration,SKILL_070,certification,2026-02-23,,74,,in_progress,29.2
+TR0249,EMP046,Machine Learning Fundamentals,SKILL_094,compliance,2026-03-15,2026-05-12,100,54.5,completed,10.4
+TR0250,EMP046,React Masterclass,SKILL_096,compliance,2026-03-27,2026-05-03,100,63.2,completed,8.1
+TR0251,EMP046,Cloud Architecture Design,SKILL_096,technical,2026-05-17,,49,,in_progress,58.1
+TR0252,EMP046,Negotiation Skills,SKILL_096,leadership,2026-03-06,2026-04-05,100,54.8,completed,42.2
+TR0253,EMP047,Agile & Scrum Certification,SKILL_092,certification,2026-02-14,2026-03-15,100,31.6,completed,10.5
+TR0254,EMP047,Effective Communication Workshop,SKILL_092,domain,2026-01-16,,0,,enrolled,30.6
+TR0255,EMP047,SQL Performance Tuning,SKILL_092,certification,2026-01-18,2026-03-13,100,46.6,completed,35.4
+TR0256,EMP047,System Design Interview Prep,SKILL_094,certification,2026-03-04,,64,,in_progress,28.3
+TR0257,EMP047,Six Sigma Green Belt,SKILL_153,certification,2026-05-02,2026-05-12,100,22.7,completed,9.8
+TR0258,EMP047,Technical Writing Excellence,SKILL_070,leadership,2026-01-01,2026-02-22,100,34.4,completed,40.4
+TR0259,EMP047,Digital Marketing Strategy,SKILL_096,domain,2026-03-22,,0,,enrolled,46.4
+TR0260,EMP048,Project Management Professional Prep,SKILL_093,technical,2026-05-12,2026-05-30,100,42.9,completed,7.7
+TR0261,EMP048,NLP with Transformers,SKILL_092,compliance,2026-02-07,2026-03-13,100,58.0,completed,49.0
+TR0262,EMP048,Digital Marketing Strategy,SKILL_097,compliance,2026-05-15,,67,,in_progress,16.6
+TR0263,EMP048,React Masterclass,SKILL_095,certification,2026-06-03,2026-06-25,100,27.2,completed,31.1
+TR0264,EMP049,React Masterclass,SKILL_070,technical,2026-04-04,,52,,in_progress,55.5
+TR0265,EMP049,Cybersecurity Essentials,SKILL_073,technical,2026-03-21,,0,,enrolled,35.5
+TR0266,EMP049,Test Automation Framework,SKILL_077,compliance,2026-05-22,2026-06-29,100,49.3,completed,12.3
+TR0267,EMP049,DevOps Best Practices,SKILL_077,soft_skills,2026-04-17,,69,,in_progress,48.0
+TR0268,EMP049,Time Management Mastery,SKILL_083,soft_skills,2026-01-08,2026-01-23,100,30.8,completed,26.1
+TR0269,EMP050,Agile & Scrum Certification,SKILL_083,domain,2026-01-11,2026-01-18,31,,dropped,25.0
+TR0270,EMP050,Leadership Excellence,SKILL_085,soft_skills,2026-05-21,2026-07-19,100,63.1,completed,25.7
+TR0271,EMP050,SQL Performance Tuning,SKILL_086,leadership,2026-01-27,,56,,in_progress,47.7
+TR0272,EMP050,Cybersecurity Essentials,SKILL_086,technical,2026-03-30,2026-04-12,100,61.1,completed,36.2
+TR0273,EMP050,Data Analysis with Pandas,SKILL_085,domain,2026-01-17,2026-02-20,100,75.9,completed,22.8
+TR0274,EMP051,DevOps Best Practices,SKILL_070,soft_skills,2026-02-25,,0,,enrolled,38.5
+TR0275,EMP051,Cybersecurity Essentials,SKILL_070,soft_skills,2026-06-03,,0,,enrolled,18.1
+TR0276,EMP051,Deep Learning Specialization,SKILL_070,technical,2026-01-03,2026-01-28,27,,dropped,52.2
+TR0277,EMP051,AWS Solutions Architect Prep,SKILL_077,technical,2026-02-13,2026-03-20,100,93.7,completed,18.4
+TR0278,EMP051,Leadership Excellence,SKILL_076,certification,2026-02-09,,40,,in_progress,29.1
+TR0279,EMP051,Product Management Fundamentals,SKILL_085,soft_skills,2026-02-09,2026-04-05,100,71.2,completed,40.0
+TR0280,EMP051,System Design Interview Prep,SKILL_076,technical,2026-05-15,2026-07-10,36,,dropped,13.8
+TR0281,EMP052,Effective Communication Workshop,SKILL_070,technical,2026-04-13,,41,,in_progress,35.7
+TR0282,EMP052,Negotiation Skills,SKILL_070,certification,2026-05-12,2026-06-18,100,38.2,completed,38.1
+TR0283,EMP052,UX Research Methods,SKILL_075,certification,2026-03-26,2026-04-10,100,18.4,completed,38.4
+TR0284,EMP052,SQL Performance Tuning,SKILL_086,compliance,2026-01-24,,48,,in_progress,12.2
+TR0285,EMP052,Blockchain Fundamentals,SKILL_076,certification,2026-03-30,2026-05-21,100,29.5,completed,12.2
+TR0286,EMP052,Agile & Scrum Certification,SKILL_076,leadership,2026-04-16,2026-05-08,31,,dropped,27.4
+TR0287,EMP052,Product Management Fundamentals,SKILL_077,compliance,2026-05-27,2026-06-10,100,24.9,completed,5.4
+TR0288,EMP053,Technical Writing Excellence,SKILL_085,compliance,2026-04-12,2026-06-04,35,,dropped,59.6
+TR0289,EMP053,Agile & Scrum Certification,SKILL_075,domain,2026-02-17,,66,,in_progress,35.2
+TR0290,EMP053,Financial Modeling,SKILL_144,compliance,2026-03-28,,64,,in_progress,44.9
+TR0291,EMP053,UX Research Methods,SKILL_083,technical,2026-04-12,,31,,in_progress,12.2
+TR0292,EMP053,Cloud Architecture Design,SKILL_076,leadership,2026-03-06,2026-03-15,100,48.0,completed,27.7
+TR0293,EMP053,Cybersecurity Essentials,SKILL_083,technical,2026-03-03,2026-03-18,100,66.4,completed,24.7
+TR0294,EMP054,UX Research Methods,SKILL_077,soft_skills,2026-05-05,,0,,enrolled,58.6
+TR0295,EMP054,Digital Marketing Strategy,SKILL_075,compliance,2026-03-06,,0,,enrolled,56.4
+TR0296,EMP054,Effective Communication Workshop,SKILL_076,leadership,2026-04-27,,58,,in_progress,19.7
+TR0297,EMP054,Leadership Excellence,SKILL_075,technical,2026-02-07,2026-02-16,100,74.3,completed,13.3
+TR0298,EMP054,Machine Learning Fundamentals,SKILL_075,certification,2026-04-12,,64,,in_progress,38.6
+TR0299,EMP054,Data Analysis with Pandas,SKILL_086,compliance,2026-01-23,,0,,enrolled,32.2
+TR0300,EMP054,Docker & Kubernetes Bootcamp,SKILL_073,domain,2026-02-25,,0,,enrolled,55.0
+TR0301,EMP055,UX Research Methods,SKILL_076,leadership,2026-03-14,,0,,enrolled,49.3
+TR0302,EMP055,Test Automation Framework,SKILL_144,technical,2026-04-08,2026-04-24,100,71.0,completed,53.0
+TR0303,EMP055,Cloud Architecture Design,SKILL_083,leadership,2026-05-26,,50,,in_progress,42.4
+TR0304,EMP055,Data Analysis with Pandas,SKILL_083,compliance,2026-06-12,2026-06-23,100,45.6,completed,29.6
+TR0305,EMP056,NLP with Transformers,SKILL_077,certification,2026-06-01,2026-06-25,100,88.0,completed,21.4
+TR0306,EMP056,Time Management Mastery,SKILL_070,domain,2026-04-01,,79,,in_progress,10.1
+TR0307,EMP056,Leadership Excellence,SKILL_077,leadership,2026-04-05,,0,,enrolled,17.6
+TR0308,EMP056,Blockchain Fundamentals,SKILL_073,soft_skills,2026-03-19,2026-04-23,100,68.9,completed,33.2
+TR0309,EMP056,Agile & Scrum Certification,SKILL_073,soft_skills,2026-05-03,,64,,in_progress,35.2
+TR0310,EMP056,Digital Marketing Strategy,SKILL_075,compliance,2026-01-30,,0,,enrolled,57.0
+TR0311,EMP057,Technical Writing Excellence,SKILL_070,leadership,2026-05-21,2026-05-30,12,,dropped,58.8
+TR0312,EMP057,Time Management Mastery,SKILL_076,certification,2026-05-14,2026-05-21,39,,dropped,13.7
+TR0313,EMP057,AWS Solutions Architect Prep,SKILL_070,domain,2026-02-07,2026-02-25,100,56.8,completed,13.6
+TR0314,EMP057,Financial Modeling,SKILL_076,leadership,2026-04-23,2026-05-26,32,,dropped,24.4
+TR0315,EMP057,Data Visualization Masterclass,SKILL_070,technical,2026-06-10,2026-07-20,100,61.0,completed,18.3
+TR0316,EMP058,UX Research Methods,SKILL_083,domain,2026-02-04,2026-02-11,100,56.3,completed,7.9
+TR0317,EMP058,Deep Learning Specialization,SKILL_086,leadership,2026-03-05,,0,,enrolled,12.3
+TR0318,EMP058,Blockchain Fundamentals,SKILL_085,certification,2026-06-12,,0,,enrolled,24.0
+TR0319,EMP058,React Masterclass,SKILL_083,compliance,2026-03-02,2026-04-14,100,60.7,completed,28.0
+TR0320,EMP058,AWS Solutions Architect Prep,SKILL_086,compliance,2026-02-11,2026-04-02,100,55.9,completed,49.1
+TR0321,EMP058,Data Analysis with Pandas,SKILL_076,domain,2026-04-04,,73,,in_progress,41.8
+TR0322,EMP059,Digital Marketing Strategy,SKILL_153,domain,2026-02-11,2026-03-04,100,46.5,completed,50.5
+TR0323,EMP059,System Design Interview Prep,SKILL_083,soft_skills,2026-04-09,,54,,in_progress,15.3
+TR0324,EMP059,DevOps Best Practices,SKILL_085,compliance,2026-06-08,2026-07-02,100,76.3,completed,39.2
+TR0325,EMP059,Agile & Scrum Certification,SKILL_083,technical,2026-02-14,2026-03-08,100,61.1,completed,54.5
+TR0326,EMP059,Machine Learning Fundamentals,SKILL_153,soft_skills,2026-01-22,2026-03-16,100,59.4,completed,21.6
+TR0327,EMP059,Docker & Kubernetes Bootcamp,SKILL_084,soft_skills,2026-03-01,,0,,enrolled,48.8
+TR0328,EMP060,Blockchain Fundamentals,SKILL_152,domain,2026-04-16,,52,,in_progress,42.3
+TR0329,EMP060,Leadership Excellence,SKILL_085,domain,2026-02-23,2026-04-06,17,,dropped,55.6
+TR0330,EMP060,Docker & Kubernetes Bootcamp,SKILL_070,domain,2026-05-24,2026-07-14,100,45.4,completed,58.8
+TR0331,EMP060,Digital Marketing Strategy,SKILL_086,soft_skills,2026-02-09,2026-02-18,100,31.2,completed,25.6
+TR0332,EMP060,Salesforce Administration,SKILL_084,certification,2026-03-16,,60,,in_progress,52.0
+TR0333,EMP060,Effective Communication Workshop,SKILL_086,domain,2026-06-01,2026-06-13,100,31.9,completed,57.6
+TR0334,EMP061,Technical Writing Excellence,SKILL_152,domain,2026-01-11,2026-01-18,100,52.8,completed,5.8
+TR0335,EMP061,Data Visualization Masterclass,SKILL_083,domain,2026-05-12,2026-07-09,100,60.4,completed,45.7
+TR0336,EMP061,Time Management Mastery,SKILL_085,compliance,2026-02-23,2026-04-07,100,60.4,completed,49.4
+TR0337,EMP061,Project Management Professional Prep,SKILL_077,leadership,2026-05-31,2026-07-15,12,,dropped,8.1
+TR0338,EMP061,Financial Modeling,SKILL_084,compliance,2026-03-30,2026-04-12,100,80.7,completed,27.8
+TR0339,EMP062,Deep Learning Specialization,SKILL_136,leadership,2026-03-17,,33,,in_progress,22.7
+TR0340,EMP062,Machine Learning Fundamentals,SKILL_090,certification,2026-04-02,,0,,enrolled,43.1
+TR0341,EMP062,Data Visualization Masterclass,SKILL_089,compliance,2026-05-10,,66,,in_progress,58.6
+TR0342,EMP062,Cloud Architecture Design,SKILL_137,domain,2026-04-28,,0,,enrolled,12.5
+TR0343,EMP062,NLP with Transformers,SKILL_083,technical,2026-05-17,2026-07-01,100,28.6,completed,24.6
+TR0344,EMP062,Time Management Mastery,SKILL_089,technical,2026-05-20,,40,,in_progress,56.2
+TR0345,EMP062,API Design Best Practices,SKILL_136,soft_skills,2026-04-29,2026-06-10,100,30.7,completed,51.3
+TR0346,EMP063,Machine Learning Fundamentals,SKILL_155,certification,2026-03-13,2026-03-31,100,51.0,completed,45.0
+TR0347,EMP063,Docker & Kubernetes Bootcamp,SKILL_136,soft_skills,2026-03-07,,71,,in_progress,35.3
+TR0348,EMP063,Six Sigma Green Belt,SKILL_137,soft_skills,2026-01-28,2026-03-04,100,25.6,completed,30.6
+TR0349,EMP063,NLP with Transformers,SKILL_087,certification,2026-04-30,,54,,in_progress,33.3
+TR0350,EMP063,SQL Performance Tuning,SKILL_087,domain,2026-04-07,2026-05-04,100,46.1,completed,15.6
+TR0351,EMP063,Data Visualization Masterclass,SKILL_070,soft_skills,2026-02-07,2026-03-11,100,31.9,completed,15.3
+TR0352,EMP063,System Design Interview Prep,SKILL_136,compliance,2026-04-11,2026-04-28,100,41.2,completed,29.4
+TR0353,EMP064,Cloud Architecture Design,SKILL_069,leadership,2026-03-16,2026-05-11,24,,dropped,48.3
+TR0354,EMP064,Machine Learning Fundamentals,SKILL_089,technical,2026-04-29,2026-05-09,100,91.7,completed,48.0
+TR0355,EMP064,AWS Solutions Architect Prep,SKILL_070,domain,2026-02-23,2026-04-18,14,,dropped,45.5
+TR0356,EMP064,Time Management Mastery,SKILL_137,soft_skills,2026-03-13,2026-03-23,100,86.9,completed,23.4
+TR0357,EMP064,Effective Communication Workshop,SKILL_155,leadership,2026-03-13,,0,,enrolled,29.5
+TR0358,EMP065,Deep Learning Specialization,SKILL_069,domain,2026-04-30,,0,,enrolled,5.6
+TR0359,EMP065,Cloud Architecture Design,SKILL_069,compliance,2026-01-21,2026-03-22,35,,dropped,22.9
+TR0360,EMP065,NLP with Transformers,SKILL_136,leadership,2026-06-08,,51,,in_progress,39.9
+TR0361,EMP065,Financial Modeling,SKILL_083,compliance,2026-05-05,2026-06-02,100,32.9,completed,40.6
+TR0362,EMP065,Salesforce Administration,SKILL_137,leadership,2026-03-08,,38,,in_progress,60.0
+TR0363,EMP066,Cybersecurity Essentials,SKILL_088,domain,2026-05-02,2026-06-15,100,61.4,completed,57.8
+TR0364,EMP066,Data Visualization Masterclass,SKILL_089,certification,2026-02-06,,59,,in_progress,54.0
+TR0365,EMP066,Financial Modeling,SKILL_088,technical,2026-01-09,,75,,in_progress,44.7
+TR0366,EMP066,Negotiation Skills,SKILL_070,compliance,2026-01-13,2026-02-16,100,54.5,completed,56.0
+TR0367,EMP066,Effective Communication Workshop,SKILL_089,technical,2026-02-25,2026-03-13,100,50.0,completed,46.6
+TR0368,EMP066,SQL Performance Tuning,SKILL_088,certification,2026-02-26,2026-03-08,25,,dropped,16.9
+TR0369,EMP067,Data Analysis with Pandas,SKILL_050,soft_skills,2026-05-21,2026-06-29,20,,dropped,18.1
+TR0370,EMP067,Time Management Mastery,SKILL_027,compliance,2026-01-20,2026-01-30,100,73.5,completed,26.5
+TR0371,EMP067,UX Research Methods,SKILL_080,compliance,2026-06-10,2026-07-21,100,68.4,completed,40.9
+TR0372,EMP067,DevOps Best Practices,SKILL_150,compliance,2026-02-26,2026-04-14,23,,dropped,58.0
+TR0373,EMP067,AWS Solutions Architect Prep,SKILL_150,compliance,2026-05-30,,0,,enrolled,31.3
+TR0374,EMP068,Test Automation Framework,SKILL_080,technical,2026-06-03,2026-06-22,19,,dropped,47.5
+TR0375,EMP068,Data Visualization Masterclass,SKILL_027,technical,2026-01-13,2026-03-13,100,73.1,completed,43.1
+TR0376,EMP068,UX Research Methods,SKILL_080,certification,2026-06-10,2026-07-14,100,52.2,completed,53.5
+TR0377,EMP068,Project Management Professional Prep,SKILL_057,soft_skills,2026-05-06,2026-05-18,16,,dropped,17.4
+TR0378,EMP068,Technical Writing Excellence,SKILL_150,domain,2026-02-05,,0,,enrolled,51.3
+TR0379,EMP068,Effective Communication Workshop,SKILL_057,soft_skills,2026-02-12,,43,,in_progress,55.0
+TR0380,EMP068,Advanced Python Programming,SKILL_080,soft_skills,2026-03-11,2026-05-02,100,36.5,completed,42.7
+TR0381,EMP069,Docker & Kubernetes Bootcamp,SKILL_081,compliance,2026-05-13,,0,,enrolled,51.2
+TR0382,EMP069,Cybersecurity Essentials,SKILL_150,soft_skills,2026-03-28,2026-05-01,100,85.6,completed,35.4
+TR0383,EMP069,AWS Solutions Architect Prep,SKILL_149,compliance,2026-01-22,2026-03-08,100,85.7,completed,29.2
+TR0384,EMP069,Salesforce Administration,SKILL_081,technical,2026-04-06,,46,,in_progress,49.8
+TR0385,EMP069,Time Management Mastery,SKILL_149,soft_skills,2026-05-14,2026-06-21,100,64.7,completed,52.2
+TR0386,EMP069,API Design Best Practices,SKILL_057,certification,2026-04-29,2026-05-22,100,66.1,completed,59.9
+TR0387,EMP069,Agile & Scrum Certification,SKILL_080,soft_skills,2026-02-27,,0,,enrolled,23.2
+TR0388,EMP070,UX Research Methods,SKILL_082,certification,2026-06-07,2026-07-28,100,65.0,completed,7.6
+TR0389,EMP070,Financial Modeling,SKILL_082,certification,2026-04-11,,0,,enrolled,35.3
+TR0390,EMP070,Data Analysis with Pandas,SKILL_057,certification,2026-05-28,2026-07-16,100,61.0,completed,30.6
+TR0391,EMP070,Blockchain Fundamentals,SKILL_082,compliance,2026-02-24,,57,,in_progress,9.5
+TR0392,EMP070,AWS Solutions Architect Prep,SKILL_080,compliance,2026-05-14,,0,,enrolled,33.5
+TR0393,EMP070,DevOps Best Practices,SKILL_049,technical,2026-04-11,2026-04-28,100,70.2,completed,32.1
+TR0394,EMP071,Data Analysis with Pandas,SKILL_149,leadership,2026-03-06,2026-03-19,100,46.3,completed,54.2
+TR0395,EMP071,DevOps Best Practices,SKILL_081,domain,2026-02-26,2026-04-08,35,,dropped,30.3
+TR0396,EMP071,Six Sigma Green Belt,SKILL_082,leadership,2026-05-09,2026-06-07,100,54.3,completed,54.0
+TR0397,EMP071,Time Management Mastery,SKILL_081,leadership,2026-02-13,,0,,enrolled,16.4
+TR0398,EMP071,Cloud Architecture Design,SKILL_150,leadership,2026-03-03,,49,,in_progress,31.3
+TR0399,EMP071,AWS Solutions Architect Prep,SKILL_027,domain,2026-02-11,2026-03-02,26,,dropped,49.8
+TR0400,EMP072,Advanced Python Programming,SKILL_067,compliance,2026-02-18,2026-04-04,100,94.4,completed,53.3
+TR0401,EMP072,System Design Interview Prep,SKILL_152,soft_skills,2026-01-15,2026-03-02,100,80.3,completed,53.1
+TR0402,EMP072,AWS Solutions Architect Prep,SKILL_101,technical,2026-02-28,2026-04-03,100,100,completed,26.3
+TR0403,EMP072,Six Sigma Green Belt,SKILL_152,technical,2026-02-11,2026-04-03,37,,dropped,56.9
+TR0404,EMP072,Agile & Scrum Certification,SKILL_102,soft_skills,2026-03-26,,0,,enrolled,59.9
+TR0405,EMP072,SQL Performance Tuning,SKILL_098,domain,2026-01-26,,37,,in_progress,28.5
+TR0406,EMP072,Leadership Excellence,SKILL_101,soft_skills,2026-03-03,2026-04-28,18,,dropped,14.9
+TR0407,EMP073,Technical Writing Excellence,SKILL_067,leadership,2026-04-28,2026-06-09,100,89.8,completed,42.3
+TR0408,EMP073,Agile & Scrum Certification,SKILL_067,soft_skills,2026-02-10,,54,,in_progress,54.9
+TR0409,EMP073,Docker & Kubernetes Bootcamp,SKILL_099,soft_skills,2026-02-11,2026-04-04,100,62.5,completed,22.3
+TR0410,EMP073,Advanced Python Programming,SKILL_067,certification,2026-05-05,2026-05-18,100,58.2,completed,28.2
+TR0411,EMP074,System Design Interview Prep,SKILL_101,soft_skills,2026-02-02,2026-03-28,100,52.8,completed,47.7
+TR0412,EMP074,Data Visualization Masterclass,SKILL_098,soft_skills,2026-03-05,,62,,in_progress,30.5
+TR0413,EMP074,DevOps Best Practices,SKILL_102,technical,2026-03-17,2026-04-24,100,48.7,completed,38.9
+TR0414,EMP074,Agile & Scrum Certification,SKILL_099,compliance,2026-04-22,,56,,in_progress,57.6
+TR0415,EMP074,Time Management Mastery,SKILL_099,leadership,2026-02-04,,0,,enrolled,10.8
+TR0416,EMP074,Leadership Excellence,SKILL_098,soft_skills,2026-02-19,2026-04-07,100,74.6,completed,8.5
+TR0417,EMP074,AWS Solutions Architect Prep,SKILL_071,domain,2026-03-25,2026-05-02,100,71.3,completed,12.4
+TR0418,EMP075,Docker & Kubernetes Bootcamp,SKILL_144,soft_skills,2026-04-14,2026-05-19,100,65.5,completed,8.7
+TR0419,EMP075,Six Sigma Green Belt,SKILL_070,domain,2026-06-09,,58,,in_progress,28.9
+TR0420,EMP075,Leadership Excellence,SKILL_085,certification,2026-06-07,2026-07-05,100,59.3,completed,26.2
+TR0421,EMP075,Time Management Mastery,SKILL_085,certification,2026-03-25,2026-05-02,100,52.8,completed,31.1
+TR0422,EMP075,NLP with Transformers,SKILL_147,compliance,2026-03-11,2026-04-06,100,56.6,completed,55.6
+TR0423,EMP075,API Design Best Practices,SKILL_148,certification,2026-05-14,2026-07-01,12,,dropped,30.3
+TR0424,EMP076,Financial Modeling,SKILL_148,compliance,2026-02-11,2026-04-06,100,61.5,completed,13.0
+TR0425,EMP076,NLP with Transformers,SKILL_147,certification,2026-05-03,,0,,enrolled,35.3
+TR0426,EMP076,Blockchain Fundamentals,SKILL_073,leadership,2026-06-07,,73,,in_progress,27.0
+TR0427,EMP076,React Masterclass,SKILL_145,leadership,2026-06-06,,0,,enrolled,11.2
+TR0428,EMP076,Data Visualization Masterclass,SKILL_085,technical,2026-04-28,,36,,in_progress,18.6
+TR0429,EMP076,System Design Interview Prep,SKILL_146,technical,2026-01-31,2026-03-09,100,46.3,completed,32.1
+TR0430,EMP077,Docker & Kubernetes Bootcamp,SKILL_148,soft_skills,2026-02-18,2026-03-27,100,88.7,completed,6.3
+TR0431,EMP077,AWS Solutions Architect Prep,SKILL_148,leadership,2026-02-15,2026-04-15,20,,dropped,56.8
+TR0432,EMP077,React Masterclass,SKILL_085,domain,2026-01-12,2026-03-10,100,100,completed,53.3
+TR0433,EMP077,Negotiation Skills,SKILL_147,domain,2026-03-28,,79,,in_progress,29.9
+TR0434,EMP077,DevOps Best Practices,SKILL_144,compliance,2026-02-23,2026-04-20,100,88.8,completed,12.8
+TR0435,EMP078,Six Sigma Green Belt,SKILL_085,certification,2026-05-19,2026-06-02,100,39.4,completed,15.1
+TR0436,EMP078,Machine Learning Fundamentals,SKILL_148,compliance,2026-04-12,,39,,in_progress,57.7
+TR0437,EMP078,Cybersecurity Essentials,SKILL_145,technical,2026-02-20,2026-04-12,100,66.6,completed,18.0
+TR0438,EMP078,Data Visualization Masterclass,SKILL_146,leadership,2026-05-21,2026-06-08,100,60.7,completed,16.7
+TR0439,EMP078,React Masterclass,SKILL_070,leadership,2026-05-27,2026-07-01,100,54.4,completed,9.6
+TR0440,EMP078,DevOps Best Practices,SKILL_085,compliance,2026-03-28,,0,,enrolled,55.9
+TR0441,EMP078,System Design Interview Prep,SKILL_147,domain,2026-06-05,2026-07-23,100,60.7,completed,44.7
+TR0442,EMP079,AWS Solutions Architect Prep,SKILL_085,soft_skills,2026-01-24,2026-02-16,100,75.4,completed,37.7
+TR0443,EMP079,Product Management Fundamentals,SKILL_070,leadership,2026-03-14,2026-03-23,100,69.0,completed,20.0
+TR0444,EMP079,Technical Writing Excellence,SKILL_147,certification,2026-01-16,2026-02-19,100,68.7,completed,41.6
+TR0445,EMP079,System Design Interview Prep,SKILL_085,domain,2026-02-19,2026-03-23,18,,dropped,34.9
+TR0446,EMP079,Digital Marketing Strategy,SKILL_073,compliance,2026-05-27,2026-07-17,100,83.2,completed,44.4
+TR0447,EMP079,Negotiation Skills,SKILL_070,compliance,2026-01-05,,0,,enrolled,47.9
+TR0448,EMP079,Advanced Python Programming,SKILL_146,compliance,2026-03-30,2026-05-16,100,68.2,completed,31.9
+TR0449,EMP080,Negotiation Skills,SKILL_146,technical,2026-05-30,,60,,in_progress,39.0
+TR0450,EMP080,Salesforce Administration,SKILL_144,certification,2026-03-24,2026-05-03,100,35.1,completed,57.7
+TR0451,EMP080,NLP with Transformers,SKILL_070,compliance,2026-02-28,2026-03-17,100,27.9,completed,24.6
+TR0452,EMP080,System Design Interview Prep,SKILL_148,compliance,2026-05-23,2026-07-18,100,39.6,completed,59.6
+TR0453,EMP080,Technical Writing Excellence,SKILL_148,technical,2026-05-05,,34,,in_progress,33.3
+TR0454,EMP081,Cybersecurity Essentials,SKILL_070,leadership,2026-04-14,2026-04-21,100,27.6,completed,46.7
+TR0455,EMP081,Blockchain Fundamentals,SKILL_147,certification,2026-06-03,,37,,in_progress,8.8
+TR0456,EMP081,Cloud Architecture Design,SKILL_085,compliance,2026-01-26,2026-02-20,100,38.8,completed,18.8
+TR0457,EMP081,System Design Interview Prep,SKILL_073,compliance,2026-01-08,,51,,in_progress,54.9
+TR0458,EMP081,Financial Modeling,SKILL_070,leadership,2026-02-21,2026-03-18,100,48.0,completed,17.5
+TR0459,EMP082,System Design Interview Prep,SKILL_147,domain,2026-03-09,2026-04-30,36,,dropped,59.8
+TR0460,EMP082,Product Management Fundamentals,SKILL_144,compliance,2026-05-05,,0,,enrolled,7.4
+TR0461,EMP082,Test Automation Framework,SKILL_144,leadership,2026-02-11,2026-02-20,21,,dropped,14.1
+TR0462,EMP082,NLP with Transformers,SKILL_145,soft_skills,2026-05-15,,0,,enrolled,12.8
+TR0463,EMP082,Docker & Kubernetes Bootcamp,SKILL_085,leadership,2026-01-10,,72,,in_progress,27.0
+TR0464,EMP082,Machine Learning Fundamentals,SKILL_146,technical,2026-04-19,2026-06-10,100,41.7,completed,59.8
+TR0465,EMP083,AWS Solutions Architect Prep,SKILL_063,domain,2026-03-20,,0,,enrolled,12.3
+TR0466,EMP083,Digital Marketing Strategy,SKILL_083,domain,2026-02-07,2026-03-06,100,36.0,completed,49.3
+TR0467,EMP083,Test Automation Framework,SKILL_073,compliance,2026-03-08,2026-04-24,27,,dropped,32.1
+TR0468,EMP083,Effective Communication Workshop,SKILL_137,compliance,2026-05-17,,0,,enrolled,40.4
+TR0469,EMP083,Data Visualization Masterclass,SKILL_152,domain,2026-03-13,,0,,enrolled,35.0
+TR0470,EMP083,System Design Interview Prep,SKILL_063,certification,2026-03-26,2026-04-14,100,21.7,completed,44.1
+TR0471,EMP083,Cybersecurity Essentials,SKILL_070,technical,2026-03-06,2026-03-20,100,29.9,completed,50.4
+TR0472,EMP084,Time Management Mastery,SKILL_108,domain,2026-06-07,2026-06-23,100,59.9,completed,41.8
+TR0473,EMP084,Cybersecurity Essentials,SKILL_108,certification,2026-03-12,2026-03-28,100,51.6,completed,18.0
+TR0474,EMP084,System Design Interview Prep,SKILL_049,certification,2026-05-16,,0,,enrolled,46.2
+TR0475,EMP084,UX Research Methods,SKILL_073,compliance,2026-01-23,2026-02-02,36,,dropped,28.5
+TR0476,EMP084,Technical Writing Excellence,SKILL_076,leadership,2026-03-01,,31,,in_progress,49.6
+TR0477,EMP085,API Design Best Practices,SKILL_069,domain,2026-03-22,2026-05-02,100,87.6,completed,48.0
+TR0478,EMP085,Cybersecurity Essentials,SKILL_076,technical,2026-05-27,,49,,in_progress,22.0
+TR0479,EMP085,SQL Performance Tuning,SKILL_152,certification,2026-03-23,,36,,in_progress,47.2
+TR0480,EMP085,Test Automation Framework,SKILL_083,compliance,2026-01-08,,0,,enrolled,26.6
+TR0481,EMP086,Salesforce Administration,SKILL_070,domain,2026-03-29,2026-05-17,100,46.3,completed,31.2
+TR0482,EMP086,Negotiation Skills,SKILL_108,compliance,2026-06-12,2026-06-20,100,36.3,completed,32.4
+TR0483,EMP086,Time Management Mastery,SKILL_063,domain,2026-03-19,2026-05-15,31,,dropped,41.8
+TR0484,EMP086,Digital Marketing Strategy,SKILL_076,compliance,2026-01-25,2026-03-05,100,57.2,completed,14.1
+TR0485,EMP086,Machine Learning Fundamentals,SKILL_076,technical,2026-05-03,2026-06-04,100,34.3,completed,54.6
+TR0486,EMP086,System Design Interview Prep,SKILL_070,certification,2026-02-16,,0,,enrolled,28.1
+TR0487,EMP087,Cybersecurity Essentials,SKILL_001,technical,2026-01-11,2026-03-07,100,79.3,completed,58.6
+TR0488,EMP087,Leadership Excellence,SKILL_055,compliance,2026-04-29,,33,,in_progress,7.1
+TR0489,EMP087,DevOps Best Practices,SKILL_047,technical,2026-02-13,2026-02-20,100,46.2,completed,28.1
+TR0490,EMP087,Project Management Professional Prep,SKILL_049,domain,2026-05-07,2026-07-03,38,,dropped,34.0
+TR0491,EMP087,Negotiation Skills,SKILL_047,leadership,2026-01-29,2026-03-17,100,42.9,completed,11.9
+TR0492,EMP087,Agile & Scrum Certification,SKILL_027,certification,2026-06-14,,43,,in_progress,55.4
+TR0493,EMP087,React Masterclass,SKILL_045,leadership,2026-03-30,2026-05-04,100,49.2,completed,58.3
+TR0494,EMP088,Docker & Kubernetes Bootcamp,SKILL_050,technical,2026-02-05,2026-03-03,100,64.0,completed,19.9
+TR0495,EMP088,Digital Marketing Strategy,SKILL_054,leadership,2026-01-20,2026-02-23,100,73.8,completed,23.9
+TR0496,EMP088,Advanced Python Programming,SKILL_054,certification,2026-01-22,2026-02-13,100,72.3,completed,37.5
+TR0497,EMP088,Technical Writing Excellence,SKILL_027,soft_skills,2026-03-07,2026-04-21,100,63.2,completed,51.1
+TR0498,EMP089,Agile & Scrum Certification,SKILL_014,soft_skills,2026-03-24,2026-05-20,100,63.8,completed,42.5
+TR0499,EMP089,Test Automation Framework,SKILL_155,technical,2026-01-06,2026-02-20,100,61.1,completed,33.4
+TR0500,EMP089,Leadership Excellence,SKILL_155,soft_skills,2026-04-13,,0,,enrolled,8.8
+TR0501,EMP089,Advanced Python Programming,SKILL_046,compliance,2026-06-02,2026-07-01,100,62.6,completed,28.7
+TR0502,EMP090,Leadership Excellence,SKILL_155,domain,2026-04-04,2026-05-08,100,49.9,completed,25.4
+TR0503,EMP090,System Design Interview Prep,SKILL_055,technical,2026-01-25,2026-02-26,100,40.7,completed,57.7
+TR0504,EMP090,Technical Writing Excellence,SKILL_053,certification,2026-03-22,2026-04-17,14,,dropped,51.4
+TR0505,EMP090,Agile & Scrum Certification,SKILL_155,compliance,2026-02-28,2026-03-14,100,44.9,completed,17.5
+TR0506,EMP090,Blockchain Fundamentals,SKILL_045,domain,2026-01-23,,0,,enrolled,7.3
+TR0507,EMP091,React Masterclass,SKILL_052,compliance,2026-01-09,2026-01-21,100,69.3,completed,15.9
+TR0508,EMP091,System Design Interview Prep,SKILL_052,certification,2026-06-08,2026-07-04,100,91.3,completed,46.5
+TR0509,EMP091,Blockchain Fundamentals,SKILL_001,compliance,2026-01-08,,0,,enrolled,59.9
+TR0510,EMP091,AWS Solutions Architect Prep,SKILL_014,domain,2026-04-11,2026-05-21,100,73.3,completed,47.4
+TR0511,EMP091,Salesforce Administration,SKILL_014,technical,2026-03-07,2026-03-19,25,,dropped,32.3
+TR0512,EMP092,Time Management Mastery,SKILL_050,compliance,2026-05-15,2026-06-16,100,78.9,completed,42.6
+TR0513,EMP092,Advanced Python Programming,SKILL_051,certification,2026-03-02,2026-04-08,100,78.4,completed,31.8
+TR0514,EMP092,Deep Learning Specialization,SKILL_053,leadership,2026-06-07,,0,,enrolled,20.5
+TR0515,EMP092,Cybersecurity Essentials,SKILL_052,domain,2026-02-15,2026-03-01,100,81.3,completed,55.7
+TR0516,EMP092,Project Management Professional Prep,SKILL_045,technical,2026-05-05,2026-05-17,100,77.5,completed,28.2
+TR0517,EMP092,SQL Performance Tuning,SKILL_050,compliance,2026-05-19,2026-07-18,100,69.6,completed,15.5
+TR0518,EMP093,Project Management Professional Prep,SKILL_111,soft_skills,2026-05-09,,31,,in_progress,55.0
+TR0519,EMP093,Advanced Python Programming,SKILL_109,soft_skills,2026-04-09,,0,,enrolled,56.1
+TR0520,EMP093,API Design Best Practices,SKILL_109,domain,2026-02-10,,0,,enrolled,40.6
+TR0521,EMP093,Cybersecurity Essentials,SKILL_114,technical,2026-03-29,2026-05-08,100,99.5,completed,46.1
+TR0522,EMP093,Time Management Mastery,SKILL_111,leadership,2026-02-03,,41,,in_progress,11.0
+TR0523,EMP093,Cloud Architecture Design,SKILL_044,domain,2026-02-16,2026-03-09,100,95.9,completed,11.8
+TR0524,EMP094,Cybersecurity Essentials,SKILL_110,technical,2026-01-19,,0,,enrolled,40.3
+TR0525,EMP094,Docker & Kubernetes Bootcamp,SKILL_110,compliance,2026-04-03,2026-04-13,100,77.1,completed,26.6
+TR0526,EMP094,AWS Solutions Architect Prep,SKILL_109,compliance,2026-03-06,2026-05-03,100,100,completed,53.4
+TR0527,EMP094,NLP with Transformers,SKILL_044,technical,2026-03-16,2026-04-05,100,80.3,completed,39.1
+TR0528,EMP094,Blockchain Fundamentals,SKILL_109,compliance,2026-05-13,2026-07-08,100,94.5,completed,55.7
+TR0529,EMP094,DevOps Best Practices,SKILL_110,domain,2026-01-30,2026-03-10,100,84.2,completed,58.9
+TR0530,EMP094,Data Visualization Masterclass,SKILL_109,certification,2026-05-30,2026-06-14,100,84.4,completed,10.1
+TR0531,EMP095,Time Management Mastery,SKILL_044,certification,2026-04-13,,54,,in_progress,16.2
+TR0532,EMP095,Data Visualization Masterclass,SKILL_058,leadership,2026-03-16,,60,,in_progress,9.1
+TR0533,EMP095,Salesforce Administration,SKILL_058,technical,2026-04-18,2026-06-02,100,70.4,completed,46.7
+TR0534,EMP095,Docker & Kubernetes Bootcamp,SKILL_058,leadership,2026-03-01,,35,,in_progress,47.8
+TR0535,EMP095,UX Research Methods,SKILL_114,domain,2026-02-15,,66,,in_progress,6.1
+TR0536,EMP096,API Design Best Practices,SKILL_114,domain,2026-05-11,,50,,in_progress,47.6
+TR0537,EMP096,SQL Performance Tuning,SKILL_114,certification,2026-05-09,,63,,in_progress,43.0
+TR0538,EMP096,React Masterclass,SKILL_111,domain,2026-02-11,2026-03-11,100,57.1,completed,48.2
+TR0539,EMP096,Agile & Scrum Certification,SKILL_112,compliance,2026-01-11,2026-02-14,100,53.8,completed,55.4
+TR0540,EMP096,Salesforce Administration,SKILL_058,soft_skills,2026-05-21,2026-06-23,100,31.4,completed,11.6
+TR0541,EMP096,Project Management Professional Prep,SKILL_111,technical,2026-01-09,2026-03-03,13,,dropped,14.6
+TR0542,EMP096,Data Visualization Masterclass,SKILL_058,leadership,2026-03-04,2026-04-04,100,17.8,completed,38.7
+TR0543,EMP097,AWS Solutions Architect Prep,SKILL_061,compliance,2026-04-23,2026-06-15,100,91.8,completed,16.2
+TR0544,EMP097,Technical Writing Excellence,SKILL_058,technical,2026-02-15,2026-03-12,100,92.1,completed,29.5
+TR0545,EMP097,Six Sigma Green Belt,SKILL_111,technical,2026-04-28,,45,,in_progress,29.8
+TR0546,EMP097,UX Research Methods,SKILL_062,compliance,2026-02-02,2026-03-22,100,73.3,completed,11.5
+TR0547,EMP097,Cybersecurity Essentials,SKILL_061,domain,2026-06-02,2026-06-19,100,69.9,completed,34.4
+TR0548,EMP097,Data Visualization Masterclass,SKILL_062,soft_skills,2026-03-25,2026-05-11,100,99.4,completed,7.4
+TR0549,EMP098,Time Management Mastery,SKILL_109,technical,2026-03-14,,0,,enrolled,48.1
+TR0550,EMP098,NLP with Transformers,SKILL_060,domain,2026-03-14,,34,,in_progress,31.8
+TR0551,EMP098,Agile & Scrum Certification,SKILL_001,domain,2026-02-15,2026-02-28,100,30.5,completed,58.8
+TR0552,EMP098,React Masterclass,SKILL_001,soft_skills,2026-01-27,,0,,enrolled,25.3
+TR0553,EMP099,DevOps Best Practices,SKILL_111,compliance,2026-06-03,2026-07-27,100,85.5,completed,58.5
+TR0554,EMP099,Docker & Kubernetes Bootcamp,SKILL_062,certification,2026-01-10,2026-02-07,100,74.4,completed,14.3
+TR0555,EMP099,Salesforce Administration,SKILL_059,leadership,2026-02-23,2026-03-27,100,93.2,completed,54.5
+TR0556,EMP099,AWS Solutions Architect Prep,SKILL_059,leadership,2026-02-01,2026-03-23,29,,dropped,34.6
+TR0557,EMP099,NLP with Transformers,SKILL_111,compliance,2026-03-11,2026-03-18,100,75.2,completed,45.4
+TR0558,EMP100,API Design Best Practices,SKILL_062,technical,2026-01-29,,0,,enrolled,5.1
+TR0559,EMP100,Digital Marketing Strategy,SKILL_062,soft_skills,2026-01-10,,40,,in_progress,45.9
+TR0560,EMP100,Time Management Mastery,SKILL_059,certification,2026-02-26,,60,,in_progress,13.9
+TR0561,EMP100,Project Management Professional Prep,SKILL_059,certification,2026-05-18,2026-06-24,100,30.4,completed,59.3
+TR0562,EMP100,Salesforce Administration,SKILL_058,compliance,2026-01-04,2026-02-27,100,47.7,completed,49.3
+TR0563,EMP100,Effective Communication Workshop,SKILL_111,compliance,2026-01-06,2026-02-02,100,55.9,completed,40.0

@@ -1,0 +1,31 @@
+job_id,job_title,department_id,role_id,job_description,seniority_level,employment_type,location,work_mode,minimum_experience_years,maximum_experience_years,education_requirement,salary_min,salary_max,status,created_date,closing_date
+JOB001,Mid HR Specialist,DEP002,ROLE006,Looking for a mid HR Specialist to join our DEP002 team.,Mid,full_time,Gurgaon,onsite,2,6,Master's,800000,1800000,open,2026-06-02,2026-08-28
+JOB002,Senior Engineering Manager,DEP001,ROLE004,Looking for a senior Engineering Manager to join our DEP001 team.,Senior,full_time,Ahmedabad,onsite,6,11,Bachelor's,1500000,3500000,open,2026-06-12,2026-07-14
+JOB003,Mid Data Scientist,DEP009,ROLE015,Looking for a mid Data Scientist to join our DEP009 team.,Mid,full_time,Pune,onsite,3,11,Any,800000,1800000,closed,2026-06-05,2026-08-01
+JOB004,Mid DevOps Engineer,DEP001,ROLE003,Looking for a mid DevOps Engineer to join our DEP001 team.,Mid,full_time,Ahmedabad,onsite,3,9,Bachelor's,800000,1800000,filled,2026-07-28,2026-09-11
+JOB005,Junior Sales Executive,DEP003,ROLE008,Looking for a junior Sales Executive to join our DEP003 team.,Junior,full_time,Hyderabad,hybrid,1,5,Bachelor's,400000,800000,filled,2026-06-21,2026-07-28
+JOB006,Mid Security Analyst,DEP010,ROLE017,Looking for a mid Security Analyst to join our DEP010 team.,Mid,full_time,Bangalore,remote,3,9,Master's,800000,1800000,closed,2026-04-17,2026-07-14
+JOB007,Mid QA Engineer,DEP001,ROLE005,Looking for a mid QA Engineer to join our DEP001 team.,Mid,full_time,Chennai,hybrid,2,9,Master's,800000,1800000,closed,2026-05-21,2026-06-26
+JOB008,Mid DevOps Engineer,DEP001,ROLE003,Looking for a mid DevOps Engineer to join our DEP001 team.,Mid,full_time,Pune,hybrid,3,7,Bachelor's,800000,1800000,open,2026-08-01,2026-10-30
+JOB009,Mid Backend Developer,DEP001,ROLE001,Looking for a mid Backend Developer to join our DEP001 team.,Mid,full_time,Chennai,remote,2,5,Master's,800000,1800000,filled,2026-06-27,2026-09-14
+JOB010,Mid Marketing Specialist,DEP004,ROLE010,Looking for a mid Marketing Specialist to join our DEP004 team.,Mid,full_time,Pune,onsite,2,9,Bachelor's,800000,1800000,filled,2026-05-12,2026-07-01
+JOB011,Mid Security Analyst,DEP010,ROLE017,Looking for a mid Security Analyst to join our DEP010 team.,Mid,full_time,Bangalore,onsite,3,9,Any,800000,1800000,open,2026-06-13,2026-07-31
+JOB012,Mid Marketing Specialist,DEP004,ROLE010,Looking for a mid Marketing Specialist to join our DEP004 team.,Mid,full_time,Delhi NCR,remote,2,7,Bachelor's,800000,1800000,open,2026-04-19,2026-05-22
+JOB013,Senior Engineering Manager,DEP001,ROLE004,Looking for a senior Engineering Manager to join our DEP001 team.,Senior,full_time,Ahmedabad,remote,6,11,Master's,1500000,3500000,open,2026-04-11,2026-06-19
+JOB014,Mid QA Engineer,DEP001,ROLE005,Looking for a mid QA Engineer to join our DEP001 team.,Mid,full_time,Chennai,onsite,2,9,Master's,800000,1800000,filled,2026-04-07,2026-06-15
+JOB015,Mid Marketing Specialist,DEP004,ROLE010,Looking for a mid Marketing Specialist to join our DEP004 team.,Mid,full_time,Noida,remote,2,7,Bachelor's,800000,1800000,filled,2026-03-16,2026-06-04
+JOB016,Senior Engineering Manager,DEP001,ROLE004,Looking for a senior Engineering Manager to join our DEP001 team.,Senior,full_time,Delhi NCR,onsite,6,14,Master's,1500000,3500000,closed,2026-05-17,2026-06-22
+JOB017,Senior Engineering Manager,DEP001,ROLE004,Looking for a senior Engineering Manager to join our DEP001 team.,Senior,full_time,Noida,hybrid,6,9,Bachelor's,1500000,3500000,filled,2026-03-19,2026-05-15
+JOB018,Mid DevOps Engineer,DEP001,ROLE003,Looking for a mid DevOps Engineer to join our DEP001 team.,Mid,full_time,Delhi NCR,remote,3,7,Any,800000,1800000,open,2026-04-16,2026-06-14
+JOB019,Junior Support Specialist,DEP007,ROLE013,Looking for a junior Support Specialist to join our DEP007 team.,Junior,full_time,Kochi,onsite,1,8,Bachelor's,400000,800000,filled,2026-07-02,2026-08-25
+JOB020,Senior Sales Manager,DEP003,ROLE009,Looking for a senior Sales Manager to join our DEP003 team.,Senior,full_time,Jaipur,remote,5,13,Any,1500000,3500000,open,2026-05-08,2026-08-01
+JOB021,Senior Product Manager,DEP008,ROLE014,Looking for a senior Product Manager to join our DEP008 team.,Senior,full_time,Kochi,hybrid,4,8,Master's,1500000,3500000,filled,2026-05-17,2026-08-10
+JOB022,Mid DevOps Engineer,DEP001,ROLE003,Looking for a mid DevOps Engineer to join our DEP001 team.,Mid,full_time,Kolkata,onsite,3,6,Any,800000,1800000,open,2026-04-30,2026-05-30
+JOB023,Junior Support Specialist,DEP007,ROLE013,Looking for a junior Support Specialist to join our DEP007 team.,Junior,full_time,Bangalore,remote,1,6,Bachelor's,400000,800000,open,2026-03-07,2026-05-27
+JOB024,Senior Sales Manager,DEP003,ROLE009,Looking for a senior Sales Manager to join our DEP003 team.,Senior,full_time,Ahmedabad,remote,5,13,Bachelor's,1500000,3500000,closed,2026-03-26,2026-05-14
+JOB025,Senior HR Manager,DEP002,ROLE007,Looking for a senior HR Manager to join our DEP002 team.,Senior,full_time,Mumbai,onsite,5,10,Master's,1500000,3500000,closed,2026-03-05,2026-05-11
+JOB026,Mid HR Specialist,DEP002,ROLE006,Looking for a mid HR Specialist to join our DEP002 team.,Mid,full_time,Chennai,onsite,2,10,Master's,800000,1800000,closed,2026-03-29,2026-06-24
+JOB027,Mid System Administrator,DEP010,ROLE016,Looking for a mid System Administrator to join our DEP010 team.,Mid,full_time,Gurgaon,hybrid,2,6,Any,800000,1800000,closed,2026-04-29,2026-06-02
+JOB028,Junior Support Specialist,DEP007,ROLE013,Looking for a junior Support Specialist to join our DEP007 team.,Junior,full_time,Hyderabad,onsite,1,5,Any,400000,800000,open,2026-05-01,2026-06-20
+JOB029,Junior Support Specialist,DEP007,ROLE013,Looking for a junior Support Specialist to join our DEP007 team.,Junior,full_time,Jaipur,onsite,1,9,Master's,400000,800000,filled,2026-03-23,2026-05-05
+JOB030,Senior HR Manager,DEP002,ROLE007,Looking for a senior HR Manager to join our DEP002 team.,Senior,full_time,Noida,hybrid,5,11,Master's,1500000,3500000,open,2026-05-23,2026-06-23

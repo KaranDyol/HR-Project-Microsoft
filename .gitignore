@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local runtime data
+Backend/hr_intelligence.db
+
+# Secrets
+.env
+
+# Editors
+.vscode/

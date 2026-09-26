@@ -1,0 +1,301 @@
+candidate_id,candidate_code,first_name,last_name,email,phone,location,total_experience_years,highest_education,education_field,current_role,resume_file,application_date,source,status
+CAN001,C001,Kavita,Menon,kavita.menon1@gmail.com,+91-8322996164,Kolkata,9.2,Master's,Data Science,Senior Developer,resumes/CAN001_resume.pdf,2026-05-22,referral,applied
+CAN002,C002,Aditya,Bhat,aditya.bhat2@gmail.com,+91-9362769753,Ahmedabad,5.3,Master's,Psychology,QA Analyst,resumes/CAN002_resume.pdf,2026-07-02,referral,screening
+CAN003,C003,Lakshmi,Mehta,lakshmi.mehta3@gmail.com,+91-8680168302,Chennai,5.4,Diploma,Commerce,Financial Analyst,resumes/CAN003_resume.pdf,2026-06-07,naukri,rejected
+CAN004,C004,Gaurav,Mukherjee,gaurav.mukherjee4@gmail.com,+91-9139177417,Pune,12.8,Master's,Mathematics,Backend Developer,resumes/CAN004_resume.pdf,2026-07-15,company_website,rejected
+CAN005,C005,Tarun,Bhat,tarun.bhat5@gmail.com,+91-8630875857,Gurgaon,11.2,Master's,Human Resource Management,Business Analyst,resumes/CAN005_resume.pdf,2026-07-28,company_website,shortlisted
+CAN006,C006,Rajesh,Chauhan,rajesh.chauhan6@gmail.com,+91-8502912747,Delhi NCR,9.3,Master's,Statistics,Data Scientist,resumes/CAN006_resume.pdf,2026-07-30,company_website,interview
+CAN007,C007,Deepak,Dhawan,deepak.dhawan7@gmail.com,+91-9626788963,Jaipur,4.2,PhD,Electronics,Business Analyst,resumes/CAN007_resume.pdf,2026-08-19,campus,rejected
+CAN008,C008,Sonal,Pillai,sonal.pillai8@gmail.com,+91-8289560896,Delhi NCR,16.2,Bachelor's,Mathematics,Frontend Developer,resumes/CAN008_resume.pdf,2026-06-24,campus,applied
+CAN009,C009,Mohit,Verma,mohit.verma9@gmail.com,+91-7955098556,Hyderabad,4.3,Master's,Business Administration,DevOps Engineer,resumes/CAN009_resume.pdf,2026-05-17,naukri,hired
+CAN010,C010,Megha,Mathur,megha.mathur10@gmail.com,+91-9328464384,Jaipur,8.5,Bachelor's,Electronics,Business Analyst,resumes/CAN010_resume.pdf,2026-06-20,referral,applied
+CAN011,C011,Vidya,Iyer,vidya.iyer11@gmail.com,+91-9697480028,Bangalore,9.2,Bachelor's,Electronics,Sales Associate,resumes/CAN011_resume.pdf,2026-08-14,indeed,applied
+CAN012,C012,Varun,Desai,varun.desai12@gmail.com,+91-9750794640,Kolkata,14.4,Bachelor's,Finance,QA Analyst,resumes/CAN012_resume.pdf,2026-04-07,referral,interview
+CAN013,C013,Tanya,Bhatia,tanya.bhatia13@gmail.com,+91-9787029397,Pune,15.7,Bachelor's,Commerce,DevOps Engineer,resumes/CAN013_resume.pdf,2026-07-10,referral,applied
+CAN014,C014,Radhika,Bansal,radhika.bansal14@gmail.com,+91-8931953300,Remote,1.4,Master's,Business Administration,Senior Developer,resumes/CAN014_resume.pdf,2026-03-21,recruiter,interview
+CAN015,C015,Shubham,Shah,shubham.shah15@gmail.com,+91-8348761372,Bangalore,0.5,PhD,Finance,DevOps Engineer,resumes/CAN015_resume.pdf,2026-06-21,campus,screening
+CAN016,C016,Nikhil,Kapoor,nikhil.kapoor16@gmail.com,+91-8735768911,Kolkata,12.0,Master's,Human Resource Management,Senior Developer,resumes/CAN016_resume.pdf,2026-06-25,recruiter,shortlisted
+CAN017,C017,Namita,Srivastava,namita.srivastava17@gmail.com,+91-8979398779,Nagpur,15.8,Master's,Computer Science,Senior Developer,resumes/CAN017_resume.pdf,2026-04-14,company_website,shortlisted
+CAN018,C018,Ananya,Thakur,ananya.thakur18@gmail.com,+91-9793723175,Hyderabad,4.3,Master's,Computer Science,Business Analyst,resumes/CAN018_resume.pdf,2026-03-19,recruiter,rejected
+CAN019,C019,Tushar,Shah,tushar.shah19@gmail.com,+91-7840318957,Jaipur,3.5,Bachelor's,Human Resource Management,Product Analyst,resumes/CAN019_resume.pdf,2026-05-18,recruiter,screening
+CAN020,C020,Ananya,Saxena,ananya.saxena20@gmail.com,+91-7075461347,Remote,14.9,PhD,Marketing,Data Scientist,resumes/CAN020_resume.pdf,2026-06-18,recruiter,screening
+CAN021,C021,Sonali,Shah,sonali.shah21@gmail.com,+91-9435938238,Nagpur,1.0,Master's,Mathematics,Product Analyst,resumes/CAN021_resume.pdf,2026-04-27,campus,shortlisted
+CAN022,C022,Anjali,Jain,anjali.jain22@gmail.com,+91-8241237354,Ahmedabad,1.2,Diploma,Business Administration,HR Coordinator,resumes/CAN022_resume.pdf,2026-03-02,recruiter,rejected
+CAN023,C023,Pooja,Gupta,pooja.gupta23@gmail.com,+91-8640866336,Remote,11.6,Bachelor's,Human Resource Management,DevOps Engineer,resumes/CAN023_resume.pdf,2026-03-18,campus,interview
+CAN024,C024,Seema,Verma,seema.verma24@gmail.com,+91-9871215453,Coimbatore,2.9,Master's,Psychology,Senior Developer,resumes/CAN024_resume.pdf,2026-06-09,indeed,screening
+CAN025,C025,Karan,Bansal,karan.bansal25@gmail.com,+91-8770954339,Ahmedabad,1.1,Diploma,Electronics,Software Engineer,resumes/CAN025_resume.pdf,2026-07-25,campus,applied
+CAN026,C026,Rashmi,Chauhan,rashmi.chauhan26@gmail.com,+91-9446739175,Remote,17.2,Master's,Electronics,Data Scientist,resumes/CAN026_resume.pdf,2026-04-27,naukri,applied
+CAN027,C027,Mohit,Rawat,mohit.rawat27@gmail.com,+91-9004153944,Hyderabad,3.6,Bachelor's,Information Technology,DevOps Engineer,resumes/CAN027_resume.pdf,2026-04-15,indeed,applied
+CAN028,C028,Vikram,Goyal,vikram.goyal28@gmail.com,+91-7503299657,Jaipur,16.4,Bachelor's,Commerce,Backend Developer,resumes/CAN028_resume.pdf,2026-07-13,linkedin,interview
+CAN029,C029,Komal,Patel,komal.patel29@gmail.com,+91-8973430046,Remote,1.7,Bachelor's,Commerce,HR Coordinator,resumes/CAN029_resume.pdf,2026-05-27,indeed,rejected
+CAN030,C030,Sapna,Arora,sapna.arora30@gmail.com,+91-9176668995,Nagpur,2.6,Diploma,Statistics,Data Analyst,resumes/CAN030_resume.pdf,2026-09-01,indeed,interview
+CAN031,C031,Anjali,Shah,anjali.shah31@gmail.com,+91-9854125844,Coimbatore,0.6,Bachelor's,Information Technology,HR Coordinator,resumes/CAN031_resume.pdf,2026-04-26,indeed,interview
+CAN032,C032,Vivek,Bhat,vivek.bhat32@gmail.com,+91-9621049276,Mumbai,10.7,Master's,Finance,Software Engineer,resumes/CAN032_resume.pdf,2026-05-10,referral,interview
+CAN033,C033,Arjun,Tiwari,arjun.tiwari33@gmail.com,+91-8514327181,Remote,16.9,Bachelor's,Psychology,Marketing Executive,resumes/CAN033_resume.pdf,2026-07-21,campus,rejected
+CAN034,C034,Siddharth,Joshi,siddharth.joshi34@gmail.com,+91-9541513629,Jaipur,10.5,Master's,Commerce,Frontend Developer,resumes/CAN034_resume.pdf,2026-03-09,naukri,interview
+CAN035,C035,Varun,Kulkarni,varun.kulkarni35@gmail.com,+91-9703450285,Indore,15.3,Bachelor's,Human Resource Management,Software Engineer,resumes/CAN035_resume.pdf,2026-03-25,company_website,hired
+CAN036,C036,Aditi,Shah,aditi.shah36@gmail.com,+91-8850737663,Noida,4.3,Master's,Mathematics,HR Coordinator,resumes/CAN036_resume.pdf,2026-08-03,company_website,shortlisted
+CAN037,C037,Radhika,Patel,radhika.patel37@gmail.com,+91-8559191693,Delhi NCR,0.7,Master's,Computer Science,Senior Developer,resumes/CAN037_resume.pdf,2026-07-05,referral,applied
+CAN038,C038,Rekha,Kapoor,rekha.kapoor38@gmail.com,+91-7507773699,Noida,7.2,Master's,Human Resource Management,Backend Developer,resumes/CAN038_resume.pdf,2026-04-15,company_website,shortlisted
+CAN039,C039,Sanjay,Rawat,sanjay.rawat39@gmail.com,+91-8131661310,Remote,5.2,PhD,Finance,HR Coordinator,resumes/CAN039_resume.pdf,2026-06-24,referral,rejected
+CAN040,C040,Gaurav,Chopra,gaurav.chopra40@gmail.com,+91-9729451556,Gurgaon,15.5,Bachelor's,Business Administration,Product Analyst,resumes/CAN040_resume.pdf,2026-07-20,campus,hired
+CAN041,C041,Ajay,Chopra,ajay.chopra41@gmail.com,+91-9368019656,Gurgaon,7.2,Master's,Finance,Frontend Developer,resumes/CAN041_resume.pdf,2026-05-05,company_website,applied
+CAN042,C042,Ishita,Shah,ishita.shah42@gmail.com,+91-7361233257,Delhi NCR,10.9,Bachelor's,Human Resource Management,Senior Developer,resumes/CAN042_resume.pdf,2026-04-03,campus,shortlisted
+CAN043,C043,Mohit,Mathur,mohit.mathur43@gmail.com,+91-8929262876,Jaipur,7.2,Master's,Information Technology,Backend Developer,resumes/CAN043_resume.pdf,2026-03-23,company_website,screening
+CAN044,C044,Sonal,Srivastava,sonal.srivastava44@gmail.com,+91-9472325849,Pune,0.8,Bachelor's,Human Resource Management,Business Analyst,resumes/CAN044_resume.pdf,2026-04-11,recruiter,rejected
+CAN045,C045,Sonal,Thakur,sonal.thakur45@gmail.com,+91-7719185303,Gurgaon,14.7,Master's,Statistics,HR Coordinator,resumes/CAN045_resume.pdf,2026-08-06,indeed,screening
+CAN046,C046,Deepak,Bhatia,deepak.bhatia46@gmail.com,+91-8603867191,Nagpur,2.4,Master's,Electronics,Sales Associate,resumes/CAN046_resume.pdf,2026-08-20,company_website,interview
+CAN047,C047,Aditi,Reddy,aditi.reddy47@gmail.com,+91-9534935671,Hyderabad,0.6,Master's,Electronics,Financial Analyst,resumes/CAN047_resume.pdf,2026-03-15,recruiter,interview
+CAN048,C048,Divya,Bhatia,divya.bhatia48@gmail.com,+91-9324779621,Remote,5.9,Diploma,Computer Science,Business Analyst,resumes/CAN048_resume.pdf,2026-03-05,company_website,screening
+CAN049,C049,Vijay,Rao,vijay.rao49@gmail.com,+91-9963271598,Jaipur,2.3,Bachelor's,Electronics,Software Engineer,resumes/CAN049_resume.pdf,2026-04-10,recruiter,interview
+CAN050,C050,Varun,Mishra,varun.mishra50@gmail.com,+91-8942623220,Gurgaon,16.1,Master's,Psychology,Backend Developer,resumes/CAN050_resume.pdf,2026-03-14,campus,screening
+CAN051,C051,Shruti,Jain,shruti.jain51@gmail.com,+91-8454832288,Bangalore,2.3,Master's,Business Administration,Backend Developer,resumes/CAN051_resume.pdf,2026-05-20,company_website,shortlisted
+CAN052,C052,Ishita,Sen,ishita.sen52@gmail.com,+91-8887145933,Nagpur,11.8,Master's,Electronics,Software Engineer,resumes/CAN052_resume.pdf,2026-07-03,referral,screening
+CAN053,C053,Abhinav,Malhotra,abhinav.malhotra53@gmail.com,+91-8480143064,Chennai,2.0,Bachelor's,Electronics,Sales Associate,resumes/CAN053_resume.pdf,2026-08-25,linkedin,applied
+CAN054,C054,Kavita,Desai,kavita.desai54@gmail.com,+91-8657067013,Chennai,11.7,Master's,Marketing,Marketing Executive,resumes/CAN054_resume.pdf,2026-08-21,campus,applied
+CAN055,C055,Pranav,Thakur,pranav.thakur55@gmail.com,+91-8751122220,Ahmedabad,14.3,Master's,Information Technology,Sales Associate,resumes/CAN055_resume.pdf,2026-03-21,recruiter,interview
+CAN056,C056,Komal,Bhatia,komal.bhatia56@gmail.com,+91-9309939449,Chennai,17.9,Bachelor's,Statistics,Data Analyst,resumes/CAN056_resume.pdf,2026-04-17,recruiter,rejected
+CAN057,C057,Ravi,Bhatia,ravi.bhatia57@gmail.com,+91-9950860282,Gurgaon,1.5,Diploma,Marketing,Frontend Developer,resumes/CAN057_resume.pdf,2026-04-13,referral,hired
+CAN058,C058,Akash,Goyal,akash.goyal58@gmail.com,+91-8866189725,Nagpur,12.8,Master's,Finance,Data Analyst,resumes/CAN058_resume.pdf,2026-07-15,indeed,rejected
+CAN059,C059,Aparna,Chatterjee,aparna.chatterjee59@gmail.com,+91-9371033922,Kolkata,8.3,Bachelor's,Human Resource Management,Data Scientist,resumes/CAN059_resume.pdf,2026-07-08,indeed,shortlisted
+CAN060,C060,Simran,Dutta,simran.dutta60@gmail.com,+91-9414782218,Coimbatore,2.2,PhD,Marketing,Marketing Executive,resumes/CAN060_resume.pdf,2026-06-27,linkedin,interview
+CAN061,C061,Simran,Khanna,simran.khanna61@gmail.com,+91-8213164011,Kochi,6.7,PhD,Mathematics,Data Analyst,resumes/CAN061_resume.pdf,2026-07-31,recruiter,rejected
+CAN062,C062,Ajay,Menon,ajay.menon62@gmail.com,+91-7994428629,Jaipur,5.9,Bachelor's,Mathematics,QA Analyst,resumes/CAN062_resume.pdf,2026-07-24,linkedin,rejected
+CAN063,C063,Divya,Mishra,divya.mishra63@gmail.com,+91-8974718936,Hyderabad,17.7,Master's,Human Resource Management,System Administrator,resumes/CAN063_resume.pdf,2026-05-17,company_website,interview
+CAN064,C064,Ishaan,Jain,ishaan.jain64@gmail.com,+91-7998286908,Delhi NCR,1.9,Master's,Computer Science,Product Analyst,resumes/CAN064_resume.pdf,2026-04-27,recruiter,applied
+CAN065,C065,Vikram,Das,vikram.das65@gmail.com,+91-9924923944,Pune,2.9,Bachelor's,Mathematics,HR Coordinator,resumes/CAN065_resume.pdf,2026-09-12,linkedin,interview
+CAN066,C066,Neha,Luthra,neha.luthra66@gmail.com,+91-7093361078,Indore,6.0,Bachelor's,Computer Science,Frontend Developer,resumes/CAN066_resume.pdf,2026-03-09,recruiter,interview
+CAN067,C067,Neha,Rawat,neha.rawat67@gmail.com,+91-9535968400,Indore,17.6,Diploma,Psychology,Marketing Executive,resumes/CAN067_resume.pdf,2026-08-03,company_website,applied
+CAN068,C068,Pranav,Kapoor,pranav.kapoor68@gmail.com,+91-9228849033,Delhi NCR,9.0,Bachelor's,Finance,Product Analyst,resumes/CAN068_resume.pdf,2026-08-19,indeed,rejected
+CAN069,C069,Sunita,Arora,sunita.arora69@gmail.com,+91-8353375799,Gurgaon,5.2,Bachelor's,Human Resource Management,Senior Developer,resumes/CAN069_resume.pdf,2026-09-08,company_website,shortlisted
+CAN070,C070,Rekha,Dutta,rekha.dutta70@gmail.com,+91-9748365435,Mumbai,11.0,Master's,Mathematics,Business Analyst,resumes/CAN070_resume.pdf,2026-07-29,recruiter,applied
+CAN071,C071,Lakshmi,Mishra,lakshmi.mishra71@gmail.com,+91-7163964304,Kochi,5.5,Bachelor's,Electronics,Financial Analyst,resumes/CAN071_resume.pdf,2026-08-09,company_website,screening
+CAN072,C072,Aditi,Kumar,aditi.kumar72@gmail.com,+91-7601613840,Delhi NCR,5.1,Bachelor's,Finance,Software Engineer,resumes/CAN072_resume.pdf,2026-08-09,linkedin,hired
+CAN073,C073,Archana,Mukherjee,archana.mukherjee73@gmail.com,+91-8184740940,Coimbatore,16.5,Bachelor's,Electronics,Sales Associate,resumes/CAN073_resume.pdf,2026-03-14,naukri,interview
+CAN074,C074,Nikhil,Chopra,nikhil.chopra74@gmail.com,+91-7725859053,Mumbai,14.1,Bachelor's,Statistics,Frontend Developer,resumes/CAN074_resume.pdf,2026-05-15,campus,shortlisted
+CAN075,C075,Suresh,Bhat,suresh.bhat75@gmail.com,+91-8588071693,Coimbatore,9.8,Master's,Marketing,Data Analyst,resumes/CAN075_resume.pdf,2026-06-25,campus,interview
+CAN076,C076,Ananya,Bose,ananya.bose76@gmail.com,+91-8243956617,Bangalore,12.8,Master's,Mathematics,Senior Developer,resumes/CAN076_resume.pdf,2026-03-21,recruiter,interview
+CAN077,C077,Shivani,Agarwal,shivani.agarwal77@gmail.com,+91-8912456497,Remote,2.9,Bachelor's,Computer Science,HR Coordinator,resumes/CAN077_resume.pdf,2026-08-29,recruiter,screening
+CAN078,C078,Vivek,Das,vivek.das78@gmail.com,+91-8529345085,Gurgaon,2.0,Diploma,Data Science,Senior Developer,resumes/CAN078_resume.pdf,2026-09-06,linkedin,rejected
+CAN079,C079,Rahul,Ghosh,rahul.ghosh79@gmail.com,+91-8368742048,Coimbatore,9.6,Bachelor's,Finance,Marketing Executive,resumes/CAN079_resume.pdf,2026-03-27,referral,screening
+CAN080,C080,Ritu,Sen,ritu.sen80@gmail.com,+91-7831992207,Mumbai,2.5,Bachelor's,Electronics,QA Analyst,resumes/CAN080_resume.pdf,2026-03-25,linkedin,applied
+CAN081,C081,Pranav,Bansal,pranav.bansal81@gmail.com,+91-7556187510,Mumbai,13.8,Bachelor's,Data Science,Sales Associate,resumes/CAN081_resume.pdf,2026-05-06,naukri,screening
+CAN082,C082,Ravi,Khanna,ravi.khanna82@gmail.com,+91-7501229537,Gurgaon,12.0,PhD,Commerce,Frontend Developer,resumes/CAN082_resume.pdf,2026-03-19,campus,rejected
+CAN083,C083,Pranav,Bhat,pranav.bhat83@gmail.com,+91-9307835915,Gurgaon,4.9,Master's,Marketing,Senior Developer,resumes/CAN083_resume.pdf,2026-06-26,indeed,applied
+CAN084,C084,Sameer,Bhat,sameer.bhat84@gmail.com,+91-8259957402,Remote,5.1,Master's,Statistics,Data Scientist,resumes/CAN084_resume.pdf,2026-08-25,recruiter,hired
+CAN085,C085,Ritika,Verma,ritika.verma85@gmail.com,+91-8378763313,Pune,6.7,Master's,Finance,Frontend Developer,resumes/CAN085_resume.pdf,2026-05-30,indeed,applied
+CAN086,C086,Dev,Jain,dev.jain86@gmail.com,+91-7134314089,Bangalore,15.1,Bachelor's,Electronics,Marketing Executive,resumes/CAN086_resume.pdf,2026-07-01,company_website,shortlisted
+CAN087,C087,Rishabh,Bhatia,rishabh.bhatia87@gmail.com,+91-7400517171,Jaipur,1.7,Master's,Mathematics,Product Analyst,resumes/CAN087_resume.pdf,2026-05-17,naukri,shortlisted
+CAN088,C088,Ananya,Pandey,ananya.pandey88@gmail.com,+91-7772262112,Indore,5.4,Bachelor's,Data Science,Business Analyst,resumes/CAN088_resume.pdf,2026-04-02,naukri,rejected
+CAN089,C089,Tanya,Agarwal,tanya.agarwal89@gmail.com,+91-9482323396,Bangalore,3.6,Master's,Psychology,System Administrator,resumes/CAN089_resume.pdf,2026-08-01,referral,applied
+CAN090,C090,Harini,Sethi,harini.sethi90@gmail.com,+91-7838898109,Mumbai,11.6,Master's,Data Science,Product Analyst,resumes/CAN090_resume.pdf,2026-05-10,linkedin,interview
+CAN091,C091,Priya,Kumar,priya.kumar91@gmail.com,+91-7926684648,Coimbatore,0.7,PhD,Psychology,Sales Associate,resumes/CAN091_resume.pdf,2026-06-22,campus,screening
+CAN092,C092,Geeta,Tiwari,geeta.tiwari92@gmail.com,+91-8592440349,Bangalore,9.6,Bachelor's,Data Science,Backend Developer,resumes/CAN092_resume.pdf,2026-07-02,company_website,applied
+CAN093,C093,Aparna,Srivastava,aparna.srivastava93@gmail.com,+91-8968911691,Pune,0.8,Diploma,Information Technology,Business Analyst,resumes/CAN093_resume.pdf,2026-06-28,indeed,hired
+CAN094,C094,Namita,Arora,namita.arora94@gmail.com,+91-7585076464,Jaipur,12.0,Bachelor's,Marketing,Marketing Executive,resumes/CAN094_resume.pdf,2026-03-05,linkedin,rejected
+CAN095,C095,Yash,Mehta,yash.mehta95@gmail.com,+91-9532958725,Kochi,1.2,Diploma,Mathematics,Frontend Developer,resumes/CAN095_resume.pdf,2026-06-11,company_website,rejected
+CAN096,C096,Tanya,Reddy,tanya.reddy96@gmail.com,+91-8956049651,Delhi NCR,1.7,Diploma,Finance,Software Engineer,resumes/CAN096_resume.pdf,2026-07-22,linkedin,rejected
+CAN097,C097,Archana,Rao,archana.rao97@gmail.com,+91-7192585694,Hyderabad,0.8,PhD,Information Technology,Senior Developer,resumes/CAN097_resume.pdf,2026-04-22,referral,screening
+CAN098,C098,Rahul,Srivastava,rahul.srivastava98@gmail.com,+91-8932317382,Ahmedabad,3.5,Bachelor's,Computer Science,Data Analyst,resumes/CAN098_resume.pdf,2026-08-24,indeed,screening
+CAN099,C099,Sneha,Agarwal,sneha.agarwal99@gmail.com,+91-9513722260,Kolkata,4.0,Bachelor's,Commerce,QA Analyst,resumes/CAN099_resume.pdf,2026-03-09,linkedin,rejected
+CAN100,C100,Pankaj,Das,pankaj.das100@gmail.com,+91-9879450722,Gurgaon,0.8,Diploma,Electronics,DevOps Engineer,resumes/CAN100_resume.pdf,2026-03-15,referral,shortlisted
+CAN101,C101,Pranav,Joshi,pranav.joshi101@gmail.com,+91-9983771814,Kolkata,14.0,Bachelor's,Mathematics,Product Analyst,resumes/CAN101_resume.pdf,2026-04-14,referral,rejected
+CAN102,C102,Pooja,Nair,pooja.nair102@gmail.com,+91-7537559973,Chennai,1.5,Bachelor's,Commerce,Business Analyst,resumes/CAN102_resume.pdf,2026-05-22,company_website,hired
+CAN103,C103,Divya,Sharma,divya.sharma103@gmail.com,+91-9426329697,Nagpur,2.4,Bachelor's,Data Science,System Administrator,resumes/CAN103_resume.pdf,2026-04-16,naukri,applied
+CAN104,C104,Mayank,Jain,mayank.jain104@gmail.com,+91-7832633932,Remote,2.2,Bachelor's,Statistics,DevOps Engineer,resumes/CAN104_resume.pdf,2026-05-04,recruiter,shortlisted
+CAN105,C105,Seema,Iyer,seema.iyer105@gmail.com,+91-7677976500,Coimbatore,6.0,Master's,Computer Science,HR Coordinator,resumes/CAN105_resume.pdf,2026-05-26,recruiter,interview
+CAN106,C106,Sachin,Patel,sachin.patel106@gmail.com,+91-8501597532,Kochi,7.2,PhD,Mathematics,Data Analyst,resumes/CAN106_resume.pdf,2026-08-27,referral,shortlisted
+CAN107,C107,Akash,Saxena,akash.saxena107@gmail.com,+91-8250345217,Lucknow,12.2,Master's,Electronics,Product Analyst,resumes/CAN107_resume.pdf,2026-03-20,company_website,interview
+CAN108,C108,Divya,Bose,divya.bose108@gmail.com,+91-8777970425,Chennai,9.9,Master's,Information Technology,Senior Developer,resumes/CAN108_resume.pdf,2026-05-06,recruiter,applied
+CAN109,C109,Aparna,Das,aparna.das109@gmail.com,+91-7367388063,Chennai,1.0,Master's,Human Resource Management,Business Analyst,resumes/CAN109_resume.pdf,2026-06-27,company_website,rejected
+CAN110,C110,Sapna,Sethi,sapna.sethi110@gmail.com,+91-9460315805,Kolkata,2.5,Diploma,Statistics,Data Analyst,resumes/CAN110_resume.pdf,2026-07-29,linkedin,interview
+CAN111,C111,Tanya,Malhotra,tanya.malhotra111@gmail.com,+91-7744965650,Kolkata,2.0,Bachelor's,Psychology,QA Analyst,resumes/CAN111_resume.pdf,2026-06-19,referral,hired
+CAN112,C112,Neha,Chatterjee,neha.chatterjee112@gmail.com,+91-7283592468,Delhi NCR,10.9,Bachelor's,Data Science,Data Analyst,resumes/CAN112_resume.pdf,2026-05-11,indeed,rejected
+CAN113,C113,Nitin,Bhatt,nitin.bhatt113@gmail.com,+91-7252319740,Chennai,1.4,Master's,Statistics,Marketing Executive,resumes/CAN113_resume.pdf,2026-04-21,campus,shortlisted
+CAN114,C114,Sapna,Luthra,sapna.luthra114@gmail.com,+91-8906078650,Delhi NCR,11.7,Bachelor's,Commerce,Data Analyst,resumes/CAN114_resume.pdf,2026-07-25,referral,screening
+CAN115,C115,Ananya,Patel,ananya.patel115@gmail.com,+91-7803176813,Kolkata,7.6,Bachelor's,Mathematics,HR Coordinator,resumes/CAN115_resume.pdf,2026-09-08,indeed,screening
+CAN116,C116,Sapna,Saxena,sapna.saxena116@gmail.com,+91-8948212640,Chennai,7.1,Master's,Human Resource Management,Financial Analyst,resumes/CAN116_resume.pdf,2026-06-29,recruiter,hired
+CAN117,C117,Vivek,Sharma,vivek.sharma117@gmail.com,+91-9899668386,Kochi,4.4,Diploma,Finance,Data Scientist,resumes/CAN117_resume.pdf,2026-03-03,linkedin,interview
+CAN118,C118,Chitra,Arora,chitra.arora118@gmail.com,+91-9884693305,Bangalore,7.8,Bachelor's,Information Technology,System Administrator,resumes/CAN118_resume.pdf,2026-06-26,naukri,shortlisted
+CAN119,C119,Nisha,Ghosh,nisha.ghosh119@gmail.com,+91-8837014731,Kolkata,10.6,Diploma,Electronics,Data Scientist,resumes/CAN119_resume.pdf,2026-09-11,recruiter,screening
+CAN120,C120,Aarti,Kapoor,aarti.kapoor120@gmail.com,+91-7963578775,Bangalore,8.0,Bachelor's,Data Science,Financial Analyst,resumes/CAN120_resume.pdf,2026-07-29,recruiter,applied
+CAN121,C121,Nikhil,Agarwal,nikhil.agarwal121@gmail.com,+91-7616357384,Bangalore,9.7,Master's,Statistics,HR Coordinator,resumes/CAN121_resume.pdf,2026-05-29,naukri,applied
+CAN122,C122,Manish,Chatterjee,manish.chatterjee122@gmail.com,+91-7790953562,Pune,0.8,Master's,Commerce,Data Scientist,resumes/CAN122_resume.pdf,2026-09-05,campus,shortlisted
+CAN123,C123,Aarti,Bhat,aarti.bhat123@gmail.com,+91-9233029491,Bangalore,9.1,PhD,Information Technology,Financial Analyst,resumes/CAN123_resume.pdf,2026-07-29,referral,applied
+CAN124,C124,Pallavi,Kulkarni,pallavi.kulkarni124@gmail.com,+91-7354577659,Remote,15.6,Bachelor's,Electronics,Senior Developer,resumes/CAN124_resume.pdf,2026-06-11,company_website,interview
+CAN125,C125,Mohit,Saxena,mohit.saxena125@gmail.com,+91-9279333671,Chennai,12.4,Master's,Mathematics,Sales Associate,resumes/CAN125_resume.pdf,2026-08-22,recruiter,interview
+CAN126,C126,Ananya,Sharma,ananya.sharma126@gmail.com,+91-7076077885,Nagpur,1.1,Bachelor's,Mathematics,Software Engineer,resumes/CAN126_resume.pdf,2026-04-27,recruiter,screening
+CAN127,C127,Archana,Kulkarni,archana.kulkarni127@gmail.com,+91-9440831257,Coimbatore,11.5,Master's,Electronics,Frontend Developer,resumes/CAN127_resume.pdf,2026-05-03,campus,applied
+CAN128,C128,Ankit,Bhatt,ankit.bhatt128@gmail.com,+91-9013179054,Coimbatore,13.5,Master's,Business Administration,Business Analyst,resumes/CAN128_resume.pdf,2026-05-18,naukri,screening
+CAN129,C129,Kunal,Menon,kunal.menon129@gmail.com,+91-8855481250,Noida,17.8,Diploma,Statistics,Sales Associate,resumes/CAN129_resume.pdf,2026-07-08,naukri,applied
+CAN130,C130,Ritu,Das,ritu.das130@gmail.com,+91-8535596201,Delhi NCR,14.1,Bachelor's,Finance,HR Coordinator,resumes/CAN130_resume.pdf,2026-06-02,referral,interview
+CAN131,C131,Dev,Reddy,dev.reddy131@gmail.com,+91-8612073406,Kochi,9.2,Master's,Electronics,Backend Developer,resumes/CAN131_resume.pdf,2026-08-27,referral,interview
+CAN132,C132,Ishita,Khanna,ishita.khanna132@gmail.com,+91-8997667721,Coimbatore,6.8,Bachelor's,Mathematics,Data Analyst,resumes/CAN132_resume.pdf,2026-08-20,recruiter,screening
+CAN133,C133,Ananya,Reddy,ananya.reddy133@gmail.com,+91-7430321091,Kolkata,9.8,Bachelor's,Data Science,Frontend Developer,resumes/CAN133_resume.pdf,2026-09-12,recruiter,shortlisted
+CAN134,C134,Harsh,Sethi,harsh.sethi134@gmail.com,+91-9396178178,Kolkata,2.9,Bachelor's,Data Science,Frontend Developer,resumes/CAN134_resume.pdf,2026-07-20,naukri,applied
+CAN135,C135,Siddharth,Pillai,siddharth.pillai135@gmail.com,+91-9824486121,Bangalore,5.4,Master's,Statistics,Product Analyst,resumes/CAN135_resume.pdf,2026-03-27,recruiter,interview
+CAN136,C136,Mohit,Mishra,mohit.mishra136@gmail.com,+91-9568659144,Jaipur,12.5,Bachelor's,Mathematics,Backend Developer,resumes/CAN136_resume.pdf,2026-05-19,naukri,rejected
+CAN137,C137,Anil,Das,anil.das137@gmail.com,+91-8072370045,Indore,1.9,Bachelor's,Electronics,Frontend Developer,resumes/CAN137_resume.pdf,2026-05-10,company_website,rejected
+CAN138,C138,Manish,Kapoor,manish.kapoor138@gmail.com,+91-8558857671,Kochi,7.8,Bachelor's,Electronics,Backend Developer,resumes/CAN138_resume.pdf,2026-08-04,campus,interview
+CAN139,C139,Nisha,Chopra,nisha.chopra139@gmail.com,+91-7945922376,Chennai,10.0,Bachelor's,Information Technology,Sales Associate,resumes/CAN139_resume.pdf,2026-06-23,referral,shortlisted
+CAN140,C140,Ritu,Reddy,ritu.reddy140@gmail.com,+91-8986817505,Lucknow,2.6,Master's,Business Administration,Senior Developer,resumes/CAN140_resume.pdf,2026-08-14,linkedin,interview
+CAN141,C141,Rekha,Gupta,rekha.gupta141@gmail.com,+91-8478072662,Bangalore,3.1,PhD,Finance,System Administrator,resumes/CAN141_resume.pdf,2026-03-07,campus,applied
+CAN142,C142,Sachin,Mehta,sachin.mehta142@gmail.com,+91-9733533163,Pune,1.7,Bachelor's,Information Technology,Sales Associate,resumes/CAN142_resume.pdf,2026-04-20,company_website,rejected
+CAN143,C143,Naveen,Rathore,naveen.rathore143@gmail.com,+91-7210034335,Kochi,0.5,Bachelor's,Human Resource Management,Business Analyst,resumes/CAN143_resume.pdf,2026-04-13,indeed,applied
+CAN144,C144,Manish,Bansal,manish.bansal144@gmail.com,+91-9223578891,Lucknow,1.7,Master's,Business Administration,DevOps Engineer,resumes/CAN144_resume.pdf,2026-05-30,indeed,interview
+CAN145,C145,Neeraj,Kulkarni,neeraj.kulkarni145@gmail.com,+91-8410933500,Indore,6.6,PhD,Information Technology,Data Scientist,resumes/CAN145_resume.pdf,2026-08-11,linkedin,shortlisted
+CAN146,C146,Ajay,Pillai,ajay.pillai146@gmail.com,+91-7157498858,Gurgaon,2.6,Bachelor's,Computer Science,Software Engineer,resumes/CAN146_resume.pdf,2026-04-22,recruiter,applied
+CAN147,C147,Garima,Bhatt,garima.bhatt147@gmail.com,+91-8153450126,Coimbatore,9.7,Bachelor's,Computer Science,Senior Developer,resumes/CAN147_resume.pdf,2026-06-24,linkedin,interview
+CAN148,C148,Ajay,Reddy,ajay.reddy148@gmail.com,+91-8226621423,Gurgaon,1.9,Bachelor's,Psychology,Business Analyst,resumes/CAN148_resume.pdf,2026-05-29,campus,hired
+CAN149,C149,Ajay,Pandey,ajay.pandey149@gmail.com,+91-8645887640,Indore,2.4,Master's,Electronics,HR Coordinator,resumes/CAN149_resume.pdf,2026-08-18,recruiter,interview
+CAN150,C150,Ravi,Tiwari,ravi.tiwari150@gmail.com,+91-9648185525,Remote,9.2,Bachelor's,Data Science,System Administrator,resumes/CAN150_resume.pdf,2026-08-01,company_website,shortlisted
+CAN151,C151,Radhika,Sharma,radhika.sharma151@gmail.com,+91-8357088514,Ahmedabad,12.0,Bachelor's,Commerce,Frontend Developer,resumes/CAN151_resume.pdf,2026-03-09,campus,hired
+CAN152,C152,Neeraj,Sen,neeraj.sen152@gmail.com,+91-7677567819,Nagpur,13.2,Bachelor's,Statistics,Senior Developer,resumes/CAN152_resume.pdf,2026-06-04,referral,shortlisted
+CAN153,C153,Abhinav,Mukherjee,abhinav.mukherjee153@gmail.com,+91-7934136289,Lucknow,0.5,Bachelor's,Human Resource Management,QA Analyst,resumes/CAN153_resume.pdf,2026-06-29,referral,shortlisted
+CAN154,C154,Yash,Tiwari,yash.tiwari154@gmail.com,+91-8357812831,Pune,11.9,Master's,Electronics,Data Scientist,resumes/CAN154_resume.pdf,2026-05-06,naukri,rejected
+CAN155,C155,Lakshmi,Roy,lakshmi.roy155@gmail.com,+91-8358895664,Kochi,7.4,Bachelor's,Electronics,Business Analyst,resumes/CAN155_resume.pdf,2026-09-13,linkedin,screening
+CAN156,C156,Nandini,Mukherjee,nandini.mukherjee156@gmail.com,+91-7820584042,Lucknow,5.7,Master's,Information Technology,Frontend Developer,resumes/CAN156_resume.pdf,2026-06-08,naukri,interview
+CAN157,C157,Anil,Gupta,anil.gupta157@gmail.com,+91-8069428439,Ahmedabad,2.5,Master's,Commerce,Financial Analyst,resumes/CAN157_resume.pdf,2026-08-02,indeed,hired
+CAN158,C158,Pooja,Bansal,pooja.bansal158@gmail.com,+91-7564532963,Kochi,4.0,Master's,Computer Science,Senior Developer,resumes/CAN158_resume.pdf,2026-07-28,company_website,rejected
+CAN159,C159,Komal,Ghosh,komal.ghosh159@gmail.com,+91-8959485532,Chennai,1.4,Bachelor's,Data Science,Marketing Executive,resumes/CAN159_resume.pdf,2026-03-31,company_website,rejected
+CAN160,C160,Ankit,Malhotra,ankit.malhotra160@gmail.com,+91-8981864161,Jaipur,10.6,Bachelor's,Computer Science,Backend Developer,resumes/CAN160_resume.pdf,2026-08-26,recruiter,applied
+CAN161,C161,Deepika,Jain,deepika.jain161@gmail.com,+91-9666282318,Remote,13.0,PhD,Finance,Frontend Developer,resumes/CAN161_resume.pdf,2026-05-06,linkedin,rejected
+CAN162,C162,Rekha,Roy,rekha.roy162@gmail.com,+91-8200878908,Hyderabad,1.7,Bachelor's,Data Science,Financial Analyst,resumes/CAN162_resume.pdf,2026-04-19,indeed,applied
+CAN163,C163,Shivani,Dhawan,shivani.dhawan163@gmail.com,+91-7242824944,Bangalore,3.8,Bachelor's,Business Administration,System Administrator,resumes/CAN163_resume.pdf,2026-05-02,recruiter,shortlisted
+CAN164,C164,Aarav,Roy,aarav.roy164@gmail.com,+91-7435213211,Bangalore,1.2,PhD,Computer Science,Product Analyst,resumes/CAN164_resume.pdf,2026-05-10,indeed,shortlisted
+CAN165,C165,Radhika,Rawat,radhika.rawat165@gmail.com,+91-8817154046,Ahmedabad,2.5,Diploma,Finance,HR Coordinator,resumes/CAN165_resume.pdf,2026-09-14,recruiter,rejected
+CAN166,C166,Deepak,Mathur,deepak.mathur166@gmail.com,+91-9360542360,Kochi,3.0,Master's,Statistics,HR Coordinator,resumes/CAN166_resume.pdf,2026-05-06,linkedin,interview
+CAN167,C167,Pranav,Ghosh,pranav.ghosh167@gmail.com,+91-7659198200,Ahmedabad,1.6,Bachelor's,Data Science,System Administrator,resumes/CAN167_resume.pdf,2026-03-29,referral,rejected
+CAN168,C168,Kavita,Das,kavita.das168@gmail.com,+91-9312556834,Lucknow,0.9,Master's,Commerce,Backend Developer,resumes/CAN168_resume.pdf,2026-08-06,recruiter,rejected
+CAN169,C169,Mayank,Ghosh,mayank.ghosh169@gmail.com,+91-8803180948,Mumbai,11.8,Bachelor's,Business Administration,System Administrator,resumes/CAN169_resume.pdf,2026-07-18,recruiter,applied
+CAN170,C170,Pallavi,Sen,pallavi.sen170@gmail.com,+91-9213720745,Gurgaon,1.8,Diploma,Data Science,Sales Associate,resumes/CAN170_resume.pdf,2026-09-06,referral,shortlisted
+CAN171,C171,Kunal,Bhat,kunal.bhat171@gmail.com,+91-8399467712,Delhi NCR,6.9,Bachelor's,Finance,Sales Associate,resumes/CAN171_resume.pdf,2026-06-14,referral,rejected
+CAN172,C172,Ankit,Das,ankit.das172@gmail.com,+91-9853925340,Indore,1.9,Master's,Information Technology,Marketing Executive,resumes/CAN172_resume.pdf,2026-05-02,recruiter,interview
+CAN173,C173,Vidya,Tiwari,vidya.tiwari173@gmail.com,+91-9182591993,Chennai,9.7,Bachelor's,Psychology,System Administrator,resumes/CAN173_resume.pdf,2026-04-05,linkedin,shortlisted
+CAN174,C174,Mitali,Agarwal,mitali.agarwal174@gmail.com,+91-8506960247,Kolkata,7.9,Diploma,Commerce,Sales Associate,resumes/CAN174_resume.pdf,2026-05-14,referral,applied
+CAN175,C175,Rashmi,Goyal,rashmi.goyal175@gmail.com,+91-7033951399,Ahmedabad,2.4,Bachelor's,Computer Science,Sales Associate,resumes/CAN175_resume.pdf,2026-08-07,company_website,applied
+CAN176,C176,Suresh,Mathur,suresh.mathur176@gmail.com,+91-7496339682,Mumbai,0.8,PhD,Human Resource Management,Frontend Developer,resumes/CAN176_resume.pdf,2026-08-06,indeed,shortlisted
+CAN177,C177,Komal,Dutta,komal.dutta177@gmail.com,+91-9831038031,Ahmedabad,1.8,Bachelor's,Commerce,Marketing Executive,resumes/CAN177_resume.pdf,2026-05-20,linkedin,applied
+CAN178,C178,Amit,Srivastava,amit.srivastava178@gmail.com,+91-9012726318,Jaipur,1.1,Diploma,Finance,Marketing Executive,resumes/CAN178_resume.pdf,2026-05-18,linkedin,interview
+CAN179,C179,Suresh,Arora,suresh.arora179@gmail.com,+91-7898847611,Bangalore,13.5,Master's,Commerce,Software Engineer,resumes/CAN179_resume.pdf,2026-08-29,recruiter,screening
+CAN180,C180,Tushar,Kumar,tushar.kumar180@gmail.com,+91-8151748826,Kolkata,1.0,Master's,Electronics,DevOps Engineer,resumes/CAN180_resume.pdf,2026-05-01,company_website,interview
+CAN181,C181,Siddharth,Das,siddharth.das181@gmail.com,+91-8321689973,Kochi,11.7,Bachelor's,Psychology,Senior Developer,resumes/CAN181_resume.pdf,2026-04-19,company_website,hired
+CAN182,C182,Abhinav,Pillai,abhinav.pillai182@gmail.com,+91-9295181927,Pune,12.2,Bachelor's,Electronics,DevOps Engineer,resumes/CAN182_resume.pdf,2026-07-29,company_website,shortlisted
+CAN183,C183,Tanya,Chopra,tanya.chopra183@gmail.com,+91-7893711644,Coimbatore,6.2,Bachelor's,Commerce,Frontend Developer,resumes/CAN183_resume.pdf,2026-08-20,indeed,interview
+CAN184,C184,Seema,Roy,seema.roy184@gmail.com,+91-9667635600,Hyderabad,12.0,Master's,Information Technology,System Administrator,resumes/CAN184_resume.pdf,2026-03-11,linkedin,applied
+CAN185,C185,Chitra,Jain,chitra.jain185@gmail.com,+91-8272978656,Gurgaon,7.2,Master's,Data Science,Product Analyst,resumes/CAN185_resume.pdf,2026-05-09,indeed,rejected
+CAN186,C186,Sneha,Chopra,sneha.chopra186@gmail.com,+91-7445132691,Bangalore,0.9,Master's,Finance,Backend Developer,resumes/CAN186_resume.pdf,2026-04-01,campus,shortlisted
+CAN187,C187,Rajesh,Rawat,rajesh.rawat187@gmail.com,+91-7199094186,Bangalore,14.6,Bachelor's,Psychology,Data Scientist,resumes/CAN187_resume.pdf,2026-03-05,recruiter,rejected
+CAN188,C188,Tushar,Khanna,tushar.khanna188@gmail.com,+91-7987114611,Kochi,7.7,PhD,Mathematics,Software Engineer,resumes/CAN188_resume.pdf,2026-07-03,campus,shortlisted
+CAN189,C189,Alok,Mehta,alok.mehta189@gmail.com,+91-8378169930,Hyderabad,6.4,Bachelor's,Statistics,Backend Developer,resumes/CAN189_resume.pdf,2026-03-23,campus,rejected
+CAN190,C190,Anjali,Menon,anjali.menon190@gmail.com,+91-7361555681,Mumbai,0.8,PhD,Commerce,Software Engineer,resumes/CAN190_resume.pdf,2026-06-25,naukri,rejected
+CAN191,C191,Tushar,Verma,tushar.verma191@gmail.com,+91-8252381309,Nagpur,8.8,Diploma,Data Science,Frontend Developer,resumes/CAN191_resume.pdf,2026-05-21,referral,hired
+CAN192,C192,Garima,Kumar,garima.kumar192@gmail.com,+91-7015813832,Mumbai,7.9,Bachelor's,Electronics,Product Analyst,resumes/CAN192_resume.pdf,2026-05-24,campus,screening
+CAN193,C193,Rekha,Luthra,rekha.luthra193@gmail.com,+91-8372751874,Delhi NCR,11.6,Bachelor's,Business Administration,Financial Analyst,resumes/CAN193_resume.pdf,2026-08-18,company_website,applied
+CAN194,C194,Namita,Bose,namita.bose194@gmail.com,+91-7923655115,Noida,2.3,Bachelor's,Statistics,Senior Developer,resumes/CAN194_resume.pdf,2026-03-11,linkedin,rejected
+CAN195,C195,Pooja,Desai,pooja.desai195@gmail.com,+91-7132159318,Gurgaon,2.5,Bachelor's,Commerce,Backend Developer,resumes/CAN195_resume.pdf,2026-03-05,indeed,screening
+CAN196,C196,Aarti,Srivastava,aarti.srivastava196@gmail.com,+91-7920945034,Kochi,8.6,Diploma,Finance,Financial Analyst,resumes/CAN196_resume.pdf,2026-05-14,campus,rejected
+CAN197,C197,Payal,Iyer,payal.iyer197@gmail.com,+91-9860331890,Remote,14.8,Bachelor's,Finance,Data Scientist,resumes/CAN197_resume.pdf,2026-08-02,campus,applied
+CAN198,C198,Gaurav,Mathur,gaurav.mathur198@gmail.com,+91-9933880687,Hyderabad,4.8,PhD,Mathematics,Software Engineer,resumes/CAN198_resume.pdf,2026-04-21,company_website,shortlisted
+CAN199,C199,Kirti,Chopra,kirti.chopra199@gmail.com,+91-7188780008,Nagpur,9.7,Master's,Computer Science,Senior Developer,resumes/CAN199_resume.pdf,2026-05-06,recruiter,applied
+CAN200,C200,Megha,Sen,megha.sen200@gmail.com,+91-9699875945,Ahmedabad,15.5,Master's,Business Administration,Sales Associate,resumes/CAN200_resume.pdf,2026-03-19,referral,shortlisted
+CAN201,C201,Shubham,Goyal,shubham.goyal201@gmail.com,+91-9471993019,Remote,1.8,Master's,Finance,DevOps Engineer,resumes/CAN201_resume.pdf,2026-04-12,company_website,rejected
+CAN202,C202,Deepak,Ghosh,deepak.ghosh202@gmail.com,+91-9474825749,Kochi,10.7,Master's,Finance,Product Analyst,resumes/CAN202_resume.pdf,2026-08-07,campus,screening
+CAN203,C203,Payal,Nair,payal.nair203@gmail.com,+91-7120317860,Bangalore,1.8,Bachelor's,Statistics,Software Engineer,resumes/CAN203_resume.pdf,2026-04-12,company_website,screening
+CAN204,C204,Ravi,Mehta,ravi.mehta204@gmail.com,+91-9370350475,Mumbai,1.6,Master's,Data Science,DevOps Engineer,resumes/CAN204_resume.pdf,2026-04-20,linkedin,interview
+CAN205,C205,Sneha,Reddy,sneha.reddy205@gmail.com,+91-7204794318,Lucknow,10.3,Master's,Finance,Backend Developer,resumes/CAN205_resume.pdf,2026-04-18,recruiter,applied
+CAN206,C206,Nisha,Tiwari,nisha.tiwari206@gmail.com,+91-9215367162,Ahmedabad,9.7,Master's,Computer Science,QA Analyst,resumes/CAN206_resume.pdf,2026-05-23,campus,rejected
+CAN207,C207,Nandini,Desai,nandini.desai207@gmail.com,+91-7209643750,Noida,4.4,Master's,Psychology,QA Analyst,resumes/CAN207_resume.pdf,2026-06-11,indeed,shortlisted
+CAN208,C208,Sunita,Sharma,sunita.sharma208@gmail.com,+91-9164770362,Jaipur,9.4,PhD,Computer Science,System Administrator,resumes/CAN208_resume.pdf,2026-07-12,recruiter,screening
+CAN209,C209,Aparna,Singh,aparna.singh209@gmail.com,+91-9354220391,Jaipur,1.6,Master's,Psychology,Business Analyst,resumes/CAN209_resume.pdf,2026-07-07,campus,rejected
+CAN210,C210,Sameer,Dhawan,sameer.dhawan210@gmail.com,+91-9548411707,Noida,2.6,Bachelor's,Information Technology,Business Analyst,resumes/CAN210_resume.pdf,2026-04-29,linkedin,screening
+CAN211,C211,Archana,Verma,archana.verma211@gmail.com,+91-8842817271,Nagpur,13.9,PhD,Statistics,Data Scientist,resumes/CAN211_resume.pdf,2026-07-28,referral,rejected
+CAN212,C212,Pranav,Luthra,pranav.luthra212@gmail.com,+91-8334636671,Chennai,11.5,Bachelor's,Statistics,Data Scientist,resumes/CAN212_resume.pdf,2026-07-12,linkedin,applied
+CAN213,C213,Tanya,Rathore,tanya.rathore213@gmail.com,+91-7580915661,Remote,13.8,Bachelor's,Commerce,Financial Analyst,resumes/CAN213_resume.pdf,2026-06-29,linkedin,interview
+CAN214,C214,Rohan,Mishra,rohan.mishra214@gmail.com,+91-8159684187,Nagpur,2.7,Bachelor's,Statistics,Frontend Developer,resumes/CAN214_resume.pdf,2026-08-06,recruiter,interview
+CAN215,C215,Vikram,Rao,vikram.rao215@gmail.com,+91-9854747755,Pune,9.6,Bachelor's,Psychology,Sales Associate,resumes/CAN215_resume.pdf,2026-06-19,linkedin,interview
+CAN216,C216,Priya,Reddy,priya.reddy216@gmail.com,+91-8676554201,Lucknow,2.2,Master's,Psychology,Data Scientist,resumes/CAN216_resume.pdf,2026-05-06,campus,applied
+CAN217,C217,Nitin,Sethi,nitin.sethi217@gmail.com,+91-8922421228,Chennai,8.6,Bachelor's,Mathematics,Software Engineer,resumes/CAN217_resume.pdf,2026-07-28,naukri,hired
+CAN218,C218,Mayank,Rao,mayank.rao218@gmail.com,+91-7225751506,Kolkata,12.1,Bachelor's,Data Science,Senior Developer,resumes/CAN218_resume.pdf,2026-08-06,indeed,shortlisted
+CAN219,C219,Meera,Mukherjee,meera.mukherjee219@gmail.com,+91-9578773920,Hyderabad,2.4,Bachelor's,Statistics,HR Coordinator,resumes/CAN219_resume.pdf,2026-05-24,recruiter,shortlisted
+CAN220,C220,Pranav,Jain,pranav.jain220@gmail.com,+91-7287953849,Kolkata,0.8,Bachelor's,Mathematics,DevOps Engineer,resumes/CAN220_resume.pdf,2026-09-13,linkedin,hired
+CAN221,C221,Sanjay,Rathore,sanjay.rathore221@gmail.com,+91-9395741669,Indore,0.9,Diploma,Information Technology,Data Analyst,resumes/CAN221_resume.pdf,2026-06-05,recruiter,rejected
+CAN222,C222,Kriti,Patel,kriti.patel222@gmail.com,+91-8072983198,Delhi NCR,15.9,Master's,Computer Science,Financial Analyst,resumes/CAN222_resume.pdf,2026-03-06,campus,shortlisted
+CAN223,C223,Sachin,Sharma,sachin.sharma223@gmail.com,+91-9316641244,Lucknow,5.4,Master's,Data Science,QA Analyst,resumes/CAN223_resume.pdf,2026-03-28,recruiter,interview
+CAN224,C224,Ritu,Bhat,ritu.bhat224@gmail.com,+91-8652115283,Delhi NCR,0.9,PhD,Data Science,DevOps Engineer,resumes/CAN224_resume.pdf,2026-08-03,indeed,hired
+CAN225,C225,Ishita,Mehta,ishita.mehta225@gmail.com,+91-7323687342,Delhi NCR,2.3,Bachelor's,Information Technology,HR Coordinator,resumes/CAN225_resume.pdf,2026-03-17,indeed,applied
+CAN226,C226,Archana,Agarwal,archana.agarwal226@gmail.com,+91-7709959817,Gurgaon,13.5,Diploma,Computer Science,Senior Developer,resumes/CAN226_resume.pdf,2026-08-14,indeed,applied
+CAN227,C227,Shruti,Sen,shruti.sen227@gmail.com,+91-7571260184,Bangalore,12.2,PhD,Mathematics,Data Scientist,resumes/CAN227_resume.pdf,2026-04-05,referral,applied
+CAN228,C228,Kavita,Chopra,kavita.chopra228@gmail.com,+91-7962717213,Gurgaon,2.2,Bachelor's,Commerce,Data Analyst,resumes/CAN228_resume.pdf,2026-06-13,linkedin,shortlisted
+CAN229,C229,Payal,Shah,payal.shah229@gmail.com,+91-7642712542,Mumbai,5.2,Bachelor's,Statistics,Frontend Developer,resumes/CAN229_resume.pdf,2026-08-03,linkedin,applied
+CAN230,C230,Jatin,Sharma,jatin.sharma230@gmail.com,+91-7234650388,Hyderabad,15.8,Master's,Mathematics,Data Scientist,resumes/CAN230_resume.pdf,2026-09-11,company_website,applied
+CAN231,C231,Ritika,Goyal,ritika.goyal231@gmail.com,+91-7830949055,Coimbatore,12.7,Bachelor's,Information Technology,Marketing Executive,resumes/CAN231_resume.pdf,2026-07-31,indeed,interview
+CAN232,C232,Mansi,Bose,mansi.bose232@gmail.com,+91-8231462911,Indore,9.5,Diploma,Psychology,Senior Developer,resumes/CAN232_resume.pdf,2026-05-24,linkedin,interview
+CAN233,C233,Deepak,Tiwari,deepak.tiwari233@gmail.com,+91-8129481852,Bangalore,15.8,PhD,Information Technology,Marketing Executive,resumes/CAN233_resume.pdf,2026-08-13,campus,screening
+CAN234,C234,Aarti,Rao,aarti.rao234@gmail.com,+91-7820720509,Delhi NCR,0.5,Master's,Electronics,Backend Developer,resumes/CAN234_resume.pdf,2026-03-19,recruiter,shortlisted
+CAN235,C235,Tanvi,Bhatt,tanvi.bhatt235@gmail.com,+91-7516480846,Coimbatore,7.8,Bachelor's,Electronics,QA Analyst,resumes/CAN235_resume.pdf,2026-08-08,indeed,screening
+CAN236,C236,Akash,Sharma,akash.sharma236@gmail.com,+91-7392122128,Indore,4.5,Diploma,Data Science,Senior Developer,resumes/CAN236_resume.pdf,2026-04-01,linkedin,rejected
+CAN237,C237,Jatin,Ghosh,jatin.ghosh237@gmail.com,+91-9694455321,Hyderabad,12.5,Master's,Psychology,DevOps Engineer,resumes/CAN237_resume.pdf,2026-09-02,naukri,applied
+CAN238,C238,Sapna,Verma,sapna.verma238@gmail.com,+91-8825678439,Kochi,9.3,Master's,Electronics,Software Engineer,resumes/CAN238_resume.pdf,2026-04-26,recruiter,hired
+CAN239,C239,Lakshmi,Bhatt,lakshmi.bhatt239@gmail.com,+91-8894982098,Chennai,14.4,Bachelor's,Electronics,Backend Developer,resumes/CAN239_resume.pdf,2026-07-31,indeed,rejected
+CAN240,C240,Ritika,Thakur,ritika.thakur240@gmail.com,+91-8795695793,Kochi,9.5,Master's,Mathematics,Data Scientist,resumes/CAN240_resume.pdf,2026-07-08,indeed,shortlisted
+CAN241,C241,Vikram,Menon,vikram.menon241@gmail.com,+91-9526328564,Coimbatore,11.6,Bachelor's,Information Technology,Data Scientist,resumes/CAN241_resume.pdf,2026-03-27,recruiter,interview
+CAN242,C242,Sachin,Bhatia,sachin.bhatia242@gmail.com,+91-8967226961,Ahmedabad,18.0,Master's,Finance,Financial Analyst,resumes/CAN242_resume.pdf,2026-05-03,referral,rejected
+CAN243,C243,Pankaj,Chauhan,pankaj.chauhan243@gmail.com,+91-9550050362,Mumbai,2.7,Master's,Finance,Backend Developer,resumes/CAN243_resume.pdf,2026-07-04,linkedin,hired
+CAN244,C244,Dhruv,Tiwari,dhruv.tiwari244@gmail.com,+91-7090181458,Jaipur,12.0,PhD,Commerce,Software Engineer,resumes/CAN244_resume.pdf,2026-08-15,campus,screening
+CAN245,C245,Naveen,Chopra,naveen.chopra245@gmail.com,+91-7503389316,Nagpur,18.0,PhD,Data Science,Financial Analyst,resumes/CAN245_resume.pdf,2026-03-14,indeed,shortlisted
+CAN246,C246,Sneha,Singh,sneha.singh246@gmail.com,+91-9102242930,Kochi,1.3,Master's,Mathematics,Senior Developer,resumes/CAN246_resume.pdf,2026-04-23,campus,shortlisted
+CAN247,C247,Arjun,Pandey,arjun.pandey247@gmail.com,+91-8866524226,Remote,2.6,Master's,Computer Science,Business Analyst,resumes/CAN247_resume.pdf,2026-06-03,indeed,interview
+CAN248,C248,Neha,Bhatia,neha.bhatia248@gmail.com,+91-7165683688,Gurgaon,1.5,Bachelor's,Data Science,System Administrator,resumes/CAN248_resume.pdf,2026-08-27,linkedin,screening
+CAN249,C249,Amit,Chatterjee,amit.chatterjee249@gmail.com,+91-7741513497,Bangalore,17.8,Bachelor's,Human Resource Management,Data Analyst,resumes/CAN249_resume.pdf,2026-03-29,linkedin,interview
+CAN250,C250,Bhavna,Malhotra,bhavna.malhotra250@gmail.com,+91-9349129471,Remote,7.1,PhD,Computer Science,System Administrator,resumes/CAN250_resume.pdf,2026-06-08,naukri,interview
+CAN251,C251,Tanya,Sen,tanya.sen251@gmail.com,+91-8899297775,Nagpur,7.0,PhD,Electronics,Product Analyst,resumes/CAN251_resume.pdf,2026-07-31,campus,shortlisted
+CAN252,C252,Geeta,Verma,geeta.verma252@gmail.com,+91-9316269467,Indore,1.2,Bachelor's,Electronics,System Administrator,resumes/CAN252_resume.pdf,2026-08-23,linkedin,rejected
+CAN253,C253,Dhruv,Bhat,dhruv.bhat253@gmail.com,+91-7241849492,Delhi NCR,0.9,Bachelor's,Finance,Product Analyst,resumes/CAN253_resume.pdf,2026-05-14,indeed,rejected
+CAN254,C254,Kavita,Thakur,kavita.thakur254@gmail.com,+91-8532626728,Noida,15.3,Bachelor's,Electronics,Frontend Developer,resumes/CAN254_resume.pdf,2026-06-23,campus,shortlisted
+CAN255,C255,Harini,Rawat,harini.rawat255@gmail.com,+91-8805121160,Kolkata,14.4,PhD,Computer Science,System Administrator,resumes/CAN255_resume.pdf,2026-07-21,recruiter,applied
+CAN256,C256,Mitali,Reddy,mitali.reddy256@gmail.com,+91-9400648743,Hyderabad,11.7,Master's,Finance,Financial Analyst,resumes/CAN256_resume.pdf,2026-04-23,campus,applied
+CAN257,C257,Seema,Jain,seema.jain257@gmail.com,+91-9771862001,Ahmedabad,13.2,Bachelor's,Information Technology,Backend Developer,resumes/CAN257_resume.pdf,2026-06-07,company_website,applied
+CAN258,C258,Kriti,Luthra,kriti.luthra258@gmail.com,+91-7246790928,Delhi NCR,13.5,PhD,Data Science,QA Analyst,resumes/CAN258_resume.pdf,2026-04-29,campus,applied
+CAN259,C259,Aditi,Bose,aditi.bose259@gmail.com,+91-7451280632,Kochi,3.7,Bachelor's,Psychology,Product Analyst,resumes/CAN259_resume.pdf,2026-05-25,referral,applied
+CAN260,C260,Tanvi,Gupta,tanvi.gupta260@gmail.com,+91-7502040863,Hyderabad,5.4,Master's,Computer Science,Sales Associate,resumes/CAN260_resume.pdf,2026-04-28,naukri,hired
+CAN261,C261,Sonali,Sethi,sonali.sethi261@gmail.com,+91-9185956172,Delhi NCR,2.2,Master's,Marketing,Backend Developer,resumes/CAN261_resume.pdf,2026-08-18,indeed,rejected
+CAN262,C262,Radhika,Dhawan,radhika.dhawan262@gmail.com,+91-8686685362,Pune,1.2,Master's,Finance,DevOps Engineer,resumes/CAN262_resume.pdf,2026-06-02,campus,interview
+CAN263,C263,Tarun,Joshi,tarun.joshi263@gmail.com,+91-9579611273,Nagpur,13.2,Master's,Computer Science,Frontend Developer,resumes/CAN263_resume.pdf,2026-08-20,campus,interview
+CAN264,C264,Sanjay,Agarwal,sanjay.agarwal264@gmail.com,+91-8569091850,Ahmedabad,2.7,Bachelor's,Marketing,Backend Developer,resumes/CAN264_resume.pdf,2026-08-03,referral,rejected
+CAN265,C265,Swati,Malhotra,swati.malhotra265@gmail.com,+91-9510938276,Hyderabad,9.3,Master's,Computer Science,Data Analyst,resumes/CAN265_resume.pdf,2026-05-18,campus,applied
+CAN266,C266,Anjali,Mishra,anjali.mishra266@gmail.com,+91-9224348654,Kochi,2.6,Master's,Human Resource Management,Financial Analyst,resumes/CAN266_resume.pdf,2026-08-01,recruiter,rejected
+CAN267,C267,Megha,Pandey,megha.pandey267@gmail.com,+91-9869139292,Indore,15.2,Bachelor's,Finance,Product Analyst,resumes/CAN267_resume.pdf,2026-03-18,recruiter,screening
+CAN268,C268,Aditya,Mukherjee,aditya.mukherjee268@gmail.com,+91-8830464526,Bangalore,2.5,Master's,Business Administration,Sales Associate,resumes/CAN268_resume.pdf,2026-06-09,naukri,shortlisted
+CAN269,C269,Komal,Khanna,komal.khanna269@gmail.com,+91-7339366962,Chennai,10.5,Bachelor's,Electronics,HR Coordinator,resumes/CAN269_resume.pdf,2026-05-30,indeed,rejected
+CAN270,C270,Aparna,Dutta,aparna.dutta270@gmail.com,+91-7377062422,Bangalore,1.1,Bachelor's,Marketing,Data Analyst,resumes/CAN270_resume.pdf,2026-08-21,referral,applied
+CAN271,C271,Ananya,Srivastava,ananya.srivastava271@gmail.com,+91-7898364431,Hyderabad,17.7,Master's,Commerce,Financial Analyst,resumes/CAN271_resume.pdf,2026-08-11,indeed,shortlisted
+CAN272,C272,Kriti,Rathore,kriti.rathore272@gmail.com,+91-9017265087,Kochi,17.6,Bachelor's,Finance,Backend Developer,resumes/CAN272_resume.pdf,2026-09-09,recruiter,shortlisted
+CAN273,C273,Anil,Mathur,anil.mathur273@gmail.com,+91-9865615037,Kolkata,11.7,PhD,Mathematics,QA Analyst,resumes/CAN273_resume.pdf,2026-04-01,indeed,screening
+CAN274,C274,Ashok,Goyal,ashok.goyal274@gmail.com,+91-9119495754,Bangalore,7.4,PhD,Psychology,Data Analyst,resumes/CAN274_resume.pdf,2026-09-11,linkedin,shortlisted
+CAN275,C275,Priya,Jain,priya.jain275@gmail.com,+91-8543059940,Noida,1.6,Master's,Data Science,Sales Associate,resumes/CAN275_resume.pdf,2026-06-05,recruiter,rejected
+CAN276,C276,Varun,Sen,varun.sen276@gmail.com,+91-9182086331,Gurgaon,7.4,PhD,Computer Science,DevOps Engineer,resumes/CAN276_resume.pdf,2026-07-12,campus,hired
+CAN277,C277,Rekha,Goyal,rekha.goyal277@gmail.com,+91-7246816555,Indore,16.5,Master's,Business Administration,Product Analyst,resumes/CAN277_resume.pdf,2026-04-13,referral,rejected
+CAN278,C278,Komal,Mehta,komal.mehta278@gmail.com,+91-8574838417,Remote,8.1,Bachelor's,Human Resource Management,DevOps Engineer,resumes/CAN278_resume.pdf,2026-06-21,campus,hired
+CAN279,C279,Megha,Bhatia,megha.bhatia279@gmail.com,+91-8149346977,Kolkata,2.3,Master's,Statistics,Sales Associate,resumes/CAN279_resume.pdf,2026-05-09,recruiter,applied
+CAN280,C280,Chirag,Arora,chirag.arora280@gmail.com,+91-8880592580,Remote,6.8,Bachelor's,Computer Science,Sales Associate,resumes/CAN280_resume.pdf,2026-05-06,referral,rejected
+CAN281,C281,Simran,Chauhan,simran.chauhan281@gmail.com,+91-9717392493,Kochi,1.2,Bachelor's,Human Resource Management,QA Analyst,resumes/CAN281_resume.pdf,2026-03-27,indeed,rejected
+CAN282,C282,Komal,Kumar,komal.kumar282@gmail.com,+91-7442366671,Chennai,10.6,PhD,Mathematics,Data Analyst,resumes/CAN282_resume.pdf,2026-05-07,recruiter,interview
+CAN283,C283,Nikhil,Reddy,nikhil.reddy283@gmail.com,+91-8951524455,Pune,17.4,Diploma,Electronics,Business Analyst,resumes/CAN283_resume.pdf,2026-09-06,referral,rejected
+CAN284,C284,Aditya,Rawat,aditya.rawat284@gmail.com,+91-8558898776,Coimbatore,1.7,Bachelor's,Finance,Sales Associate,resumes/CAN284_resume.pdf,2026-04-25,indeed,applied
+CAN285,C285,Sanjay,Desai,sanjay.desai285@gmail.com,+91-9369563091,Coimbatore,1.5,Master's,Business Administration,Data Scientist,resumes/CAN285_resume.pdf,2026-03-25,recruiter,rejected
+CAN286,C286,Meera,Dutta,meera.dutta286@gmail.com,+91-9637779224,Bangalore,9.4,Bachelor's,Business Administration,DevOps Engineer,resumes/CAN286_resume.pdf,2026-03-17,company_website,interview
+CAN287,C287,Nisha,Kapoor,nisha.kapoor287@gmail.com,+91-7966218740,Kochi,5.5,Bachelor's,Information Technology,Product Analyst,resumes/CAN287_resume.pdf,2026-08-27,linkedin,rejected
+CAN288,C288,Mansi,Desai,mansi.desai288@gmail.com,+91-7237487766,Bangalore,17.3,Master's,Mathematics,Financial Analyst,resumes/CAN288_resume.pdf,2026-04-09,naukri,interview
+CAN289,C289,Dhruv,Bhatia,dhruv.bhatia289@gmail.com,+91-7196061029,Remote,5.0,Master's,Marketing,QA Analyst,resumes/CAN289_resume.pdf,2026-06-27,linkedin,screening
+CAN290,C290,Archana,Das,archana.das290@gmail.com,+91-7856410306,Indore,7.6,Diploma,Computer Science,Senior Developer,resumes/CAN290_resume.pdf,2026-05-10,company_website,applied
+CAN291,C291,Bhavna,Chauhan,bhavna.chauhan291@gmail.com,+91-8030418512,Ahmedabad,13.7,Master's,Human Resource Management,Backend Developer,resumes/CAN291_resume.pdf,2026-07-03,referral,screening
+CAN292,C292,Neeraj,Rathore,neeraj.rathore292@gmail.com,+91-9550828621,Lucknow,14.2,Master's,Computer Science,Sales Associate,resumes/CAN292_resume.pdf,2026-08-29,recruiter,interview
+CAN293,C293,Rekha,Reddy,rekha.reddy293@gmail.com,+91-9616951457,Mumbai,2.5,Bachelor's,Business Administration,Frontend Developer,resumes/CAN293_resume.pdf,2026-09-05,indeed,shortlisted
+CAN294,C294,Karan,Iyer,karan.iyer294@gmail.com,+91-9294930631,Kochi,6.2,Bachelor's,Electronics,Senior Developer,resumes/CAN294_resume.pdf,2026-03-16,recruiter,shortlisted
+CAN295,C295,Mitali,Desai,mitali.desai295@gmail.com,+91-7294254464,Lucknow,1.0,Bachelor's,Business Administration,Sales Associate,resumes/CAN295_resume.pdf,2026-07-15,indeed,applied
+CAN296,C296,Alok,Kulkarni,alok.kulkarni296@gmail.com,+91-8780391643,Chennai,18.0,Master's,Electronics,QA Analyst,resumes/CAN296_resume.pdf,2026-08-17,campus,hired
+CAN297,C297,Sneha,Menon,sneha.menon297@gmail.com,+91-7181747619,Lucknow,6.4,Master's,Finance,Senior Developer,resumes/CAN297_resume.pdf,2026-06-02,recruiter,hired
+CAN298,C298,Dev,Joshi,dev.joshi298@gmail.com,+91-7887479265,Lucknow,16.3,Master's,Human Resource Management,Senior Developer,resumes/CAN298_resume.pdf,2026-09-14,campus,applied
+CAN299,C299,Megha,Srivastava,megha.srivastava299@gmail.com,+91-9535966809,Bangalore,2.4,Diploma,Commerce,Frontend Developer,resumes/CAN299_resume.pdf,2026-06-23,company_website,applied
+CAN300,C300,Rohit,Das,rohit.das300@gmail.com,+91-8102047233,Hyderabad,7.4,Bachelor's,Business Administration,Software Engineer,resumes/CAN300_resume.pdf,2026-09-03,company_website,interview

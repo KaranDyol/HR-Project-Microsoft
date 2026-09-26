@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PeopleOS | Workforce intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <div class="brand"><span class="brand-mark">P</span><span>people<span class="brand-accent">os</span></span>
+            </div>
+            <div class="workspace-label">WORKFORCE OS</div>
+            <nav>
+                <button class="nav-item active" data-section="overview"><span>◈</span> Overview</button>
+                <button class="nav-item" data-section="employees"><span>♙</span> People</button>
+                <button class="nav-item" data-section="recruitment"><span>↗</span> Recruitment</button>
+                <button class="nav-item" data-section="applicants"><span>＋</span> Applicants</button>
+                <button class="nav-item" data-section="insights"><span>◒</span> Insights</button>
+                <button class="nav-item" data-section="policies"><span>▤</span> Policy desk</button>
+                <button class="nav-item" data-section="profile"><span>◎</span> My profile</button>
+                <button class="nav-item admin-only" data-section="admin"><span>⚙</span> Accounts</button>
+            </nav>
+            <div class="sidebar-footer">
+                <div class="status-dot"></div>
+                <div><strong>Workspace live</strong><small>Data synced just now</small></div>
+            </div>
+        </aside>
+        <main class="main-content">
+            <header class="topbar">
+                <div class="breadcrumb">Workspace <span>/</span> Overview</div>
+                <div class="top-actions"><button class="home-button" id="sidebar-toggle" type="button"
+                        aria-label="Toggle navigation">⌂</button><button class="icon-button" id="notification-button"
+                        aria-label="Open notifications">♢<i id="notification-dot"></i></button>
+                    <button class="avatar" id="account-button" aria-label="Open profile">PS</button>
+                    <button class="logout-button" id="logout-button" type="button">Logout</button>
+                </div>
+            </header>
+            <section class="page-heading">
+                <div>
+                    <p class="eyebrow">THURSDAY, 24 SEPTEMBER 2026</p>
+                    <h1>Good morning, Priya.</h1>
+                    <p class="subtitle">Here is the pulse of your workforce today.</p>
+                </div><button class="primary-button" id="refresh-button">↻ <span>Refresh insights</span></button>
+            </section>
+            <div id="app" aria-live="polite">
+                <div class="loading-state">Loading workforce signals...</div>
+            </div>
+        </main>
+    </div>
+    <button class="chatbot-launcher" id="chatbot-launcher" type="button" aria-label="Open HR assistant">✦</button>
+    <section class="chatbot-panel" id="chatbot-panel" aria-label="HR assistant" hidden>
+        <div class="chatbot-header">
+            <div><strong>HR Copilot</strong><small>Gemini-powered workspace help</small></div><button
+                class="chatbot-close" id="chatbot-close" type="button" aria-label="Close HR assistant">×</button>
+        </div>
+        <div class="chatbot-messages" id="chatbot-messages">
+            <div class="chatbot-message assistant">How can I help with your HR workspace?</div>
+        </div>
+        <form class="chatbot-form" id="chatbot-form"><input id="chatbot-input" placeholder="Ask about your workspace..."
+                autocomplete="off" required><button type="submit" aria-label="Send message">↗</button></form>
+    </section>
+    <script src="/app.js"></script>
+</body>
+
+</html>

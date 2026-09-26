@@ -1,0 +1,559 @@
+feedback_id,employee_id,reviewer_id,reviewer_role,period,technical_skill_rating,communication_rating,teamwork_rating,problem_solving_rating,leadership_rating,overall_rating,comment,created_at
+FB0001,EMP001,EMP017,peer,2026-02,4.3,4.0,4.4,4.0,4.2,4.2,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0002,EMP001,EMP006,peer,2026-03,3.6,3.9,3.7,4.1,4.0,3.9,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0003,EMP001,EMP034,peer,2026-06,4.2,4.2,4.0,4.3,4.1,4.2,Brings innovative ideas to the team.,2026-06-30T10:00:00
+FB0004,EMP001,EMP035,subordinate,2026-06,4.2,4.2,3.6,4.0,4.2,4.0,Reliable and always meets deadlines.,2026-06-30T10:00:00
+FB0005,EMP002,EMP035,manager,2026-01,3.0,3.8,3.3,3.5,3.1,3.3,Handles routine tasks well.,2026-01-31T10:00:00
+FB0006,EMP002,EMP035,manager,2026-02,3.5,3.6,3.5,3.7,3.3,3.5,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0007,EMP002,EMP025,peer,2026-01,3.1,3.4,3.5,3.1,3.3,3.3,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0008,EMP002,EMP013,subordinate,2026-04,3.2,3.5,3.8,3.2,3.9,3.5,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0009,EMP002,EMP002,self,2026-05,3.3,3.8,3.0,3.9,3.6,3.5,Needs to take more initiative.,2026-05-31T10:00:00
+FB0010,EMP002,EMP002,self,2026-02,3.5,3.1,3.9,3.6,3.4,3.5,Meets expectations in most areas.,2026-02-28T10:00:00
+FB0011,EMP003,EMP014,peer,2026-03,4.3,4.3,4.0,3.6,4.5,4.1,Brings innovative ideas to the team.,2026-03-31T10:00:00
+FB0012,EMP003,EMP033,peer,2026-05,4.0,3.5,3.7,4.5,3.9,3.9,Meets expectations in most areas.,2026-05-31T10:00:00
+FB0013,EMP003,EMP010,subordinate,2026-03,4.3,3.7,3.8,3.7,3.8,3.9,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0014,EMP003,EMP033,manager,2026-04,3.8,4.3,4.5,3.8,3.7,4.0,Proactive in identifying and solving problems.,2026-04-30T10:00:00
+FB0015,EMP003,EMP012,peer,2026-05,4.2,3.9,4.0,3.9,4.1,4.0,Reliable and always meets deadlines.,2026-05-31T10:00:00
+FB0016,EMP003,EMP003,self,2026-06,3.8,4.5,3.9,3.8,3.8,4.0,Shows strong technical leadership.,2026-06-30T10:00:00
+FB0017,EMP004,EMP034,manager,2026-04,3.7,4.1,3.8,4.5,4.3,4.1,Reliable and always meets deadlines.,2026-04-30T10:00:00
+FB0018,EMP004,EMP034,manager,2026-02,4.5,4.0,4.2,4.3,3.7,4.1,Excellent team player with strong communication.,2026-02-28T10:00:00
+FB0019,EMP004,EMP034,manager,2026-06,3.9,3.7,3.6,4.1,4.0,3.9,Handles routine tasks well.,2026-06-30T10:00:00
+FB0020,EMP004,EMP019,subordinate,2026-03,3.9,3.6,4.2,3.9,3.6,3.8,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0021,EMP004,EMP011,peer,2026-01,4.4,3.6,4.3,4.2,3.6,4.0,Proactive in identifying and solving problems.,2026-01-31T10:00:00
+FB0022,EMP005,EMP032,manager,2026-03,3.4,2.6,3.2,3.0,3.2,3.1,Handles routine tasks well.,2026-03-31T10:00:00
+FB0023,EMP005,EMP019,peer,2026-04,2.8,3.3,3.2,3.4,3.4,3.2,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0024,EMP005,EMP022,subordinate,2026-05,3.4,2.9,3.0,3.4,3.3,3.2,Needs to take more initiative.,2026-05-31T10:00:00
+FB0025,EMP005,EMP005,self,2026-01,3.1,2.9,3.3,3.0,3.2,3.1,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0026,EMP005,EMP005,self,2026-02,2.5,3.1,3.2,3.0,2.9,2.9,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0027,EMP005,EMP005,self,2026-03,3.1,3.2,2.9,2.8,3.2,3.0,Needs to take more initiative.,2026-03-31T10:00:00
+FB0028,EMP005,EMP032,manager,2026-06,3.0,2.6,3.4,3.3,2.6,3.0,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0029,EMP006,EMP035,peer,2026-03,3.8,3.3,3.9,3.1,3.6,3.5,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0030,EMP006,EMP034,manager,2026-04,3.0,3.5,3.6,3.5,3.8,3.5,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0031,EMP006,EMP034,manager,2026-03,3.7,3.4,3.0,3.6,3.8,3.5,Needs to take more initiative.,2026-03-31T10:00:00
+FB0032,EMP006,EMP030,subordinate,2026-06,3.8,4.0,4.0,3.9,3.8,3.9,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0033,EMP006,EMP006,self,2026-03,3.6,4.0,3.8,3.2,3.4,3.6,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0034,EMP006,EMP014,subordinate,2026-04,3.5,3.5,3.6,3.7,3.9,3.6,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0035,EMP007,EMP007,self,2026-05,4.2,3.9,3.9,4.2,3.6,4.0,Strong analytical and problem-solving skills.,2026-05-31T10:00:00
+FB0036,EMP007,EMP004,peer,2026-03,3.7,4.4,4.4,3.8,4.2,4.1,Great at mentoring junior team members.,2026-03-31T10:00:00
+FB0037,EMP007,EMP033,manager,2026-05,4.4,3.8,3.7,4.3,3.9,4.0,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0038,EMP007,EMP033,manager,2026-05,4.0,3.6,4.0,4.3,3.8,3.9,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0039,EMP007,EMP013,peer,2026-05,4.1,4.3,4.0,3.6,3.6,3.9,Handles routine tasks well.,2026-05-31T10:00:00
+FB0040,EMP008,EMP006,subordinate,2026-05,4.5,4.1,3.5,3.8,3.6,3.9,Handles routine tasks well.,2026-05-31T10:00:00
+FB0041,EMP008,EMP008,self,2026-03,4.3,3.6,4.4,4.1,4.3,4.1,Excellent team player with strong communication.,2026-03-31T10:00:00
+FB0042,EMP008,EMP008,self,2026-02,3.5,3.6,4.0,3.7,4.4,3.8,Delivers on time but quality needs improvement.,2026-02-28T10:00:00
+FB0043,EMP008,EMP008,self,2026-01,4.1,3.7,3.6,4.1,3.7,3.8,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0044,EMP009,EMP009,self,2026-05,4.4,4.1,3.8,3.7,4.0,4.0,Shows strong technical leadership.,2026-05-31T10:00:00
+FB0045,EMP009,EMP009,self,2026-05,4.4,4.0,4.5,3.9,4.4,4.2,Shows strong technical leadership.,2026-05-31T10:00:00
+FB0046,EMP009,EMP032,manager,2026-05,4.0,4.0,3.8,3.5,4.2,3.9,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0047,EMP009,EMP009,self,2026-02,3.9,4.4,3.6,4.2,4.3,4.1,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0048,EMP009,EMP032,peer,2026-05,3.9,4.1,4.3,4.1,3.9,4.1,Great at mentoring junior team members.,2026-05-31T10:00:00
+FB0049,EMP010,EMP034,manager,2026-02,3.7,4.2,4.5,4.0,3.5,4.0,Excellent team player with strong communication.,2026-02-28T10:00:00
+FB0050,EMP010,EMP034,manager,2026-06,4.4,4.2,4.1,4.5,3.9,4.2,Great at mentoring junior team members.,2026-06-30T10:00:00
+FB0051,EMP010,EMP035,peer,2026-05,4.3,4.2,4.3,4.1,3.8,4.1,Reliable and always meets deadlines.,2026-05-31T10:00:00
+FB0052,EMP010,EMP007,peer,2026-03,4.2,3.6,3.8,4.4,4.3,4.1,Brings innovative ideas to the team.,2026-03-31T10:00:00
+FB0053,EMP010,EMP010,self,2026-03,4.5,4.2,4.0,4.4,4.1,4.2,Brings innovative ideas to the team.,2026-03-31T10:00:00
+FB0054,EMP010,EMP010,self,2026-03,3.8,4.1,4.3,4.4,3.5,4.0,Excellent team player with strong communication.,2026-03-31T10:00:00
+FB0055,EMP010,EMP034,manager,2026-03,3.5,3.7,3.8,4.1,4.4,3.9,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0056,EMP011,EMP035,manager,2026-01,3.3,3.0,3.3,3.2,3.7,3.3,Handles routine tasks well.,2026-01-31T10:00:00
+FB0057,EMP011,EMP011,self,2026-02,3.5,3.8,3.8,3.5,3.2,3.6,Needs to take more initiative.,2026-02-28T10:00:00
+FB0058,EMP011,EMP035,manager,2026-06,3.1,3.7,3.9,3.6,3.9,3.6,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0059,EMP011,EMP013,subordinate,2026-04,4.0,3.5,3.7,3.6,3.5,3.7,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0060,EMP012,EMP027,subordinate,2026-03,4.2,3.7,4.3,4.1,3.5,4.0,Consistently delivers high-quality work.,2026-03-31T10:00:00
+FB0061,EMP012,EMP011,peer,2026-05,3.8,4.0,3.7,4.0,4.3,4.0,Consistently delivers high-quality work.,2026-05-31T10:00:00
+FB0062,EMP012,EMP033,manager,2026-03,3.6,3.7,4.1,3.7,4.4,3.9,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0063,EMP012,EMP012,self,2026-02,4.4,4.2,3.7,4.4,4.5,4.2,Great at mentoring junior team members.,2026-02-28T10:00:00
+FB0064,EMP013,EMP002,subordinate,2026-02,4.1,4.2,4.1,3.6,4.0,4.0,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0065,EMP013,EMP033,manager,2026-02,4.2,4.2,4.0,4.5,3.8,4.1,Consistently delivers high-quality work.,2026-02-28T10:00:00
+FB0066,EMP013,EMP013,self,2026-06,4.2,3.8,3.7,3.8,4.0,3.9,Needs to take more initiative.,2026-06-30T10:00:00
+FB0067,EMP013,EMP018,peer,2026-05,3.9,3.9,3.9,4.3,4.3,4.1,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0068,EMP013,EMP036,peer,2026-01,4.3,4.4,4.5,3.9,4.3,4.3,Strong analytical and problem-solving skills.,2026-01-31T10:00:00
+FB0069,EMP013,EMP013,self,2026-05,4.1,3.6,4.2,3.7,3.8,3.9,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0070,EMP013,EMP025,subordinate,2026-05,4.2,3.7,4.3,3.8,3.9,4.0,Shows strong technical leadership.,2026-05-31T10:00:00
+FB0071,EMP014,EMP032,manager,2026-02,3.0,2.0,2.3,2.6,2.2,2.4,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0072,EMP014,EMP035,peer,2026-06,2.7,3.0,2.4,2.9,2.0,2.6,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0073,EMP014,EMP025,peer,2026-06,2.6,2.9,2.5,2.8,2.0,2.6,Quality of work has been inconsistent.,2026-06-30T10:00:00
+FB0074,EMP014,EMP010,peer,2026-02,2.8,2.7,2.4,2.2,2.3,2.5,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0075,EMP015,EMP018,peer,2026-05,4.5,4.6,4.0,4.1,4.1,4.3,Strong analytical and problem-solving skills.,2026-05-31T10:00:00
+FB0076,EMP015,EMP015,self,2026-03,4.7,4.7,5.0,4.2,4.4,4.6,Excellent team player with strong communication.,2026-03-31T10:00:00
+FB0077,EMP015,EMP032,manager,2026-03,4.9,4.2,5.0,4.4,4.7,4.6,Proactive in identifying and solving problems.,2026-03-31T10:00:00
+FB0078,EMP015,EMP011,subordinate,2026-05,4.5,4.0,4.6,4.5,4.1,4.3,Shows strong technical leadership.,2026-05-31T10:00:00
+FB0079,EMP015,EMP033,subordinate,2026-02,4.0,4.6,4.2,4.3,4.4,4.3,Shows strong technical leadership.,2026-02-28T10:00:00
+FB0080,EMP015,EMP032,manager,2026-06,4.2,4.9,4.4,4.9,4.3,4.5,Great at mentoring junior team members.,2026-06-30T10:00:00
+FB0081,EMP016,EMP034,manager,2026-02,4.0,4.3,3.8,3.9,3.8,4.0,Excellent team player with strong communication.,2026-02-28T10:00:00
+FB0082,EMP016,EMP011,subordinate,2026-03,4.4,3.6,3.6,4.2,3.8,3.9,Needs to take more initiative.,2026-03-31T10:00:00
+FB0083,EMP016,EMP034,manager,2026-06,3.9,4.1,3.7,4.3,4.5,4.1,Excellent team player with strong communication.,2026-06-30T10:00:00
+FB0084,EMP016,EMP015,peer,2026-04,3.7,3.7,4.1,3.8,3.6,3.8,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0085,EMP016,EMP034,manager,2026-05,3.6,4.5,4.1,4.2,3.9,4.1,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0086,EMP016,EMP001,peer,2026-02,3.9,4.0,4.2,4.3,4.4,4.2,Brings innovative ideas to the team.,2026-02-28T10:00:00
+FB0087,EMP016,EMP027,peer,2026-05,3.8,3.6,4.0,3.6,4.0,3.8,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0088,EMP017,EMP035,manager,2026-06,4.4,3.8,3.8,3.9,4.1,4.0,Proactive in identifying and solving problems.,2026-06-30T10:00:00
+FB0089,EMP017,EMP041,subordinate,2026-02,3.9,4.4,4.4,3.5,3.8,4.0,Shows strong technical leadership.,2026-02-28T10:00:00
+FB0090,EMP017,EMP035,manager,2026-04,4.0,4.4,3.9,3.6,4.4,4.1,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0091,EMP017,EMP019,subordinate,2026-01,3.6,4.3,4.4,3.7,3.7,3.9,Handles routine tasks well.,2026-01-31T10:00:00
+FB0092,EMP018,EMP035,manager,2026-04,3.7,3.2,3.2,3.7,4.0,3.6,Handles routine tasks well.,2026-04-30T10:00:00
+FB0093,EMP018,EMP019,subordinate,2026-03,3.8,3.3,3.5,3.6,3.1,3.5,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0094,EMP018,EMP024,peer,2026-01,3.8,3.2,3.8,4.0,3.8,3.7,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0095,EMP018,EMP018,self,2026-01,3.5,3.6,3.5,3.5,3.8,3.6,Handles routine tasks well.,2026-01-31T10:00:00
+FB0096,EMP019,EMP033,manager,2026-04,4.3,3.7,4.0,3.9,4.4,4.1,Great at mentoring junior team members.,2026-04-30T10:00:00
+FB0097,EMP019,EMP033,manager,2026-01,3.8,3.7,4.4,4.0,4.3,4.0,Shows strong technical leadership.,2026-01-31T10:00:00
+FB0098,EMP019,EMP025,subordinate,2026-01,3.8,4.2,3.6,4.4,3.9,4.0,Reliable and always meets deadlines.,2026-01-31T10:00:00
+FB0099,EMP019,EMP041,peer,2026-01,3.7,3.5,4.3,4.5,3.9,4.0,Proactive in identifying and solving problems.,2026-01-31T10:00:00
+FB0100,EMP020,EMP023,peer,2026-05,3.7,4.2,3.8,3.9,4.1,3.9,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0101,EMP020,EMP033,manager,2026-06,4.0,3.6,4.0,4.0,4.4,4.0,Excellent team player with strong communication.,2026-06-30T10:00:00
+FB0102,EMP020,EMP033,manager,2026-02,3.8,3.9,4.0,3.7,4.4,4.0,Consistently delivers high-quality work.,2026-02-28T10:00:00
+FB0103,EMP020,EMP033,manager,2026-03,4.0,4.5,3.8,3.9,3.9,4.0,Reliable and always meets deadlines.,2026-03-31T10:00:00
+FB0104,EMP020,EMP033,manager,2026-01,3.6,4.2,4.3,3.7,4.1,4.0,Shows strong technical leadership.,2026-01-31T10:00:00
+FB0105,EMP020,EMP020,self,2026-02,3.8,4.3,4.3,4.0,3.6,4.0,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0106,EMP021,EMP018,peer,2026-03,3.1,2.7,3.5,2.7,2.6,2.9,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0107,EMP021,EMP034,manager,2026-03,2.5,3.2,3.1,2.7,3.4,3.0,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0108,EMP021,EMP017,subordinate,2026-01,2.9,3.4,3.3,3.1,2.6,3.1,Needs to take more initiative.,2026-01-31T10:00:00
+FB0109,EMP021,EMP039,peer,2026-04,3.4,2.7,2.7,2.8,3.5,3.0,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0110,EMP021,EMP021,self,2026-06,3.2,2.8,3.0,3.1,3.5,3.1,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0111,EMP021,EMP010,peer,2026-02,3.3,3.0,2.8,2.6,2.7,2.9,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0112,EMP022,EMP031,subordinate,2026-05,3.6,4.1,4.3,3.7,3.6,3.9,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0113,EMP022,EMP037,subordinate,2026-01,4.5,3.8,3.8,4.0,3.6,3.9,Needs to take more initiative.,2026-01-31T10:00:00
+FB0114,EMP022,EMP022,self,2026-05,3.9,4.1,4.5,4.1,3.9,4.1,Proactive in identifying and solving problems.,2026-05-31T10:00:00
+FB0115,EMP022,EMP034,manager,2026-06,3.9,4.3,4.2,3.9,4.4,4.1,Proactive in identifying and solving problems.,2026-06-30T10:00:00
+FB0116,EMP022,EMP034,manager,2026-02,3.7,3.5,3.6,4.2,4.0,3.8,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0117,EMP023,EMP005,peer,2026-06,3.9,3.7,4.5,4.0,4.3,4.1,Brings innovative ideas to the team.,2026-06-30T10:00:00
+FB0118,EMP023,EMP033,manager,2026-02,4.2,4.4,4.4,4.3,4.2,4.3,Brings innovative ideas to the team.,2026-02-28T10:00:00
+FB0119,EMP023,EMP033,manager,2026-01,4.3,3.8,3.9,4.2,4.0,4.0,Great at mentoring junior team members.,2026-01-31T10:00:00
+FB0120,EMP023,EMP016,peer,2026-06,4.1,4.5,3.8,4.0,4.2,4.1,Proactive in identifying and solving problems.,2026-06-30T10:00:00
+FB0121,EMP023,EMP033,manager,2026-05,3.5,3.9,4.1,4.1,3.5,3.8,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0122,EMP023,EMP019,subordinate,2026-05,4.2,4.0,4.1,4.2,3.6,4.0,Strong analytical and problem-solving skills.,2026-05-31T10:00:00
+FB0123,EMP024,EMP011,peer,2026-03,3.0,3.2,3.9,3.2,3.7,3.4,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0124,EMP024,EMP024,self,2026-03,3.8,3.2,3.8,3.3,3.4,3.5,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0125,EMP024,EMP024,self,2026-05,3.9,3.8,3.6,3.6,3.9,3.8,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0126,EMP024,EMP033,manager,2026-06,3.7,3.6,3.0,3.8,3.2,3.5,Needs to take more initiative.,2026-06-30T10:00:00
+FB0127,EMP025,EMP010,peer,2026-06,3.4,3.0,3.0,3.4,2.7,3.1,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0128,EMP025,EMP035,manager,2026-06,2.7,2.9,2.6,2.9,3.4,2.9,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0129,EMP025,EMP035,manager,2026-04,3.1,3.1,3.1,3.4,3.3,3.2,Handles routine tasks well.,2026-04-30T10:00:00
+FB0130,EMP025,EMP005,peer,2026-06,2.9,3.3,3.4,3.1,3.0,3.1,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0131,EMP025,EMP022,peer,2026-04,2.8,2.7,2.8,3.0,3.0,2.9,Needs significant improvement in meeting deadlines.,2026-04-30T10:00:00
+FB0132,EMP026,EMP035,manager,2026-02,4.2,4.0,3.7,4.5,4.2,4.1,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0133,EMP026,EMP035,manager,2026-04,3.7,4.2,3.8,4.5,3.7,4.0,Shows strong technical leadership.,2026-04-30T10:00:00
+FB0134,EMP026,EMP035,manager,2026-03,3.6,3.5,3.9,3.9,4.4,3.9,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0135,EMP026,EMP035,manager,2026-03,3.8,3.9,4.2,4.2,4.2,4.1,Great at mentoring junior team members.,2026-03-31T10:00:00
+FB0136,EMP026,EMP035,manager,2026-05,4.1,3.6,4.1,3.5,4.1,3.9,Needs to take more initiative.,2026-05-31T10:00:00
+FB0137,EMP026,EMP024,subordinate,2026-03,4.2,3.9,4.3,4.1,4.3,4.2,Excellent team player with strong communication.,2026-03-31T10:00:00
+FB0138,EMP027,EMP035,manager,2026-01,3.9,3.9,3.4,3.9,3.7,3.8,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0139,EMP027,EMP010,subordinate,2026-05,3.9,3.6,3.6,4.0,3.6,3.7,Needs to take more initiative.,2026-05-31T10:00:00
+FB0140,EMP027,EMP027,self,2026-03,3.2,3.1,3.1,3.1,3.6,3.2,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0141,EMP027,EMP023,subordinate,2026-03,3.9,3.9,3.8,3.6,3.1,3.7,Handles routine tasks well.,2026-03-31T10:00:00
+FB0142,EMP027,EMP035,subordinate,2026-05,3.1,3.6,3.6,3.9,3.8,3.6,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0143,EMP028,EMP033,subordinate,2026-01,3.5,3.3,3.2,3.2,2.7,3.2,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0144,EMP028,EMP028,self,2026-05,2.5,3.3,3.2,2.8,2.8,2.9,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0145,EMP028,EMP008,peer,2026-06,3.3,3.2,3.1,2.6,2.7,3.0,Needs to take more initiative.,2026-06-30T10:00:00
+FB0146,EMP028,EMP028,self,2026-03,2.9,3.5,3.0,3.4,2.6,3.1,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0147,EMP028,EMP034,manager,2026-05,2.8,3.1,2.7,2.7,2.6,2.8,Quality of work has been inconsistent.,2026-05-31T10:00:00
+FB0148,EMP028,EMP028,self,2026-05,2.7,2.6,3.2,2.7,3.5,2.9,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0149,EMP028,EMP028,self,2026-04,3.3,2.7,3.5,2.6,2.8,3.0,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0150,EMP029,EMP035,manager,2026-06,4.1,4.4,4.1,4.1,3.9,4.1,Great at mentoring junior team members.,2026-06-30T10:00:00
+FB0151,EMP029,EMP015,subordinate,2026-06,3.9,4.4,3.7,4.0,4.4,4.1,Shows strong technical leadership.,2026-06-30T10:00:00
+FB0152,EMP029,EMP009,subordinate,2026-05,3.8,3.9,3.8,4.4,3.6,3.9,Needs to take more initiative.,2026-05-31T10:00:00
+FB0153,EMP029,EMP035,manager,2026-02,3.9,3.9,3.8,4.1,4.1,4.0,Proactive in identifying and solving problems.,2026-02-28T10:00:00
+FB0154,EMP029,EMP040,subordinate,2026-02,4.1,3.6,4.0,4.4,3.6,3.9,Handles routine tasks well.,2026-02-28T10:00:00
+FB0155,EMP029,EMP017,subordinate,2026-05,4.3,3.6,4.0,3.7,4.2,4.0,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0156,EMP030,EMP032,manager,2026-06,3.0,2.1,2.3,2.5,2.4,2.5,Quality of work has been inconsistent.,2026-06-30T10:00:00
+FB0157,EMP030,EMP006,peer,2026-05,2.2,2.5,2.2,2.2,2.7,2.4,Quality of work has been inconsistent.,2026-05-31T10:00:00
+FB0158,EMP030,EMP030,self,2026-05,2.6,2.5,2.6,2.4,2.3,2.5,Communication skills require development.,2026-05-31T10:00:00
+FB0159,EMP030,EMP006,peer,2026-05,2.1,2.5,2.3,2.8,2.2,2.4,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0160,EMP030,EMP017,subordinate,2026-04,3.0,2.9,2.1,2.1,2.5,2.5,Communication skills require development.,2026-04-30T10:00:00
+FB0161,EMP030,EMP030,self,2026-06,2.7,2.8,2.2,2.8,2.6,2.6,Needs significant improvement in meeting deadlines.,2026-06-30T10:00:00
+FB0162,EMP030,EMP032,manager,2026-05,2.4,2.1,2.6,2.6,2.8,2.5,Needs significant improvement in meeting deadlines.,2026-05-31T10:00:00
+FB0163,EMP031,EMP031,self,2026-06,3.3,3.7,3.5,4.0,3.3,3.6,Needs to take more initiative.,2026-06-30T10:00:00
+FB0164,EMP031,EMP021,subordinate,2026-05,3.4,3.3,3.3,3.6,3.1,3.3,Meets expectations in most areas.,2026-05-31T10:00:00
+FB0165,EMP031,EMP018,peer,2026-06,3.5,4.0,3.4,3.5,3.4,3.6,Needs to take more initiative.,2026-06-30T10:00:00
+FB0166,EMP031,EMP035,subordinate,2026-06,3.1,3.7,3.1,3.3,3.6,3.4,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0167,EMP031,EMP031,self,2026-02,3.8,3.6,3.2,3.6,3.8,3.6,Needs to take more initiative.,2026-02-28T10:00:00
+FB0168,EMP031,EMP032,manager,2026-02,3.8,3.6,3.1,3.4,3.8,3.5,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0169,EMP031,EMP032,manager,2026-03,3.7,3.4,3.8,3.9,3.9,3.7,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0170,EMP032,EMP032,self,2026-04,3.9,4.4,3.6,3.7,3.9,3.9,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0171,EMP032,EMP033,manager,2026-04,3.6,4.2,4.4,3.6,4.3,4.0,Reliable and always meets deadlines.,2026-04-30T10:00:00
+FB0172,EMP032,EMP033,manager,2026-05,4.5,4.3,4.1,3.9,3.7,4.1,Strong analytical and problem-solving skills.,2026-05-31T10:00:00
+FB0173,EMP032,EMP032,self,2026-05,4.0,4.3,4.5,3.6,4.2,4.1,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0174,EMP032,EMP031,peer,2026-03,4.0,4.5,3.5,3.7,4.3,4.0,Great at mentoring junior team members.,2026-03-31T10:00:00
+FB0175,EMP033,EMP032,manager,2026-02,2.7,2.6,2.8,3.0,3.0,2.8,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0176,EMP033,EMP031,subordinate,2026-02,3.5,2.8,2.7,2.6,2.9,2.9,Communication skills require development.,2026-02-28T10:00:00
+FB0177,EMP033,EMP025,subordinate,2026-03,3.3,2.6,3.3,3.3,2.9,3.1,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0178,EMP033,EMP040,subordinate,2026-02,3.4,2.6,2.7,3.3,2.8,3.0,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0179,EMP033,EMP031,peer,2026-04,2.8,3.3,3.2,3.1,3.2,3.1,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0180,EMP033,EMP033,self,2026-03,3.3,3.0,2.6,2.9,2.8,2.9,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0181,EMP033,EMP028,subordinate,2026-04,3.0,3.1,3.3,3.1,2.6,3.0,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0182,EMP034,EMP032,manager,2026-02,2.9,2.4,2.5,2.6,2.2,2.5,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0183,EMP034,EMP034,self,2026-05,3.0,2.5,2.2,2.0,2.3,2.4,Quality of work has been inconsistent.,2026-05-31T10:00:00
+FB0184,EMP034,EMP027,peer,2026-02,2.6,2.4,2.1,3.0,2.5,2.5,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0185,EMP034,EMP034,self,2026-06,2.7,2.2,2.4,2.2,2.7,2.4,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0186,EMP034,EMP033,peer,2026-03,2.5,2.7,2.1,2.4,2.6,2.5,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0187,EMP034,EMP034,self,2026-01,2.0,2.8,2.1,2.7,3.0,2.5,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0188,EMP034,EMP010,subordinate,2026-01,2.1,2.4,2.5,2.3,2.6,2.4,Quality of work has been inconsistent.,2026-01-31T10:00:00
+FB0189,EMP035,EMP007,peer,2026-01,3.8,3.5,3.8,3.5,3.7,3.7,Needs to take more initiative.,2026-01-31T10:00:00
+FB0190,EMP035,EMP035,self,2026-06,3.2,3.8,3.8,3.3,3.3,3.5,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0191,EMP035,EMP012,peer,2026-06,3.3,3.2,3.9,3.3,3.3,3.4,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0192,EMP035,EMP018,peer,2026-01,4.0,3.6,3.3,3.5,3.1,3.5,Needs to take more initiative.,2026-01-31T10:00:00
+FB0193,EMP035,EMP035,self,2026-05,3.7,3.1,3.8,3.1,3.3,3.4,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0194,EMP036,EMP028,subordinate,2026-03,3.9,4.0,3.6,4.0,4.2,3.9,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0195,EMP036,EMP014,peer,2026-03,4.2,4.4,3.6,3.9,4.4,4.1,Consistently delivers high-quality work.,2026-03-31T10:00:00
+FB0196,EMP036,EMP035,peer,2026-02,3.6,4.1,4.2,4.3,3.9,4.0,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0197,EMP036,EMP035,manager,2026-01,4.4,3.5,4.3,4.3,4.4,4.2,Excellent team player with strong communication.,2026-01-31T10:00:00
+FB0198,EMP037,EMP011,peer,2026-03,3.4,2.6,3.4,2.5,3.4,3.1,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0199,EMP037,EMP022,subordinate,2026-02,3.2,3.3,2.7,2.8,2.5,2.9,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0200,EMP037,EMP037,self,2026-01,3.2,3.0,2.7,2.5,2.8,2.8,Communication skills require development.,2026-01-31T10:00:00
+FB0201,EMP037,EMP034,peer,2026-03,3.4,3.2,3.3,3.5,3.1,3.3,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0202,EMP037,EMP013,peer,2026-06,3.3,2.7,3.0,2.8,2.6,2.9,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0203,EMP038,EMP032,subordinate,2026-05,3.9,3.9,3.9,4.4,4.0,4.0,Brings innovative ideas to the team.,2026-05-31T10:00:00
+FB0204,EMP038,EMP038,self,2026-02,4.1,4.5,4.2,3.7,4.5,4.2,Great at mentoring junior team members.,2026-02-28T10:00:00
+FB0205,EMP038,EMP038,self,2026-02,4.1,3.8,4.5,3.6,3.7,3.9,Needs to take more initiative.,2026-02-28T10:00:00
+FB0206,EMP038,EMP019,subordinate,2026-06,3.5,4.5,4.4,3.7,3.8,4.0,Shows strong technical leadership.,2026-06-30T10:00:00
+FB0207,EMP038,EMP017,peer,2026-01,3.7,3.7,3.8,3.6,4.2,3.8,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0208,EMP039,EMP033,manager,2026-04,2.1,2.7,2.3,2.9,2.3,2.5,Needs to be more proactive in team settings.,2026-04-30T10:00:00
+FB0209,EMP039,EMP019,subordinate,2026-03,2.6,2.2,2.7,2.3,2.4,2.4,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0210,EMP039,EMP029,subordinate,2026-02,2.9,3.0,2.1,2.0,2.7,2.5,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0211,EMP039,EMP004,subordinate,2026-06,2.2,2.8,2.1,2.7,2.7,2.5,Communication skills require development.,2026-06-30T10:00:00
+FB0212,EMP039,EMP016,subordinate,2026-03,2.9,2.6,2.7,2.3,2.2,2.5,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0213,EMP039,EMP039,self,2026-05,2.9,2.3,2.8,2.1,2.0,2.4,Needs significant improvement in meeting deadlines.,2026-05-31T10:00:00
+FB0214,EMP040,EMP040,self,2026-03,3.6,3.1,3.5,4.0,3.4,3.5,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0215,EMP040,EMP016,subordinate,2026-04,3.4,3.2,3.1,3.4,3.3,3.3,Good work but could improve on communication.,2026-04-30T10:00:00
+FB0216,EMP040,EMP002,subordinate,2026-06,3.2,3.6,3.8,3.7,3.2,3.5,Needs to take more initiative.,2026-06-30T10:00:00
+FB0217,EMP040,EMP040,self,2026-05,3.8,4.0,3.1,3.8,3.5,3.6,Handles routine tasks well.,2026-05-31T10:00:00
+FB0218,EMP040,EMP040,self,2026-03,3.8,3.3,3.3,3.5,3.8,3.5,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0219,EMP040,EMP015,peer,2026-01,3.7,3.4,3.4,3.3,3.8,3.5,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0220,EMP040,EMP041,subordinate,2026-04,3.4,3.2,3.1,3.5,3.1,3.3,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0221,EMP041,EMP041,self,2026-05,3.5,2.9,3.5,2.5,3.4,3.2,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0222,EMP041,EMP041,self,2026-03,3.1,3.0,2.6,3.4,3.3,3.1,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0223,EMP041,EMP014,subordinate,2026-05,3.0,3.3,3.1,3.1,2.6,3.0,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0224,EMP041,EMP032,manager,2026-03,3.4,2.8,2.8,2.6,3.3,3.0,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0225,EMP042,EMP042,self,2026-01,3.7,4.0,3.5,4.4,4.3,4.0,Great at mentoring junior team members.,2026-01-31T10:00:00
+FB0226,EMP042,EMP048,peer,2026-05,3.8,4.0,3.7,3.9,3.7,3.8,Needs to take more initiative.,2026-05-31T10:00:00
+FB0227,EMP042,EMP048,peer,2026-06,4.2,4.4,3.6,3.6,4.4,4.0,Proactive in identifying and solving problems.,2026-06-30T10:00:00
+FB0228,EMP042,EMP042,self,2026-06,3.6,3.8,4.1,3.7,4.5,3.9,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0229,EMP042,EMP043,subordinate,2026-02,3.7,4.1,4.5,4.1,3.8,4.0,Shows strong technical leadership.,2026-02-28T10:00:00
+FB0230,EMP042,EMP045,peer,2026-06,4.3,4.3,4.3,4.0,3.5,4.1,Proactive in identifying and solving problems.,2026-06-30T10:00:00
+FB0231,EMP042,EMP046,subordinate,2026-05,4.4,4.5,3.9,4.3,3.6,4.1,Reliable and always meets deadlines.,2026-05-31T10:00:00
+FB0232,EMP043,EMP044,peer,2026-02,4.0,3.1,3.5,3.8,3.5,3.6,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0233,EMP043,EMP044,peer,2026-02,3.3,3.6,4.0,3.6,3.1,3.5,Delivers on time but quality needs improvement.,2026-02-28T10:00:00
+FB0234,EMP043,EMP043,self,2026-03,3.3,3.6,3.5,3.9,3.0,3.5,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0235,EMP043,EMP046,subordinate,2026-05,3.2,3.4,3.3,3.6,3.7,3.4,Needs to take more initiative.,2026-05-31T10:00:00
+FB0236,EMP043,EMP044,peer,2026-02,3.7,3.3,3.1,3.2,3.4,3.3,Needs to take more initiative.,2026-02-28T10:00:00
+FB0237,EMP044,EMP043,subordinate,2026-01,2.9,2.6,2.5,2.7,2.1,2.6,Needs to be more proactive in team settings.,2026-01-31T10:00:00
+FB0238,EMP044,EMP047,subordinate,2026-03,2.7,2.9,2.8,2.3,2.9,2.7,Communication skills require development.,2026-03-31T10:00:00
+FB0239,EMP044,EMP045,peer,2026-03,2.3,2.7,2.8,2.2,3.0,2.6,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0240,EMP044,EMP045,peer,2026-04,2.2,2.4,2.7,2.4,2.6,2.5,Needs significant improvement in meeting deadlines.,2026-04-30T10:00:00
+FB0241,EMP044,EMP047,subordinate,2026-01,2.7,2.1,2.6,2.7,2.8,2.6,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0242,EMP045,EMP045,self,2026-06,3.2,3.5,3.2,3.1,3.3,3.3,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0243,EMP045,EMP043,peer,2026-01,4.0,3.4,3.5,3.1,3.1,3.4,Handles routine tasks well.,2026-01-31T10:00:00
+FB0244,EMP045,EMP042,subordinate,2026-02,3.1,3.7,3.7,4.0,3.1,3.5,Handles routine tasks well.,2026-02-28T10:00:00
+FB0245,EMP045,EMP046,peer,2026-06,3.9,3.9,3.1,3.7,3.7,3.7,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0246,EMP045,EMP048,manager,2026-04,3.3,3.0,4.0,3.5,3.3,3.4,Handles routine tasks well.,2026-04-30T10:00:00
+FB0247,EMP046,EMP048,subordinate,2026-05,3.7,3.5,3.9,3.8,3.2,3.6,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0248,EMP046,EMP046,self,2026-01,3.9,3.4,3.9,3.8,3.5,3.7,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0249,EMP046,EMP045,subordinate,2026-06,3.4,3.5,3.0,3.6,3.2,3.3,Needs to take more initiative.,2026-06-30T10:00:00
+FB0250,EMP046,EMP048,manager,2026-02,3.6,3.3,3.5,3.0,3.6,3.4,Needs to take more initiative.,2026-02-28T10:00:00
+FB0251,EMP046,EMP048,subordinate,2026-05,3.8,3.2,3.2,3.3,3.1,3.3,Handles routine tasks well.,2026-05-31T10:00:00
+FB0252,EMP046,EMP046,self,2026-04,3.5,4.0,3.5,3.7,3.8,3.7,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0253,EMP047,EMP048,manager,2026-06,2.2,2.1,2.5,2.0,2.7,2.3,Needs significant improvement in meeting deadlines.,2026-06-30T10:00:00
+FB0254,EMP047,EMP047,self,2026-02,2.1,2.5,2.5,2.6,2.8,2.5,Communication skills require development.,2026-02-28T10:00:00
+FB0255,EMP047,EMP043,peer,2026-03,2.3,3.0,2.3,2.5,2.7,2.6,Communication skills require development.,2026-03-31T10:00:00
+FB0256,EMP047,EMP044,peer,2026-01,2.9,2.2,2.1,2.6,2.4,2.4,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0257,EMP048,EMP047,manager,2026-03,3.3,3.0,3.4,3.2,3.5,3.3,Handles routine tasks well.,2026-03-31T10:00:00
+FB0258,EMP048,EMP048,self,2026-04,3.5,3.3,3.3,2.7,2.9,3.1,Handles routine tasks well.,2026-04-30T10:00:00
+FB0259,EMP048,EMP043,subordinate,2026-03,2.9,2.6,2.9,2.9,3.0,2.9,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0260,EMP048,EMP045,subordinate,2026-05,2.8,3.4,3.3,2.8,3.4,3.1,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0261,EMP048,EMP048,self,2026-02,2.8,3.0,2.6,3.5,2.7,2.9,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0262,EMP048,EMP047,manager,2026-03,2.5,2.7,2.7,2.7,2.6,2.6,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0263,EMP049,EMP049,self,2026-04,2.4,2.5,2.3,2.4,2.3,2.4,Needs to be more proactive in team settings.,2026-04-30T10:00:00
+FB0264,EMP049,EMP061,peer,2026-02,2.2,2.2,2.3,2.5,2.6,2.4,Needs to be more proactive in team settings.,2026-02-28T10:00:00
+FB0265,EMP049,EMP061,manager,2026-03,2.2,2.8,2.6,2.2,2.1,2.4,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0266,EMP049,EMP057,subordinate,2026-06,2.8,2.4,2.2,2.5,2.3,2.4,Needs significant improvement in meeting deadlines.,2026-06-30T10:00:00
+FB0267,EMP049,EMP061,manager,2026-03,2.7,3.0,2.0,2.7,2.1,2.5,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0268,EMP050,EMP061,peer,2026-02,4.3,3.7,4.3,4.3,3.9,4.1,Consistently delivers high-quality work.,2026-02-28T10:00:00
+FB0269,EMP050,EMP056,peer,2026-02,4.3,3.9,3.9,4.3,4.0,4.1,Proactive in identifying and solving problems.,2026-02-28T10:00:00
+FB0270,EMP050,EMP059,manager,2026-05,4.2,4.3,4.2,3.7,4.1,4.1,Proactive in identifying and solving problems.,2026-05-31T10:00:00
+FB0271,EMP050,EMP058,subordinate,2026-02,4.3,4.3,4.2,3.7,4.4,4.2,Shows strong technical leadership.,2026-02-28T10:00:00
+FB0272,EMP050,EMP053,peer,2026-02,3.8,3.8,4.1,4.4,4.4,4.1,Shows strong technical leadership.,2026-02-28T10:00:00
+FB0273,EMP050,EMP059,manager,2026-04,3.9,3.7,3.5,4.4,4.4,4.0,Consistently delivers high-quality work.,2026-04-30T10:00:00
+FB0274,EMP050,EMP052,subordinate,2026-01,3.7,4.3,3.5,4.4,3.6,3.9,Handles routine tasks well.,2026-01-31T10:00:00
+FB0275,EMP051,EMP052,peer,2026-02,3.7,4.2,3.9,4.1,3.9,4.0,Great at mentoring junior team members.,2026-02-28T10:00:00
+FB0276,EMP051,EMP051,self,2026-06,4.1,4.3,3.8,4.2,3.9,4.1,Strong analytical and problem-solving skills.,2026-06-30T10:00:00
+FB0277,EMP051,EMP056,subordinate,2026-04,3.7,3.7,4.2,4.3,4.1,4.0,Brings innovative ideas to the team.,2026-04-30T10:00:00
+FB0278,EMP051,EMP051,self,2026-04,4.0,4.1,3.9,4.5,4.0,4.1,Reliable and always meets deadlines.,2026-04-30T10:00:00
+FB0279,EMP051,EMP049,peer,2026-05,4.3,3.8,4.2,3.6,4.5,4.1,Consistently delivers high-quality work.,2026-05-31T10:00:00
+FB0280,EMP051,EMP051,self,2026-01,4.1,3.6,3.9,3.6,3.9,3.8,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0281,EMP052,EMP060,subordinate,2026-06,2.0,2.7,2.2,2.3,2.5,2.3,Communication skills require development.,2026-06-30T10:00:00
+FB0282,EMP052,EMP052,self,2026-03,2.9,2.3,2.6,2.1,2.3,2.4,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0283,EMP052,EMP049,subordinate,2026-03,2.2,2.1,2.3,2.2,2.8,2.3,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0284,EMP052,EMP052,self,2026-03,2.1,2.6,2.8,2.8,2.5,2.6,Needs to be more proactive in team settings.,2026-03-31T10:00:00
+FB0285,EMP052,EMP052,self,2026-05,2.7,2.1,2.0,2.3,2.9,2.4,Communication skills require development.,2026-05-31T10:00:00
+FB0286,EMP053,EMP055,peer,2026-06,3.8,3.9,3.5,3.2,3.6,3.6,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0287,EMP053,EMP059,subordinate,2026-06,3.3,3.7,3.4,3.9,3.6,3.6,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0288,EMP053,EMP049,subordinate,2026-05,3.7,3.2,3.7,3.7,3.2,3.5,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0289,EMP053,EMP058,peer,2026-01,3.1,3.5,3.3,3.4,3.1,3.3,Needs to take more initiative.,2026-01-31T10:00:00
+FB0290,EMP053,EMP051,subordinate,2026-02,3.2,3.1,3.8,4.0,3.6,3.5,Needs to take more initiative.,2026-02-28T10:00:00
+FB0291,EMP054,EMP054,self,2026-01,3.6,3.9,3.7,4.1,3.9,3.8,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0292,EMP054,EMP060,peer,2026-03,3.7,3.6,3.9,4.0,4.2,3.9,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0293,EMP054,EMP059,peer,2026-03,3.7,3.9,3.8,4.3,4.2,4.0,Strong analytical and problem-solving skills.,2026-03-31T10:00:00
+FB0294,EMP054,EMP054,self,2026-03,3.6,3.9,3.6,3.7,3.7,3.7,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0295,EMP054,EMP050,peer,2026-05,4.2,4.4,4.1,3.9,3.6,4.0,Shows strong technical leadership.,2026-05-31T10:00:00
+FB0296,EMP054,EMP050,peer,2026-05,3.6,4.2,4.1,3.9,4.1,4.0,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0297,EMP055,EMP061,manager,2026-06,3.8,3.1,3.7,3.2,4.0,3.6,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0298,EMP055,EMP059,peer,2026-02,3.4,3.4,3.1,3.5,3.9,3.5,Needs to take more initiative.,2026-02-28T10:00:00
+FB0299,EMP055,EMP060,peer,2026-01,3.1,3.6,3.7,3.1,3.1,3.3,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0300,EMP055,EMP049,subordinate,2026-04,3.5,3.6,3.4,3.8,3.6,3.6,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0301,EMP055,EMP061,manager,2026-05,3.0,3.2,3.2,3.0,3.2,3.1,Handles routine tasks well.,2026-05-31T10:00:00
+FB0302,EMP056,EMP054,peer,2026-04,3.7,3.8,3.6,4.0,4.1,3.8,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0303,EMP056,EMP060,manager,2026-05,3.7,4.3,4.4,4.1,4.2,4.1,Great at mentoring junior team members.,2026-05-31T10:00:00
+FB0304,EMP056,EMP052,subordinate,2026-01,4.1,4.4,3.5,3.9,4.3,4.0,Proactive in identifying and solving problems.,2026-01-31T10:00:00
+FB0305,EMP056,EMP055,subordinate,2026-06,3.9,3.9,3.5,4.5,3.9,3.9,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0306,EMP056,EMP056,self,2026-04,4.2,4.4,3.7,3.8,4.1,4.0,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0307,EMP057,EMP057,self,2026-03,3.2,3.8,3.3,3.9,3.6,3.6,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0308,EMP057,EMP057,self,2026-03,4.0,3.1,3.6,3.8,3.1,3.5,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0309,EMP057,EMP060,peer,2026-06,3.4,3.6,3.1,3.2,3.3,3.3,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0310,EMP057,EMP057,self,2026-04,3.5,3.0,3.2,3.3,3.9,3.4,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0311,EMP057,EMP055,subordinate,2026-03,3.0,3.6,3.4,4.0,3.7,3.5,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0312,EMP057,EMP057,self,2026-05,3.5,3.7,3.8,3.8,3.1,3.6,Handles routine tasks well.,2026-05-31T10:00:00
+FB0313,EMP057,EMP057,self,2026-01,3.6,3.8,4.0,4.0,3.5,3.8,Handles routine tasks well.,2026-01-31T10:00:00
+FB0314,EMP058,EMP057,peer,2026-01,3.9,3.8,3.9,3.2,3.3,3.6,Adequate performance with room for growth.,2026-01-31T10:00:00
+FB0315,EMP058,EMP058,self,2026-05,4.0,3.0,3.1,3.4,3.9,3.5,Needs to take more initiative.,2026-05-31T10:00:00
+FB0316,EMP058,EMP051,subordinate,2026-03,3.4,3.2,3.1,3.1,3.3,3.2,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0317,EMP058,EMP061,peer,2026-03,3.9,3.6,3.4,3.2,3.1,3.4,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0318,EMP059,EMP060,peer,2026-01,3.6,3.7,3.2,3.8,3.8,3.6,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0319,EMP059,EMP059,self,2026-04,3.9,3.2,3.1,3.0,3.5,3.3,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0320,EMP059,EMP060,manager,2026-06,3.1,3.7,3.1,3.7,3.5,3.4,Needs to take more initiative.,2026-06-30T10:00:00
+FB0321,EMP059,EMP059,self,2026-01,3.1,3.7,3.2,4.0,3.5,3.5,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0322,EMP059,EMP060,manager,2026-05,3.4,3.9,3.9,3.6,3.4,3.6,Handles routine tasks well.,2026-05-31T10:00:00
+FB0323,EMP059,EMP058,subordinate,2026-06,3.4,3.3,3.8,3.4,3.3,3.4,Handles routine tasks well.,2026-06-30T10:00:00
+FB0324,EMP060,EMP060,self,2026-02,2.6,2.5,2.6,2.1,2.6,2.5,Communication skills require development.,2026-02-28T10:00:00
+FB0325,EMP060,EMP059,manager,2026-03,2.3,2.5,2.3,2.9,2.2,2.4,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0326,EMP060,EMP053,peer,2026-04,2.1,3.0,2.9,2.3,2.9,2.6,Quality of work has been inconsistent.,2026-04-30T10:00:00
+FB0327,EMP060,EMP057,subordinate,2026-02,2.3,2.4,2.0,2.1,2.3,2.2,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0328,EMP060,EMP059,peer,2026-06,2.8,2.4,2.4,2.1,2.1,2.4,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0329,EMP060,EMP060,self,2026-03,2.7,2.1,3.0,2.3,2.7,2.6,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0330,EMP061,EMP061,self,2026-05,3.5,3.7,3.9,3.7,3.9,3.7,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0331,EMP061,EMP058,subordinate,2026-01,4.0,3.2,3.0,3.7,3.7,3.5,Needs to take more initiative.,2026-01-31T10:00:00
+FB0332,EMP061,EMP049,subordinate,2026-04,4.0,3.3,3.9,3.4,3.8,3.7,Needs to take more initiative.,2026-04-30T10:00:00
+FB0333,EMP061,EMP061,self,2026-06,3.0,3.1,3.6,3.9,4.0,3.5,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0334,EMP061,EMP059,manager,2026-06,3.9,3.8,3.3,3.1,3.2,3.5,Needs to take more initiative.,2026-06-30T10:00:00
+FB0335,EMP061,EMP060,subordinate,2026-02,3.2,3.1,3.1,3.3,3.1,3.2,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0336,EMP062,EMP062,self,2026-03,2.7,2.8,2.3,2.9,2.8,2.7,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0337,EMP062,EMP065,subordinate,2026-06,2.6,2.7,2.5,2.1,2.3,2.4,Communication skills require development.,2026-06-30T10:00:00
+FB0338,EMP062,EMP065,peer,2026-01,2.3,2.1,2.2,2.4,2.0,2.2,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0339,EMP062,EMP063,subordinate,2026-04,2.2,2.8,2.8,2.8,2.3,2.6,Needs to be more proactive in team settings.,2026-04-30T10:00:00
+FB0340,EMP062,EMP064,subordinate,2026-06,2.1,3.0,2.4,2.6,2.4,2.5,Communication skills require development.,2026-06-30T10:00:00
+FB0341,EMP062,EMP064,peer,2026-02,2.6,2.0,3.0,2.2,2.9,2.5,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0342,EMP063,EMP065,peer,2026-06,3.1,3.4,3.3,3.0,3.3,3.2,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0343,EMP063,EMP063,manager,2026-06,3.2,3.0,3.3,2.9,2.9,3.1,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0344,EMP063,EMP065,peer,2026-05,2.9,2.9,3.3,3.1,2.8,3.0,Delivers on time but quality needs improvement.,2026-05-31T10:00:00
+FB0345,EMP063,EMP065,peer,2026-06,3.1,2.7,3.4,3.1,3.2,3.1,Needs to take more initiative.,2026-06-30T10:00:00
+FB0346,EMP063,EMP063,manager,2026-03,3.4,3.0,2.7,2.5,2.9,2.9,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0347,EMP063,EMP064,subordinate,2026-04,3.1,3.4,3.0,2.6,3.2,3.1,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0348,EMP063,EMP063,manager,2026-01,2.9,3.0,3.2,2.6,3.4,3.0,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0349,EMP064,EMP064,self,2026-03,4.7,4.9,4.5,4.9,4.3,4.7,Brings innovative ideas to the team.,2026-03-31T10:00:00
+FB0350,EMP064,EMP064,self,2026-03,4.1,4.2,4.8,4.6,4.6,4.5,Strong analytical and problem-solving skills.,2026-03-31T10:00:00
+FB0351,EMP064,EMP065,peer,2026-03,4.9,4.8,4.4,4.2,4.5,4.6,Great at mentoring junior team members.,2026-03-31T10:00:00
+FB0352,EMP064,EMP064,self,2026-04,4.6,4.1,4.3,4.7,4.2,4.4,Reliable and always meets deadlines.,2026-04-30T10:00:00
+FB0353,EMP064,EMP062,peer,2026-04,4.6,4.5,4.8,4.4,4.7,4.6,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0354,EMP064,EMP064,self,2026-05,4.6,4.8,4.7,4.7,4.6,4.7,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0355,EMP065,EMP065,self,2026-03,2.4,2.9,2.5,2.7,2.9,2.7,Communication skills require development.,2026-03-31T10:00:00
+FB0356,EMP065,EMP065,manager,2026-01,2.5,2.6,2.9,3.0,2.6,2.7,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0357,EMP065,EMP065,manager,2026-02,2.6,2.1,2.1,2.9,2.4,2.4,Communication skills require development.,2026-02-28T10:00:00
+FB0358,EMP065,EMP066,peer,2026-02,2.9,2.6,2.5,2.9,2.5,2.7,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0359,EMP065,EMP066,peer,2026-01,2.1,2.8,2.1,2.1,2.9,2.4,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0360,EMP065,EMP065,manager,2026-04,2.2,2.7,2.0,2.1,2.9,2.4,Quality of work has been inconsistent.,2026-04-30T10:00:00
+FB0361,EMP065,EMP065,manager,2026-01,2.2,2.4,2.6,2.9,2.5,2.5,Quality of work has been inconsistent.,2026-01-31T10:00:00
+FB0362,EMP066,EMP063,subordinate,2026-04,4.0,3.2,3.7,3.3,3.5,3.5,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0363,EMP066,EMP062,subordinate,2026-01,3.3,3.4,3.7,3.7,3.3,3.5,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0364,EMP066,EMP065,peer,2026-03,3.6,3.2,3.6,3.2,3.2,3.4,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0365,EMP066,EMP066,manager,2026-01,3.7,3.1,3.5,3.1,3.2,3.3,Handles routine tasks well.,2026-01-31T10:00:00
+FB0366,EMP066,EMP063,subordinate,2026-04,3.4,3.2,3.2,3.1,3.2,3.2,Needs to take more initiative.,2026-04-30T10:00:00
+FB0367,EMP066,EMP063,peer,2026-06,3.1,3.7,3.5,3.6,3.4,3.5,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0368,EMP067,EMP068,subordinate,2026-03,4.3,3.9,3.6,4.0,4.4,4.0,Proactive in identifying and solving problems.,2026-03-31T10:00:00
+FB0369,EMP067,EMP067,self,2026-01,4.0,3.6,3.8,4.1,3.6,3.8,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0370,EMP067,EMP070,subordinate,2026-01,3.5,4.3,3.8,3.9,3.5,3.8,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0371,EMP067,EMP068,subordinate,2026-05,3.9,4.3,4.3,3.9,4.3,4.1,Great at mentoring junior team members.,2026-05-31T10:00:00
+FB0372,EMP067,EMP069,peer,2026-04,4.0,3.5,4.5,3.5,3.8,3.9,Meets expectations in most areas.,2026-04-30T10:00:00
+FB0373,EMP068,EMP069,subordinate,2026-06,3.2,3.2,3.4,3.8,3.6,3.4,Handles routine tasks well.,2026-06-30T10:00:00
+FB0374,EMP068,EMP068,self,2026-01,3.5,4.0,3.7,3.8,3.4,3.7,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0375,EMP068,EMP070,peer,2026-01,3.2,3.7,3.9,3.0,3.6,3.5,Needs to take more initiative.,2026-01-31T10:00:00
+FB0376,EMP068,EMP070,peer,2026-04,3.7,3.9,3.5,3.5,3.7,3.7,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0377,EMP069,EMP070,peer,2026-02,4.0,4.2,3.9,4.3,3.5,4.0,Excellent team player with strong communication.,2026-02-28T10:00:00
+FB0378,EMP069,EMP069,self,2026-03,3.7,3.6,3.6,3.6,4.1,3.7,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0379,EMP069,EMP069,self,2026-03,4.0,3.7,4.4,3.6,4.2,4.0,Consistently delivers high-quality work.,2026-03-31T10:00:00
+FB0380,EMP069,EMP069,self,2026-02,3.5,3.7,4.4,3.8,3.7,3.8,Delivers on time but quality needs improvement.,2026-02-28T10:00:00
+FB0381,EMP069,EMP070,subordinate,2026-04,4.4,4.4,4.2,4.1,4.0,4.2,Proactive in identifying and solving problems.,2026-04-30T10:00:00
+FB0382,EMP070,EMP070,self,2026-02,3.7,3.1,3.8,3.6,3.7,3.6,Meets expectations in most areas.,2026-02-28T10:00:00
+FB0383,EMP070,EMP070,manager,2026-03,3.7,3.3,3.7,3.2,3.9,3.6,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0384,EMP070,EMP070,manager,2026-01,4.0,4.0,3.9,3.4,3.9,3.8,Handles routine tasks well.,2026-01-31T10:00:00
+FB0385,EMP070,EMP070,self,2026-03,3.6,3.1,3.2,3.6,3.4,3.4,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0386,EMP071,EMP069,peer,2026-02,3.3,3.5,3.1,3.1,3.6,3.3,Meets expectations in most areas.,2026-02-28T10:00:00
+FB0387,EMP071,EMP071,self,2026-05,3.1,3.5,3.2,3.0,3.8,3.3,Needs to take more initiative.,2026-05-31T10:00:00
+FB0388,EMP071,EMP071,manager,2026-01,3.6,3.2,3.3,3.0,3.6,3.3,Needs to take more initiative.,2026-01-31T10:00:00
+FB0389,EMP071,EMP070,subordinate,2026-02,3.1,3.4,3.5,3.8,3.9,3.5,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0390,EMP071,EMP071,self,2026-02,3.8,3.3,3.5,3.5,3.6,3.5,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0391,EMP071,EMP071,self,2026-06,3.2,3.7,3.5,3.0,3.9,3.5,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0392,EMP071,EMP071,manager,2026-05,3.5,3.2,3.5,3.3,3.7,3.4,Needs to take more initiative.,2026-05-31T10:00:00
+FB0393,EMP072,EMP074,peer,2026-06,4.0,5.0,4.4,4.1,4.7,4.4,Shows strong technical leadership.,2026-06-30T10:00:00
+FB0394,EMP072,EMP073,manager,2026-06,4.1,4.3,4.0,4.5,4.8,4.3,Shows strong technical leadership.,2026-06-30T10:00:00
+FB0395,EMP072,EMP073,peer,2026-01,4.9,4.9,4.1,4.8,4.0,4.5,Shows strong technical leadership.,2026-01-31T10:00:00
+FB0396,EMP072,EMP073,subordinate,2026-02,4.8,4.2,4.7,4.2,4.3,4.4,Proactive in identifying and solving problems.,2026-02-28T10:00:00
+FB0397,EMP072,EMP072,self,2026-06,4.3,4.5,4.0,4.5,4.6,4.4,Consistently delivers high-quality work.,2026-06-30T10:00:00
+FB0398,EMP072,EMP073,manager,2026-03,4.5,4.3,4.1,4.6,5.0,4.5,Proactive in identifying and solving problems.,2026-03-31T10:00:00
+FB0399,EMP073,EMP073,self,2026-01,4.2,4.0,3.5,3.9,3.9,3.9,Handles routine tasks well.,2026-01-31T10:00:00
+FB0400,EMP073,EMP074,subordinate,2026-04,3.8,4.1,3.6,3.6,3.5,3.7,Handles routine tasks well.,2026-04-30T10:00:00
+FB0401,EMP073,EMP072,subordinate,2026-01,3.7,3.6,4.0,4.1,4.3,3.9,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0402,EMP073,EMP074,peer,2026-04,3.6,3.9,3.8,4.5,4.1,4.0,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0403,EMP073,EMP072,subordinate,2026-01,4.1,3.7,3.9,3.6,4.2,3.9,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0404,EMP073,EMP073,self,2026-03,3.9,4.5,4.4,4.1,3.7,4.1,Shows strong technical leadership.,2026-03-31T10:00:00
+FB0405,EMP074,EMP073,peer,2026-03,3.1,3.1,3.2,3.3,3.5,3.2,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0406,EMP074,EMP073,subordinate,2026-06,3.3,3.7,3.1,3.4,3.4,3.4,Needs to take more initiative.,2026-06-30T10:00:00
+FB0407,EMP074,EMP074,self,2026-04,3.1,3.4,4.0,3.5,3.1,3.4,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0408,EMP074,EMP072,manager,2026-06,3.0,3.2,3.6,3.1,3.4,3.3,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0409,EMP074,EMP072,subordinate,2026-05,3.1,3.3,3.8,3.6,3.9,3.5,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0410,EMP074,EMP072,peer,2026-06,3.5,3.4,3.2,3.7,3.1,3.4,Handles routine tasks well.,2026-06-30T10:00:00
+FB0411,EMP074,EMP073,subordinate,2026-04,4.0,3.6,3.1,3.4,3.2,3.5,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0412,EMP075,EMP075,self,2026-04,3.9,3.5,3.9,3.0,3.6,3.6,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0413,EMP075,EMP077,subordinate,2026-05,3.6,3.4,3.4,3.2,3.6,3.4,Needs to take more initiative.,2026-05-31T10:00:00
+FB0414,EMP075,EMP075,manager,2026-04,3.1,3.9,3.9,3.0,3.6,3.5,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0415,EMP075,EMP075,self,2026-06,3.2,3.5,3.0,3.8,3.2,3.3,Handles routine tasks well.,2026-06-30T10:00:00
+FB0416,EMP076,EMP075,peer,2026-04,3.2,3.6,3.3,3.7,3.5,3.5,Good work but could improve on communication.,2026-04-30T10:00:00
+FB0417,EMP076,EMP076,manager,2026-05,3.3,3.6,3.5,4.0,3.1,3.5,Needs to take more initiative.,2026-05-31T10:00:00
+FB0418,EMP076,EMP076,manager,2026-06,3.2,3.5,3.0,3.0,4.0,3.3,Needs to take more initiative.,2026-06-30T10:00:00
+FB0419,EMP076,EMP075,subordinate,2026-06,3.9,3.8,3.3,3.3,4.0,3.7,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0420,EMP076,EMP077,subordinate,2026-04,3.9,3.7,3.9,3.9,3.6,3.8,Delivers on time but quality needs improvement.,2026-04-30T10:00:00
+FB0421,EMP076,EMP077,peer,2026-06,3.2,3.0,3.6,3.1,3.4,3.3,Meets expectations in most areas.,2026-06-30T10:00:00
+FB0422,EMP077,EMP075,peer,2026-01,4.3,4.0,4.4,5.0,4.2,4.4,Proactive in identifying and solving problems.,2026-01-31T10:00:00
+FB0423,EMP077,EMP080,subordinate,2026-05,4.2,5.0,4.5,4.6,4.4,4.5,Reliable and always meets deadlines.,2026-05-31T10:00:00
+FB0424,EMP077,EMP076,subordinate,2026-06,4.3,4.8,4.1,4.0,4.0,4.2,Great at mentoring junior team members.,2026-06-30T10:00:00
+FB0425,EMP077,EMP076,peer,2026-05,4.4,4.6,4.2,4.3,4.7,4.4,Excellent team player with strong communication.,2026-05-31T10:00:00
+FB0426,EMP077,EMP077,manager,2026-06,4.3,4.3,4.1,4.1,4.8,4.3,Consistently delivers high-quality work.,2026-06-30T10:00:00
+FB0427,EMP078,EMP078,self,2026-05,3.5,3.8,3.6,3.6,4.0,3.7,Needs to take more initiative.,2026-05-31T10:00:00
+FB0428,EMP078,EMP081,subordinate,2026-02,3.8,3.9,3.9,3.9,3.3,3.8,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0429,EMP078,EMP078,self,2026-01,3.4,3.9,3.4,3.8,3.4,3.6,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0430,EMP078,EMP079,peer,2026-05,3.3,3.7,4.0,3.9,3.2,3.6,Good work but could improve on communication.,2026-05-31T10:00:00
+FB0431,EMP079,EMP079,manager,2026-01,3.7,3.8,4.3,4.2,4.4,4.1,Reliable and always meets deadlines.,2026-01-31T10:00:00
+FB0432,EMP079,EMP081,subordinate,2026-02,4.0,3.5,4.5,3.6,4.4,4.0,Proactive in identifying and solving problems.,2026-02-28T10:00:00
+FB0433,EMP079,EMP082,peer,2026-02,4.4,3.7,3.9,4.5,4.2,4.1,Strong analytical and problem-solving skills.,2026-02-28T10:00:00
+FB0434,EMP079,EMP078,subordinate,2026-03,3.6,4.4,4.2,4.4,4.4,4.2,Brings innovative ideas to the team.,2026-03-31T10:00:00
+FB0435,EMP079,EMP079,manager,2026-05,4.5,3.9,3.9,4.0,3.8,4.0,Proactive in identifying and solving problems.,2026-05-31T10:00:00
+FB0436,EMP080,EMP075,peer,2026-01,2.9,2.4,3.0,2.6,2.9,2.8,Needs to be more proactive in team settings.,2026-01-31T10:00:00
+FB0437,EMP080,EMP078,peer,2026-06,2.5,2.3,2.6,2.9,2.5,2.6,Needs significant improvement in meeting deadlines.,2026-06-30T10:00:00
+FB0438,EMP080,EMP080,self,2026-05,2.8,2.2,2.6,2.8,3.0,2.7,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0439,EMP080,EMP080,manager,2026-04,2.5,2.4,2.9,2.4,2.3,2.5,Quality of work has been inconsistent.,2026-04-30T10:00:00
+FB0440,EMP081,EMP079,peer,2026-04,2.8,2.2,2.2,2.4,2.9,2.5,Communication skills require development.,2026-04-30T10:00:00
+FB0441,EMP081,EMP081,manager,2026-06,2.8,2.0,3.0,2.7,2.1,2.5,Quality of work has been inconsistent.,2026-06-30T10:00:00
+FB0442,EMP081,EMP081,self,2026-03,2.3,2.9,2.8,3.0,2.5,2.7,Communication skills require development.,2026-03-31T10:00:00
+FB0443,EMP081,EMP081,manager,2026-01,2.7,2.7,2.7,2.3,2.7,2.6,Communication skills require development.,2026-01-31T10:00:00
+FB0444,EMP081,EMP081,manager,2026-06,2.6,2.4,2.6,2.0,2.4,2.4,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0445,EMP082,EMP082,manager,2026-06,3.1,3.2,3.0,2.9,2.6,3.0,Needs to take more initiative.,2026-06-30T10:00:00
+FB0446,EMP082,EMP082,self,2026-01,3.3,3.3,2.6,2.7,3.1,3.0,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0447,EMP082,EMP082,manager,2026-03,2.9,3.0,2.7,3.1,3.0,2.9,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0448,EMP082,EMP075,subordinate,2026-01,2.9,2.7,3.5,3.4,3.0,3.1,Handles routine tasks well.,2026-01-31T10:00:00
+FB0449,EMP082,EMP082,manager,2026-02,2.7,2.6,2.6,2.7,3.3,2.8,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0450,EMP083,EMP084,subordinate,2026-06,2.5,2.8,2.3,2.1,2.4,2.4,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0451,EMP083,EMP085,peer,2026-02,2.2,2.7,2.1,2.7,2.4,2.4,Needs to be more proactive in team settings.,2026-02-28T10:00:00
+FB0452,EMP083,EMP083,manager,2026-05,2.3,2.2,2.1,2.0,2.1,2.1,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0453,EMP083,EMP083,self,2026-01,3.0,2.5,2.1,2.6,2.5,2.5,Needs to be more proactive in team settings.,2026-01-31T10:00:00
+FB0454,EMP083,EMP083,self,2026-01,2.8,2.8,2.4,2.4,2.8,2.6,Quality of work has been inconsistent.,2026-01-31T10:00:00
+FB0455,EMP083,EMP083,manager,2026-02,2.6,3.0,3.0,2.3,2.8,2.7,Communication skills require development.,2026-02-28T10:00:00
+FB0456,EMP083,EMP085,subordinate,2026-03,2.9,2.3,2.3,2.5,2.6,2.5,Communication skills require development.,2026-03-31T10:00:00
+FB0457,EMP084,EMP084,self,2026-04,3.2,2.7,2.8,3.2,3.2,3.0,Adequate performance with room for growth.,2026-04-30T10:00:00
+FB0458,EMP084,EMP083,peer,2026-04,2.7,3.0,2.8,2.8,2.7,2.8,Needs to be more proactive in team settings.,2026-04-30T10:00:00
+FB0459,EMP084,EMP086,subordinate,2026-05,3.1,2.7,3.3,2.7,2.6,2.9,Communication skills require development.,2026-05-31T10:00:00
+FB0460,EMP084,EMP084,self,2026-04,3.4,3.2,3.4,2.7,2.6,3.1,Handles routine tasks well.,2026-04-30T10:00:00
+FB0461,EMP084,EMP083,subordinate,2026-01,2.8,3.0,3.4,3.4,2.8,3.1,Handles routine tasks well.,2026-01-31T10:00:00
+FB0462,EMP084,EMP084,self,2026-02,3.1,3.5,2.6,3.0,3.3,3.1,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0463,EMP084,EMP084,manager,2026-05,3.0,2.8,2.8,3.2,2.7,2.9,Quality of work has been inconsistent.,2026-05-31T10:00:00
+FB0464,EMP085,EMP083,subordinate,2026-05,3.8,4.0,4.1,3.6,3.8,3.9,Handles routine tasks well.,2026-05-31T10:00:00
+FB0465,EMP085,EMP086,peer,2026-06,3.8,4.2,4.4,3.7,3.6,3.9,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0466,EMP085,EMP085,self,2026-05,3.7,4.1,3.9,4.3,3.6,3.9,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0467,EMP085,EMP084,peer,2026-02,4.3,4.4,4.5,3.9,3.6,4.1,Proactive in identifying and solving problems.,2026-02-28T10:00:00
+FB0468,EMP085,EMP086,peer,2026-06,4.3,3.7,4.5,3.8,4.1,4.1,Reliable and always meets deadlines.,2026-06-30T10:00:00
+FB0469,EMP086,EMP085,peer,2026-05,3.4,3.4,2.9,3.2,3.0,3.2,Meets expectations in most areas.,2026-05-31T10:00:00
+FB0470,EMP086,EMP086,manager,2026-03,3.1,3.4,3.0,3.3,3.1,3.2,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0471,EMP086,EMP083,subordinate,2026-02,2.6,2.9,3.5,2.7,2.6,2.9,Needs significant improvement in meeting deadlines.,2026-02-28T10:00:00
+FB0472,EMP086,EMP086,self,2026-06,3.4,3.2,2.7,3.4,3.0,3.1,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0473,EMP086,EMP086,manager,2026-02,2.7,3.4,3.3,3.0,2.7,3.0,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0474,EMP086,EMP083,peer,2026-06,3.5,3.0,2.8,3.1,2.6,3.0,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0475,EMP087,EMP087,manager,2026-06,3.8,3.3,3.1,3.7,3.9,3.6,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0476,EMP087,EMP087,self,2026-01,3.6,3.5,3.2,3.1,3.4,3.4,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0477,EMP087,EMP087,manager,2026-01,3.5,3.7,3.6,3.9,3.9,3.7,Adequate performance with room for growth.,2026-01-31T10:00:00
+FB0478,EMP087,EMP090,subordinate,2026-02,3.5,3.9,3.4,3.7,3.1,3.5,Delivers on time but quality needs improvement.,2026-02-28T10:00:00
+FB0479,EMP087,EMP088,subordinate,2026-02,3.8,4.0,3.8,3.5,3.6,3.7,Needs to take more initiative.,2026-02-28T10:00:00
+FB0480,EMP087,EMP087,manager,2026-06,3.3,3.0,3.3,3.6,3.6,3.4,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0481,EMP088,EMP087,peer,2026-06,4.0,3.6,4.0,3.9,4.1,3.9,Handles routine tasks well.,2026-06-30T10:00:00
+FB0482,EMP088,EMP087,subordinate,2026-03,3.6,4.2,3.7,3.8,4.0,3.9,Delivers on time but quality needs improvement.,2026-03-31T10:00:00
+FB0483,EMP088,EMP087,peer,2026-02,3.7,4.5,3.9,3.7,4.0,4.0,Excellent team player with strong communication.,2026-02-28T10:00:00
+FB0484,EMP088,EMP091,subordinate,2026-03,4.1,4.3,3.9,4.1,4.5,4.2,Reliable and always meets deadlines.,2026-03-31T10:00:00
+FB0485,EMP088,EMP090,peer,2026-01,3.7,3.7,4.2,3.6,4.1,3.9,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0486,EMP088,EMP088,manager,2026-04,4.4,4.2,3.8,4.3,4.2,4.2,Great at mentoring junior team members.,2026-04-30T10:00:00
+FB0487,EMP088,EMP092,peer,2026-01,4.3,3.6,4.0,3.7,4.0,3.9,Delivers on time but quality needs improvement.,2026-01-31T10:00:00
+FB0488,EMP089,EMP089,self,2026-04,3.4,3.2,3.6,3.7,3.7,3.5,Needs to take more initiative.,2026-04-30T10:00:00
+FB0489,EMP089,EMP088,peer,2026-02,3.2,3.9,3.8,3.8,3.1,3.6,Meets expectations in most areas.,2026-02-28T10:00:00
+FB0490,EMP089,EMP089,manager,2026-06,3.4,4.0,3.0,3.4,3.3,3.4,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0491,EMP089,EMP089,manager,2026-03,3.7,3.8,3.9,3.6,3.6,3.7,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0492,EMP089,EMP089,self,2026-03,3.9,3.2,3.2,3.3,3.5,3.4,Needs to take more initiative.,2026-03-31T10:00:00
+FB0493,EMP089,EMP090,subordinate,2026-02,3.0,3.8,3.6,3.9,3.8,3.6,Delivers on time but quality needs improvement.,2026-02-28T10:00:00
+FB0494,EMP089,EMP091,subordinate,2026-05,3.6,3.8,3.6,3.3,3.9,3.6,Adequate performance with room for growth.,2026-05-31T10:00:00
+FB0495,EMP090,EMP090,self,2026-06,3.2,3.1,3.0,2.9,2.7,3.0,Good work but could improve on communication.,2026-06-30T10:00:00
+FB0496,EMP090,EMP090,self,2026-03,3.2,3.2,3.4,3.0,2.8,3.1,Meets expectations in most areas.,2026-03-31T10:00:00
+FB0497,EMP090,EMP090,self,2026-06,3.2,3.1,3.4,2.5,3.3,3.1,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0498,EMP090,EMP090,manager,2026-01,2.6,3.0,3.5,3.5,2.9,3.1,Handles routine tasks well.,2026-01-31T10:00:00
+FB0499,EMP091,EMP091,self,2026-04,4.3,4.0,4.3,3.6,4.4,4.1,Reliable and always meets deadlines.,2026-04-30T10:00:00
+FB0500,EMP091,EMP087,subordinate,2026-01,4.1,4.2,4.1,4.2,3.8,4.1,Consistently delivers high-quality work.,2026-01-31T10:00:00
+FB0501,EMP091,EMP091,manager,2026-02,3.7,4.5,3.9,3.8,3.6,3.9,Needs to take more initiative.,2026-02-28T10:00:00
+FB0502,EMP091,EMP088,peer,2026-02,4.5,4.1,4.0,4.5,3.8,4.2,Brings innovative ideas to the team.,2026-02-28T10:00:00
+FB0503,EMP091,EMP091,self,2026-04,3.7,3.7,4.1,4.0,3.7,3.8,Handles routine tasks well.,2026-04-30T10:00:00
+FB0504,EMP091,EMP091,self,2026-06,4.1,4.4,3.7,4.4,3.7,4.1,Excellent team player with strong communication.,2026-06-30T10:00:00
+FB0505,EMP091,EMP091,manager,2026-02,3.7,4.1,3.5,4.4,3.9,3.9,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0506,EMP092,EMP092,self,2026-06,4.2,3.9,3.9,3.7,3.9,3.9,Needs to take more initiative.,2026-06-30T10:00:00
+FB0507,EMP092,EMP092,manager,2026-06,3.5,4.2,4.5,4.1,3.7,4.0,Great at mentoring junior team members.,2026-06-30T10:00:00
+FB0508,EMP092,EMP091,peer,2026-02,3.8,3.6,3.8,3.5,3.9,3.7,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0509,EMP092,EMP088,peer,2026-04,3.7,4.4,4.1,4.1,4.1,4.1,Consistently delivers high-quality work.,2026-04-30T10:00:00
+FB0510,EMP092,EMP087,peer,2026-04,4.3,4.3,4.4,3.6,3.5,4.0,Consistently delivers high-quality work.,2026-04-30T10:00:00
+FB0511,EMP092,EMP087,peer,2026-03,3.9,3.8,4.2,3.8,4.5,4.0,Excellent team player with strong communication.,2026-03-31T10:00:00
+FB0512,EMP093,EMP093,manager,2026-01,4.8,4.1,4.1,4.8,4.9,4.5,Strong analytical and problem-solving skills.,2026-01-31T10:00:00
+FB0513,EMP093,EMP095,subordinate,2026-04,4.1,5.0,4.5,4.9,4.1,4.5,Shows strong technical leadership.,2026-04-30T10:00:00
+FB0514,EMP093,EMP093,manager,2026-01,4.7,4.5,4.2,4.2,4.6,4.4,Excellent team player with strong communication.,2026-01-31T10:00:00
+FB0515,EMP093,EMP097,peer,2026-06,5.0,4.9,4.0,4.9,4.3,4.6,Brings innovative ideas to the team.,2026-06-30T10:00:00
+FB0516,EMP093,EMP100,subordinate,2026-05,4.7,4.6,4.3,4.1,4.7,4.5,Reliable and always meets deadlines.,2026-05-31T10:00:00
+FB0517,EMP093,EMP093,manager,2026-03,4.6,4.4,4.1,4.4,4.2,4.3,Strong analytical and problem-solving skills.,2026-03-31T10:00:00
+FB0518,EMP093,EMP096,subordinate,2026-03,4.1,4.8,4.3,4.1,4.2,4.3,Strong analytical and problem-solving skills.,2026-03-31T10:00:00
+FB0519,EMP094,EMP099,peer,2026-01,4.8,4.1,4.6,4.1,4.7,4.5,Strong analytical and problem-solving skills.,2026-01-31T10:00:00
+FB0520,EMP094,EMP094,self,2026-03,4.8,4.3,4.7,4.1,4.2,4.4,Shows strong technical leadership.,2026-03-31T10:00:00
+FB0521,EMP094,EMP094,manager,2026-03,4.1,4.0,4.7,4.5,4.6,4.4,Reliable and always meets deadlines.,2026-03-31T10:00:00
+FB0522,EMP094,EMP094,self,2026-03,4.3,4.1,4.9,4.6,5.0,4.6,Shows strong technical leadership.,2026-03-31T10:00:00
+FB0523,EMP094,EMP094,manager,2026-04,4.2,4.1,4.1,4.3,4.3,4.2,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0524,EMP094,EMP096,peer,2026-01,4.0,4.9,4.1,4.7,4.8,4.5,Great at mentoring junior team members.,2026-01-31T10:00:00
+FB0525,EMP094,EMP094,self,2026-04,4.1,4.8,4.4,4.8,4.6,4.5,Consistently delivers high-quality work.,2026-04-30T10:00:00
+FB0526,EMP095,EMP094,peer,2026-03,3.6,3.9,4.0,4.5,4.2,4.0,Proactive in identifying and solving problems.,2026-03-31T10:00:00
+FB0527,EMP095,EMP093,peer,2026-03,4.4,4.3,4.0,4.1,3.7,4.1,Proactive in identifying and solving problems.,2026-03-31T10:00:00
+FB0528,EMP095,EMP093,subordinate,2026-06,3.8,4.5,3.7,3.8,4.2,4.0,Consistently delivers high-quality work.,2026-06-30T10:00:00
+FB0529,EMP095,EMP095,manager,2026-01,4.4,3.6,3.7,4.2,4.0,4.0,Proactive in identifying and solving problems.,2026-01-31T10:00:00
+FB0530,EMP096,EMP100,peer,2026-01,2.9,2.7,3.4,3.5,3.1,3.1,Handles routine tasks well.,2026-01-31T10:00:00
+FB0531,EMP096,EMP095,peer,2026-01,2.7,3.2,3.4,3.2,3.4,3.2,Meets expectations in most areas.,2026-01-31T10:00:00
+FB0532,EMP096,EMP096,manager,2026-06,2.9,3.3,3.0,2.7,3.3,3.0,Adequate performance with room for growth.,2026-06-30T10:00:00
+FB0533,EMP096,EMP095,peer,2026-02,3.5,3.2,3.2,3.1,3.1,3.2,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0534,EMP096,EMP094,subordinate,2026-04,2.6,2.9,2.5,3.2,2.9,2.8,Needs significant improvement in meeting deadlines.,2026-04-30T10:00:00
+FB0535,EMP097,EMP097,manager,2026-05,5.0,4.2,4.0,4.1,4.4,4.3,Brings innovative ideas to the team.,2026-05-31T10:00:00
+FB0536,EMP097,EMP095,subordinate,2026-02,4.4,4.9,4.6,4.6,4.2,4.5,Brings innovative ideas to the team.,2026-02-28T10:00:00
+FB0537,EMP097,EMP097,manager,2026-06,4.6,4.6,5.0,4.4,4.8,4.7,Brings innovative ideas to the team.,2026-06-30T10:00:00
+FB0538,EMP097,EMP097,self,2026-03,4.1,4.2,4.2,4.4,4.2,4.2,Strong analytical and problem-solving skills.,2026-03-31T10:00:00
+FB0539,EMP098,EMP100,subordinate,2026-06,2.2,2.4,2.1,2.7,2.6,2.4,Needs to be more proactive in team settings.,2026-06-30T10:00:00
+FB0540,EMP098,EMP098,manager,2026-05,2.8,2.8,2.1,2.9,2.4,2.6,Needs to be more proactive in team settings.,2026-05-31T10:00:00
+FB0541,EMP098,EMP098,manager,2026-02,2.4,2.6,2.8,2.9,2.2,2.6,Communication skills require development.,2026-02-28T10:00:00
+FB0542,EMP098,EMP098,manager,2026-02,2.6,2.4,2.0,2.9,2.1,2.4,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0543,EMP098,EMP099,peer,2026-01,2.1,2.1,2.9,2.3,2.8,2.4,Quality of work has been inconsistent.,2026-01-31T10:00:00
+FB0544,EMP098,EMP094,subordinate,2026-03,2.4,2.9,2.6,2.8,2.0,2.5,Needs significant improvement in meeting deadlines.,2026-03-31T10:00:00
+FB0545,EMP098,EMP098,manager,2026-03,2.5,2.5,2.4,2.3,2.8,2.5,Quality of work has been inconsistent.,2026-03-31T10:00:00
+FB0546,EMP099,EMP099,self,2026-02,4.1,3.9,4.0,3.6,4.0,3.9,Adequate performance with room for growth.,2026-02-28T10:00:00
+FB0547,EMP099,EMP096,subordinate,2026-04,4.0,4.0,4.2,4.4,4.1,4.1,Excellent team player with strong communication.,2026-04-30T10:00:00
+FB0548,EMP099,EMP099,self,2026-04,4.2,4.5,3.9,3.7,4.2,4.1,Strong analytical and problem-solving skills.,2026-04-30T10:00:00
+FB0549,EMP099,EMP093,subordinate,2026-06,4.5,3.8,4.4,4.2,4.5,4.3,Strong analytical and problem-solving skills.,2026-06-30T10:00:00
+FB0550,EMP099,EMP095,peer,2026-06,3.9,3.7,3.9,3.6,4.0,3.8,Delivers on time but quality needs improvement.,2026-06-30T10:00:00
+FB0551,EMP099,EMP097,subordinate,2026-03,3.7,4.0,3.9,3.6,4.0,3.8,Good work but could improve on communication.,2026-03-31T10:00:00
+FB0552,EMP100,EMP093,peer,2026-03,2.6,3.0,3.1,3.3,3.1,3.0,Adequate performance with room for growth.,2026-03-31T10:00:00
+FB0553,EMP100,EMP099,peer,2026-02,3.5,3.3,3.1,2.9,3.0,3.2,Good work but could improve on communication.,2026-02-28T10:00:00
+FB0554,EMP100,EMP098,subordinate,2026-01,3.3,3.1,2.7,3.4,2.7,3.0,Good work but could improve on communication.,2026-01-31T10:00:00
+FB0555,EMP100,EMP097,subordinate,2026-04,2.6,3.2,2.5,3.2,3.2,2.9,Needs to be more proactive in team settings.,2026-04-30T10:00:00
+FB0556,EMP100,EMP100,self,2026-02,2.6,3.3,3.1,2.8,2.8,2.9,Quality of work has been inconsistent.,2026-02-28T10:00:00
+FB0557,EMP100,EMP093,subordinate,2026-01,2.6,2.6,2.9,2.6,2.8,2.7,Needs significant improvement in meeting deadlines.,2026-01-31T10:00:00
+FB0558,EMP100,EMP097,subordinate,2026-01,3.1,3.3,2.8,3.0,3.3,3.1,Adequate performance with room for growth.,2026-01-31T10:00:00

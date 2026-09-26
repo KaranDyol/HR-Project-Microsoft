@@ -1,0 +1,931 @@
+question_id,interview_id,skill_id,question,difficulty,question_type
+Q0001,INT0002,SKILL_145,How would you design a scalable CI/CD solution?,easy,technical
+Q0002,INT0002,SKILL_147,What approach would you take to debug a load balancing issue?,hard,problem_solving
+Q0003,INT0002,SKILL_147,Design a system that handles authentication at scale.,easy,problem_solving
+Q0004,INT0002,SKILL_070,What are the trade-offs between CI/CD approaches?,easy,technical
+Q0005,INT0003,SKILL_121,How would you optimize a slow load balancing query?,expert,problem_solving
+Q0006,INT0003,SKILL_121,Design a system that handles data pipeline at scale.,easy,problem_solving
+Q0007,INT0003,SKILL_119,Explain the concept of microservices and its applications.,medium,technical
+Q0008,INT0004,SKILL_027,Explain the concept of cloud architecture and its applications.,expert,technical
+Q0009,INT0004,SKILL_100,Explain the concept of cloud architecture and its applications.,medium,technical
+Q0010,INT0004,SKILL_122,What are the trade-offs between microservices approaches?,hard,technical
+Q0011,INT0004,SKILL_122,Describe your experience with CI/CD in production systems.,easy,technical
+Q0012,INT0008,SKILL_110,How would you design a scalable API design solution?,medium,technical
+Q0013,INT0008,SKILL_041,Design a system that handles search indexing at scale.,expert,problem_solving
+Q0014,INT0008,SKILL_042,How do you handle disagreements with team members?,easy,behavioral
+Q0015,INT0009,SKILL_133,What are the trade-offs between machine learning approaches?,easy,technical
+Q0016,INT0009,SKILL_111,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0017,INT0009,SKILL_041,How would you design a scalable database solution?,hard,technical
+Q0018,INT0009,SKILL_109,Describe your experience with database in production systems.,medium,technical
+Q0019,INT0010,SKILL_042,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0020,INT0010,SKILL_109,Explain the concept of API design and its applications.,hard,technical
+Q0021,INT0010,SKILL_040,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0022,INT0012,SKILL_002,How would you design a scalable cloud architecture solution?,hard,technical
+Q0023,INT0012,SKILL_039,What are the trade-offs between microservices approaches?,easy,technical
+Q0024,INT0012,SKILL_003,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0025,INT0013,SKILL_028,Design a system that handles message queue at scale.,medium,problem_solving
+Q0026,INT0013,SKILL_031,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0027,INT0013,SKILL_021,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0028,INT0013,SKILL_128,How do you handle disagreements with team members?,expert,behavioral
+Q0029,INT0014,SKILL_019,How do you handle disagreements with team members?,expert,behavioral
+Q0030,INT0014,SKILL_027,What approach would you take to debug a machine learning issue?,easy,problem_solving
+Q0031,INT0014,SKILL_019,Design a system that handles microservices at scale.,medium,problem_solving
+Q0032,INT0014,SKILL_031,Walk through how you would implement message queue.,hard,technical
+Q0033,INT0015,SKILL_147,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0034,INT0015,SKILL_073,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0035,INT0015,SKILL_073,How would you design a scalable message queue solution?,expert,technical
+Q0036,INT0016,SKILL_144,How would you design a scalable data pipeline solution?,expert,technical
+Q0037,INT0016,SKILL_148,What are the trade-offs between database approaches?,medium,technical
+Q0038,INT0016,SKILL_147,How do you handle disagreements with team members?,expert,behavioral
+Q0039,INT0016,SKILL_145,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0040,INT0016,SKILL_147,Walk through how you would implement load balancing.,medium,technical
+Q0041,INT0018,SKILL_062,Explain the concept of machine learning and its applications.,expert,technical
+Q0042,INT0018,SKILL_058,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0043,INT0018,SKILL_111,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0044,INT0019,SKILL_061,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0045,INT0019,SKILL_062,How would you design a scalable authentication solution?,easy,technical
+Q0046,INT0019,SKILL_109,Walk through how you would implement machine learning.,hard,technical
+Q0047,INT0019,SKILL_060,Design a system that handles cloud architecture at scale.,easy,problem_solving
+Q0048,INT0020,SKILL_044,Design a system that handles caching at scale.,medium,problem_solving
+Q0049,INT0020,SKILL_038,What approach would you take to debug a machine learning issue?,expert,problem_solving
+Q0050,INT0020,SKILL_037,Describe your experience with API design in production systems.,expert,technical
+Q0051,INT0020,SKILL_038,How would you design a scalable search indexing solution?,expert,technical
+Q0052,INT0022,SKILL_041,What approach would you take to debug a message queue issue?,expert,problem_solving
+Q0053,INT0022,SKILL_110,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0054,INT0022,SKILL_133,Walk through how you would implement cloud architecture.,easy,technical
+Q0055,INT0022,SKILL_036,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0056,INT0022,SKILL_038,What are the trade-offs between authentication approaches?,expert,technical
+Q0057,INT0023,SKILL_155,Explain the concept of CI/CD and its applications.,easy,technical
+Q0058,INT0023,SKILL_155,What are the trade-offs between caching approaches?,medium,technical
+Q0059,INT0023,SKILL_136,Describe your experience with caching in production systems.,medium,technical
+Q0060,INT0023,SKILL_155,What are the trade-offs between API design approaches?,easy,technical
+Q0061,INT0023,SKILL_137,What are the trade-offs between search indexing approaches?,hard,technical
+Q0062,INT0025,SKILL_059,Walk through how you would implement microservices.,easy,technical
+Q0063,INT0025,SKILL_058,How do you handle disagreements with team members?,medium,behavioral
+Q0064,INT0025,SKILL_001,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0065,INT0025,SKILL_059,Walk through how you would implement cloud architecture.,medium,technical
+Q0066,INT0025,SKILL_060,Describe your experience with message queue in production systems.,medium,technical
+Q0067,INT0026,SKILL_109,What approach would you take to debug a machine learning issue?,hard,problem_solving
+Q0068,INT0026,SKILL_061,What are the trade-offs between load balancing approaches?,easy,technical
+Q0069,INT0026,SKILL_059,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0070,INT0026,SKILL_150,Walk through how you would implement machine learning.,medium,technical
+Q0071,INT0026,SKILL_109,How would you optimize a slow authentication query?,medium,problem_solving
+Q0072,INT0027,SKILL_070,Describe your experience with message queue in production systems.,hard,technical
+Q0073,INT0027,SKILL_097,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0074,INT0027,SKILL_072,Walk through how you would implement search indexing.,easy,technical
+Q0075,INT0027,SKILL_096,Design a system that handles API design at scale.,medium,problem_solving
+Q0076,INT0027,SKILL_091,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0077,INT0028,SKILL_093,How do you handle disagreements with team members?,easy,behavioral
+Q0078,INT0028,SKILL_097,Design a system that handles machine learning at scale.,hard,problem_solving
+Q0079,INT0028,SKILL_093,How do you handle disagreements with team members?,medium,behavioral
+Q0080,INT0031,SKILL_147,How would you optimize a slow caching query?,hard,problem_solving
+Q0081,INT0031,SKILL_085,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0082,INT0031,SKILL_144,How would you optimize a slow message queue query?,hard,problem_solving
+Q0083,INT0031,SKILL_145,How would you design a scalable microservices solution?,hard,technical
+Q0084,INT0034,SKILL_083,How would you design a scalable search indexing solution?,easy,technical
+Q0085,INT0034,SKILL_153,Design a system that handles cloud architecture at scale.,hard,problem_solving
+Q0086,INT0034,SKILL_077,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0087,INT0035,SKILL_086,What are the trade-offs between message queue approaches?,easy,technical
+Q0088,INT0035,SKILL_070,What are the trade-offs between search indexing approaches?,easy,technical
+Q0089,INT0035,SKILL_073,Design a system that handles load balancing at scale.,expert,problem_solving
+Q0090,INT0035,SKILL_085,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0091,INT0037,SKILL_076,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0092,INT0037,SKILL_076,How would you design a scalable caching solution?,hard,technical
+Q0093,INT0037,SKILL_086,What are the trade-offs between caching approaches?,medium,technical
+Q0094,INT0037,SKILL_076,Design a system that handles database at scale.,hard,problem_solving
+Q0095,INT0037,SKILL_076,Describe your experience with cloud architecture in production systems.,hard,technical
+Q0096,INT0039,SKILL_087,What approach would you take to debug a message queue issue?,expert,problem_solving
+Q0097,INT0039,SKILL_069,Walk through how you would implement cloud architecture.,easy,technical
+Q0098,INT0039,SKILL_070,How would you design a scalable load balancing solution?,hard,technical
+Q0099,INT0040,SKILL_100,Explain the concept of cloud architecture and its applications.,medium,technical
+Q0100,INT0040,SKILL_063,Describe your experience with CI/CD in production systems.,easy,technical
+Q0101,INT0040,SKILL_123,What approach would you take to debug a API design issue?,hard,problem_solving
+Q0102,INT0040,SKILL_123,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0103,INT0041,SKILL_122,What approach would you take to debug a microservices issue?,easy,problem_solving
+Q0104,INT0041,SKILL_003,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0105,INT0041,SKILL_063,What approach would you take to debug a authentication issue?,easy,problem_solving
+Q0106,INT0042,SKILL_037,What approach would you take to debug a search indexing issue?,expert,problem_solving
+Q0107,INT0042,SKILL_128,How would you design a scalable machine learning solution?,medium,technical
+Q0108,INT0042,SKILL_042,Walk through how you would implement database.,medium,technical
+Q0109,INT0042,SKILL_043,Describe your experience with caching in production systems.,medium,technical
+Q0110,INT0043,SKILL_040,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0111,INT0043,SKILL_037,How would you design a scalable load balancing solution?,easy,technical
+Q0112,INT0043,SKILL_041,Explain the concept of authentication and its applications.,expert,technical
+Q0113,INT0043,SKILL_127,Walk through how you would implement CI/CD.,expert,technical
+Q0114,INT0047,SKILL_051,What are the trade-offs between cloud architecture approaches?,medium,technical
+Q0115,INT0047,SKILL_050,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0116,INT0047,SKILL_049,Design a system that handles data pipeline at scale.,easy,problem_solving
+Q0117,INT0048,SKILL_075,What are the trade-offs between load balancing approaches?,expert,technical
+Q0118,INT0048,SKILL_067,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0119,INT0048,SKILL_072,What approach would you take to debug a caching issue?,hard,problem_solving
+Q0120,INT0048,SKILL_075,Walk through how you would implement search indexing.,hard,technical
+Q0121,INT0050,SKILL_072,Describe your experience with load balancing in production systems.,easy,technical
+Q0122,INT0050,SKILL_094,What are the trade-offs between machine learning approaches?,expert,technical
+Q0123,INT0050,SKILL_092,How would you optimize a slow authentication query?,easy,problem_solving
+Q0124,INT0052,SKILL_147,Explain the concept of microservices and its applications.,medium,technical
+Q0125,INT0052,SKILL_147,Walk through how you would implement authentication.,hard,technical
+Q0126,INT0052,SKILL_148,Explain the concept of cloud architecture and its applications.,expert,technical
+Q0127,INT0052,SKILL_145,How would you optimize a slow cloud architecture query?,easy,problem_solving
+Q0128,INT0052,SKILL_070,Describe your experience with data pipeline in production systems.,hard,technical
+Q0129,INT0053,SKILL_001,How would you optimize a slow caching query?,easy,problem_solving
+Q0130,INT0053,SKILL_047,How would you design a scalable CI/CD solution?,medium,technical
+Q0131,INT0053,SKILL_014,What approach would you take to debug a CI/CD issue?,expert,problem_solving
+Q0132,INT0053,SKILL_014,Explain the concept of cloud architecture and its applications.,hard,technical
+Q0133,INT0053,SKILL_135,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0134,INT0054,SKILL_055,What approach would you take to debug a data pipeline issue?,easy,problem_solving
+Q0135,INT0054,SKILL_053,How do you handle disagreements with team members?,expert,behavioral
+Q0136,INT0054,SKILL_045,What approach would you take to debug a caching issue?,medium,problem_solving
+Q0137,INT0054,SKILL_155,Walk through how you would implement authentication.,easy,technical
+Q0138,INT0055,SKILL_075,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0139,INT0055,SKILL_071,Describe your experience with machine learning in production systems.,expert,technical
+Q0140,INT0055,SKILL_079,Design a system that handles machine learning at scale.,medium,problem_solving
+Q0141,INT0055,SKILL_063,How do you handle disagreements with team members?,medium,behavioral
+Q0142,INT0056,SKILL_067,How would you optimize a slow data pipeline query?,medium,problem_solving
+Q0143,INT0056,SKILL_071,Explain the concept of API design and its applications.,easy,technical
+Q0144,INT0056,SKILL_072,Describe your experience with caching in production systems.,easy,technical
+Q0145,INT0056,SKILL_071,Describe your experience with search indexing in production systems.,expert,technical
+Q0146,INT0058,SKILL_075,How would you design a scalable message queue solution?,easy,technical
+Q0147,INT0058,SKILL_079,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0148,INT0058,SKILL_067,How would you design a scalable message queue solution?,medium,technical
+Q0149,INT0058,SKILL_079,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0150,INT0060,SKILL_087,Explain the concept of microservices and its applications.,easy,technical
+Q0151,INT0060,SKILL_087,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0152,INT0060,SKILL_137,What are the trade-offs between message queue approaches?,easy,technical
+Q0153,INT0061,SKILL_069,How would you optimize a slow API design query?,expert,problem_solving
+Q0154,INT0061,SKILL_087,Explain the concept of data pipeline and its applications.,medium,technical
+Q0155,INT0061,SKILL_136,What approach would you take to debug a message queue issue?,expert,problem_solving
+Q0156,INT0061,SKILL_087,Describe your experience with search indexing in production systems.,easy,technical
+Q0157,INT0061,SKILL_083,How do you handle disagreements with team members?,medium,behavioral
+Q0158,INT0062,SKILL_069,How would you design a scalable machine learning solution?,easy,technical
+Q0159,INT0062,SKILL_155,Explain the concept of microservices and its applications.,medium,technical
+Q0160,INT0062,SKILL_087,Walk through how you would implement message queue.,hard,technical
+Q0161,INT0062,SKILL_136,Walk through how you would implement caching.,expert,technical
+Q0162,INT0062,SKILL_083,What approach would you take to debug a machine learning issue?,easy,problem_solving
+Q0163,INT0066,SKILL_038,Describe your experience with API design in production systems.,easy,technical
+Q0164,INT0066,SKILL_042,How would you optimize a slow API design query?,expert,problem_solving
+Q0165,INT0066,SKILL_041,Explain the concept of caching and its applications.,expert,technical
+Q0166,INT0066,SKILL_128,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0167,INT0068,SKILL_152,How would you optimize a slow API design query?,hard,problem_solving
+Q0168,INT0068,SKILL_071,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0169,INT0068,SKILL_071,Design a system that handles cloud architecture at scale.,expert,problem_solving
+Q0170,INT0068,SKILL_070,Walk through how you would implement CI/CD.,hard,technical
+Q0171,INT0069,SKILL_153,What are the trade-offs between search indexing approaches?,expert,technical
+Q0172,INT0069,SKILL_077,Describe your experience with authentication in production systems.,expert,technical
+Q0173,INT0069,SKILL_085,How would you design a scalable microservices solution?,easy,technical
+Q0174,INT0069,SKILL_070,Explain the concept of authentication and its applications.,hard,technical
+Q0175,INT0069,SKILL_152,How do you handle disagreements with team members?,medium,behavioral
+Q0176,INT0070,SKILL_070,What are the trade-offs between machine learning approaches?,expert,technical
+Q0177,INT0070,SKILL_091,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0178,INT0070,SKILL_096,How would you design a scalable machine learning solution?,medium,technical
+Q0179,INT0070,SKILL_092,How would you design a scalable data pipeline solution?,expert,technical
+Q0180,INT0075,SKILL_070,How do you handle disagreements with team members?,hard,behavioral
+Q0181,INT0075,SKILL_144,How would you design a scalable database solution?,expert,technical
+Q0182,INT0075,SKILL_148,What approach would you take to debug a authentication issue?,hard,problem_solving
+Q0183,INT0076,SKILL_144,What are the trade-offs between cloud architecture approaches?,medium,technical
+Q0184,INT0076,SKILL_147,Walk through how you would implement data pipeline.,easy,technical
+Q0185,INT0076,SKILL_070,What approach would you take to debug a database issue?,hard,problem_solving
+Q0186,INT0076,SKILL_146,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0187,INT0078,SKILL_136,What are the trade-offs between caching approaches?,hard,technical
+Q0188,INT0078,SKILL_088,How would you optimize a slow API design query?,medium,problem_solving
+Q0189,INT0078,SKILL_137,Design a system that handles database at scale.,expert,problem_solving
+Q0190,INT0080,SKILL_037,How do you handle disagreements with team members?,expert,behavioral
+Q0191,INT0080,SKILL_041,What are the trade-offs between search indexing approaches?,medium,technical
+Q0192,INT0080,SKILL_041,Design a system that handles load balancing at scale.,hard,problem_solving
+Q0193,INT0082,SKILL_128,How would you optimize a slow CI/CD query?,easy,problem_solving
+Q0194,INT0082,SKILL_040,Describe your experience with data pipeline in production systems.,expert,technical
+Q0195,INT0082,SKILL_110,How would you optimize a slow API design query?,expert,problem_solving
+Q0196,INT0082,SKILL_042,Walk through how you would implement CI/CD.,medium,technical
+Q0197,INT0082,SKILL_127,Explain the concept of load balancing and its applications.,medium,technical
+Q0198,INT0085,SKILL_152,What are the trade-offs between cloud architecture approaches?,hard,technical
+Q0199,INT0085,SKILL_084,Walk through how you would implement message queue.,easy,technical
+Q0200,INT0085,SKILL_071,Explain the concept of machine learning and its applications.,medium,technical
+Q0201,INT0085,SKILL_077,How do you handle disagreements with team members?,medium,behavioral
+Q0202,INT0085,SKILL_071,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0203,INT0087,SKILL_083,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0204,INT0087,SKILL_083,What approach would you take to debug a load balancing issue?,easy,problem_solving
+Q0205,INT0087,SKILL_152,How would you design a scalable microservices solution?,hard,technical
+Q0206,INT0088,SKILL_036,How would you design a scalable authentication solution?,expert,technical
+Q0207,INT0088,SKILL_110,Describe your experience with search indexing in production systems.,medium,technical
+Q0208,INT0088,SKILL_111,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0209,INT0088,SKILL_128,How would you design a scalable CI/CD solution?,easy,technical
+Q0210,INT0088,SKILL_041,Describe your experience with machine learning in production systems.,hard,technical
+Q0211,INT0090,SKILL_070,How do you handle disagreements with team members?,easy,behavioral
+Q0212,INT0090,SKILL_090,How would you design a scalable caching solution?,hard,technical
+Q0213,INT0090,SKILL_083,How would you optimize a slow database query?,easy,problem_solving
+Q0214,INT0090,SKILL_155,Explain the concept of machine learning and its applications.,medium,technical
+Q0215,INT0090,SKILL_070,Walk through how you would implement data pipeline.,medium,technical
+Q0216,INT0091,SKILL_075,How would you optimize a slow load balancing query?,medium,problem_solving
+Q0217,INT0091,SKILL_153,Describe your experience with microservices in production systems.,expert,technical
+Q0218,INT0091,SKILL_070,Describe your experience with API design in production systems.,easy,technical
+Q0219,INT0091,SKILL_071,What are the trade-offs between cloud architecture approaches?,easy,technical
+Q0220,INT0093,SKILL_063,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0221,INT0093,SKILL_070,Walk through how you would implement search indexing.,hard,technical
+Q0222,INT0093,SKILL_115,How would you optimize a slow microservices query?,medium,problem_solving
+Q0223,INT0093,SKILL_115,Describe your experience with API design in production systems.,easy,technical
+Q0224,INT0093,SKILL_067,Walk through how you would implement authentication.,easy,technical
+Q0225,INT0096,SKILL_153,What approach would you take to debug a API design issue?,expert,problem_solving
+Q0226,INT0096,SKILL_071,Design a system that handles database at scale.,hard,problem_solving
+Q0227,INT0096,SKILL_086,How would you optimize a slow API design query?,expert,problem_solving
+Q0228,INT0096,SKILL_071,How would you design a scalable caching solution?,hard,technical
+Q0229,INT0096,SKILL_070,What are the trade-offs between search indexing approaches?,easy,technical
+Q0230,INT0098,SKILL_100,How would you optimize a slow authentication query?,medium,problem_solving
+Q0231,INT0098,SKILL_122,Walk through how you would implement caching.,hard,technical
+Q0232,INT0098,SKILL_119,How would you design a scalable cloud architecture solution?,expert,technical
+Q0233,INT0098,SKILL_100,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0234,INT0099,SKILL_120,Design a system that handles machine learning at scale.,medium,problem_solving
+Q0235,INT0099,SKILL_068,How do you handle disagreements with team members?,expert,behavioral
+Q0236,INT0099,SKILL_100,How would you design a scalable CI/CD solution?,hard,technical
+Q0237,INT0099,SKILL_119,Design a system that handles cloud architecture at scale.,hard,problem_solving
+Q0238,INT0099,SKILL_063,What approach would you take to debug a machine learning issue?,easy,problem_solving
+Q0239,INT0100,SKILL_027,What are the trade-offs between machine learning approaches?,expert,technical
+Q0240,INT0100,SKILL_003,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0241,INT0100,SKILL_128,Explain the concept of data pipeline and its applications.,easy,technical
+Q0242,INT0100,SKILL_020,Explain the concept of machine learning and its applications.,medium,technical
+Q0243,INT0100,SKILL_031,Design a system that handles microservices at scale.,easy,problem_solving
+Q0244,INT0101,SKILL_115,How would you design a scalable load balancing solution?,hard,technical
+Q0245,INT0101,SKILL_041,Design a system that handles message queue at scale.,easy,problem_solving
+Q0246,INT0101,SKILL_001,Walk through how you would implement microservices.,medium,technical
+Q0247,INT0101,SKILL_115,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0248,INT0103,SKILL_071,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0249,INT0103,SKILL_153,How would you optimize a slow CI/CD query?,expert,problem_solving
+Q0250,INT0103,SKILL_085,Describe your experience with microservices in production systems.,hard,technical
+Q0251,INT0103,SKILL_083,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0252,INT0103,SKILL_152,Design a system that handles CI/CD at scale.,expert,problem_solving
+Q0253,INT0106,SKILL_123,Describe your experience with load balancing in production systems.,expert,technical
+Q0254,INT0106,SKILL_121,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0255,INT0106,SKILL_119,Describe your experience with microservices in production systems.,medium,technical
+Q0256,INT0106,SKILL_068,Design a system that handles authentication at scale.,medium,problem_solving
+Q0257,INT0107,SKILL_122,Describe your experience with search indexing in production systems.,medium,technical
+Q0258,INT0107,SKILL_001,Design a system that handles CI/CD at scale.,easy,problem_solving
+Q0259,INT0107,SKILL_122,What are the trade-offs between caching approaches?,easy,technical
+Q0260,INT0107,SKILL_121,Design a system that handles search indexing at scale.,expert,problem_solving
+Q0261,INT0107,SKILL_027,Describe your experience with database in production systems.,hard,technical
+Q0262,INT0110,SKILL_111,How do you handle disagreements with team members?,expert,behavioral
+Q0263,INT0110,SKILL_058,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0264,INT0110,SKILL_109,How would you design a scalable API design solution?,easy,technical
+Q0265,INT0110,SKILL_058,How do you handle disagreements with team members?,easy,behavioral
+Q0266,INT0110,SKILL_111,What approach would you take to debug a caching issue?,expert,problem_solving
+Q0267,INT0111,SKILL_044,Walk through how you would implement cloud architecture.,expert,technical
+Q0268,INT0111,SKILL_112,Describe your experience with machine learning in production systems.,easy,technical
+Q0269,INT0111,SKILL_058,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0270,INT0111,SKILL_039,What approach would you take to debug a search indexing issue?,hard,problem_solving
+Q0271,INT0113,SKILL_136,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0272,INT0113,SKILL_090,Walk through how you would implement database.,easy,technical
+Q0273,INT0113,SKILL_155,Design a system that handles cloud architecture at scale.,medium,problem_solving
+Q0274,INT0113,SKILL_083,How do you handle disagreements with team members?,expert,behavioral
+Q0275,INT0113,SKILL_089,Design a system that handles load balancing at scale.,expert,problem_solving
+Q0276,INT0117,SKILL_085,How would you optimize a slow search indexing query?,expert,problem_solving
+Q0277,INT0117,SKILL_148,Describe your experience with microservices in production systems.,hard,technical
+Q0278,INT0117,SKILL_085,How do you handle disagreements with team members?,expert,behavioral
+Q0279,INT0117,SKILL_147,Design a system that handles CI/CD at scale.,easy,problem_solving
+Q0280,INT0117,SKILL_070,What approach would you take to debug a CI/CD issue?,hard,problem_solving
+Q0281,INT0118,SKILL_070,What are the trade-offs between cloud architecture approaches?,medium,technical
+Q0282,INT0118,SKILL_085,How would you design a scalable microservices solution?,medium,technical
+Q0283,INT0118,SKILL_148,How would you design a scalable caching solution?,medium,technical
+Q0284,INT0119,SKILL_147,Design a system that handles caching at scale.,medium,problem_solving
+Q0285,INT0119,SKILL_147,Explain the concept of data pipeline and its applications.,medium,technical
+Q0286,INT0119,SKILL_148,What approach would you take to debug a search indexing issue?,easy,problem_solving
+Q0287,INT0119,SKILL_070,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0288,INT0120,SKILL_041,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0289,INT0120,SKILL_022,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0290,INT0120,SKILL_030,How do you handle disagreements with team members?,medium,behavioral
+Q0291,INT0122,SKILL_014,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0292,INT0122,SKILL_052,What approach would you take to debug a authentication issue?,medium,problem_solving
+Q0293,INT0122,SKILL_050,Design a system that handles microservices at scale.,medium,problem_solving
+Q0294,INT0122,SKILL_052,How would you design a scalable cloud architecture solution?,hard,technical
+Q0295,INT0122,SKILL_055,Design a system that handles authentication at scale.,expert,problem_solving
+Q0296,INT0124,SKILL_093,What are the trade-offs between search indexing approaches?,hard,technical
+Q0297,INT0124,SKILL_097,How would you optimize a slow search indexing query?,expert,problem_solving
+Q0298,INT0124,SKILL_097,Explain the concept of microservices and its applications.,hard,technical
+Q0299,INT0124,SKILL_072,Walk through how you would implement data pipeline.,expert,technical
+Q0300,INT0124,SKILL_075,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0301,INT0127,SKILL_111,Walk through how you would implement load balancing.,medium,technical
+Q0302,INT0127,SKILL_110,What approach would you take to debug a caching issue?,easy,problem_solving
+Q0303,INT0127,SKILL_110,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0304,INT0127,SKILL_040,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0305,INT0127,SKILL_133,Explain the concept of database and its applications.,hard,technical
+Q0306,INT0128,SKILL_039,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0307,INT0128,SKILL_042,Walk through how you would implement CI/CD.,expert,technical
+Q0308,INT0128,SKILL_036,How would you design a scalable load balancing solution?,expert,technical
+Q0309,INT0128,SKILL_044,How would you optimize a slow API design query?,hard,problem_solving
+Q0310,INT0128,SKILL_039,Design a system that handles caching at scale.,expert,problem_solving
+Q0311,INT0129,SKILL_068,Explain the concept of cloud architecture and its applications.,easy,technical
+Q0312,INT0129,SKILL_001,Design a system that handles API design at scale.,easy,problem_solving
+Q0313,INT0129,SKILL_068,What are the trade-offs between CI/CD approaches?,expert,technical
+Q0314,INT0129,SKILL_100,Walk through how you would implement database.,expert,technical
+Q0315,INT0130,SKILL_003,What approach would you take to debug a load balancing issue?,expert,problem_solving
+Q0316,INT0130,SKILL_119,Explain the concept of data pipeline and its applications.,easy,technical
+Q0317,INT0130,SKILL_068,How would you optimize a slow authentication query?,medium,problem_solving
+Q0318,INT0130,SKILL_123,How would you optimize a slow caching query?,medium,problem_solving
+Q0319,INT0130,SKILL_001,How do you handle disagreements with team members?,hard,behavioral
+Q0320,INT0135,SKILL_038,Explain the concept of authentication and its applications.,expert,technical
+Q0321,INT0135,SKILL_040,Describe your experience with caching in production systems.,medium,technical
+Q0322,INT0135,SKILL_041,What approach would you take to debug a API design issue?,expert,problem_solving
+Q0323,INT0135,SKILL_036,What are the trade-offs between cloud architecture approaches?,easy,technical
+Q0324,INT0135,SKILL_041,Describe your experience with load balancing in production systems.,hard,technical
+Q0325,INT0136,SKILL_044,What are the trade-offs between database approaches?,easy,technical
+Q0326,INT0136,SKILL_043,Walk through how you would implement microservices.,medium,technical
+Q0327,INT0136,SKILL_110,How would you design a scalable database solution?,medium,technical
+Q0328,INT0136,SKILL_038,What are the trade-offs between authentication approaches?,medium,technical
+Q0329,INT0138,SKILL_039,Explain the concept of cloud architecture and its applications.,hard,technical
+Q0330,INT0138,SKILL_043,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0331,INT0138,SKILL_133,Explain the concept of machine learning and its applications.,hard,technical
+Q0332,INT0140,SKILL_037,How do you handle disagreements with team members?,hard,behavioral
+Q0333,INT0140,SKILL_111,Walk through how you would implement authentication.,easy,technical
+Q0334,INT0140,SKILL_042,What are the trade-offs between API design approaches?,medium,technical
+Q0335,INT0140,SKILL_128,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0336,INT0141,SKILL_070,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0337,INT0141,SKILL_071,What approach would you take to debug a search indexing issue?,expert,problem_solving
+Q0338,INT0141,SKILL_115,What are the trade-offs between API design approaches?,medium,technical
+Q0339,INT0141,SKILL_152,Design a system that handles load balancing at scale.,easy,problem_solving
+Q0340,INT0141,SKILL_067,What are the trade-offs between machine learning approaches?,medium,technical
+Q0341,INT0142,SKILL_070,How would you optimize a slow CI/CD query?,medium,problem_solving
+Q0342,INT0142,SKILL_070,How would you optimize a slow authentication query?,expert,problem_solving
+Q0343,INT0142,SKILL_073,Explain the concept of database and its applications.,expert,technical
+Q0344,INT0142,SKILL_085,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0345,INT0143,SKILL_120,Describe your experience with machine learning in production systems.,expert,technical
+Q0346,INT0143,SKILL_119,Explain the concept of database and its applications.,hard,technical
+Q0347,INT0143,SKILL_068,What approach would you take to debug a search indexing issue?,hard,problem_solving
+Q0348,INT0145,SKILL_003,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0349,INT0145,SKILL_119,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0350,INT0145,SKILL_122,How would you optimize a slow authentication query?,expert,problem_solving
+Q0351,INT0146,SKILL_070,What are the trade-offs between database approaches?,expert,technical
+Q0352,INT0146,SKILL_071,What are the trade-offs between caching approaches?,easy,technical
+Q0353,INT0146,SKILL_063,How would you design a scalable database solution?,medium,technical
+Q0354,INT0146,SKILL_071,How would you optimize a slow microservices query?,easy,problem_solving
+Q0355,INT0147,SKILL_110,Explain the concept of authentication and its applications.,easy,technical
+Q0356,INT0147,SKILL_114,How do you handle disagreements with team members?,medium,behavioral
+Q0357,INT0147,SKILL_039,How would you optimize a slow microservices query?,expert,problem_solving
+Q0358,INT0148,SKILL_058,Describe your experience with microservices in production systems.,medium,technical
+Q0359,INT0148,SKILL_111,Explain the concept of machine learning and its applications.,easy,technical
+Q0360,INT0148,SKILL_044,How would you optimize a slow database query?,expert,problem_solving
+Q0361,INT0148,SKILL_044,What are the trade-offs between data pipeline approaches?,hard,technical
+Q0362,INT0148,SKILL_058,How do you handle disagreements with team members?,medium,behavioral
+Q0363,INT0150,SKILL_070,Describe your experience with caching in production systems.,easy,technical
+Q0364,INT0150,SKILL_085,What are the trade-offs between database approaches?,expert,technical
+Q0365,INT0150,SKILL_077,What are the trade-offs between database approaches?,easy,technical
+Q0366,INT0151,SKILL_109,Design a system that handles caching at scale.,easy,problem_solving
+Q0367,INT0151,SKILL_061,Explain the concept of database and its applications.,expert,technical
+Q0368,INT0151,SKILL_062,What are the trade-offs between cloud architecture approaches?,medium,technical
+Q0369,INT0151,SKILL_150,Walk through how you would implement authentication.,easy,technical
+Q0370,INT0151,SKILL_150,How would you design a scalable load balancing solution?,expert,technical
+Q0371,INT0154,SKILL_120,What are the trade-offs between CI/CD approaches?,hard,technical
+Q0372,INT0154,SKILL_123,How would you optimize a slow data pipeline query?,easy,problem_solving
+Q0373,INT0154,SKILL_001,How would you design a scalable load balancing solution?,expert,technical
+Q0374,INT0155,SKILL_121,Explain the concept of data pipeline and its applications.,hard,technical
+Q0375,INT0155,SKILL_100,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0376,INT0155,SKILL_063,How would you optimize a slow microservices query?,expert,problem_solving
+Q0377,INT0155,SKILL_068,Walk through how you would implement message queue.,expert,technical
+Q0378,INT0157,SKILL_096,How do you handle disagreements with team members?,easy,behavioral
+Q0379,INT0157,SKILL_091,How would you optimize a slow database query?,expert,problem_solving
+Q0380,INT0157,SKILL_072,Describe your experience with microservices in production systems.,medium,technical
+Q0381,INT0157,SKILL_096,Describe your experience with cloud architecture in production systems.,easy,technical
+Q0382,INT0159,SKILL_040,How would you design a scalable authentication solution?,expert,technical
+Q0383,INT0159,SKILL_127,What are the trade-offs between database approaches?,hard,technical
+Q0384,INT0159,SKILL_036,How would you design a scalable cloud architecture solution?,hard,technical
+Q0385,INT0159,SKILL_128,What are the trade-offs between load balancing approaches?,medium,technical
+Q0386,INT0159,SKILL_043,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0387,INT0162,SKILL_123,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0388,INT0162,SKILL_119,How would you optimize a slow database query?,medium,problem_solving
+Q0389,INT0162,SKILL_121,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0390,INT0162,SKILL_068,Explain the concept of load balancing and its applications.,expert,technical
+Q0391,INT0163,SKILL_063,What are the trade-offs between caching approaches?,easy,technical
+Q0392,INT0163,SKILL_122,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0393,INT0163,SKILL_119,What are the trade-offs between cloud architecture approaches?,easy,technical
+Q0394,INT0163,SKILL_120,Explain the concept of CI/CD and its applications.,medium,technical
+Q0395,INT0167,SKILL_070,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0396,INT0167,SKILL_145,Explain the concept of load balancing and its applications.,easy,technical
+Q0397,INT0167,SKILL_147,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0398,INT0167,SKILL_146,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0399,INT0167,SKILL_085,What approach would you take to debug a authentication issue?,medium,problem_solving
+Q0400,INT0170,SKILL_128,What are the trade-offs between microservices approaches?,medium,technical
+Q0401,INT0170,SKILL_128,What are the trade-offs between message queue approaches?,medium,technical
+Q0402,INT0170,SKILL_043,How would you design a scalable CI/CD solution?,hard,technical
+Q0403,INT0170,SKILL_133,How would you design a scalable authentication solution?,medium,technical
+Q0404,INT0170,SKILL_128,Describe your experience with machine learning in production systems.,hard,technical
+Q0405,INT0172,SKILL_040,How do you handle disagreements with team members?,expert,behavioral
+Q0406,INT0172,SKILL_128,What approach would you take to debug a caching issue?,easy,problem_solving
+Q0407,INT0172,SKILL_021,Describe your experience with cloud architecture in production systems.,hard,technical
+Q0408,INT0174,SKILL_071,What are the trade-offs between CI/CD approaches?,easy,technical
+Q0409,INT0174,SKILL_085,Walk through how you would implement message queue.,expert,technical
+Q0410,INT0174,SKILL_071,What are the trade-offs between microservices approaches?,hard,technical
+Q0411,INT0174,SKILL_071,Design a system that handles database at scale.,medium,problem_solving
+Q0412,INT0174,SKILL_085,Describe your experience with API design in production systems.,hard,technical
+Q0413,INT0175,SKILL_086,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0414,INT0175,SKILL_152,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0415,INT0175,SKILL_083,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0416,INT0176,SKILL_089,How do you handle disagreements with team members?,expert,behavioral
+Q0417,INT0176,SKILL_137,What are the trade-offs between database approaches?,hard,technical
+Q0418,INT0176,SKILL_070,Explain the concept of cloud architecture and its applications.,medium,technical
+Q0419,INT0178,SKILL_137,Explain the concept of caching and its applications.,hard,technical
+Q0420,INT0178,SKILL_083,Explain the concept of machine learning and its applications.,easy,technical
+Q0421,INT0178,SKILL_155,Explain the concept of search indexing and its applications.,easy,technical
+Q0422,INT0178,SKILL_069,How would you optimize a slow message queue query?,easy,problem_solving
+Q0423,INT0179,SKILL_090,How do you handle disagreements with team members?,hard,behavioral
+Q0424,INT0179,SKILL_088,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0425,INT0179,SKILL_155,What approach would you take to debug a caching issue?,hard,problem_solving
+Q0426,INT0179,SKILL_089,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0427,INT0181,SKILL_050,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0428,INT0181,SKILL_051,What approach would you take to debug a data pipeline issue?,easy,problem_solving
+Q0429,INT0181,SKILL_027,Design a system that handles database at scale.,medium,problem_solving
+Q0430,INT0182,SKILL_153,How do you handle disagreements with team members?,expert,behavioral
+Q0431,INT0182,SKILL_086,What are the trade-offs between CI/CD approaches?,easy,technical
+Q0432,INT0182,SKILL_086,How would you design a scalable load balancing solution?,medium,technical
+Q0433,INT0182,SKILL_083,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0434,INT0182,SKILL_086,Explain the concept of machine learning and its applications.,medium,technical
+Q0435,INT0183,SKILL_083,Explain the concept of CI/CD and its applications.,easy,technical
+Q0436,INT0183,SKILL_083,How would you design a scalable caching solution?,easy,technical
+Q0437,INT0183,SKILL_077,Explain the concept of caching and its applications.,medium,technical
+Q0438,INT0183,SKILL_084,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0439,INT0183,SKILL_086,What are the trade-offs between machine learning approaches?,hard,technical
+Q0440,INT0184,SKILL_097,How would you optimize a slow load balancing query?,hard,problem_solving
+Q0441,INT0184,SKILL_092,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0442,INT0184,SKILL_092,What are the trade-offs between CI/CD approaches?,hard,technical
+Q0443,INT0184,SKILL_094,How do you handle disagreements with team members?,medium,behavioral
+Q0444,INT0184,SKILL_097,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0445,INT0186,SKILL_070,Walk through how you would implement machine learning.,hard,technical
+Q0446,INT0186,SKILL_094,Walk through how you would implement search indexing.,easy,technical
+Q0447,INT0186,SKILL_097,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0448,INT0188,SKILL_152,What are the trade-offs between cloud architecture approaches?,medium,technical
+Q0449,INT0188,SKILL_070,How would you optimize a slow API design query?,easy,problem_solving
+Q0450,INT0188,SKILL_079,How would you optimize a slow database query?,expert,problem_solving
+Q0451,INT0192,SKILL_109,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0452,INT0192,SKILL_150,Explain the concept of data pipeline and its applications.,medium,technical
+Q0453,INT0192,SKILL_109,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0454,INT0192,SKILL_109,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0455,INT0192,SKILL_060,What approach would you take to debug a CI/CD issue?,medium,problem_solving
+Q0456,INT0195,SKILL_003,What approach would you take to debug a search indexing issue?,hard,problem_solving
+Q0457,INT0195,SKILL_119,What are the trade-offs between search indexing approaches?,expert,technical
+Q0458,INT0195,SKILL_027,What are the trade-offs between search indexing approaches?,medium,technical
+Q0459,INT0195,SKILL_120,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0460,INT0198,SKILL_063,What are the trade-offs between load balancing approaches?,easy,technical
+Q0461,INT0198,SKILL_072,Walk through how you would implement cloud architecture.,easy,technical
+Q0462,INT0198,SKILL_075,Explain the concept of message queue and its applications.,expert,technical
+Q0463,INT0198,SKILL_115,What approach would you take to debug a machine learning issue?,medium,problem_solving
+Q0464,INT0198,SKILL_153,What approach would you take to debug a authentication issue?,easy,problem_solving
+Q0465,INT0200,SKILL_058,Walk through how you would implement cloud architecture.,expert,technical
+Q0466,INT0200,SKILL_110,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0467,INT0200,SKILL_114,Explain the concept of caching and its applications.,easy,technical
+Q0468,INT0200,SKILL_039,How do you handle disagreements with team members?,expert,behavioral
+Q0469,INT0201,SKILL_044,Describe your experience with load balancing in production systems.,expert,technical
+Q0470,INT0201,SKILL_112,Walk through how you would implement machine learning.,hard,technical
+Q0471,INT0201,SKILL_058,Explain the concept of machine learning and its applications.,easy,technical
+Q0472,INT0201,SKILL_039,How would you design a scalable message queue solution?,hard,technical
+Q0473,INT0201,SKILL_111,Describe your experience with machine learning in production systems.,medium,technical
+Q0474,INT0203,SKILL_073,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0475,INT0203,SKILL_086,Describe your experience with load balancing in production systems.,medium,technical
+Q0476,INT0203,SKILL_070,Describe your experience with CI/CD in production systems.,easy,technical
+Q0477,INT0203,SKILL_076,How would you design a scalable caching solution?,easy,technical
+Q0478,INT0204,SKILL_150,Walk through how you would implement search indexing.,hard,technical
+Q0479,INT0204,SKILL_059,Explain the concept of machine learning and its applications.,hard,technical
+Q0480,INT0204,SKILL_059,What are the trade-offs between search indexing approaches?,hard,technical
+Q0481,INT0204,SKILL_109,Explain the concept of caching and its applications.,easy,technical
+Q0482,INT0205,SKILL_060,How would you optimize a slow message queue query?,medium,problem_solving
+Q0483,INT0205,SKILL_060,What are the trade-offs between search indexing approaches?,hard,technical
+Q0484,INT0205,SKILL_111,What are the trade-offs between message queue approaches?,easy,technical
+Q0485,INT0206,SKILL_059,Design a system that handles cloud architecture at scale.,hard,problem_solving
+Q0486,INT0206,SKILL_061,How do you handle disagreements with team members?,medium,behavioral
+Q0487,INT0206,SKILL_060,Design a system that handles caching at scale.,easy,problem_solving
+Q0488,INT0208,SKILL_063,Walk through how you would implement CI/CD.,easy,technical
+Q0489,INT0208,SKILL_152,Describe your experience with microservices in production systems.,hard,technical
+Q0490,INT0208,SKILL_153,Design a system that handles cloud architecture at scale.,medium,problem_solving
+Q0491,INT0211,SKILL_087,How do you handle disagreements with team members?,easy,behavioral
+Q0492,INT0211,SKILL_069,Describe your experience with API design in production systems.,easy,technical
+Q0493,INT0211,SKILL_083,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0494,INT0211,SKILL_090,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0495,INT0212,SKILL_137,Describe your experience with data pipeline in production systems.,easy,technical
+Q0496,INT0212,SKILL_088,How do you handle disagreements with team members?,easy,behavioral
+Q0497,INT0212,SKILL_090,How would you design a scalable cloud architecture solution?,hard,technical
+Q0498,INT0212,SKILL_088,Design a system that handles cloud architecture at scale.,expert,problem_solving
+Q0499,INT0214,SKILL_110,Explain the concept of CI/CD and its applications.,hard,technical
+Q0500,INT0214,SKILL_110,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0501,INT0214,SKILL_039,Describe your experience with machine learning in production systems.,medium,technical
+Q0502,INT0214,SKILL_128,Explain the concept of cloud architecture and its applications.,hard,technical
+Q0503,INT0215,SKILL_090,How do you handle disagreements with team members?,medium,behavioral
+Q0504,INT0215,SKILL_090,What are the trade-offs between load balancing approaches?,hard,technical
+Q0505,INT0215,SKILL_090,What are the trade-offs between authentication approaches?,easy,technical
+Q0506,INT0215,SKILL_137,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0507,INT0217,SKILL_088,Walk through how you would implement microservices.,expert,technical
+Q0508,INT0217,SKILL_070,What approach would you take to debug a microservices issue?,expert,problem_solving
+Q0509,INT0217,SKILL_137,How would you design a scalable data pipeline solution?,expert,technical
+Q0510,INT0217,SKILL_069,What are the trade-offs between machine learning approaches?,easy,technical
+Q0511,INT0218,SKILL_073,How do you handle disagreements with team members?,hard,behavioral
+Q0512,INT0218,SKILL_063,How would you optimize a slow authentication query?,hard,problem_solving
+Q0513,INT0218,SKILL_073,Explain the concept of machine learning and its applications.,medium,technical
+Q0514,INT0218,SKILL_070,Explain the concept of cloud architecture and its applications.,hard,technical
+Q0515,INT0219,SKILL_069,Design a system that handles caching at scale.,easy,problem_solving
+Q0516,INT0219,SKILL_073,What approach would you take to debug a API design issue?,expert,problem_solving
+Q0517,INT0219,SKILL_137,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0518,INT0219,SKILL_137,How do you handle disagreements with team members?,expert,behavioral
+Q0519,INT0224,SKILL_041,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0520,INT0224,SKILL_040,Describe your experience with machine learning in production systems.,expert,technical
+Q0521,INT0224,SKILL_023,Describe your experience with CI/CD in production systems.,medium,technical
+Q0522,INT0224,SKILL_007,How would you design a scalable database solution?,medium,technical
+Q0523,INT0224,SKILL_022,Explain the concept of authentication and its applications.,hard,technical
+Q0524,INT0225,SKILL_133,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0525,INT0225,SKILL_043,How would you optimize a slow database query?,easy,problem_solving
+Q0526,INT0225,SKILL_038,Walk through how you would implement machine learning.,easy,technical
+Q0527,INT0226,SKILL_036,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0528,INT0226,SKILL_042,Describe your experience with machine learning in production systems.,easy,technical
+Q0529,INT0226,SKILL_109,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0530,INT0228,SKILL_109,What approach would you take to debug a cloud architecture issue?,expert,problem_solving
+Q0531,INT0228,SKILL_133,How do you handle disagreements with team members?,easy,behavioral
+Q0532,INT0228,SKILL_036,How would you design a scalable API design solution?,expert,technical
+Q0533,INT0228,SKILL_040,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0534,INT0228,SKILL_036,What are the trade-offs between API design approaches?,medium,technical
+Q0535,INT0229,SKILL_153,Walk through how you would implement caching.,hard,technical
+Q0536,INT0229,SKILL_072,Describe your experience with authentication in production systems.,expert,technical
+Q0537,INT0229,SKILL_063,Explain the concept of caching and its applications.,easy,technical
+Q0538,INT0229,SKILL_071,How would you optimize a slow machine learning query?,expert,problem_solving
+Q0539,INT0230,SKILL_115,Walk through how you would implement database.,easy,technical
+Q0540,INT0230,SKILL_115,Design a system that handles database at scale.,hard,problem_solving
+Q0541,INT0230,SKILL_075,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0542,INT0230,SKILL_075,Design a system that handles load balancing at scale.,hard,problem_solving
+Q0543,INT0230,SKILL_079,Explain the concept of database and its applications.,medium,technical
+Q0544,INT0233,SKILL_042,How would you design a scalable authentication solution?,expert,technical
+Q0545,INT0233,SKILL_040,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0546,INT0233,SKILL_044,What are the trade-offs between search indexing approaches?,expert,technical
+Q0547,INT0233,SKILL_042,What approach would you take to debug a authentication issue?,easy,problem_solving
+Q0548,INT0233,SKILL_110,What approach would you take to debug a caching issue?,easy,problem_solving
+Q0549,INT0234,SKILL_092,Explain the concept of data pipeline and its applications.,hard,technical
+Q0550,INT0234,SKILL_070,Explain the concept of cloud architecture and its applications.,easy,technical
+Q0551,INT0234,SKILL_096,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0552,INT0234,SKILL_092,Design a system that handles CI/CD at scale.,hard,problem_solving
+Q0553,INT0236,SKILL_097,How would you optimize a slow load balancing query?,easy,problem_solving
+Q0554,INT0236,SKILL_095,What approach would you take to debug a caching issue?,easy,problem_solving
+Q0555,INT0236,SKILL_093,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0556,INT0236,SKILL_091,How do you handle disagreements with team members?,hard,behavioral
+Q0557,INT0236,SKILL_095,How do you handle disagreements with team members?,medium,behavioral
+Q0558,INT0238,SKILL_145,What are the trade-offs between data pipeline approaches?,medium,technical
+Q0559,INT0238,SKILL_085,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0560,INT0238,SKILL_144,How would you optimize a slow message queue query?,medium,problem_solving
+Q0561,INT0238,SKILL_144,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0562,INT0238,SKILL_073,How would you optimize a slow authentication query?,expert,problem_solving
+Q0563,INT0241,SKILL_085,What are the trade-offs between machine learning approaches?,expert,technical
+Q0564,INT0241,SKILL_073,Explain the concept of message queue and its applications.,expert,technical
+Q0565,INT0241,SKILL_085,Walk through how you would implement API design.,easy,technical
+Q0566,INT0245,SKILL_047,What are the trade-offs between caching approaches?,hard,technical
+Q0567,INT0245,SKILL_055,What are the trade-offs between caching approaches?,medium,technical
+Q0568,INT0245,SKILL_027,What approach would you take to debug a load balancing issue?,expert,problem_solving
+Q0569,INT0245,SKILL_135,How would you optimize a slow cloud architecture query?,medium,problem_solving
+Q0570,INT0246,SKILL_051,Describe your experience with message queue in production systems.,medium,technical
+Q0571,INT0246,SKILL_001,Design a system that handles cloud architecture at scale.,easy,problem_solving
+Q0572,INT0246,SKILL_053,How would you optimize a slow machine learning query?,hard,problem_solving
+Q0573,INT0246,SKILL_046,Walk through how you would implement data pipeline.,medium,technical
+Q0574,INT0251,SKILL_038,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0575,INT0251,SKILL_036,Walk through how you would implement load balancing.,easy,technical
+Q0576,INT0251,SKILL_044,How would you design a scalable data pipeline solution?,hard,technical
+Q0577,INT0251,SKILL_110,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0578,INT0251,SKILL_038,How do you handle disagreements with team members?,medium,behavioral
+Q0579,INT0252,SKILL_085,Describe your experience with caching in production systems.,expert,technical
+Q0580,INT0252,SKILL_070,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0581,INT0252,SKILL_084,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0582,INT0252,SKILL_083,How would you optimize a slow machine learning query?,easy,problem_solving
+Q0583,INT0253,SKILL_077,Design a system that handles caching at scale.,easy,problem_solving
+Q0584,INT0253,SKILL_083,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0585,INT0253,SKILL_086,What are the trade-offs between database approaches?,medium,technical
+Q0586,INT0253,SKILL_152,What are the trade-offs between API design approaches?,expert,technical
+Q0587,INT0254,SKILL_077,Describe your experience with caching in production systems.,hard,technical
+Q0588,INT0254,SKILL_084,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0589,INT0254,SKILL_077,Describe your experience with load balancing in production systems.,hard,technical
+Q0590,INT0255,SKILL_096,What are the trade-offs between machine learning approaches?,expert,technical
+Q0591,INT0255,SKILL_071,Walk through how you would implement message queue.,expert,technical
+Q0592,INT0255,SKILL_097,How would you design a scalable load balancing solution?,easy,technical
+Q0593,INT0255,SKILL_091,Walk through how you would implement API design.,medium,technical
+Q0594,INT0255,SKILL_091,Explain the concept of message queue and its applications.,hard,technical
+Q0595,INT0256,SKILL_094,Walk through how you would implement CI/CD.,hard,technical
+Q0596,INT0256,SKILL_093,Walk through how you would implement caching.,medium,technical
+Q0597,INT0256,SKILL_092,How would you design a scalable search indexing solution?,easy,technical
+Q0598,INT0257,SKILL_091,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0599,INT0257,SKILL_097,Explain the concept of microservices and its applications.,expert,technical
+Q0600,INT0257,SKILL_096,How would you design a scalable search indexing solution?,expert,technical
+Q0601,INT0257,SKILL_071,Describe your experience with load balancing in production systems.,easy,technical
+Q0602,INT0257,SKILL_091,What are the trade-offs between cloud architecture approaches?,expert,technical
+Q0603,INT0258,SKILL_070,What approach would you take to debug a load balancing issue?,hard,problem_solving
+Q0604,INT0258,SKILL_070,Design a system that handles microservices at scale.,hard,problem_solving
+Q0605,INT0258,SKILL_079,Walk through how you would implement authentication.,hard,technical
+Q0606,INT0258,SKILL_115,How do you handle disagreements with team members?,expert,behavioral
+Q0607,INT0258,SKILL_153,How would you design a scalable load balancing solution?,easy,technical
+Q0608,INT0260,SKILL_071,How would you design a scalable caching solution?,easy,technical
+Q0609,INT0260,SKILL_152,What approach would you take to debug a data pipeline issue?,medium,problem_solving
+Q0610,INT0260,SKILL_067,Walk through how you would implement CI/CD.,easy,technical
+Q0611,INT0260,SKILL_079,Design a system that handles CI/CD at scale.,medium,problem_solving
+Q0612,INT0260,SKILL_115,How would you design a scalable message queue solution?,hard,technical
+Q0613,INT0262,SKILL_070,How would you optimize a slow search indexing query?,expert,problem_solving
+Q0614,INT0262,SKILL_152,What are the trade-offs between search indexing approaches?,hard,technical
+Q0615,INT0262,SKILL_079,How do you handle disagreements with team members?,easy,behavioral
+Q0616,INT0262,SKILL_153,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0617,INT0263,SKILL_084,Explain the concept of caching and its applications.,easy,technical
+Q0618,INT0263,SKILL_083,Design a system that handles machine learning at scale.,hard,problem_solving
+Q0619,INT0263,SKILL_153,Design a system that handles caching at scale.,easy,problem_solving
+Q0620,INT0263,SKILL_153,What are the trade-offs between data pipeline approaches?,easy,technical
+Q0621,INT0263,SKILL_070,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0622,INT0264,SKILL_085,Describe your experience with message queue in production systems.,easy,technical
+Q0623,INT0264,SKILL_071,Describe your experience with data pipeline in production systems.,medium,technical
+Q0624,INT0264,SKILL_152,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0625,INT0264,SKILL_084,How would you design a scalable data pipeline solution?,hard,technical
+Q0626,INT0264,SKILL_070,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0627,INT0265,SKILL_038,How would you design a scalable database solution?,medium,technical
+Q0628,INT0265,SKILL_111,What are the trade-offs between search indexing approaches?,expert,technical
+Q0629,INT0265,SKILL_042,Explain the concept of CI/CD and its applications.,hard,technical
+Q0630,INT0265,SKILL_111,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0631,INT0266,SKILL_111,What approach would you take to debug a database issue?,expert,problem_solving
+Q0632,INT0266,SKILL_036,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0633,INT0266,SKILL_128,Design a system that handles CI/CD at scale.,hard,problem_solving
+Q0634,INT0266,SKILL_133,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0635,INT0266,SKILL_041,How do you handle disagreements with team members?,medium,behavioral
+Q0636,INT0267,SKILL_110,What are the trade-offs between authentication approaches?,expert,technical
+Q0637,INT0267,SKILL_133,Describe your experience with API design in production systems.,expert,technical
+Q0638,INT0267,SKILL_037,Describe your experience with CI/CD in production systems.,hard,technical
+Q0639,INT0267,SKILL_128,Walk through how you would implement message queue.,medium,technical
+Q0640,INT0267,SKILL_042,Describe your experience with search indexing in production systems.,expert,technical
+Q0641,INT0268,SKILL_038,Explain the concept of machine learning and its applications.,medium,technical
+Q0642,INT0268,SKILL_110,Explain the concept of microservices and its applications.,easy,technical
+Q0643,INT0268,SKILL_042,Design a system that handles API design at scale.,expert,problem_solving
+Q0644,INT0268,SKILL_109,How would you design a scalable CI/CD solution?,hard,technical
+Q0645,INT0268,SKILL_127,How do you handle disagreements with team members?,hard,behavioral
+Q0646,INT0269,SKILL_037,Design a system that handles microservices at scale.,hard,problem_solving
+Q0647,INT0269,SKILL_040,Describe your experience with microservices in production systems.,easy,technical
+Q0648,INT0269,SKILL_042,How would you optimize a slow load balancing query?,hard,problem_solving
+Q0649,INT0270,SKILL_083,What approach would you take to debug a authentication issue?,medium,problem_solving
+Q0650,INT0270,SKILL_155,Walk through how you would implement message queue.,easy,technical
+Q0651,INT0270,SKILL_155,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0652,INT0270,SKILL_070,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0653,INT0270,SKILL_137,What approach would you take to debug a authentication issue?,hard,problem_solving
+Q0654,INT0271,SKILL_083,Explain the concept of CI/CD and its applications.,easy,technical
+Q0655,INT0271,SKILL_087,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0656,INT0271,SKILL_136,Walk through how you would implement data pipeline.,hard,technical
+Q0657,INT0272,SKILL_090,How would you optimize a slow cloud architecture query?,expert,problem_solving
+Q0658,INT0272,SKILL_090,How would you design a scalable machine learning solution?,medium,technical
+Q0659,INT0272,SKILL_137,What approach would you take to debug a authentication issue?,medium,problem_solving
+Q0660,INT0272,SKILL_088,How would you design a scalable authentication solution?,expert,technical
+Q0661,INT0273,SKILL_041,Design a system that handles API design at scale.,hard,problem_solving
+Q0662,INT0273,SKILL_133,What are the trade-offs between database approaches?,medium,technical
+Q0663,INT0273,SKILL_111,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0664,INT0273,SKILL_043,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0665,INT0276,SKILL_122,Explain the concept of database and its applications.,easy,technical
+Q0666,INT0276,SKILL_120,Explain the concept of machine learning and its applications.,expert,technical
+Q0667,INT0276,SKILL_003,How would you design a scalable caching solution?,expert,technical
+Q0668,INT0276,SKILL_123,Walk through how you would implement caching.,easy,technical
+Q0669,INT0277,SKILL_100,How would you optimize a slow cloud architecture query?,medium,problem_solving
+Q0670,INT0277,SKILL_027,How would you optimize a slow search indexing query?,medium,problem_solving
+Q0671,INT0277,SKILL_003,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0672,INT0277,SKILL_123,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0673,INT0277,SKILL_122,What are the trade-offs between message queue approaches?,expert,technical
+Q0674,INT0278,SKILL_075,Walk through how you would implement API design.,hard,technical
+Q0675,INT0278,SKILL_079,Design a system that handles data pipeline at scale.,expert,problem_solving
+Q0676,INT0278,SKILL_075,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0677,INT0279,SKILL_115,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0678,INT0279,SKILL_152,Explain the concept of machine learning and its applications.,expert,technical
+Q0679,INT0279,SKILL_063,What are the trade-offs between authentication approaches?,expert,technical
+Q0680,INT0279,SKILL_071,Describe your experience with data pipeline in production systems.,medium,technical
+Q0681,INT0280,SKILL_092,Design a system that handles database at scale.,medium,problem_solving
+Q0682,INT0280,SKILL_072,How do you handle disagreements with team members?,hard,behavioral
+Q0683,INT0280,SKILL_097,How would you design a scalable authentication solution?,medium,technical
+Q0684,INT0281,SKILL_042,What are the trade-offs between CI/CD approaches?,expert,technical
+Q0685,INT0281,SKILL_040,Walk through how you would implement authentication.,easy,technical
+Q0686,INT0281,SKILL_043,Describe your experience with authentication in production systems.,hard,technical
+Q0687,INT0282,SKILL_042,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0688,INT0282,SKILL_037,How would you optimize a slow caching query?,hard,problem_solving
+Q0689,INT0282,SKILL_109,How would you design a scalable search indexing solution?,medium,technical
+Q0690,INT0283,SKILL_038,What are the trade-offs between authentication approaches?,expert,technical
+Q0691,INT0283,SKILL_036,Design a system that handles cloud architecture at scale.,hard,problem_solving
+Q0692,INT0283,SKILL_044,What are the trade-offs between caching approaches?,hard,technical
+Q0693,INT0283,SKILL_040,What are the trade-offs between CI/CD approaches?,easy,technical
+Q0694,INT0283,SKILL_038,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0695,INT0284,SKILL_091,What approach would you take to debug a search indexing issue?,easy,problem_solving
+Q0696,INT0284,SKILL_153,Explain the concept of database and its applications.,medium,technical
+Q0697,INT0284,SKILL_095,Design a system that handles load balancing at scale.,expert,problem_solving
+Q0698,INT0284,SKILL_096,Walk through how you would implement cloud architecture.,easy,technical
+Q0699,INT0285,SKILL_090,How would you optimize a slow machine learning query?,hard,problem_solving
+Q0700,INT0285,SKILL_089,Describe your experience with machine learning in production systems.,medium,technical
+Q0701,INT0285,SKILL_087,Describe your experience with message queue in production systems.,easy,technical
+Q0702,INT0285,SKILL_090,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0703,INT0286,SKILL_063,How would you optimize a slow CI/CD query?,medium,problem_solving
+Q0704,INT0286,SKILL_068,What are the trade-offs between database approaches?,easy,technical
+Q0705,INT0286,SKILL_027,How would you optimize a slow database query?,easy,problem_solving
+Q0706,INT0290,SKILL_097,How would you optimize a slow load balancing query?,medium,problem_solving
+Q0707,INT0290,SKILL_072,Describe your experience with microservices in production systems.,easy,technical
+Q0708,INT0290,SKILL_070,Design a system that handles CI/CD at scale.,expert,problem_solving
+Q0709,INT0291,SKILL_076,What approach would you take to debug a microservices issue?,easy,problem_solving
+Q0710,INT0291,SKILL_083,What approach would you take to debug a load balancing issue?,easy,problem_solving
+Q0711,INT0291,SKILL_069,Walk through how you would implement authentication.,easy,technical
+Q0712,INT0293,SKILL_108,Explain the concept of database and its applications.,easy,technical
+Q0713,INT0293,SKILL_073,What are the trade-offs between authentication approaches?,easy,technical
+Q0714,INT0293,SKILL_063,Design a system that handles message queue at scale.,easy,problem_solving
+Q0715,INT0293,SKILL_108,Describe your experience with microservices in production systems.,expert,technical
+Q0716,INT0294,SKILL_109,What are the trade-offs between database approaches?,expert,technical
+Q0717,INT0294,SKILL_111,How would you design a scalable authentication solution?,easy,technical
+Q0718,INT0294,SKILL_150,How would you optimize a slow machine learning query?,expert,problem_solving
+Q0719,INT0294,SKILL_061,Tell me about a time you failed and what you learned.,medium,behavioral
+Q0720,INT0294,SKILL_150,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0721,INT0295,SKILL_059,How would you design a scalable load balancing solution?,hard,technical
+Q0722,INT0295,SKILL_111,What are the trade-offs between load balancing approaches?,hard,technical
+Q0723,INT0295,SKILL_111,What approach would you take to debug a data pipeline issue?,easy,problem_solving
+Q0724,INT0297,SKILL_153,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0725,INT0297,SKILL_070,Describe your experience with data pipeline in production systems.,easy,technical
+Q0726,INT0297,SKILL_072,Walk through how you would implement database.,expert,technical
+Q0727,INT0297,SKILL_115,Describe your experience with API design in production systems.,easy,technical
+Q0728,INT0299,SKILL_153,How would you optimize a slow database query?,easy,problem_solving
+Q0729,INT0299,SKILL_071,What are the trade-offs between machine learning approaches?,easy,technical
+Q0730,INT0299,SKILL_063,How would you design a scalable machine learning solution?,easy,technical
+Q0731,INT0299,SKILL_071,Design a system that handles caching at scale.,easy,problem_solving
+Q0732,INT0300,SKILL_083,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0733,INT0300,SKILL_152,How do you handle disagreements with team members?,expert,behavioral
+Q0734,INT0300,SKILL_049,Design a system that handles cloud architecture at scale.,easy,problem_solving
+Q0735,INT0300,SKILL_152,How would you optimize a slow CI/CD query?,hard,problem_solving
+Q0736,INT0300,SKILL_076,What are the trade-offs between machine learning approaches?,medium,technical
+Q0737,INT0302,SKILL_076,How do you handle disagreements with team members?,expert,behavioral
+Q0738,INT0302,SKILL_049,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0739,INT0302,SKILL_108,How do you handle disagreements with team members?,hard,behavioral
+Q0740,INT0304,SKILL_038,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0741,INT0304,SKILL_128,Design a system that handles CI/CD at scale.,expert,problem_solving
+Q0742,INT0304,SKILL_110,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0743,INT0304,SKILL_127,Tell me about a time you failed and what you learned.,easy,behavioral
+Q0744,INT0304,SKILL_044,Walk through how you would implement CI/CD.,expert,technical
+Q0745,INT0305,SKILL_003,What are the trade-offs between database approaches?,easy,technical
+Q0746,INT0305,SKILL_100,Explain the concept of API design and its applications.,expert,technical
+Q0747,INT0305,SKILL_068,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0748,INT0306,SKILL_122,Design a system that handles caching at scale.,easy,problem_solving
+Q0749,INT0306,SKILL_063,Walk through how you would implement data pipeline.,medium,technical
+Q0750,INT0306,SKILL_001,Design a system that handles microservices at scale.,hard,problem_solving
+Q0751,INT0306,SKILL_027,What are the trade-offs between load balancing approaches?,expert,technical
+Q0752,INT0306,SKILL_063,How do you handle disagreements with team members?,hard,behavioral
+Q0753,INT0308,SKILL_077,How would you design a scalable microservices solution?,easy,technical
+Q0754,INT0308,SKILL_083,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0755,INT0308,SKILL_086,Describe your experience with caching in production systems.,hard,technical
+Q0756,INT0308,SKILL_153,Design a system that handles database at scale.,hard,problem_solving
+Q0757,INT0308,SKILL_152,Walk through how you would implement CI/CD.,easy,technical
+Q0758,INT0309,SKILL_088,How do you handle disagreements with team members?,easy,behavioral
+Q0759,INT0309,SKILL_137,Explain the concept of load balancing and its applications.,expert,technical
+Q0760,INT0309,SKILL_087,Describe your experience with cloud architecture in production systems.,easy,technical
+Q0761,INT0309,SKILL_070,What approach would you take to debug a cloud architecture issue?,easy,problem_solving
+Q0762,INT0309,SKILL_137,Walk through how you would implement CI/CD.,medium,technical
+Q0763,INT0310,SKILL_083,Describe your experience with machine learning in production systems.,easy,technical
+Q0764,INT0310,SKILL_069,Explain the concept of message queue and its applications.,easy,technical
+Q0765,INT0310,SKILL_088,Walk through how you would implement microservices.,expert,technical
+Q0766,INT0312,SKILL_155,How would you optimize a slow CI/CD query?,easy,problem_solving
+Q0767,INT0312,SKILL_045,How do you handle disagreements with team members?,medium,behavioral
+Q0768,INT0312,SKILL_049,How would you optimize a slow load balancing query?,expert,problem_solving
+Q0769,INT0312,SKILL_050,What approach would you take to debug a database issue?,hard,problem_solving
+Q0770,INT0312,SKILL_135,Describe your experience with CI/CD in production systems.,easy,technical
+Q0771,INT0313,SKILL_050,Walk through how you would implement load balancing.,expert,technical
+Q0772,INT0313,SKILL_046,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0773,INT0313,SKILL_055,What approach would you take to debug a machine learning issue?,medium,problem_solving
+Q0774,INT0313,SKILL_027,Walk through how you would implement microservices.,hard,technical
+Q0775,INT0313,SKILL_051,What approach would you take to debug a CI/CD issue?,hard,problem_solving
+Q0776,INT0314,SKILL_060,Describe your experience with database in production systems.,hard,technical
+Q0777,INT0314,SKILL_060,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0778,INT0314,SKILL_059,Explain the concept of API design and its applications.,easy,technical
+Q0779,INT0315,SKILL_040,How would you optimize a slow database query?,easy,problem_solving
+Q0780,INT0315,SKILL_038,How would you design a scalable authentication solution?,expert,technical
+Q0781,INT0315,SKILL_039,How do you handle disagreements with team members?,hard,behavioral
+Q0782,INT0315,SKILL_039,How would you optimize a slow database query?,expert,problem_solving
+Q0783,INT0316,SKILL_040,Describe your experience with API design in production systems.,expert,technical
+Q0784,INT0316,SKILL_110,Explain the concept of data pipeline and its applications.,hard,technical
+Q0785,INT0316,SKILL_133,Explain the concept of search indexing and its applications.,expert,technical
+Q0786,INT0318,SKILL_072,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0787,INT0318,SKILL_075,Describe your experience with machine learning in production systems.,easy,technical
+Q0788,INT0318,SKILL_072,Explain the concept of data pipeline and its applications.,hard,technical
+Q0789,INT0318,SKILL_152,Explain the concept of search indexing and its applications.,easy,technical
+Q0790,INT0318,SKILL_072,Walk through how you would implement caching.,easy,technical
+Q0791,INT0319,SKILL_067,What are the trade-offs between message queue approaches?,expert,technical
+Q0792,INT0319,SKILL_115,Walk through how you would implement authentication.,hard,technical
+Q0793,INT0319,SKILL_070,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0794,INT0319,SKILL_067,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0795,INT0319,SKILL_072,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0796,INT0320,SKILL_075,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0797,INT0320,SKILL_070,Explain the concept of database and its applications.,medium,technical
+Q0798,INT0320,SKILL_079,Describe your experience with data pipeline in production systems.,medium,technical
+Q0799,INT0320,SKILL_153,How would you design a scalable cloud architecture solution?,hard,technical
+Q0800,INT0320,SKILL_079,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0801,INT0321,SKILL_069,Walk through how you would implement database.,hard,technical
+Q0802,INT0321,SKILL_069,Walk through how you would implement search indexing.,expert,technical
+Q0803,INT0321,SKILL_069,Describe your experience with CI/CD in production systems.,expert,technical
+Q0804,INT0321,SKILL_087,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0805,INT0321,SKILL_137,How do you handle disagreements with team members?,medium,behavioral
+Q0806,INT0322,SKILL_136,How would you design a scalable database solution?,expert,technical
+Q0807,INT0322,SKILL_155,How would you optimize a slow caching query?,medium,problem_solving
+Q0808,INT0322,SKILL_070,Explain the concept of database and its applications.,hard,technical
+Q0809,INT0323,SKILL_137,How would you optimize a slow database query?,hard,problem_solving
+Q0810,INT0323,SKILL_087,Describe your experience with cloud architecture in production systems.,hard,technical
+Q0811,INT0323,SKILL_137,Walk through how you would implement load balancing.,medium,technical
+Q0812,INT0323,SKILL_136,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0813,INT0323,SKILL_088,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0814,INT0325,SKILL_152,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0815,INT0325,SKILL_063,How do you handle disagreements with team members?,medium,behavioral
+Q0816,INT0325,SKILL_153,Explain the concept of data pipeline and its applications.,medium,technical
+Q0817,INT0325,SKILL_075,How do you handle disagreements with team members?,expert,behavioral
+Q0818,INT0326,SKILL_115,What are the trade-offs between load balancing approaches?,expert,technical
+Q0819,INT0326,SKILL_072,Explain the concept of microservices and its applications.,easy,technical
+Q0820,INT0326,SKILL_071,Walk through how you would implement cloud architecture.,hard,technical
+Q0821,INT0327,SKILL_094,Design a system that handles microservices at scale.,easy,problem_solving
+Q0822,INT0327,SKILL_092,What approach would you take to debug a cloud architecture issue?,hard,problem_solving
+Q0823,INT0327,SKILL_153,What are the trade-offs between cloud architecture approaches?,expert,technical
+Q0824,INT0327,SKILL_096,Design a system that handles message queue at scale.,medium,problem_solving
+Q0825,INT0329,SKILL_085,Describe your experience with data pipeline in production systems.,easy,technical
+Q0826,INT0329,SKILL_073,Describe your experience with authentication in production systems.,easy,technical
+Q0827,INT0329,SKILL_086,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0828,INT0329,SKILL_075,Explain the concept of data pipeline and its applications.,hard,technical
+Q0829,INT0329,SKILL_077,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0830,INT0330,SKILL_073,How do you handle disagreements with team members?,medium,behavioral
+Q0831,INT0330,SKILL_077,What are the trade-offs between caching approaches?,medium,technical
+Q0832,INT0330,SKILL_077,How do you handle disagreements with team members?,easy,behavioral
+Q0833,INT0330,SKILL_076,What approach would you take to debug a CI/CD issue?,easy,problem_solving
+Q0834,INT0330,SKILL_076,How would you optimize a slow API design query?,hard,problem_solving
+Q0835,INT0331,SKILL_075,How would you design a scalable microservices solution?,hard,technical
+Q0836,INT0331,SKILL_070,What approach would you take to debug a message queue issue?,medium,problem_solving
+Q0837,INT0331,SKILL_144,What are the trade-offs between data pipeline approaches?,easy,technical
+Q0838,INT0331,SKILL_083,Walk through how you would implement database.,hard,technical
+Q0839,INT0332,SKILL_148,What approach would you take to debug a API design issue?,medium,problem_solving
+Q0840,INT0332,SKILL_085,What are the trade-offs between microservices approaches?,medium,technical
+Q0841,INT0332,SKILL_145,What are the trade-offs between message queue approaches?,easy,technical
+Q0842,INT0332,SKILL_073,How do you handle disagreements with team members?,medium,behavioral
+Q0843,INT0333,SKILL_070,Describe your experience with CI/CD in production systems.,medium,technical
+Q0844,INT0333,SKILL_108,What are the trade-offs between cloud architecture approaches?,easy,technical
+Q0845,INT0333,SKILL_137,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0846,INT0333,SKILL_049,What approach would you take to debug a database issue?,easy,problem_solving
+Q0847,INT0335,SKILL_067,How do you handle disagreements with team members?,hard,behavioral
+Q0848,INT0335,SKILL_063,Explain the concept of data pipeline and its applications.,hard,technical
+Q0849,INT0335,SKILL_072,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0850,INT0336,SKILL_071,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0851,INT0336,SKILL_079,Design a system that handles message queue at scale.,hard,problem_solving
+Q0852,INT0336,SKILL_075,What approach would you take to debug a search indexing issue?,expert,problem_solving
+Q0853,INT0336,SKILL_152,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0854,INT0336,SKILL_070,How do you handle disagreements with team members?,easy,behavioral
+Q0855,INT0337,SKILL_062,Describe your experience with microservices in production systems.,hard,technical
+Q0856,INT0337,SKILL_109,What are the trade-offs between caching approaches?,hard,technical
+Q0857,INT0337,SKILL_001,Walk through how you would implement database.,medium,technical
+Q0858,INT0338,SKILL_109,Explain the concept of cloud architecture and its applications.,hard,technical
+Q0859,INT0338,SKILL_058,Describe your experience with API design in production systems.,hard,technical
+Q0860,INT0338,SKILL_111,How would you design a scalable authentication solution?,easy,technical
+Q0861,INT0338,SKILL_109,Walk through how you would implement API design.,expert,technical
+Q0862,INT0339,SKILL_119,Describe your experience with search indexing in production systems.,hard,technical
+Q0863,INT0339,SKILL_068,How do you prioritize tasks when dealing with multiple deadlines?,easy,behavioral
+Q0864,INT0339,SKILL_027,Walk through how you would implement machine learning.,hard,technical
+Q0865,INT0340,SKILL_001,Design a system that handles authentication at scale.,expert,problem_solving
+Q0866,INT0340,SKILL_119,Walk through how you would implement authentication.,easy,technical
+Q0867,INT0340,SKILL_001,How would you optimize a slow microservices query?,expert,problem_solving
+Q0868,INT0340,SKILL_063,Walk through how you would implement machine learning.,medium,technical
+Q0869,INT0341,SKILL_062,Describe your experience with microservices in production systems.,expert,technical
+Q0870,INT0341,SKILL_060,How do you handle disagreements with team members?,medium,behavioral
+Q0871,INT0341,SKILL_150,How do you prioritize tasks when dealing with multiple deadlines?,expert,behavioral
+Q0872,INT0343,SKILL_070,How do you handle disagreements with team members?,medium,behavioral
+Q0873,INT0343,SKILL_097,Design a system that handles API design at scale.,hard,problem_solving
+Q0874,INT0343,SKILL_153,What approach would you take to debug a message queue issue?,hard,problem_solving
+Q0875,INT0343,SKILL_091,What are the trade-offs between cloud architecture approaches?,easy,technical
+Q0876,INT0343,SKILL_095,How do you handle disagreements with team members?,expert,behavioral
+Q0877,INT0346,SKILL_097,How would you design a scalable load balancing solution?,easy,technical
+Q0878,INT0346,SKILL_093,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0879,INT0346,SKILL_094,What are the trade-offs between message queue approaches?,hard,technical
+Q0880,INT0347,SKILL_095,How do you handle disagreements with team members?,medium,behavioral
+Q0881,INT0347,SKILL_092,How would you optimize a slow caching query?,expert,problem_solving
+Q0882,INT0347,SKILL_091,Describe your experience with authentication in production systems.,expert,technical
+Q0883,INT0347,SKILL_096,How do you handle disagreements with team members?,medium,behavioral
+Q0884,INT0347,SKILL_096,What approach would you take to debug a API design issue?,hard,problem_solving
+Q0885,INT0350,SKILL_070,How would you design a scalable cloud architecture solution?,expert,technical
+Q0886,INT0350,SKILL_144,Explain the concept of database and its applications.,medium,technical
+Q0887,INT0350,SKILL_147,Describe a challenging project you worked on and how you handled it.,medium,behavioral
+Q0888,INT0350,SKILL_148,Explain the concept of data pipeline and its applications.,easy,technical
+Q0889,INT0351,SKILL_148,How do you handle disagreements with team members?,hard,behavioral
+Q0890,INT0351,SKILL_073,How would you optimize a slow caching query?,expert,problem_solving
+Q0891,INT0351,SKILL_148,Describe a challenging project you worked on and how you handled it.,expert,behavioral
+Q0892,INT0353,SKILL_153,Design a system that handles cloud architecture at scale.,hard,problem_solving
+Q0893,INT0353,SKILL_079,What approach would you take to debug a authentication issue?,expert,problem_solving
+Q0894,INT0353,SKILL_115,Describe your experience with cloud architecture in production systems.,hard,technical
+Q0895,INT0353,SKILL_072,How would you design a scalable authentication solution?,hard,technical
+Q0896,INT0356,SKILL_070,How would you design a scalable authentication solution?,medium,technical
+Q0897,INT0356,SKILL_089,Explain the concept of machine learning and its applications.,medium,technical
+Q0898,INT0356,SKILL_087,How would you design a scalable API design solution?,medium,technical
+Q0899,INT0362,SKILL_079,How would you design a scalable authentication solution?,hard,technical
+Q0900,INT0362,SKILL_152,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0901,INT0362,SKILL_152,What are the trade-offs between machine learning approaches?,hard,technical
+Q0902,INT0362,SKILL_152,How would you design a scalable CI/CD solution?,medium,technical
+Q0903,INT0362,SKILL_063,How do you handle disagreements with team members?,medium,behavioral
+Q0904,INT0363,SKILL_115,How would you design a scalable machine learning solution?,expert,technical
+Q0905,INT0363,SKILL_071,Tell me about a time you failed and what you learned.,expert,behavioral
+Q0906,INT0363,SKILL_115,What approach would you take to debug a message queue issue?,hard,problem_solving
+Q0907,INT0363,SKILL_072,What are the trade-offs between microservices approaches?,easy,technical
+Q0908,INT0364,SKILL_063,Walk through how you would implement message queue.,hard,technical
+Q0909,INT0364,SKILL_072,How do you prioritize tasks when dealing with multiple deadlines?,hard,behavioral
+Q0910,INT0364,SKILL_067,How would you design a scalable message queue solution?,medium,technical
+Q0911,INT0365,SKILL_079,How would you design a scalable machine learning solution?,hard,technical
+Q0912,INT0365,SKILL_079,Design a system that handles database at scale.,medium,problem_solving
+Q0913,INT0365,SKILL_152,How do you handle disagreements with team members?,medium,behavioral
+Q0914,INT0365,SKILL_115,How would you design a scalable message queue solution?,easy,technical
+Q0915,INT0369,SKILL_071,Describe a challenging project you worked on and how you handled it.,hard,behavioral
+Q0916,INT0369,SKILL_153,Describe a challenging project you worked on and how you handled it.,easy,behavioral
+Q0917,INT0369,SKILL_092,Describe your experience with authentication in production systems.,expert,technical
+Q0918,INT0369,SKILL_093,What approach would you take to debug a data pipeline issue?,expert,problem_solving
+Q0919,INT0370,SKILL_086,Explain the concept of CI/CD and its applications.,medium,technical
+Q0920,INT0370,SKILL_086,Design a system that handles database at scale.,hard,problem_solving
+Q0921,INT0370,SKILL_085,How would you optimize a slow caching query?,hard,problem_solving
+Q0922,INT0370,SKILL_075,Design a system that handles microservices at scale.,hard,problem_solving
+Q0923,INT0372,SKILL_148,How would you optimize a slow load balancing query?,hard,problem_solving
+Q0924,INT0372,SKILL_145,What are the trade-offs between message queue approaches?,hard,technical
+Q0925,INT0372,SKILL_145,Tell me about a time you failed and what you learned.,hard,behavioral
+Q0926,INT0372,SKILL_146,How would you optimize a slow CI/CD query?,expert,problem_solving
+Q0927,INT0372,SKILL_148,Describe your experience with search indexing in production systems.,expert,technical
+Q0928,INT0374,SKILL_089,What approach would you take to debug a machine learning issue?,hard,problem_solving
+Q0929,INT0374,SKILL_069,How do you prioritize tasks when dealing with multiple deadlines?,medium,behavioral
+Q0930,INT0374,SKILL_088,Walk through how you would implement caching.,expert,technical
